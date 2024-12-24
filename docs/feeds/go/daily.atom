@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily/a.xml</id>
+  <title>aaa</title>
+  <updated>2024-12-24T23:06:34.980744+00:00</updated>
+  <link href="https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily/a.xml" rel="self"/>
+  <link href="https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>/gin-gonic/gin</id>
+    <title>gin-gonic/gin</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/gin-gonic/gin"/>
+  </entry>
+  <entry>
+    <id>/kgretzky/evilginx2</id>
+    <title>kgretzky/evilginx2</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/kgretzky/evilginx2"/>
+  </entry>
+  <entry>
+    <id>/vektra/mockery</id>
+    <title>vektra/mockery</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/vektra/mockery"/>
+  </entry>
+  <entry>
+    <id>/prometheus/node_exporter</id>
+    <title>prometheus/node_exporter</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/prometheus/node_exporter"/>
+  </entry>
+  <entry>
+    <id>/moonD4rk/HackBrowserData</id>
+    <title>moonD4rk/HackBrowserData</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/moonD4rk/HackBrowserData"/>
+  </entry>
+  <entry>
+    <id>/shadow1ng/fscan</id>
+    <title>shadow1ng/fscan</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/shadow1ng/fscan"/>
+  </entry>
+  <entry>
+    <id>/gogs/gogs</id>
+    <title>gogs/gogs</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/gogs/gogs"/>
+  </entry>
+  <entry>
+    <id>/navidrome/navidrome</id>
+    <title>navidrome/navidrome</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/navidrome/navidrome"/>
+  </entry>
+  <entry>
+    <id>/avelino/awesome-go</id>
+    <title>avelino/awesome-go</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/avelino/awesome-go"/>
+  </entry>
+  <entry>
+    <id>/alecthomas/kong</id>
+    <title>alecthomas/kong</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/alecthomas/kong"/>
+  </entry>
+  <entry>
+    <id>/vitessio/vitess</id>
+    <title>vitessio/vitess</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/vitessio/vitess"/>
+  </entry>
+  <entry>
+    <id>/gonum/gonum</id>
+    <title>gonum/gonum</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/gonum/gonum"/>
+  </entry>
+  <entry>
+    <id>/tmc/langchaingo</id>
+    <title>tmc/langchaingo</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/tmc/langchaingo"/>
+  </entry>
+  <entry>
+    <id>/grpc/grpc-go</id>
+    <title>grpc/grpc-go</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/grpc/grpc-go"/>
+  </entry>
+  <entry>
+    <id>/moby/moby</id>
+    <title>moby/moby</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/moby/moby"/>
+  </entry>
+  <entry>
+    <id>/Masterminds/squirrel</id>
+    <title>Masterminds/squirrel</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/Masterminds/squirrel"/>
+  </entry>
+  <entry>
+    <id>/jackc/pgx</id>
+    <title>jackc/pgx</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/jackc/pgx"/>
+  </entry>
+  <entry>
+    <id>/langgenius/dify-sandbox</id>
+    <title>langgenius/dify-sandbox</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/langgenius/dify-sandbox"/>
+  </entry>
+  <entry>
+    <id>/algorand/go-algorand</id>
+    <title>algorand/go-algorand</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/algorand/go-algorand"/>
+  </entry>
+  <entry>
+    <id>/WireGuard/wireguard-go</id>
+    <title>WireGuard/wireguard-go</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/WireGuard/wireguard-go"/>
+  </entry>
+  <entry>
+    <id>/uptrace/bun</id>
+    <title>uptrace/bun</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/uptrace/bun"/>
+  </entry>
+  <entry>
+    <id>/tidwall/gjson</id>
+    <title>tidwall/gjson</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/tidwall/gjson"/>
+  </entry>
+  <entry>
+    <id>/opencontainers/runc</id>
+    <title>opencontainers/runc</title>
+    <updated>2024-12-24T23:06:34.980744+00:00</updated>
+    <link href="/opencontainers/runc"/>
+  </entry>
+</feed>
