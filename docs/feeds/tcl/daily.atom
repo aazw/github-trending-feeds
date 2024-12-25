@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom</id>
+  <title>GitHub Treanding - tcl</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/" rel="alternate" />
+  <updated>2024-12-25T15:56:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Digilent/digilent-xdc</id>
+    <title>https://github.com/Digilent/digilent-xdc</title>
+    <link href="https://github.com/Digilent/digilent-xdc" />
+    <updated>2024-12-25T15:56:44+00:00</updated>
+    <content type="text">A collection of Master XDC files for Digilent FPGA and Zynq boards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BRL-CAD/brlcad</id>
+    <title>https://github.com/BRL-CAD/brlcad</title>
+    <link href="https://github.com/BRL-CAD/brlcad" />
+    <updated>2024-12-25T15:56:44+00:00</updated>
+    <content type="text">BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/macports/macports-ports</id>
+    <title>https://github.com/macports/macports-ports</title>
+    <link href="https://github.com/macports/macports-ports" />
+    <updated>2024-12-25T15:56:44+00:00</updated>
+    <content type="text">The MacPorts ports tree</content>
+  </entry>
+</feed>

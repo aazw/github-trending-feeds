@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/xml/daily.atom</id>
+  <title>GitHub Treanding - xml</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xml/" rel="alternate" />
+  <updated>2024-12-25T15:59:17+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/php/doc-en</id>
+    <title>https://github.com/php/doc-en</title>
+    <link href="https://github.com/php/doc-en" />
+    <updated>2024-12-25T15:59:17+00:00</updated>
+    <content type="text">English PHP documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zotero-chinese/styles</id>
+    <title>https://github.com/zotero-chinese/styles</title>
+    <link href="https://github.com/zotero-chinese/styles" />
+    <updated>2024-12-25T15:59:17+00:00</updated>
+    <content type="text">中文 CSL 样式</content>
+  </entry>
+</feed>

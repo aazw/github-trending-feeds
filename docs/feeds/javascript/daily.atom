@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/javascript/daily.atom</id>
+  <title>GitHub Treanding - javascript</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/javascript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/javascript/" rel="alternate" />
+  <updated>2024-12-25T15:45:52+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tangly1024/NotionNext</id>
+    <title>https://github.com/tangly1024/NotionNext</title>
+    <link href="https://github.com/tangly1024/NotionNext" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mintplex-Labs/anything-llm</id>
+    <title>https://github.com/Mintplex-Labs/anything-llm</title>
+    <link href="https://github.com/Mintplex-Labs/anything-llm" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryanmcdermott/clean-code-javascript</id>
+    <title>https://github.com/ryanmcdermott/clean-code-javascript</title>
+    <link href="https://github.com/ryanmcdermott/clean-code-javascript" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">🛁 Clean Code concepts adapted for JavaScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vernesong/OpenClash</id>
+    <title>https://github.com/vernesong/OpenClash</title>
+    <link href="https://github.com/vernesong/OpenClash" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">A Clash Client For OpenWrt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kolbytn/mindcraft</id>
+    <title>https://github.com/kolbytn/mindcraft</title>
+    <link href="https://github.com/kolbytn/mindcraft" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/LeCoupa/awesome-cheatsheets</id>
+    <title>https://github.com/LeCoupa/awesome-cheatsheets</title>
+    <link href="https://github.com/LeCoupa/awesome-cheatsheets" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scutan90/DeepLearning-500-questions</id>
+    <title>https://github.com/scutan90/DeepLearning-500-questions</title>
+    <link href="https://github.com/scutan90/DeepLearning-500-questions" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vitozyf/lucky-draw</id>
+    <title>https://github.com/vitozyf/lucky-draw</title>
+    <link href="https://github.com/vitozyf/lucky-draw" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">年会抽奖程序</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PanJiaChen/vue-admin-template</id>
+    <title>https://github.com/PanJiaChen/vue-admin-template</title>
+    <link href="https://github.com/PanJiaChen/vue-admin-template" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">a vue2.0 minimal admin template</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brave/brave-browser</id>
+    <title>https://github.com/brave/brave-browser</title>
+    <link href="https://github.com/brave/brave-browser" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">Brave browser for Android, iOS, Linux, macOS, Windows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wangrongding/wechat-bot</id>
+    <title>https://github.com/wangrongding/wechat-bot</title>
+    <link href="https://github.com/wangrongding/wechat-bot" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maboloshi/github-chinese</id>
+    <title>https://github.com/maboloshi/github-chinese</title>
+    <link href="https://github.com/maboloshi/github-chinese" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kleampa/not-paid</id>
+    <title>https://github.com/kleampa/not-paid</title>
+    <link href="https://github.com/kleampa/not-paid" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lyfe00011/whatsapp-bot</id>
+    <title>https://github.com/lyfe00011/whatsapp-bot</title>
+    <link href="https://github.com/lyfe00011/whatsapp-bot" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">A whatsapp bot based on baileys</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WhiskeySockets/Baileys</id>
+    <title>https://github.com/WhiskeySockets/Baileys</title>
+    <link href="https://github.com/WhiskeySockets/Baileys" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">Lightweight full-featured typescript/javascript WhatsApp Web API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meshery/meshery</id>
+    <title>https://github.com/meshery/meshery</title>
+    <link href="https://github.com/meshery/meshery" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">Meshery, the cloud native manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdoob/three.js</id>
+    <title>https://github.com/mrdoob/three.js</title>
+    <link href="https://github.com/mrdoob/three.js" />
+    <updated>2024-12-25T15:45:52+00:00</updated>
+    <content type="text">JavaScript 3D Library.</content>
+  </entry>
+</feed>

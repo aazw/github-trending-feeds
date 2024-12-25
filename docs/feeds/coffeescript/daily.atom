@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom</id>
+  <title>GitHub Treanding - coffeescript</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/" rel="alternate" />
+  <updated>2024-12-25T15:39:52+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/oozcitak/xmlbuilder-js</id>
+    <title>https://github.com/oozcitak/xmlbuilder-js</title>
+    <link href="https://github.com/oozcitak/xmlbuilder-js" />
+    <updated>2024-12-25T15:39:52+00:00</updated>
+    <content type="text">An XML builder for node.js</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adaltas/node-csv</id>
+    <title>https://github.com/adaltas/node-csv</title>
+    <link href="https://github.com/adaltas/node-csv" />
+    <updated>2024-12-25T15:39:52+00:00</updated>
+    <content type="text">Full featured CSV parser with simple api and tested against large datasets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fbsamples/graph-api-webhooks-samples</id>
+    <title>https://github.com/fbsamples/graph-api-webhooks-samples</title>
+    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" />
+    <updated>2024-12-25T15:39:52+00:00</updated>
+    <content type="text">These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dropbox/zxcvbn</id>
+    <title>https://github.com/dropbox/zxcvbn</title>
+    <link href="https://github.com/dropbox/zxcvbn" />
+    <updated>2024-12-25T15:39:52+00:00</updated>
+    <content type="text">Low-Budget Password Strength Estimation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FelisCatus/SwitchyOmega</id>
+    <title>https://github.com/FelisCatus/SwitchyOmega</title>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" />
+    <updated>2024-12-25T15:39:52+00:00</updated>
+    <content type="text">Manage and switch between multiple proxies quickly &amp; easily.</content>
+  </entry>
+</feed>

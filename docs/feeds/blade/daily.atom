@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/blade/daily.atom</id>
+  <title>GitHub Treanding - blade</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/blade/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/blade/" rel="alternate" />
+  <updated>2024-12-25T15:38:14+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/livewire/flux</id>
+    <title>https://github.com/livewire/flux</title>
+    <link href="https://github.com/livewire/flux" />
+    <updated>2024-12-25T15:38:14+00:00</updated>
+    <content type="text">The official Livewire UI component library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lsky-org/lsky-pro</id>
+    <title>https://github.com/lsky-org/lsky-pro</title>
+    <link href="https://github.com/lsky-org/lsky-pro" />
+    <updated>2024-12-25T15:38:14+00:00</updated>
+    <content type="text">☁️兰空图床(Lsky Pro) - Your photo album on the cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krayin/laravel-crm</id>
+    <title>https://github.com/krayin/laravel-crm</title>
+    <link href="https://github.com/krayin/laravel-crm" />
+    <updated>2024-12-25T15:38:14+00:00</updated>
+    <content type="text">Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grocy/grocy</id>
+    <title>https://github.com/grocy/grocy</title>
+    <link href="https://github.com/grocy/grocy" />
+    <updated>2024-12-25T15:38:14+00:00</updated>
+    <content type="text">ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home</content>
+  </entry>
+</feed>

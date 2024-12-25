@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ags-script/daily.atom</id>
+  <title>GitHub Treanding - ags-script</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ags-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ags-script/" rel="alternate" />
+  <updated>2024-12-25T15:36:51+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MapIV/eagleye</id>
+    <title>https://github.com/MapIV/eagleye</title>
+    <link href="https://github.com/MapIV/eagleye" />
+    <updated>2024-12-25T15:36:51+00:00</updated>
+    <content type="text">Precise localization based on GNSS and IMU.</content>
+  </entry>
+</feed>

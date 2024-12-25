@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ren'py/daily.atom</id>
+  <title>GitHub Treanding - ren'py</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ren'py/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ren'py/" rel="alternate" />
+  <updated>2024-12-25T15:53:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/renpy/renpy</id>
+    <title>https://github.com/renpy/renpy</title>
+    <link href="https://github.com/renpy/renpy" />
+    <updated>2024-12-25T15:53:57+00:00</updated>
+    <content type="text">The Ren'Py Visual Novel Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CensoredUsername/unrpyc</id>
+    <title>https://github.com/CensoredUsername/unrpyc</title>
+    <link href="https://github.com/CensoredUsername/unrpyc" />
+    <updated>2024-12-25T15:53:57+00:00</updated>
+    <content type="text">A ren'py script decompiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Monika-After-Story/MonikaModDev</id>
+    <title>https://github.com/Monika-After-Story/MonikaModDev</title>
+    <link href="https://github.com/Monika-After-Story/MonikaModDev" />
+    <updated>2024-12-25T15:53:57+00:00</updated>
+    <content type="text">DDLC fan mod to extend Monika</content>
+  </entry>
+</feed>

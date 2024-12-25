@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mupad/daily.atom</id>
+  <title>GitHub Treanding - mupad</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mupad/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mupad/" rel="alternate" />
+  <updated>2024-12-25T15:49:21+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+</feed>

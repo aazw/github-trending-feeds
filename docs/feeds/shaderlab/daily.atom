@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shaderlab/daily.atom</id>
+  <title>GitHub Treanding - shaderlab</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shaderlab/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shaderlab/" rel="alternate" />
+  <updated>2024-12-25T15:55:08+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/lilxyzw/lilToon</id>
+    <title>https://github.com/lilxyzw/lilToon</title>
+    <link href="https://github.com/lilxyzw/lilToon" />
+    <updated>2024-12-25T15:55:08+00:00</updated>
+    <content type="text">Feature-rich shaders for avatars</content>
+  </entry>
+  <entry>
+    <id>https://github.com/poiyomi/PoiyomiToonShader</id>
+    <title>https://github.com/poiyomi/PoiyomiToonShader</title>
+    <link href="https://github.com/poiyomi/PoiyomiToonShader" />
+    <updated>2024-12-25T15:55:08+00:00</updated>
+    <content type="text">A feature rich toon shader for unity and VR Chat</content>
+  </entry>
+</feed>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Treanding - vim-script</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/" rel="alternate" />
+  <updated>2024-12-25T15:58:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nordtheme/vim</id>
+    <title>https://github.com/nordtheme/vim</title>
+    <link href="https://github.com/nordtheme/vim" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">An arctic, north-bluish clean and elegant Vim theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Yggdroot/indentLine</id>
+    <title>https://github.com/Yggdroot/indentLine</title>
+    <link href="https://github.com/Yggdroot/indentLine" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">A vim plugin to display the indention levels with thin vertical lines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jamessan/vim-gnupg</id>
+    <title>https://github.com/jamessan/vim-gnupg</title>
+    <link href="https://github.com/jamessan/vim-gnupg" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">This script implements transparent editing of gpg encrypted files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/altercation/vim-colors-solarized</id>
+    <title>https://github.com/altercation/vim-colors-solarized</title>
+    <link href="https://github.com/altercation/vim-colors-solarized" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">precision colorscheme for the vim text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-syntastic/syntastic</id>
+    <title>https://github.com/vim-syntastic/syntastic</title>
+    <link href="https://github.com/vim-syntastic/syntastic" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Syntax checking hacks for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rodjek/vim-puppet</id>
+    <title>https://github.com/rodjek/vim-puppet</title>
+    <link href="https://github.com/rodjek/vim-puppet" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Puppet niceties for your Vim setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cohama/lexima.vim</id>
+    <title>https://github.com/cohama/lexima.vim</title>
+    <link href="https://github.com/cohama/lexima.vim" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Auto close parentheses and repeat by dot dot dot...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekalinin/Dockerfile.vim</id>
+    <title>https://github.com/ekalinin/Dockerfile.vim</title>
+    <link href="https://github.com/ekalinin/Dockerfile.vim" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Vim syntax file &amp; snippets for Docker's Dockerfile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derekhe/msfs2020-map-enhancement</id>
+    <title>https://github.com/derekhe/msfs2020-map-enhancement</title>
+    <link href="https://github.com/derekhe/msfs2020-map-enhancement" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">MSFS2020 Map Enhancement</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pangloss/vim-javascript</id>
+    <title>https://github.com/pangloss/vim-javascript</title>
+    <link href="https://github.com/pangloss/vim-javascript" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Vastly improved Javascript indentation and syntax support in Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2024-12-25T15:58:15+00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+</feed>

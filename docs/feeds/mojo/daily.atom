@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mojo/daily.atom</id>
+  <title>GitHub Treanding - mojo</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mojo/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mojo/" rel="alternate" />
+  <updated>2024-12-25T15:48:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/modularml/mojo</id>
+    <title>https://github.com/modularml/mojo</title>
+    <link href="https://github.com/modularml/mojo" />
+    <updated>2024-12-25T15:48:57+00:00</updated>
+    <content type="text">The Mojo Programming Language</content>
+  </entry>
+</feed>

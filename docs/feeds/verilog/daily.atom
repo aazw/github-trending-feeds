@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom</id>
+  <title>GitHub Treanding - verilog</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/" rel="alternate" />
+  <updated>2024-12-25T15:58:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alexforencich/verilog-ethernet</id>
+    <title>https://github.com/alexforencich/verilog-ethernet</title>
+    <link href="https://github.com/alexforencich/verilog-ethernet" />
+    <updated>2024-12-25T15:58:10+00:00</updated>
+    <content type="text">Verilog Ethernet components for FPGA implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EttusResearch/uhd</id>
+    <title>https://github.com/EttusResearch/uhd</title>
+    <link href="https://github.com/EttusResearch/uhd" />
+    <updated>2024-12-25T15:58:10+00:00</updated>
+    <content type="text">The USRP™ Hardware Driver Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/The-OpenROAD-Project/OpenROAD</id>
+    <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
+    <updated>2024-12-25T15:58:10+00:00</updated>
+    <content type="text">OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/analogdevicesinc/hdl</id>
+    <title>https://github.com/analogdevicesinc/hdl</title>
+    <link href="https://github.com/analogdevicesinc/hdl" />
+    <updated>2024-12-25T15:58:10+00:00</updated>
+    <content type="text">HDL libraries and projects</content>
+  </entry>
+</feed>

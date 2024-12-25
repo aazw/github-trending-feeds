@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/f%23/daily.atom</id>
+  <title>GitHub Treanding - f%23</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/f%23/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/f%23/" rel="alternate" />
+  <updated>2024-12-25T15:42:22+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/artempyanykh/marksman</id>
+    <title>https://github.com/artempyanykh/marksman</title>
+    <link href="https://github.com/artempyanykh/marksman" />
+    <updated>2024-12-25T15:42:22+00:00</updated>
+    <content type="text">Write Markdown with code assist and intelligence in the comfort of your favourite editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/fsharp</id>
+    <title>https://github.com/dotnet/fsharp</title>
+    <link href="https://github.com/dotnet/fsharp" />
+    <updated>2024-12-25T15:42:22+00:00</updated>
+    <content type="text">The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio</content>
+  </entry>
+</feed>

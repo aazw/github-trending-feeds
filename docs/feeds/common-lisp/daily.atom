@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom</id>
+  <title>GitHub Treanding - common-lisp</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/" rel="alternate" />
+  <updated>2024-12-25T15:39:59+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dimitri/pgloader</id>
+    <title>https://github.com/dimitri/pgloader</title>
+    <link href="https://github.com/dimitri/pgloader" />
+    <updated>2024-12-25T15:39:59+00:00</updated>
+    <content type="text">Migrate to PostgreSQL in a single command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-goal/jak-project</id>
+    <title>https://github.com/open-goal/jak-project</title>
+    <link href="https://github.com/open-goal/jak-project" />
+    <updated>2024-12-25T15:39:59+00:00</updated>
+    <content type="text">Reviving the language that brought us the Jak &amp; Daxter Series</content>
+  </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/papyrus/daily.atom</id>
+  <title>GitHub Treanding - papyrus</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/papyrus/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/papyrus/" rel="alternate" />
+  <updated>2024-12-25T15:51:34+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/eeveelo/SexLab</id>
+    <title>https://github.com/eeveelo/SexLab</title>
+    <link href="https://github.com/eeveelo/SexLab" />
+    <updated>2024-12-25T15:51:34+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ProbablyManuel/requiem</id>
+    <title>https://github.com/ProbablyManuel/requiem</title>
+    <link href="https://github.com/ProbablyManuel/requiem" />
+    <updated>2024-12-25T15:51:34+00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

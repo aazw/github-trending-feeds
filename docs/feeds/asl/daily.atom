@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom</id>
+  <title>GitHub Treanding - asl</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/" rel="alternate" />
+  <updated>2024-12-25T15:37:24+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dortania/Getting-Started-With-ACPI</id>
+    <title>https://github.com/dortania/Getting-Started-With-ACPI</title>
+    <link href="https://github.com/dortania/Getting-Started-With-ACPI" />
+    <updated>2024-12-25T15:37:24+00:00</updated>
+    <content type="text">Repo for Getting Started With ACPI</content>
+  </entry>
+</feed>

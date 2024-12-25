@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/moonbit/daily.atom</id>
+  <title>GitHub Treanding - moonbit</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/moonbit/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/moonbit/" rel="alternate" />
+  <updated>2024-12-25T15:49:05+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/moonbitlang/core</id>
+    <title>https://github.com/moonbitlang/core</title>
+    <link href="https://github.com/moonbitlang/core" />
+    <updated>2024-12-25T15:49:05+00:00</updated>
+    <content type="text">MoonBit's Core library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moonbitlang/moonbit-docs</id>
+    <title>https://github.com/moonbitlang/moonbit-docs</title>
+    <link href="https://github.com/moonbitlang/moonbit-docs" />
+    <updated>2024-12-25T15:49:05+00:00</updated>
+    <content type="text">The docs of MoonBit programming language</content>
+  </entry>
+</feed>

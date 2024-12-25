@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/objective-c/daily.atom</id>
+  <title>GitHub Treanding - objective-c</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c/" rel="alternate" />
+  <updated>2024-12-25T15:50:39+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pubnub/objective-c</id>
+    <title>https://github.com/pubnub/objective-c</title>
+    <link href="https://github.com/pubnub/objective-c" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">PubNub Objective-C based APIs for iOS and OS X</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BoltsFramework/Bolts-ObjC</id>
+    <title>https://github.com/BoltsFramework/Bolts-ObjC</title>
+    <link href="https://github.com/BoltsFramework/Bolts-ObjC" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Bolts is a collection of low-level libraries designed to make developing mobile apps easier.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Instagram/IGListKit</id>
+    <title>https://github.com/Instagram/IGListKit</title>
+    <link href="https://github.com/Instagram/IGListKit" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">A data-driven UICollectionView framework for building fast and flexible lists.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImageSVGCoder</id>
+    <title>https://github.com/SDWebImage/SDWebImageSVGCoder</title>
+    <link href="https://github.com/SDWebImage/SDWebImageSVGCoder" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">A SVG coder plugin for SDWebImage, using Apple's built-in framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AliSoftware/OHHTTPStubs</id>
+    <title>https://github.com/AliSoftware/OHHTTPStubs</title>
+    <link href="https://github.com/AliSoftware/OHHTTPStubs" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/braze-inc/braze-swift-sdk</id>
+    <title>https://github.com/braze-inc/braze-swift-sdk</title>
+    <link href="https://github.com/braze-inc/braze-swift-sdk" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/promises</id>
+    <title>https://github.com/google/promises</title>
+    <link href="https://github.com/google/promises" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/GoogleUtilities</id>
+    <title>https://github.com/google/GoogleUtilities</title>
+    <link href="https://github.com/google/GoogleUtilities" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/google/gtm-session-fetcher</id>
+    <title>https://github.com/google/gtm-session-fetcher</title>
+    <link href="https://github.com/google/gtm-session-fetcher" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Google Toolbox for Mac - Session Fetcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicklockwood/FXPageControl</id>
+    <title>https://github.com/nicklockwood/FXPageControl</title>
+    <link href="https://github.com/nicklockwood/FXPageControl" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Simple, drop-in replacement for the iPhone UIPageControl that allows customisation of the dot colour, size and spacing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/react-native-voice/voice</id>
+    <title>https://github.com/react-native-voice/voice</title>
+    <link href="https://github.com/react-native-voice/voice" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">🎤 React Native Voice Recognition library for iOS and Android (Online and Offline Support)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/react-native-maps/react-native-maps</id>
+    <title>https://github.com/react-native-maps/react-native-maps</title>
+    <link href="https://github.com/react-native-maps/react-native-maps" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">React Native Mapview component for iOS + Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adjust/ios_sdk</id>
+    <title>https://github.com/adjust/ios_sdk</title>
+    <link href="https://github.com/adjust/ios_sdk" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">This is the iOS SDK of</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImage</id>
+    <title>https://github.com/SDWebImage/SDWebImage</title>
+    <link href="https://github.com/SDWebImage/SDWebImage" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Asynchronous image downloader with cache support as a UIImageView category</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/GoogleSignIn-iOS</id>
+    <title>https://github.com/google/GoogleSignIn-iOS</title>
+    <link href="https://github.com/google/GoogleSignIn-iOS" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Enables iOS and macOS apps to sign in with Google.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/realm/realm-swift</id>
+    <title>https://github.com/realm/realm-swift</title>
+    <link href="https://github.com/realm/realm-swift" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Realm is a mobile database: a replacement for Core Data &amp; SQLite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darlinghq/darling</id>
+    <title>https://github.com/darlinghq/darling</title>
+    <link href="https://github.com/darlinghq/darling" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Darwin/macOS emulation layer for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opa334/TrollStore</id>
+    <title>https://github.com/opa334/TrollStore</title>
+    <link href="https://github.com/opa334/TrollStore" />
+    <updated>2024-12-25T15:50:39+00:00</updated>
+    <content type="text">Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</content>
+  </entry>
+</feed>

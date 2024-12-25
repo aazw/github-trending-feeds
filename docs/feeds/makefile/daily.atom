@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom</id>
+  <title>GitHub Treanding - makefile</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/" rel="alternate" />
+  <updated>2024-12-25T15:47:55+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-cloudflare</id>
+    <title>https://github.com/pulumi/pulumi-cloudflare</title>
+    <link href="https://github.com/pulumi/pulumi-cloudflare" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">Pulumi's Cloudflare package, providing multi-language infrastructure as code for Cloudflare</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-postgresql</id>
+    <title>https://github.com/pulumi/pulumi-postgresql</title>
+    <link href="https://github.com/pulumi/pulumi-postgresql" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">A Postgresql Pulumi resource package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepseek-ai/DeepSeek-LLM</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">DeepSeek LLM: Let there be answers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/guide</id>
+    <title>https://github.com/uber-go/guide</title>
+    <link href="https://github.com/uber-go/guide" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">The Uber Go Style Guide.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foostan/crkbd</id>
+    <title>https://github.com/foostan/crkbd</title>
+    <link href="https://github.com/foostan/crkbd" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/upbound/build</id>
+    <title>https://github.com/upbound/build</title>
+    <link href="https://github.com/upbound/build" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">Upbound build and CI scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teaxyz/white-paper</id>
+    <title>https://github.com/teaxyz/white-paper</title>
+    <link href="https://github.com/teaxyz/white-paper" />
+    <updated>2024-12-25T15:47:55+00:00</updated>
+    <content type="text">how will the protocol work?</content>
+  </entry>
+</feed>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Treanding - fortran</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/" rel="alternate" />
+  <updated>2024-12-25T15:42:49+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cp2k/cp2k</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/aomp</id>
+    <title>https://github.com/ROCm/aomp</title>
+    <link href="https://github.com/ROCm/aomp" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">AOMP is an open source Clang/LLVM based compiler with added support for the OpenMP® API on Radeon™ GPUs. Use this repository for releases, issues, documentation, packaging, and examples.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/fArgParse</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/fArgParse</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/fArgParse" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">Command line argument parsing for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CFMIP/COSPv2.0</id>
+    <title>https://github.com/CFMIP/COSPv2.0</title>
+    <link href="https://github.com/CFMIP/COSPv2.0" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/fckit</id>
+    <title>https://github.com/ecmwf/fckit</title>
+    <link href="https://github.com/ecmwf/fckit" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">A Fortran toolkit for interoperating Fortran with C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MPAS-Dev/MPAS-Model</id>
+    <title>https://github.com/MPAS-Dev/MPAS-Model</title>
+    <link href="https://github.com/MPAS-Dev/MPAS-Model" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">Repository for MPAS models and shared framework releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/hipfort</id>
+    <title>https://github.com/ROCm/hipfort</title>
+    <link href="https://github.com/ROCm/hipfort" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">Fortran interfaces for ROCm libraries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/gFTL</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/gFTL</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/gFTL" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">Software containers for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2024-12-25T15:42:49+00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+</feed>

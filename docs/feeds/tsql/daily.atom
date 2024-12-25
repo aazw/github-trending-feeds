@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tsql/daily.atom</id>
+  <title>GitHub Treanding - tsql</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tsql/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tsql/" rel="alternate" />
+  <updated>2024-12-25T15:57:20+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dr5hn/countries-states-cities-database</id>
+    <title>https://github.com/dr5hn/countries-states-cities-database</title>
+    <link href="https://github.com/dr5hn/countries-states-cities-database" />
+    <updated>2024-12-25T15:57:20+00:00</updated>
+    <content type="text">🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/fhir-server</id>
+    <title>https://github.com/microsoft/fhir-server</title>
+    <link href="https://github.com/microsoft/fhir-server" />
+    <updated>2024-12-25T15:57:20+00:00</updated>
+    <content type="text">A service that implements the FHIR standard</content>
+  </entry>
+</feed>

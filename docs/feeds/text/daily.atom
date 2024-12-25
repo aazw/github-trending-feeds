@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/text/daily.atom</id>
+  <title>GitHub Treanding - text</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/text/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/text/" rel="alternate" />
+  <updated>2024-12-25T15:57:02+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DSPBluePrints/FactoryBluePrints</id>
+    <title>https://github.com/DSPBluePrints/FactoryBluePrints</title>
+    <link href="https://github.com/DSPBluePrints/FactoryBluePrints" />
+    <updated>2024-12-25T15:57:02+00:00</updated>
+    <content type="text">游戏戴森球计划的**工厂**蓝图仓库</content>
+  </entry>
+</feed>

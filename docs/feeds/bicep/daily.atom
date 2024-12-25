@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom</id>
+  <title>GitHub Treanding - bicep</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/" rel="alternate" />
+  <updated>2024-12-25T15:38:03+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</id>
+    <title>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
+    <link href="https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app" />
+    <updated>2024-12-25T15:38:03+00:00</updated>
+    <content type="text">A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/contoso-creative-writer</id>
+    <title>https://github.com/Azure-Samples/contoso-creative-writer</title>
+    <link href="https://github.com/Azure-Samples/contoso-creative-writer" />
+    <updated>2024-12-25T15:38:03+00:00</updated>
+    <content type="text">A creative writing multi-agent solution to help users write articles.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep-registry-modules</id>
+    <title>https://github.com/Azure/bicep-registry-modules</title>
+    <link href="https://github.com/Azure/bicep-registry-modules" />
+    <updated>2024-12-25T15:38:03+00:00</updated>
+    <content type="text">Bicep registry modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-quickstart-templates</id>
+    <title>https://github.com/Azure/azure-quickstart-templates</title>
+    <link href="https://github.com/Azure/azure-quickstart-templates" />
+    <updated>2024-12-25T15:38:03+00:00</updated>
+    <content type="text">Azure Quickstart Templates</content>
+  </entry>
+</feed>

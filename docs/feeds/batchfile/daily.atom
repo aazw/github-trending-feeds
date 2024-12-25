@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/batchfile/daily.atom</id>
+  <title>GitHub Treanding - batchfile</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/batchfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/batchfile/" rel="alternate" />
+  <updated>2024-12-25T15:37:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AveYo/MediaCreationTool.bat</id>
+    <title>https://github.com/AveYo/MediaCreationTool.bat</title>
+    <link href="https://github.com/AveYo/MediaCreationTool.bat" />
+    <updated>2024-12-25T15:37:53+00:00</updated>
+    <content type="text">Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ionuttbara/windows-defender-remover</id>
+    <title>https://github.com/ionuttbara/windows-defender-remover</title>
+    <link href="https://github.com/ionuttbara/windows-defender-remover" />
+    <updated>2024-12-25T15:37:53+00:00</updated>
+    <content type="text">A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis-windows/redis-windows</id>
+    <title>https://github.com/redis-windows/redis-windows</title>
+    <link href="https://github.com/redis-windows/redis-windows" />
+    <updated>2024-12-25T15:37:53+00:00</updated>
+    <content type="text">Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/enhorse/java-interview</id>
+    <title>https://github.com/enhorse/java-interview</title>
+    <link href="https://github.com/enhorse/java-interview" />
+    <updated>2024-12-25T15:37:53+00:00</updated>
+    <content type="text">Вопросы и ответы к интервью Java разработчика</content>
+  </entry>
+</feed>

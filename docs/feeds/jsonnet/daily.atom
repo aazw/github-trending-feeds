@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jsonnet/daily.atom</id>
+  <title>GitHub Treanding - jsonnet</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jsonnet/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jsonnet/" rel="alternate" />
+  <updated>2024-12-25T15:46:20+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/argoproj/argocd-example-apps</id>
+    <title>https://github.com/argoproj/argocd-example-apps</title>
+    <link href="https://github.com/argoproj/argocd-example-apps" />
+    <updated>2024-12-25T15:46:20+00:00</updated>
+    <content type="text">Example Apps to Demonstrate Argo CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/jsonnet-libs</id>
+    <title>https://github.com/grafana/jsonnet-libs</title>
+    <link href="https://github.com/grafana/jsonnet-libs" />
+    <updated>2024-12-25T15:46:20+00:00</updated>
+    <content type="text">Grafana Labs' Jsonnet libraries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus-operator/kube-prometheus</id>
+    <title>https://github.com/prometheus-operator/kube-prometheus</title>
+    <link href="https://github.com/prometheus-operator/kube-prometheus" />
+    <updated>2024-12-25T15:46:20+00:00</updated>
+    <content type="text">Use Prometheus to monitor Kubernetes and applications running on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/jsonnet</id>
+    <title>https://github.com/google/jsonnet</title>
+    <link href="https://github.com/google/jsonnet" />
+    <updated>2024-12-25T15:46:20+00:00</updated>
+    <content type="text">Jsonnet - The data templating language</content>
+  </entry>
+</feed>

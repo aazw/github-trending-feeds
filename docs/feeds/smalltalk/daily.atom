@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom</id>
+  <title>GitHub Treanding - smalltalk</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/" rel="alternate" />
+  <updated>2024-12-25T15:55:31+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/feenkcom/gtoolkit</id>
+    <title>https://github.com/feenkcom/gtoolkit</title>
+    <link href="https://github.com/feenkcom/gtoolkit" />
+    <updated>2024-12-25T15:55:31+00:00</updated>
+    <content type="text">Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeasideSt/Seaside</id>
+    <title>https://github.com/SeasideSt/Seaside</title>
+    <link href="https://github.com/SeasideSt/Seaside" />
+    <updated>2024-12-25T15:55:31+00:00</updated>
+    <content type="text">The framework for developing sophisticated web applications in Smalltalk.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-contributions/OSSubprocess</id>
+    <title>https://github.com/pharo-contributions/OSSubprocess</title>
+    <link href="https://github.com/pharo-contributions/OSSubprocess" />
+    <updated>2024-12-25T15:55:31+00:00</updated>
+    <content type="text">Forking Operating System Processes from within Pharo Language</content>
+  </entry>
+</feed>

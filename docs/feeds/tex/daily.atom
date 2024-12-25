@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tex/daily.atom</id>
+  <title>GitHub Treanding - tex</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tex/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tex/" rel="alternate" />
+  <updated>2024-12-25T15:56:58+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/hmemcpy/milewski-ctfp-pdf</id>
+    <title>https://github.com/hmemcpy/milewski-ctfp-pdf</title>
+    <link href="https://github.com/hmemcpy/milewski-ctfp-pdf" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sanjib-sen/WebLaTex</id>
+    <title>https://github.com/sanjib-sen/WebLaTex</title>
+    <link href="https://github.com/sanjib-sen/WebLaTex" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar &amp; Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sjtug/SJTUThesis</id>
+    <title>https://github.com/sjtug/SJTUThesis</title>
+    <link href="https://github.com/sjtug/SJTUThesis" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lib-pku/libpku</id>
+    <title>https://github.com/lib-pku/libpku</title>
+    <link href="https://github.com/lib-pku/libpku" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">贵校课程资料民间整理</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acl-org/acl-style-files</id>
+    <title>https://github.com/acl-org/acl-style-files</title>
+    <link href="https://github.com/acl-org/acl-style-files" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">Official style files for papers submitted to venues of the Association for Computational Linguistics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bdebye/thesisuestc</id>
+    <title>https://github.com/bdebye/thesisuestc</title>
+    <link href="https://github.com/bdebye/thesisuestc" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">ThesisUESTC-电子科技大学毕业论文模板</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vdumoulin/conv_arithmetic</id>
+    <title>https://github.com/vdumoulin/conv_arithmetic</title>
+    <link href="https://github.com/vdumoulin/conv_arithmetic" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">A technical report on convolution arithmetic in the context of deep learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ustctug/ustcthesis</id>
+    <title>https://github.com/ustctug/ustcthesis</title>
+    <link href="https://github.com/ustctug/ustcthesis" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">LaTeX template for USTC thesis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HarisIqbal88/PlotNeuralNet</id>
+    <title>https://github.com/HarisIqbal88/PlotNeuralNet</title>
+    <link href="https://github.com/HarisIqbal88/PlotNeuralNet" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">Latex code for making neural networks diagrams</content>
+  </entry>
+  <entry>
+    <id>https://github.com/posquit0/Awesome-CV</id>
+    <title>https://github.com/posquit0/Awesome-CV</title>
+    <link href="https://github.com/posquit0/Awesome-CV" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">📄 Awesome CV is LaTeX template for your outstanding job application</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terryum/awesome-deep-learning-papers</id>
+    <title>https://github.com/terryum/awesome-deep-learning-papers</title>
+    <link href="https://github.com/terryum/awesome-deep-learning-papers" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">The most cited deep learning papers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/billryan/resume</id>
+    <title>https://github.com/billryan/resume</title>
+    <link href="https://github.com/billryan/resume" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheNetAdmin/zjuthesis</id>
+    <title>https://github.com/TheNetAdmin/zjuthesis</title>
+    <link href="https://github.com/TheNetAdmin/zjuthesis" />
+    <updated>2024-12-25T15:56:58+00:00</updated>
+    <content type="text">Zhejiang University Graduation Thesis LaTeX Template</content>
+  </entry>
+</feed>

@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mdx/daily.atom</id>
+  <title>GitHub Treanding - mdx</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mdx/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mdx/" rel="alternate" />
+  <updated>2024-12-25T15:48:24+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/getcursor/docs</id>
+    <title>https://github.com/getcursor/docs</title>
+    <link href="https://github.com/getcursor/docs" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Cursor's Open Source Documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kinfe123/farm-ui</id>
+    <title>https://github.com/Kinfe123/farm-ui</title>
+    <link href="https://github.com/Kinfe123/farm-ui" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Treating UI Libraries as first class citizen and making sure they are headless :)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yangshun/front-end-interview-handbook</id>
+    <title>https://github.com/yangshun/front-end-interview-handbook</title>
+    <link href="https://github.com/yangshun/front-end-interview-handbook" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">⚡️ Front End interview preparation materials for busy engineers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/deep-rl-class</id>
+    <title>https://github.com/huggingface/deep-rl-class</title>
+    <link href="https://github.com/huggingface/deep-rl-class" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GetStream/stream-chat-react</id>
+    <title>https://github.com/GetStream/stream-chat-react</title>
+    <link href="https://github.com/GetStream/stream-chat-react" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">React Chat SDK ➜ Stream Chat 💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processing/p5.js-website</id>
+    <title>https://github.com/processing/p5.js-website</title>
+    <link href="https://github.com/processing/p5.js-website" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">New p5.js website!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/docs</id>
+    <title>https://github.com/ethereum-optimism/docs</title>
+    <link href="https://github.com/ethereum-optimism/docs" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Optimism Developer Docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GetStream/stream-chat-react-native</id>
+    <title>https://github.com/GetStream/stream-chat-react-native</title>
+    <link href="https://github.com/GetStream/stream-chat-react-native" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">💬 React-Native Chat SDK ➜ Stream Chat. Includes a tutorial on building your own chat app experience using React-Native, React-Navigation and Stream</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/course</id>
+    <title>https://github.com/huggingface/course</title>
+    <link href="https://github.com/huggingface/course" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">The Hugging Face course on Transformers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/atmos</id>
+    <title>https://github.com/cloudposse/atmos</title>
+    <link href="https://github.com/cloudposse/atmos" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uidotdev/usehooks</id>
+    <title>https://github.com/uidotdev/usehooks</title>
+    <link href="https://github.com/uidotdev/usehooks" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">A collection of modern, server-safe React hooks – from the ui.dev team</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cpinitiative/usaco-guide</id>
+    <title>https://github.com/cpinitiative/usaco-guide</title>
+    <link href="https://github.com/cpinitiative/usaco-guide" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">A free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/docs</id>
+    <title>https://github.com/evcc-io/docs</title>
+    <link href="https://github.com/evcc-io/docs" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">evcc documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/withastro/docs</id>
+    <title>https://github.com/withastro/docs</title>
+    <link href="https://github.com/withastro/docs" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Astro documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yewstack/yew</id>
+    <title>https://github.com/yewstack/yew</title>
+    <link href="https://github.com/yewstack/yew" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Rust / Wasm framework for creating reliable and efficient web applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/cloudflare-docs</id>
+    <title>https://github.com/cloudflare/cloudflare-docs</title>
+    <link href="https://github.com/cloudflare/cloudflare-docs" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Cloudflare’s documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailwindlabs/tailwindcss.com</id>
+    <title>https://github.com/tailwindlabs/tailwindcss.com</title>
+    <link href="https://github.com/tailwindlabs/tailwindcss.com" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">The Tailwind CSS documentation website.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/react-native-elements/react-native-elements</id>
+    <title>https://github.com/react-native-elements/react-native-elements</title>
+    <link href="https://github.com/react-native-elements/react-native-elements" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Cross-Platform React Native UI Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-amplify/docs</id>
+    <title>https://github.com/aws-amplify/docs</title>
+    <link href="https://github.com/aws-amplify/docs" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">AWS Amplify Framework Documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dair-ai/Prompt-Engineering-Guide</id>
+    <title>https://github.com/dair-ai/Prompt-Engineering-Guide</title>
+    <link href="https://github.com/dair-ai/Prompt-Engineering-Guide" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shuding/nextra-docs-template</id>
+    <title>https://github.com/shuding/nextra-docs-template</title>
+    <link href="https://github.com/shuding/nextra-docs-template" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Nextra docs template</content>
+  </entry>
+  <entry>
+    <id>https://github.com/npm/documentation</id>
+    <title>https://github.com/npm/documentation</title>
+    <link href="https://github.com/npm/documentation" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Documentation for the npm registry, website, and command-line interface.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yangshun/top-javascript-interview-questions</id>
+    <title>https://github.com/yangshun/top-javascript-interview-questions</title>
+    <link href="https://github.com/yangshun/top-javascript-interview-questions" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">200 important JavaScript interview questions for busy Front End Engineers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-cookbook</id>
+    <title>https://github.com/openai/openai-cookbook</title>
+    <link href="https://github.com/openai/openai-cookbook" />
+    <updated>2024-12-25T15:48:24+00:00</updated>
+    <content type="text">Examples and guides for using the OpenAI API</content>
+  </entry>
+</feed>

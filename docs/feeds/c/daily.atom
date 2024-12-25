@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Treanding - c</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/" rel="alternate" />
+  <updated>2024-12-25T15:38:36+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pjsip/pjproject</id>
+    <title>https://github.com/pjsip/pjproject</title>
+    <link href="https://github.com/pjsip/pjproject" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">PJSIP project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/nuttx</id>
+    <title>https://github.com/apache/nuttx</title>
+    <link href="https://github.com/apache/nuttx" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Apache NuttX is a mature, real-time embedded operating system (RTOS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darktable-org/darktable</id>
+    <title>https://github.com/darktable-org/darktable</title>
+    <link href="https://github.com/darktable-org/darktable" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">darktable is an open source photography workflow application and raw developer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/palera1n/palera1n</id>
+    <title>https://github.com/palera1n/palera1n</title>
+    <link href="https://github.com/palera1n/palera1n" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Spooks4576/Ghost_ESP</id>
+    <title>https://github.com/Spooks4576/Ghost_ESP</title>
+    <link href="https://github.com/Spooks4576/Ghost_ESP" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lvgl/lvgl</id>
+    <title>https://github.com/lvgl/lvgl</title>
+    <link href="https://github.com/lvgl/lvgl" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ImageMagick/ImageMagick</id>
+    <title>https://github.com/ImageMagick/ImageMagick</title>
+    <link href="https://github.com/ImageMagick/ImageMagick" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">🧙‍♂️ ImageMagick 7</content>
+  </entry>
+  <entry>
+    <id>https://github.com/warmcat/libwebsockets</id>
+    <title>https://github.com/warmcat/libwebsockets</title>
+    <link href="https://github.com/warmcat/libwebsockets" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">canonical libwebsockets.org networking library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FreeRTOS/FreeRTOS-Kernel</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS-Kernel</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS-Kernel" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libsdl-org/SDL_ttf</id>
+    <title>https://github.com/libsdl-org/SDL_ttf</title>
+    <link href="https://github.com/libsdl-org/SDL_ttf" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Support for TrueType (.ttf) font files with Simple Directmedia Layer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HarbourMasters/Shipwright</id>
+    <title>https://github.com/HarbourMasters/Shipwright</title>
+    <link href="https://github.com/HarbourMasters/Shipwright" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/DaveGamble/cJSON</id>
+    <title>https://github.com/DaveGamble/cJSON</title>
+    <link href="https://github.com/DaveGamble/cJSON" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Ultralightweight JSON parser in ANSI C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicbarker/clay</id>
+    <title>https://github.com/nicbarker/clay</title>
+    <link href="https://github.com/nicbarker/clay" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">High performance UI layout library in C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libsdl-org/SDL</id>
+    <title>https://github.com/libsdl-org/SDL</title>
+    <link href="https://github.com/libsdl-org/SDL" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Simple Directmedia Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hanwckf/immortalwrt-mt798x</id>
+    <title>https://github.com/hanwckf/immortalwrt-mt798x</title>
+    <link href="https://github.com/hanwckf/immortalwrt-mt798x" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">An Immortalwrt variant for mediatek mt798x routers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bol-van/zapret</id>
+    <title>https://github.com/bol-van/zapret</title>
+    <link href="https://github.com/bol-van/zapret" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">DPI bypass multi platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VirusTotal/yara</id>
+    <title>https://github.com/VirusTotal/yara</title>
+    <link href="https://github.com/VirusTotal/yara" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">The pattern matching swiss knife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hengyoush/kyanos</id>
+    <title>https://github.com/hengyoush/kyanos</title>
+    <link href="https://github.com/hengyoush/kyanos" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mimalloc</id>
+    <title>https://github.com/microsoft/mimalloc</title>
+    <link href="https://github.com/microsoft/mimalloc" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">mimalloc is a compact general purpose allocator with excellent performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raysan5/raylib</id>
+    <title>https://github.com/raysan5/raylib</title>
+    <link href="https://github.com/raysan5/raylib" />
+    <updated>2024-12-25T15:38:36+00:00</updated>
+    <content type="text">A simple and easy-to-use library to enjoy videogames programming</content>
+  </entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mcfunction/daily.atom</id>
+  <title>GitHub Treanding - mcfunction</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mcfunction/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mcfunction/" rel="alternate" />
+  <updated>2024-12-25T15:48:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/QuantumXenon/origins-plus-plus</id>
+    <title>https://github.com/QuantumXenon/origins-plus-plus</title>
+    <link href="https://github.com/QuantumXenon/origins-plus-plus" />
+    <updated>2024-12-25T15:48:23+00:00</updated>
+    <content type="text">A collection of more than 100 origins</content>
+  </entry>
+</feed>

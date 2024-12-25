@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom</id>
+  <title>GitHub Treanding - matlab</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/" rel="alternate" />
+  <updated>2024-12-25T15:48:16+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TadasBaltrusaitis/OpenFace</id>
+    <title>https://github.com/TadasBaltrusaitis/OpenFace</title>
+    <link href="https://github.com/TadasBaltrusaitis/OpenFace" />
+    <updated>2024-12-25T15:48:16+00:00</updated>
+    <content type="text">OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.</content>
+  </entry>
+</feed>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Treanding - elixir</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/" rel="alternate" />
+  <updated>2024-12-25T15:42:02+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lsp/elixir-ls</id>
+    <title>https://github.com/elixir-lsp/elixir-ls</title>
+    <link href="https://github.com/elixir-lsp/elixir-ls" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexpm/hex</id>
+    <title>https://github.com/hexpm/hex</title>
+    <link href="https://github.com/hexpm/hex" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Package manager for the Erlang ecosystem.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/anoma</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-erlang-contrib</id>
+    <title>https://github.com/open-telemetry/opentelemetry-erlang-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-erlang-contrib" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">OpenTelemetry instrumentation for Erlang &amp; Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OffchainLabs/blockscout</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ocsf/ocsf-server</id>
+    <title>https://github.com/ocsf/ocsf-server</title>
+    <link href="https://github.com/ocsf/ocsf-server" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">OCSF Schema WEB Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thmsmlr/instructor_ex</id>
+    <title>https://github.com/thmsmlr/instructor_ex</title>
+    <link href="https://github.com/thmsmlr/instructor_ex" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Structured outputs for LLMs in Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pentacent/keila</id>
+    <title>https://github.com/pentacent/keila</title>
+    <link href="https://github.com/pentacent/keila" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Open Source Newsletter Tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluzky/salad_ui</id>
+    <title>https://github.com/bluzky/salad_ui</title>
+    <link href="https://github.com/bluzky/salad_ui" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2024-12-25T15:42:02+00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+</feed>
