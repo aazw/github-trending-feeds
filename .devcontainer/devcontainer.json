@@ -1,0 +1,34 @@
+{
+	"name": "vsc-github-trending-feeds",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"features": {},
+	"forwardPorts": [],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-azuretools.vscode-docker",
+				"ms-python.python"
+			]
+		}
+	},
+	"remoteUser": "root",
+	"mounts": [
+		{
+			"type": "bind",
+			"source": "/var/run/docker.sock",
+			"target": "/var/run/docker.sock"
+		}
+	],
+	"remoteEnv": {
+		"LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
+	},
+	"runArgs": [
+		"--name",
+		"vsc-github-trending-feeds",
+		"--add-host",
+		"host.docker.internal:host-gateway"
+	],
+	"postCreateCommand": "pip install -r requirements.txt"
+}
