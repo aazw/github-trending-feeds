@@ -36,7 +36,7 @@ def main(language: str, date_range: str, output: str):
     appLogger.info(f"generated: url = {url}")
 
     # atom_title
-    atom_title = f"GitHub Treanding - {language}"
+    atom_title = f"GitHub Treanding - {language} - {date_range}"
     appLogger.info(f"generated: atom_title = {atom_title}")
 
     # atom_author
