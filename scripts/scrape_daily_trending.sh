@@ -1,6 +1,7 @@
 #!/bin/bash
 
-set -eu
+set -u
+set -e
 
 # How do I get the directory where a Bash script is located from within the script itself?
 # https://stackoverflow.com/questions/59895/how-do-i-get-the-directory-where-a-bash-script-is-located-from-within-the-script
@@ -12,10 +13,13 @@ cd ${SCRIPT_DIR}/..
 while read language; do      
   # urls.txtで各行冒頭『#』でコメントアウトできるようにした
   if [[ ! $language =~ ^# ]]; then
+
+    set +e
     python apps/scrape.py \
       --language   "${language}" \
       --date_range "daily" \
-      --output     "./docs/feeds/${language}/daily.atom" \
+      --output     "./docs/feeds/${language}/daily.atom"
+    set -e
 
      sleep 1 # 1s 
   fi
