@@ -68,7 +68,7 @@ browserslist
 c-objdump
 c
 c%23
-# c++
+c++
 c2hs-haskell
 cabal-config
 caddyfile
