@@ -1,4 +1,5 @@
 import sys
+import traceback
 import logging
 import datetime
 import xml.etree.ElementTree as ET
@@ -96,9 +97,12 @@ def main(language: str, date_range: str, output: str):
             repository_url = f"https://github.com{repository_path}"
 
             # get description
-            repository_description = item.select_one('p').get_text()
-            if repository_description:
-                repository_description = repository_description.strip()
+            repository_description = None
+            p = item.select_one('p')
+            if p:
+                repository_description = p.get_text()
+                if repository_description:
+                    repository_description = repository_description.strip()
 
             # new entry
             entry = ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}entry")
@@ -142,6 +146,11 @@ def main(language: str, date_range: str, output: str):
 
     except Exception as e:
         appLogger.error(e)
+
+        t, v, tb = sys.exc_info()
+        appLogger.error(traceback.format_exception(t,v,tb))
+        appLogger.error(traceback.format_tb(e.__traceback__))
+
         appLogger.error(f"request failed by status code {res.status_code}")
         raise e
 
@@ -154,6 +163,11 @@ if __name__ == '__main__':
         main(standalone_mode=False)
     except Exception as e:
         appLogger.error(e)
+
+        t, v, tb = sys.exc_info()
+        appLogger.error(traceback.format_exception(t,v,tb))
+        appLogger.error(traceback.format_tb(e.__traceback__))
+
         appLogger.error("app failed")
         sys.exit(1)
 
