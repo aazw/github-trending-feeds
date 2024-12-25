@@ -1,147 +1,158 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily/a.xml</id>
   <title>aaa</title>
-  <updated>2024-12-24T23:06:34.980744+00:00</updated>
-  <link href="https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily/a.xml" rel="self"/>
-  <link href="https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily" rel="alternate"/>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <link href="https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily/a.xml" rel="self" />
+  <link href="https://github.com/aazw/github-trending-feeds/blob/master/docs/feeds/go/daily" rel="alternate" />
+  <updated>2024-12-25T12:35:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
   <entry>
-    <id>/gin-gonic/gin</id>
-    <title>gin-gonic/gin</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/gin-gonic/gin"/>
+    <id>https://github.com/ollama/ollama</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
   </entry>
   <entry>
-    <id>/kgretzky/evilginx2</id>
-    <title>kgretzky/evilginx2</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/kgretzky/evilginx2"/>
+    <id>https://github.com/go-playground/validator</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
   </entry>
   <entry>
-    <id>/vektra/mockery</id>
-    <title>vektra/mockery</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/vektra/mockery"/>
+    <id>https://github.com/OJ/gobuster</id>
+    <title>https://github.com/OJ/gobuster</title>
+    <link href="https://github.com/OJ/gobuster" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Directory/File, DNS and VHost busting tool written in Go</content>
   </entry>
   <entry>
-    <id>/prometheus/node_exporter</id>
-    <title>prometheus/node_exporter</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/prometheus/node_exporter"/>
+    <id>https://github.com/uber-go/mock</id>
+    <title>https://github.com/uber-go/mock</title>
+    <link href="https://github.com/uber-go/mock" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">GoMock is a mocking framework for the Go programming language.</content>
   </entry>
   <entry>
-    <id>/moonD4rk/HackBrowserData</id>
-    <title>moonD4rk/HackBrowserData</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/moonD4rk/HackBrowserData"/>
+    <id>https://github.com/binwiederhier/ntfy</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Send push notifications to your phone or desktop using PUT/POST</content>
   </entry>
   <entry>
-    <id>/shadow1ng/fscan</id>
-    <title>shadow1ng/fscan</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/shadow1ng/fscan"/>
+    <id>https://github.com/apache/incubator-answer</id>
+    <title>https://github.com/apache/incubator-answer</title>
+    <link href="https://github.com/apache/incubator-answer" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">A Q&amp;A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</content>
   </entry>
   <entry>
-    <id>/gogs/gogs</id>
-    <title>gogs/gogs</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/gogs/gogs"/>
+    <id>https://github.com/WireGuard/wireguard-go</id>
+    <title>https://github.com/WireGuard/wireguard-go</title>
+    <link href="https://github.com/WireGuard/wireguard-go" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go</content>
   </entry>
   <entry>
-    <id>/navidrome/navidrome</id>
-    <title>navidrome/navidrome</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/navidrome/navidrome"/>
+    <id>https://github.com/redis/go-redis</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Redis Go client</content>
   </entry>
   <entry>
-    <id>/avelino/awesome-go</id>
-    <title>avelino/awesome-go</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/avelino/awesome-go"/>
+    <id>https://github.com/ehang-io/nps</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
   </entry>
   <entry>
-    <id>/alecthomas/kong</id>
-    <title>alecthomas/kong</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/alecthomas/kong"/>
+    <id>https://github.com/golang-jwt/jwt</id>
+    <title>https://github.com/golang-jwt/jwt</title>
+    <link href="https://github.com/golang-jwt/jwt" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Go implementation of JSON Web Tokens (JWT).</content>
   </entry>
   <entry>
-    <id>/vitessio/vitess</id>
-    <title>vitessio/vitess</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/vitessio/vitess"/>
+    <id>https://github.com/jackc/pgx</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">PostgreSQL driver and toolkit for Go</content>
   </entry>
   <entry>
-    <id>/gonum/gonum</id>
-    <title>gonum/gonum</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/gonum/gonum"/>
+    <id>https://github.com/pocketbase/pocketbase</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Open Source realtime backend in 1 file</content>
   </entry>
   <entry>
-    <id>/tmc/langchaingo</id>
-    <title>tmc/langchaingo</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/tmc/langchaingo"/>
+    <id>https://github.com/teamhanko/hanko</id>
+    <title>https://github.com/teamhanko/hanko</title>
+    <link href="https://github.com/teamhanko/hanko" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.</content>
   </entry>
   <entry>
-    <id>/grpc/grpc-go</id>
-    <title>grpc/grpc-go</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/grpc/grpc-go"/>
+    <id>https://github.com/usememos/memos</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
   </entry>
   <entry>
-    <id>/moby/moby</id>
-    <title>moby/moby</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/moby/moby"/>
+    <id>https://github.com/ccfos/nightingale</id>
+    <title>https://github.com/ccfos/nightingale</title>
+    <link href="https://github.com/ccfos/nightingale" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.</content>
   </entry>
   <entry>
-    <id>/Masterminds/squirrel</id>
-    <title>Masterminds/squirrel</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/Masterminds/squirrel"/>
+    <id>https://github.com/lionsoul2014/ip2region</id>
+    <title>https://github.com/lionsoul2014/ip2region</title>
+    <link href="https://github.com/lionsoul2014/ip2region" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</content>
   </entry>
   <entry>
-    <id>/jackc/pgx</id>
-    <title>jackc/pgx</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/jackc/pgx"/>
+    <id>https://github.com/gogs/gogs</id>
+    <title>https://github.com/gogs/gogs</title>
+    <link href="https://github.com/gogs/gogs" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Gogs is a painless self-hosted Git service</content>
   </entry>
   <entry>
-    <id>/langgenius/dify-sandbox</id>
-    <title>langgenius/dify-sandbox</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/langgenius/dify-sandbox"/>
+    <id>https://github.com/kgretzky/evilginx2</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
   </entry>
   <entry>
-    <id>/algorand/go-algorand</id>
-    <title>algorand/go-algorand</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/algorand/go-algorand"/>
+    <id>https://github.com/hibiken/asynq</id>
+    <title>https://github.com/hibiken/asynq</title>
+    <link href="https://github.com/hibiken/asynq" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Simple, reliable, and efficient distributed task queue in Go</content>
   </entry>
   <entry>
-    <id>/WireGuard/wireguard-go</id>
-    <title>WireGuard/wireguard-go</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/WireGuard/wireguard-go"/>
+    <id>https://github.com/XTLS/Xray-core</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
   </entry>
   <entry>
-    <id>/uptrace/bun</id>
-    <title>uptrace/bun</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/uptrace/bun"/>
-  </entry>
-  <entry>
-    <id>/tidwall/gjson</id>
-    <title>tidwall/gjson</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/tidwall/gjson"/>
-  </entry>
-  <entry>
-    <id>/opencontainers/runc</id>
-    <title>opencontainers/runc</title>
-    <updated>2024-12-24T23:06:34.980744+00:00</updated>
-    <link href="/opencontainers/runc"/>
+    <id>https://github.com/IceWhaleTech/CasaOS</id>
+    <title>https://github.com/IceWhaleTech/CasaOS</title>
+    <link href="https://github.com/IceWhaleTech/CasaOS" />
+    <updated>2024-12-25T12:35:44+00:00</updated>
+    <content type="text" xml:lang="en">CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</content>
   </entry>
 </feed>
