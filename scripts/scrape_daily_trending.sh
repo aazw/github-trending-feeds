@@ -10,11 +10,13 @@ cd ${SCRIPT_DIR}/..
 # Looping through the content of a file in Bash
 # https://stackoverflow.com/questions/1521462/looping-through-the-content-of-a-file-in-bash
 while read language; do      
-  python apps/scrape.py \
-    --language   "${language}" \
-    --date_range "daily" \
-    --output     "./docs/feeds/${language}/daily.atom" \
+  # urls.txtで各行冒頭『#』でコメントアウトできるようにした
+  if [[ ! $language =~ ^# ]]; then
+    python apps/scrape.py \
+      --language   "${language}" \
+      --date_range "daily" \
+      --output     "./docs/feeds/${language}/daily.atom" \
 
-  sleep 1 # 1s 
-
+     sleep 1 # 1s 
+  fi
 done < ./urls.txt
