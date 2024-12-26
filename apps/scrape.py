@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import click
+import dateparser
 import requests
 from bs4 import BeautifulSoup
 
@@ -24,14 +25,16 @@ appLogger.addHandler(handler)
 
 
 @click.command()
-@click.option('--language',   type=str,                                                               required=True,                    help="")
-@click.option('--date_range', type=click.Choice(['daily', 'weekly', 'monthly'], case_sensitive=True), required=True,                    help="")
-@click.option('--output',     type=str,                                                               required=False,                   help="")
-@click.option("--verbose",    is_flag=True,                                                           default=False, show_default=True, help="")
-def main(language: str, date_range: str, output: str, verbose: bool):
+@click.option('--language',          type=str,                                                               required=True,                    help="")
+@click.option('--date_range',        type=click.Choice(['daily', 'weekly', 'monthly'], case_sensitive=True), required=True,                    help="")
+@click.option('--output',            type=str,                                                               required=False,                   help="")
+@click.option("--atom_updated_date", type=str,                                                               required=False,                   help="")
+@click.option("--verbose",           is_flag=True,                                                           default=False, show_default=True, help="")
+def main(language: str, date_range: str, output: str, atom_updated_date: str, verbose: bool):
     appLogger.info(f"command-line argument: language = {language}")
     appLogger.info(f"command-line argument: date_range = {date_range}")
     appLogger.info(f"command-line argument: output = {output}")
+    appLogger.info(f"command-line argument: atom_updated_date = {atom_updated_date}")
     appLogger.info(f"command-line argument: verbose = {verbose}")
 
     if verbose:
@@ -58,7 +61,10 @@ def main(language: str, date_range: str, output: str, verbose: bool):
     appLogger.info(f"generated: atom_advertise_alt_url = {atom_advertise_alt_url}")
 
     # updated (drop milliseconds)
-    updated = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+    updated = datetime.datetime.now(datetime.timezone.utc)
+    if atom_updated_date:
+        updated = dateparser.parse(atom_updated_date)
+    
     appLogger.info(f"generated: updated = {updated}")
 
     res = None
@@ -85,7 +91,7 @@ def main(language: str, date_range: str, output: str, verbose: bool):
         ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": atom_advertise_alt_url, "rel": "alternate"})
 
         # updated
-        ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}updated").text = updated
+        ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(timespec="seconds")
 
         # author
         author = ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}author")
@@ -95,8 +101,6 @@ def main(language: str, date_range: str, output: str, verbose: bool):
         soup = BeautifulSoup(res.text, 'html.parser')
         items = soup.select('article.Box-row')
 
-        # add_entry()が常にリストの先頭に追加するような挙動をするので、順番が逆になってしまう
-        # リストを逆にして回すことで、元の順番にもどす
         for item in reversed(items):
             # get repository path
             repository_path = item.select_one('h2 a').get('href')
@@ -114,7 +118,7 @@ def main(language: str, date_range: str, output: str, verbose: bool):
             entry = ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}entry")
 
             # id
-            ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}id").text = repository_url
+            ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}id").text = f"{repository_url}#{int(updated.timestamp())}"
 
             # title
             ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}title").text = repository_url
@@ -123,7 +127,7 @@ def main(language: str, date_range: str, output: str, verbose: bool):
             ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": repository_url})
 
             # updated
-            ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}updated").text = updated
+            ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(timespec="seconds")
 
             # content
             content = ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}content", attrib={"type": "text"}).text = repository_description
