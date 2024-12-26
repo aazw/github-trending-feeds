@@ -4,78 +4,92 @@
   <title>GitHub Treanding - smarty (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/" rel="alternate" />
-  <updated>2024-12-26T04:20:20+00:00</updated>
+  <updated>2024-12-26T11:28:42+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/truenas/charts</id>
-    <title>https://github.com/truenas/charts</title>
-    <link href="https://github.com/truenas/charts" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
-    <content type="text">TrueNAS SCALE Apps Catalogs &amp; Charts</content>
+    <id>https://github.com/VictoriaMetrics/helm-charts#1735212522</id>
+    <title>https://github.com/VictoriaMetrics/helm-charts</title>
+    <link href="https://github.com/VictoriaMetrics/helm-charts" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text">Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem</content>
   </entry>
   <entry>
-    <id>https://github.com/mongodb/helm-charts</id>
-    <title>https://github.com/mongodb/helm-charts</title>
-    <link href="https://github.com/mongodb/helm-charts" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/plexinc/pms-docker#1735212522</id>
+    <title>https://github.com/plexinc/pms-docker</title>
+    <link href="https://github.com/plexinc/pms-docker" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text">Plex Media Server Docker repo, for all your PMS docker needs.</content>
   </entry>
   <entry>
-    <id>https://github.com/aenix-io/cozystack</id>
-    <title>https://github.com/aenix-io/cozystack</title>
-    <link href="https://github.com/aenix-io/cozystack" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
-    <content type="text">Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cloudnative-pg/charts</id>
+    <id>https://github.com/cloudnative-pg/charts#1735212522</id>
     <title>https://github.com/cloudnative-pg/charts</title>
     <link href="https://github.com/cloudnative-pg/charts" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
+    <updated>2024-12-26T11:28:42+00:00</updated>
     <content type="text">CloudNativePG Helm Charts</content>
   </entry>
   <entry>
-    <id>https://github.com/grafana/k8s-monitoring-helm</id>
-    <title>https://github.com/grafana/k8s-monitoring-helm</title>
-    <link href="https://github.com/grafana/k8s-monitoring-helm" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/truenas/charts#1735212522</id>
+    <title>https://github.com/truenas/charts</title>
+    <link href="https://github.com/truenas/charts" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text">TrueNAS SCALE Apps Catalogs &amp; Charts</content>
   </entry>
   <entry>
-    <id>https://github.com/bitnami/charts</id>
+    <id>https://github.com/bitnami/charts#1735212522</id>
     <title>https://github.com/bitnami/charts</title>
     <link href="https://github.com/bitnami/charts" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
+    <updated>2024-12-26T11:28:42+00:00</updated>
     <content type="text">Bitnami Helm Charts</content>
   </entry>
   <entry>
-    <id>https://github.com/sysdiglabs/charts</id>
-    <title>https://github.com/sysdiglabs/charts</title>
-    <link href="https://github.com/sysdiglabs/charts" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
-    <content type="text">The official source for Sysdig’s Helm charts</content>
+    <id>https://github.com/open-telemetry/opentelemetry-helm-charts#1735212522</id>
+    <title>https://github.com/open-telemetry/opentelemetry-helm-charts</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text">OpenTelemetry Helm Charts</content>
   </entry>
   <entry>
-    <id>https://github.com/grafana/helm-charts</id>
-    <title>https://github.com/grafana/helm-charts</title>
-    <link href="https://github.com/grafana/helm-charts" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
+    <id>https://github.com/mongodb/helm-charts#1735212522</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/truecharts/public</id>
+    <id>https://github.com/aenix-io/cozystack#1735212522</id>
+    <title>https://github.com/aenix-io/cozystack</title>
+    <link href="https://github.com/aenix-io/cozystack" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text">Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1735212522</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k8s-monitoring-helm#1735212522</id>
+    <title>https://github.com/grafana/k8s-monitoring-helm</title>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1735212522</id>
     <title>https://github.com/truecharts/public</title>
     <link href="https://github.com/truecharts/public" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
+    <updated>2024-12-26T11:28:42+00:00</updated>
     <content type="text">Community Helm Chart Repository</content>
   </entry>
   <entry>
-    <id>https://github.com/plexinc/pms-docker</id>
-    <title>https://github.com/plexinc/pms-docker</title>
-    <link href="https://github.com/plexinc/pms-docker" />
-    <updated>2024-12-26T04:20:20+00:00</updated>
-    <content type="text">Plex Media Server Docker repo, for all your PMS docker needs.</content>
+    <id>https://github.com/wiz-sec/charts#1735212522</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2024-12-26T11:28:42+00:00</updated>
+    <content type="text" />
   </entry>
 </feed>

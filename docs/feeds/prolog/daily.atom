@@ -4,15 +4,15 @@
   <title>GitHub Treanding - prolog (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/prolog/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/prolog/" rel="alternate" />
-  <updated>2024-12-26T04:17:44+00:00</updated>
+  <updated>2024-12-26T11:25:16+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/nasa-jpl/open-source-rover</id>
+    <id>https://github.com/nasa-jpl/open-source-rover#1735212316</id>
     <title>https://github.com/nasa-jpl/open-source-rover</title>
     <link href="https://github.com/nasa-jpl/open-source-rover" />
-    <updated>2024-12-26T04:17:44+00:00</updated>
+    <updated>2024-12-26T11:25:16+00:00</updated>
     <content type="text">A build-it-yourself, 6-wheel rover based on the rovers on Mars!</content>
   </entry>
 </feed>

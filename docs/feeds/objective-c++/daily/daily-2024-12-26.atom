@@ -4,57 +4,36 @@
   <title>GitHub Treanding - objective-c++ (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c++/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c++/" rel="alternate" />
-  <updated>2024-12-26T04:15:45+00:00</updated>
+  <updated>2024-12-26T11:22:43+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/avibrazil/RDM</id>
-    <title>https://github.com/avibrazil/RDM</title>
-    <link href="https://github.com/avibrazil/RDM" />
-    <updated>2024-12-26T04:15:45+00:00</updated>
-    <content type="text">Easily set Mac Retina display to higher unsupported resolutions</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dongyuwei/hallelujahIM</id>
-    <title>https://github.com/dongyuwei/hallelujahIM</title>
-    <link href="https://github.com/dongyuwei/hallelujahIM" />
-    <updated>2024-12-26T04:15:45+00:00</updated>
-    <content type="text">hallelujahIM(哈利路亚 英文输入法) is an intelligent English input method with auto-suggestions and spell check features.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gree/unity-webview</id>
+    <id>https://github.com/gree/unity-webview#1735212163</id>
     <title>https://github.com/gree/unity-webview</title>
     <link href="https://github.com/gree/unity-webview" />
-    <updated>2024-12-26T04:15:45+00:00</updated>
+    <updated>2024-12-26T11:22:43+00:00</updated>
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/KhronosGroup/MoltenVK</id>
-    <title>https://github.com/KhronosGroup/MoltenVK</title>
-    <link href="https://github.com/KhronosGroup/MoltenVK" />
-    <updated>2024-12-26T04:15:45+00:00</updated>
-    <content type="text">MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zoontek/react-native-permissions</id>
-    <title>https://github.com/zoontek/react-native-permissions</title>
-    <link href="https://github.com/zoontek/react-native-permissions" />
-    <updated>2024-12-26T04:15:45+00:00</updated>
-    <content type="text">An unified permissions API for React Native on iOS, Android and Windows.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/facebookarchive/pop</id>
+    <id>https://github.com/facebookarchive/pop#1735212163</id>
     <title>https://github.com/facebookarchive/pop</title>
     <link href="https://github.com/facebookarchive/pop" />
-    <updated>2024-12-26T04:15:45+00:00</updated>
+    <updated>2024-12-26T11:22:43+00:00</updated>
     <content type="text">An extensible iOS and OS X animation library, useful for physics-based interactions.</content>
   </entry>
   <entry>
-    <id>https://github.com/pocketsvg/PocketSVG</id>
+    <id>https://github.com/KhronosGroup/MoltenVK#1735212163</id>
+    <title>https://github.com/KhronosGroup/MoltenVK</title>
+    <link href="https://github.com/KhronosGroup/MoltenVK" />
+    <updated>2024-12-26T11:22:43+00:00</updated>
+    <content type="text">MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketsvg/PocketSVG#1735212163</id>
     <title>https://github.com/pocketsvg/PocketSVG</title>
     <link href="https://github.com/pocketsvg/PocketSVG" />
-    <updated>2024-12-26T04:15:45+00:00</updated>
+    <updated>2024-12-26T11:22:43+00:00</updated>
     <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
   </entry>
 </feed>

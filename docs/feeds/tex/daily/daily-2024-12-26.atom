@@ -4,99 +4,113 @@
   <title>GitHub Treanding - tex (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/tex/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/tex/" rel="alternate" />
-  <updated>2024-12-26T04:21:41+00:00</updated>
+  <updated>2024-12-26T11:30:21+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/hmemcpy/milewski-ctfp-pdf</id>
-    <title>https://github.com/hmemcpy/milewski-ctfp-pdf</title>
-    <link href="https://github.com/hmemcpy/milewski-ctfp-pdf" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source</content>
+    <id>https://github.com/riscv/riscv-isa-manual#1735212621</id>
+    <title>https://github.com/riscv/riscv-isa-manual</title>
+    <link href="https://github.com/riscv/riscv-isa-manual" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">RISC-V Instruction Set Manual</content>
   </entry>
   <entry>
-    <id>https://github.com/sanjib-sen/WebLaTex</id>
+    <id>https://github.com/zhanwen/MathModel#1735212621</id>
+    <title>https://github.com/zhanwen/MathModel</title>
+    <link href="https://github.com/zhanwen/MathModel" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#1735212621</id>
+    <title>https://github.com/OWASP/www-project-top-10-for-large-language-model-applications</title>
+    <link href="https://github.com/OWASP/www-project-top-10-for-large-language-model-applications" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">OWASP Foundation Web Respository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/exacity/deeplearningbook-chinese#1735212621</id>
+    <title>https://github.com/exacity/deeplearningbook-chinese</title>
+    <link href="https://github.com/exacity/deeplearningbook-chinese" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">Deep Learning Book Chinese Translation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matze/mtheme#1735212621</id>
+    <title>https://github.com/matze/mtheme</title>
+    <link href="https://github.com/matze/mtheme" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">A modern LaTeX Beamer theme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sanjib-sen/WebLaTex#1735212621</id>
     <title>https://github.com/sanjib-sen/WebLaTex</title>
     <link href="https://github.com/sanjib-sen/WebLaTex" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
+    <updated>2024-12-26T11:30:21+00:00</updated>
     <content type="text">A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar &amp; Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.</content>
   </entry>
   <entry>
-    <id>https://github.com/sjtug/SJTUThesis</id>
-    <title>https://github.com/sjtug/SJTUThesis</title>
-    <link href="https://github.com/sjtug/SJTUThesis" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template</content>
+    <id>https://github.com/kanition/pbrtbook#1735212621</id>
+    <title>https://github.com/kanition/pbrtbook</title>
+    <link href="https://github.com/kanition/pbrtbook" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation</content>
   </entry>
   <entry>
-    <id>https://github.com/lib-pku/libpku</id>
-    <title>https://github.com/lib-pku/libpku</title>
-    <link href="https://github.com/lib-pku/libpku" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">贵校课程资料民间整理</content>
+    <id>https://github.com/TheNetAdmin/zjuthesis#1735212621</id>
+    <title>https://github.com/TheNetAdmin/zjuthesis</title>
+    <link href="https://github.com/TheNetAdmin/zjuthesis" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">Zhejiang University Graduation Thesis LaTeX Template</content>
   </entry>
   <entry>
-    <id>https://github.com/acl-org/acl-style-files</id>
-    <title>https://github.com/acl-org/acl-style-files</title>
-    <link href="https://github.com/acl-org/acl-style-files" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">Official style files for papers submitted to venues of the Association for Computational Linguistics</content>
+    <id>https://github.com/dendibakh/perf-book#1735212621</id>
+    <title>https://github.com/dendibakh/perf-book</title>
+    <link href="https://github.com/dendibakh/perf-book" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">The book "Performance Analysis and Tuning on Modern CPU"</content>
   </entry>
   <entry>
-    <id>https://github.com/bdebye/thesisuestc</id>
+    <id>https://github.com/bdebye/thesisuestc#1735212621</id>
     <title>https://github.com/bdebye/thesisuestc</title>
     <link href="https://github.com/bdebye/thesisuestc" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
+    <updated>2024-12-26T11:30:21+00:00</updated>
     <content type="text">ThesisUESTC-电子科技大学毕业论文模板</content>
   </entry>
   <entry>
-    <id>https://github.com/vdumoulin/conv_arithmetic</id>
-    <title>https://github.com/vdumoulin/conv_arithmetic</title>
-    <link href="https://github.com/vdumoulin/conv_arithmetic" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">A technical report on convolution arithmetic in the context of deep learning</content>
+    <id>https://github.com/chaofengc/Awesome-Image-Quality-Assessment#1735212621</id>
+    <title>https://github.com/chaofengc/Awesome-Image-Quality-Assessment</title>
+    <link href="https://github.com/chaofengc/Awesome-Image-Quality-Assessment" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">A comprehensive collection of IQA papers</content>
   </entry>
   <entry>
-    <id>https://github.com/ustctug/ustcthesis</id>
-    <title>https://github.com/ustctug/ustcthesis</title>
-    <link href="https://github.com/ustctug/ustcthesis" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">LaTeX template for USTC thesis</content>
-  </entry>
-  <entry>
-    <id>https://github.com/HarisIqbal88/PlotNeuralNet</id>
+    <id>https://github.com/HarisIqbal88/PlotNeuralNet#1735212621</id>
     <title>https://github.com/HarisIqbal88/PlotNeuralNet</title>
     <link href="https://github.com/HarisIqbal88/PlotNeuralNet" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
+    <updated>2024-12-26T11:30:21+00:00</updated>
     <content type="text">Latex code for making neural networks diagrams</content>
   </entry>
   <entry>
-    <id>https://github.com/posquit0/Awesome-CV</id>
-    <title>https://github.com/posquit0/Awesome-CV</title>
-    <link href="https://github.com/posquit0/Awesome-CV" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">📄 Awesome CV is LaTeX template for your outstanding job application</content>
+    <id>https://github.com/sysprog21/lkmpg#1735212621</id>
+    <title>https://github.com/sysprog21/lkmpg</title>
+    <link href="https://github.com/sysprog21/lkmpg" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)</content>
   </entry>
   <entry>
-    <id>https://github.com/terryum/awesome-deep-learning-papers</id>
-    <title>https://github.com/terryum/awesome-deep-learning-papers</title>
-    <link href="https://github.com/terryum/awesome-deep-learning-papers" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">The most cited deep learning papers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/billryan/resume</id>
+    <id>https://github.com/billryan/resume#1735212621</id>
     <title>https://github.com/billryan/resume</title>
     <link href="https://github.com/billryan/resume" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
+    <updated>2024-12-26T11:30:21+00:00</updated>
     <content type="text">An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git</content>
   </entry>
   <entry>
-    <id>https://github.com/TheNetAdmin/zjuthesis</id>
-    <title>https://github.com/TheNetAdmin/zjuthesis</title>
-    <link href="https://github.com/TheNetAdmin/zjuthesis" />
-    <updated>2024-12-26T04:21:41+00:00</updated>
-    <content type="text">Zhejiang University Graduation Thesis LaTeX Template</content>
+    <id>https://github.com/posquit0/Awesome-CV#1735212621</id>
+    <title>https://github.com/posquit0/Awesome-CV</title>
+    <link href="https://github.com/posquit0/Awesome-CV" />
+    <updated>2024-12-26T11:30:21+00:00</updated>
+    <content type="text">📄 Awesome CV is LaTeX template for your outstanding job application</content>
   </entry>
 </feed>

@@ -4,71 +4,64 @@
   <title>GitHub Treanding - astro (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/astro/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/astro/" rel="alternate" />
-  <updated>2024-12-26T04:03:22+00:00</updated>
+  <updated>2024-12-26T11:07:22+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/manuelernestog/astrofy</id>
-    <title>https://github.com/manuelernestog/astrofy</title>
-    <link href="https://github.com/manuelernestog/astrofy" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
-    <content type="text">Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.</content>
+    <id>https://github.com/c3lang/c3-web#1735211242</id>
+    <title>https://github.com/c3lang/c3-web</title>
+    <link href="https://github.com/c3lang/c3-web" />
+    <updated>2024-12-26T11:07:22+00:00</updated>
+    <content type="text">The website for C3 made with Astro!</content>
   </entry>
   <entry>
-    <id>https://github.com/zeon-studio/astroplate</id>
-    <title>https://github.com/zeon-studio/astroplate</title>
-    <link href="https://github.com/zeon-studio/astroplate" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
-    <content type="text">Astroplate is a free starter template built with Astro, TailwindCSS &amp; TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!</content>
+    <id>https://github.com/ColorlibHQ/AdminLTE#1735211242</id>
+    <title>https://github.com/ColorlibHQ/AdminLTE</title>
+    <link href="https://github.com/ColorlibHQ/AdminLTE" />
+    <updated>2024-12-26T11:07:22+00:00</updated>
+    <content type="text">AdminLTE - Free admin dashboard template based on Bootstrap 5</content>
   </entry>
   <entry>
-    <id>https://github.com/JustGoodUI/dante-astro-theme</id>
-    <title>https://github.com/JustGoodUI/dante-astro-theme</title>
-    <link href="https://github.com/JustGoodUI/dante-astro-theme" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
-    <content type="text">Dante, a single-author blog and portfolio theme for Astro.js.</content>
+    <id>https://github.com/midudev/porfolio.dev#1735211242</id>
+    <title>https://github.com/midudev/porfolio.dev</title>
+    <link href="https://github.com/midudev/porfolio.dev" />
+    <updated>2024-12-26T11:07:22+00:00</updated>
+    <content type="text">Ejemplo de porfolio para programadores y desarrolladores</content>
   </entry>
   <entry>
-    <id>https://github.com/chrismwilliams/astro-theme-cactus</id>
+    <id>https://github.com/chrismwilliams/astro-theme-cactus#1735211242</id>
     <title>https://github.com/chrismwilliams/astro-theme-cactus</title>
     <link href="https://github.com/chrismwilliams/astro-theme-cactus" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
+    <updated>2024-12-26T11:07:22+00:00</updated>
     <content type="text">A simple Astro theme. Use it to create your blog or website.</content>
   </entry>
   <entry>
-    <id>https://github.com/satnaing/astro-paper</id>
-    <title>https://github.com/satnaing/astro-paper</title>
-    <link href="https://github.com/satnaing/astro-paper" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
-    <content type="text">A minimal, accessible and SEO-friendly Astro blog theme</content>
-  </entry>
-  <entry>
-    <id>https://github.com/saicaca/fuwari</id>
-    <title>https://github.com/saicaca/fuwari</title>
-    <link href="https://github.com/saicaca/fuwari" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
-    <content type="text">✨A static blog template built with Astro.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/danielcgilibert/blog-template</id>
-    <title>https://github.com/danielcgilibert/blog-template</title>
-    <link href="https://github.com/danielcgilibert/blog-template" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
-    <content type="text">📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/onwidget/astrowind</id>
+    <id>https://github.com/onwidget/astrowind#1735211242</id>
     <title>https://github.com/onwidget/astrowind</title>
     <link href="https://github.com/onwidget/astrowind" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
+    <updated>2024-12-26T11:07:22+00:00</updated>
     <content type="text">⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.</content>
   </entry>
   <entry>
-    <id>https://github.com/ColorlibHQ/AdminLTE</id>
-    <title>https://github.com/ColorlibHQ/AdminLTE</title>
-    <link href="https://github.com/ColorlibHQ/AdminLTE" />
-    <updated>2024-12-26T04:03:22+00:00</updated>
-    <content type="text">AdminLTE - Free admin dashboard template based on Bootstrap 5</content>
+    <id>https://github.com/JustGoodUI/dante-astro-theme#1735211242</id>
+    <title>https://github.com/JustGoodUI/dante-astro-theme</title>
+    <link href="https://github.com/JustGoodUI/dante-astro-theme" />
+    <updated>2024-12-26T11:07:22+00:00</updated>
+    <content type="text">Dante, a single-author blog and portfolio theme for Astro.js.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lissy93/awesome-privacy#1735211242</id>
+    <title>https://github.com/Lissy93/awesome-privacy</title>
+    <link href="https://github.com/Lissy93/awesome-privacy" />
+    <updated>2024-12-26T11:07:22+00:00</updated>
+    <content type="text">🦄 A curated list of privacy &amp; security-focused software and services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/saicaca/fuwari#1735211242</id>
+    <title>https://github.com/saicaca/fuwari</title>
+    <link href="https://github.com/saicaca/fuwari" />
+    <updated>2024-12-26T11:07:22+00:00</updated>
+    <content type="text">✨A static blog template built with Astro.</content>
   </entry>
 </feed>

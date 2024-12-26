@@ -4,43 +4,57 @@
   <title>GitHub Treanding - batchfile (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/batchfile/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/batchfile/" rel="alternate" />
-  <updated>2024-12-26T04:03:41+00:00</updated>
+  <updated>2024-12-26T11:07:45+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/AveYo/MediaCreationTool.bat</id>
-    <title>https://github.com/AveYo/MediaCreationTool.bat</title>
-    <link href="https://github.com/AveYo/MediaCreationTool.bat" />
-    <updated>2024-12-26T04:03:41+00:00</updated>
-    <content type="text">Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!</content>
+    <id>https://github.com/TheBATeam/Batch-WI-FI-Brute-Forcer#1735211265</id>
+    <title>https://github.com/TheBATeam/Batch-WI-FI-Brute-Forcer</title>
+    <link href="https://github.com/TheBATeam/Batch-WI-FI-Brute-Forcer" />
+    <updated>2024-12-26T11:07:45+00:00</updated>
+    <content type="text">This project is based upon the trick that, how to hack WI-FI with CMD. The main purpose behind, creating wifi hacking tool with cmd tool is to make everyone aware that how easy it is to break a simple password. And, motivate them to keep some complex passwords – to keep them protected against it.</content>
   </entry>
   <entry>
-    <id>https://github.com/ionuttbara/windows-defender-remover</id>
-    <title>https://github.com/ionuttbara/windows-defender-remover</title>
-    <link href="https://github.com/ionuttbara/windows-defender-remover" />
-    <updated>2024-12-26T04:03:41+00:00</updated>
-    <content type="text">A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</content>
+    <id>https://github.com/StunlockStudios/vrising-dedicated-server-instructions#1735211265</id>
+    <title>https://github.com/StunlockStudios/vrising-dedicated-server-instructions</title>
+    <link href="https://github.com/StunlockStudios/vrising-dedicated-server-instructions" />
+    <updated>2024-12-26T11:07:45+00:00</updated>
+    <content type="text">V Rising Dedicated Server Instructions</content>
   </entry>
   <entry>
-    <id>https://github.com/redis-windows/redis-windows</id>
-    <title>https://github.com/redis-windows/redis-windows</title>
-    <link href="https://github.com/redis-windows/redis-windows" />
-    <updated>2024-12-26T04:03:41+00:00</updated>
-    <content type="text">Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows</content>
+    <id>https://github.com/Alex313031/Thorium-Win#1735211265</id>
+    <title>https://github.com/Alex313031/Thorium-Win</title>
+    <link href="https://github.com/Alex313031/Thorium-Win" />
+    <updated>2024-12-26T11:07:45+00:00</updated>
+    <content type="text">Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium</content>
   </entry>
   <entry>
-    <id>https://github.com/enhorse/java-interview</id>
+    <id>https://github.com/PaperMC/Folia#1735211265</id>
+    <title>https://github.com/PaperMC/Folia</title>
+    <link href="https://github.com/PaperMC/Folia" />
+    <updated>2024-12-26T11:07:45+00:00</updated>
+    <content type="text">Fork of Paper which adds regionised multithreading to the dedicated server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lstprjct/IDM-Activation-Script#1735211265</id>
+    <title>https://github.com/lstprjct/IDM-Activation-Script</title>
+    <link href="https://github.com/lstprjct/IDM-Activation-Script" />
+    <updated>2024-12-26T11:07:45+00:00</updated>
+    <content type="text">IDM Activation &amp; Trail Reset Script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/enhorse/java-interview#1735211265</id>
     <title>https://github.com/enhorse/java-interview</title>
     <link href="https://github.com/enhorse/java-interview" />
-    <updated>2024-12-26T04:03:41+00:00</updated>
+    <updated>2024-12-26T11:07:45+00:00</updated>
     <content type="text">Вопросы и ответы к интервью Java разработчика</content>
   </entry>
   <entry>
-    <id>https://github.com/RockBlack-VPN/ip-address</id>
+    <id>https://github.com/RockBlack-VPN/ip-address#1735211265</id>
     <title>https://github.com/RockBlack-VPN/ip-address</title>
     <link href="https://github.com/RockBlack-VPN/ip-address" />
-    <updated>2024-12-26T04:03:41+00:00</updated>
+    <updated>2024-12-26T11:07:45+00:00</updated>
     <content type="text">ip address - Youtube, Instagtam, Twitter, Netflix</content>
   </entry>
 </feed>

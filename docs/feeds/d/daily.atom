@@ -4,29 +4,22 @@
   <title>GitHub Treanding - d (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/d/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/d/" rel="alternate" />
-  <updated>2024-12-26T04:06:24+00:00</updated>
+  <updated>2024-12-26T11:10:57+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Dadoum/anisette-v3-server</id>
-    <title>https://github.com/Dadoum/anisette-v3-server</title>
-    <link href="https://github.com/Dadoum/anisette-v3-server" />
-    <updated>2024-12-26T04:06:24+00:00</updated>
-    <content type="text">sidestore's anisette-v3 compatible server</content>
+    <id>https://github.com/abraunegg/onedrive#1735211457</id>
+    <title>https://github.com/abraunegg/onedrive</title>
+    <link href="https://github.com/abraunegg/onedrive" />
+    <updated>2024-12-26T11:10:57+00:00</updated>
+    <content type="text">OneDrive Client for Linux</content>
   </entry>
   <entry>
-    <id>https://github.com/gnunn1/tilix</id>
-    <title>https://github.com/gnunn1/tilix</title>
-    <link href="https://github.com/gnunn1/tilix" />
-    <updated>2024-12-26T04:06:24+00:00</updated>
-    <content type="text">A tiling terminal emulator for Linux using GTK+ 3</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dlang/dmd</id>
+    <id>https://github.com/dlang/dmd#1735211457</id>
     <title>https://github.com/dlang/dmd</title>
     <link href="https://github.com/dlang/dmd" />
-    <updated>2024-12-26T04:06:24+00:00</updated>
+    <updated>2024-12-26T11:10:57+00:00</updated>
     <content type="text">dmd D Programming Language compiler</content>
   </entry>
 </feed>

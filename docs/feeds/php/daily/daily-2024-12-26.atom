@@ -4,162 +4,141 @@
   <title>GitHub Treanding - php (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/php/" rel="alternate" />
-  <updated>2024-12-26T04:16:52+00:00</updated>
+  <updated>2024-12-26T11:24:10+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/YOURLS/YOURLS</id>
-    <title>https://github.com/YOURLS/YOURLS</title>
-    <link href="https://github.com/YOURLS/YOURLS" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">🔗 The de facto standard self hosted URL shortener in PHP</content>
+    <id>https://github.com/jhedstrom/DrupalDriver#1735212250</id>
+    <title>https://github.com/jhedstrom/DrupalDriver</title>
+    <link href="https://github.com/jhedstrom/DrupalDriver" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">A collection of drivers for controlling Drupal.</content>
   </entry>
   <entry>
-    <id>https://github.com/fuzzdb-project/fuzzdb</id>
-    <title>https://github.com/fuzzdb-project/fuzzdb</title>
-    <link href="https://github.com/fuzzdb-project/fuzzdb" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.</content>
+    <id>https://github.com/ZoneMinder/zoneminder#1735212250</id>
+    <title>https://github.com/ZoneMinder/zoneminder</title>
+    <link href="https://github.com/ZoneMinder/zoneminder" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.</content>
   </entry>
   <entry>
-    <id>https://github.com/vitodeploy/vito</id>
-    <title>https://github.com/vitodeploy/vito</title>
-    <link href="https://github.com/vitodeploy/vito" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Free and Self-Hosted Server Management Tool</content>
+    <id>https://github.com/ellite/Wallos#1735212250</id>
+    <title>https://github.com/ellite/Wallos</title>
+    <link href="https://github.com/ellite/Wallos" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">Wallos: Open-Source Personal Subscription Tracker</content>
   </entry>
   <entry>
-    <id>https://github.com/tymondesigns/jwt-auth</id>
-    <title>https://github.com/tymondesigns/jwt-auth</title>
-    <link href="https://github.com/tymondesigns/jwt-auth" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">🔐 JSON Web Token Authentication for Laravel &amp; Lumen</content>
+    <id>https://github.com/wizwizdev/wizwizxui-timebot#1735212250</id>
+    <title>https://github.com/wizwizdev/wizwizxui-timebot</title>
+    <link href="https://github.com/wizwizdev/wizwizxui-timebot" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">Bot showing the volume and remaining subscription x-ui panel</content>
   </entry>
   <entry>
-    <id>https://github.com/nikic/PHP-Parser</id>
-    <title>https://github.com/nikic/PHP-Parser</title>
-    <link href="https://github.com/nikic/PHP-Parser" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">A PHP parser written in PHP</content>
-  </entry>
-  <entry>
-    <id>https://github.com/spatie/laravel-permission</id>
-    <title>https://github.com/spatie/laravel-permission</title>
-    <link href="https://github.com/spatie/laravel-permission" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Associate users with roles and permissions</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Sylius/Sylius-Standard</id>
-    <title>https://github.com/Sylius/Sylius-Standard</title>
-    <link href="https://github.com/Sylius/Sylius-Standard" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Open Source eCommerce Application on top of Symfony</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pterodactyl/panel</id>
-    <title>https://github.com/pterodactyl/panel</title>
-    <link href="https://github.com/pterodactyl/panel" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/filamentphp/filament</id>
-    <title>https://github.com/filamentphp/filament</title>
-    <link href="https://github.com/filamentphp/filament" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/lunarphp/lunar</id>
-    <title>https://github.com/lunarphp/lunar</title>
-    <link href="https://github.com/lunarphp/lunar" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">An open-source package that brings the power of modern headless e-commerce functionality to Laravel.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/endroid/qr-code</id>
-    <title>https://github.com/endroid/qr-code</title>
-    <link href="https://github.com/endroid/qr-code" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">QR Code Generator</content>
-  </entry>
-  <entry>
-    <id>https://github.com/filamentphp/demo</id>
-    <title>https://github.com/filamentphp/demo</title>
-    <link href="https://github.com/filamentphp/demo" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Source code for the demo.filamentphp.com website.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PrestaShop/PrestaShop</id>
-    <title>https://github.com/PrestaShop/PrestaShop</title>
-    <link href="https://github.com/PrestaShop/PrestaShop" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">PrestaShop is the universal open-source software platform to build your e-commerce solution.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/typecho/typecho</id>
-    <title>https://github.com/typecho/typecho</title>
-    <link href="https://github.com/typecho/typecho" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">A PHP Blogging Platform. Simple and Powerful.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/wallabag/wallabag</id>
-    <title>https://github.com/wallabag/wallabag</title>
-    <link href="https://github.com/wallabag/wallabag" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/assimon/dujiaoka</id>
-    <title>https://github.com/assimon/dujiaoka</title>
-    <link href="https://github.com/assimon/dujiaoka" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nextcloud/all-in-one</id>
-    <title>https://github.com/nextcloud/all-in-one</title>
-    <link href="https://github.com/nextcloud/all-in-one" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cedar2025/Xboard</id>
+    <id>https://github.com/cedar2025/Xboard#1735212250</id>
     <title>https://github.com/cedar2025/Xboard</title>
     <link href="https://github.com/cedar2025/Xboard" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
+    <updated>2024-12-26T11:24:10+00:00</updated>
     <content type="text">基于V2board二次开发支持新协议新特性的高性能面板</content>
   </entry>
   <entry>
-    <id>https://github.com/barryvdh/laravel-debugbar</id>
-    <title>https://github.com/barryvdh/laravel-debugbar</title>
-    <link href="https://github.com/barryvdh/laravel-debugbar" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Debugbar for Laravel (Integrates PHP Debug Bar)</content>
+    <id>https://github.com/filamentphp/filament#1735212250</id>
+    <title>https://github.com/filamentphp/filament</title>
+    <link href="https://github.com/filamentphp/filament" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.</content>
   </entry>
   <entry>
-    <id>https://github.com/DenverCoder1/github-readme-streak-stats</id>
-    <title>https://github.com/DenverCoder1/github-readme-streak-stats</title>
-    <link href="https://github.com/DenverCoder1/github-readme-streak-stats" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README</content>
+    <id>https://github.com/Sylius/Sylius#1735212250</id>
+    <title>https://github.com/Sylius/Sylius</title>
+    <link href="https://github.com/Sylius/Sylius" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">Open Source eCommerce Framework on Symfony</content>
   </entry>
   <entry>
-    <id>https://github.com/danielmiessler/SecLists</id>
-    <title>https://github.com/danielmiessler/SecLists</title>
-    <link href="https://github.com/danielmiessler/SecLists" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</content>
+    <id>https://github.com/guzzle/guzzle#1735212250</id>
+    <title>https://github.com/guzzle/guzzle</title>
+    <link href="https://github.com/guzzle/guzzle" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">Guzzle, an extensible PHP HTTP client</content>
   </entry>
   <entry>
-    <id>https://github.com/akaunting/akaunting</id>
-    <title>https://github.com/akaunting/akaunting</title>
-    <link href="https://github.com/akaunting/akaunting" />
-    <updated>2024-12-26T04:16:52+00:00</updated>
-    <content type="text">Online Accounting Software</content>
+    <id>https://github.com/EC-CUBE/ec-cube#1735212250</id>
+    <title>https://github.com/EC-CUBE/ec-cube</title>
+    <link href="https://github.com/EC-CUBE/ec-cube" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">EC-CUBE is the most popular e-commerce solution in Japan</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencart/opencart#1735212250</id>
+    <title>https://github.com/opencart/opencart</title>
+    <link href="https://github.com/opencart/opencart" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fuzzdb-project/fuzzdb#1735212250</id>
+    <title>https://github.com/fuzzdb-project/fuzzdb</title>
+    <link href="https://github.com/fuzzdb-project/fuzzdb" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/monicahq/monica#1735212250</id>
+    <title>https://github.com/monicahq/monica</title>
+    <link href="https://github.com/monicahq/monica" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">Personal CRM. Remember everything about your friends, family and business relationships.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nikic/PHP-Parser#1735212250</id>
+    <title>https://github.com/nikic/PHP-Parser</title>
+    <link href="https://github.com/nikic/PHP-Parser" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">A PHP parser written in PHP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typecho/typecho#1735212250</id>
+    <title>https://github.com/typecho/typecho</title>
+    <link href="https://github.com/typecho/typecho" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">A PHP Blogging Platform. Simple and Powerful.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magicblack/maccms10#1735212250</id>
+    <title>https://github.com/magicblack/maccms10</title>
+    <link href="https://github.com/magicblack/maccms10" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/all-in-one#1735212250</id>
+    <title>https://github.com/nextcloud/all-in-one</title>
+    <link href="https://github.com/nextcloud/all-in-one" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openmediavault/openmediavault#1735212250</id>
+    <title>https://github.com/openmediavault/openmediavault</title>
+    <link href="https://github.com/openmediavault/openmediavault" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/assimon/dujiaoka#1735212250</id>
+    <title>https://github.com/assimon/dujiaoka</title>
+    <link href="https://github.com/assimon/dujiaoka" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firefly-iii/firefly-iii#1735212250</id>
+    <title>https://github.com/firefly-iii/firefly-iii</title>
+    <link href="https://github.com/firefly-iii/firefly-iii" />
+    <updated>2024-12-26T11:24:10+00:00</updated>
+    <content type="text">Firefly III: a personal finances manager</content>
   </entry>
 </feed>

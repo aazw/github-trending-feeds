@@ -4,29 +4,29 @@
   <title>GitHub Treanding - open-policy-agent (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/open-policy-agent/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/open-policy-agent/" rel="alternate" />
-  <updated>2024-12-26T04:16:04+00:00</updated>
+  <updated>2024-12-26T11:23:08+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/open-telemetry/semantic-conventions</id>
-    <title>https://github.com/open-telemetry/semantic-conventions</title>
-    <link href="https://github.com/open-telemetry/semantic-conventions" />
-    <updated>2024-12-26T04:16:04+00:00</updated>
-    <content type="text">Defines standards for generating consistent, accessible telemetry across a variety of domains</content>
+    <id>https://github.com/Checkmarx/kics#1735212188</id>
+    <title>https://github.com/Checkmarx/kics</title>
+    <link href="https://github.com/Checkmarx/kics" />
+    <updated>2024-12-26T11:23:08+00:00</updated>
+    <content type="text">Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.</content>
   </entry>
   <entry>
-    <id>https://github.com/open-policy-agent/gatekeeper-library</id>
+    <id>https://github.com/open-policy-agent/gatekeeper-library#1735212188</id>
     <title>https://github.com/open-policy-agent/gatekeeper-library</title>
     <link href="https://github.com/open-policy-agent/gatekeeper-library" />
-    <updated>2024-12-26T04:16:04+00:00</updated>
+    <updated>2024-12-26T11:23:08+00:00</updated>
     <content type="text">📚 The OPA Gatekeeper policy library</content>
   </entry>
   <entry>
-    <id>https://github.com/aquasecurity/trivy-checks</id>
+    <id>https://github.com/aquasecurity/trivy-checks#1735212188</id>
     <title>https://github.com/aquasecurity/trivy-checks</title>
     <link href="https://github.com/aquasecurity/trivy-checks" />
-    <updated>2024-12-26T04:16:04+00:00</updated>
+    <updated>2024-12-26T11:23:08+00:00</updated>
     <content type="text" />
   </entry>
 </feed>

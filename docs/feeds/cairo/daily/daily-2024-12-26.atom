@@ -4,15 +4,15 @@
   <title>GitHub Treanding - cairo (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/cairo/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/cairo/" rel="alternate" />
-  <updated>2024-12-26T04:04:45+00:00</updated>
+  <updated>2024-12-26T11:08:53+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/kkrt-labs/kakarot</id>
+    <id>https://github.com/kkrt-labs/kakarot#1735211333</id>
     <title>https://github.com/kkrt-labs/kakarot</title>
     <link href="https://github.com/kkrt-labs/kakarot" />
-    <updated>2024-12-26T04:04:45+00:00</updated>
+    <updated>2024-12-26T11:08:53+00:00</updated>
     <content type="text">Kakarot is a zkEVM written in Cairo, leveraging the STARK proof system.</content>
   </entry>
 </feed>

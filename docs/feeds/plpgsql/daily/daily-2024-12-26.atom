@@ -4,43 +4,36 @@
   <title>GitHub Treanding - plpgsql (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/plpgsql/" rel="alternate" />
-  <updated>2024-12-26T04:17:09+00:00</updated>
+  <updated>2024-12-26T11:24:33+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pgpartman/pg_partman</id>
-    <title>https://github.com/pgpartman/pg_partman</title>
-    <link href="https://github.com/pgpartman/pg_partman" />
-    <updated>2024-12-26T04:17:09+00:00</updated>
-    <content type="text">Partition management extension for PostgreSQL</content>
+    <id>https://github.com/theory/pgtap#1735212273</id>
+    <title>https://github.com/theory/pgtap</title>
+    <link href="https://github.com/theory/pgtap" />
+    <updated>2024-12-26T11:24:33+00:00</updated>
+    <content type="text">PostgreSQL Unit Testing Suite</content>
   </entry>
   <entry>
-    <id>https://github.com/openmaptiles/openmaptiles</id>
-    <title>https://github.com/openmaptiles/openmaptiles</title>
-    <link href="https://github.com/openmaptiles/openmaptiles" />
-    <updated>2024-12-26T04:17:09+00:00</updated>
-    <content type="text">OpenMapTiles Vector Tile Schema Implementation</content>
+    <id>https://github.com/tembo-io/pgmq#1735212273</id>
+    <title>https://github.com/tembo-io/pgmq</title>
+    <link href="https://github.com/tembo-io/pgmq" />
+    <updated>2024-12-26T11:24:33+00:00</updated>
+    <content type="text">A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</content>
   </entry>
   <entry>
-    <id>https://github.com/TryGhost/node-sqlite3</id>
-    <title>https://github.com/TryGhost/node-sqlite3</title>
-    <link href="https://github.com/TryGhost/node-sqlite3" />
-    <updated>2024-12-26T04:17:09+00:00</updated>
-    <content type="text">SQLite3 bindings for Node.js</content>
-  </entry>
-  <entry>
-    <id>https://github.com/timescale/pgai</id>
+    <id>https://github.com/timescale/pgai#1735212273</id>
     <title>https://github.com/timescale/pgai</title>
     <link href="https://github.com/timescale/pgai" />
-    <updated>2024-12-26T04:17:09+00:00</updated>
+    <updated>2024-12-26T11:24:33+00:00</updated>
     <content type="text">A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL</content>
   </entry>
   <entry>
-    <id>https://github.com/digoal/blog</id>
+    <id>https://github.com/digoal/blog#1735212273</id>
     <title>https://github.com/digoal/blog</title>
     <link href="https://github.com/digoal/blog" />
-    <updated>2024-12-26T04:17:09+00:00</updated>
+    <updated>2024-12-26T11:24:33+00:00</updated>
     <content type="text">Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog</content>
   </entry>
 </feed>

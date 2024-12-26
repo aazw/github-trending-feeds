@@ -4,29 +4,22 @@
   <title>GitHub Treanding - restructuredtext (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/restructuredtext/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/restructuredtext/" rel="alternate" />
-  <updated>2024-12-26T04:18:58+00:00</updated>
+  <updated>2024-12-26T11:26:48+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/odoo/documentation</id>
+    <id>https://github.com/odoo/documentation#1735212408</id>
     <title>https://github.com/odoo/documentation</title>
     <link href="https://github.com/odoo/documentation" />
-    <updated>2024-12-26T04:18:58+00:00</updated>
+    <updated>2024-12-26T11:26:48+00:00</updated>
     <content type="text">Odoo documentation sources</content>
   </entry>
   <entry>
-    <id>https://github.com/python/peps</id>
-    <title>https://github.com/python/peps</title>
-    <link href="https://github.com/python/peps" />
-    <updated>2024-12-26T04:18:58+00:00</updated>
-    <content type="text">Python Enhancement Proposals</content>
-  </entry>
-  <entry>
-    <id>https://github.com/godotengine/godot-docs</id>
+    <id>https://github.com/godotengine/godot-docs#1735212408</id>
     <title>https://github.com/godotengine/godot-docs</title>
     <link href="https://github.com/godotengine/godot-docs" />
-    <updated>2024-12-26T04:18:58+00:00</updated>
+    <updated>2024-12-26T11:26:48+00:00</updated>
     <content type="text">Godot Engine official documentation</content>
   </entry>
 </feed>

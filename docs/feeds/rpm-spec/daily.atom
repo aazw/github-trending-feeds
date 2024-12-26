@@ -4,15 +4,15 @@
   <title>GitHub Treanding - rpm-spec (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rpm-spec/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rpm-spec/" rel="alternate" />
-  <updated>2024-12-26T04:19:27+00:00</updated>
+  <updated>2024-12-26T11:27:24+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/microsoft/azurelinux</id>
+    <id>https://github.com/microsoft/azurelinux#1735212444</id>
     <title>https://github.com/microsoft/azurelinux</title>
     <link href="https://github.com/microsoft/azurelinux" />
-    <updated>2024-12-26T04:19:27+00:00</updated>
+    <updated>2024-12-26T11:27:24+00:00</updated>
     <content type="text">Linux OS for Azure 1P services and edge appliances</content>
   </entry>
 </feed>

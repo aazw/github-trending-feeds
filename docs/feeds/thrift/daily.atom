@@ -4,22 +4,8 @@
   <title>GitHub Treanding - thrift (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/thrift/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/thrift/" rel="alternate" />
-  <updated>2024-12-26T04:21:52+00:00</updated>
+  <updated>2024-12-26T11:30:33+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/apache/parquet-format</id>
-    <title>https://github.com/apache/parquet-format</title>
-    <link href="https://github.com/apache/parquet-format" />
-    <updated>2024-12-26T04:21:52+00:00</updated>
-    <content type="text">Apache Parquet Format</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jaegertracing/jaeger-idl</id>
-    <title>https://github.com/jaegertracing/jaeger-idl</title>
-    <link href="https://github.com/jaegertracing/jaeger-idl" />
-    <updated>2024-12-26T04:21:52+00:00</updated>
-    <content type="text">A set of shared data model definitions used by Jaeger components.</content>
-  </entry>
 </feed>

@@ -4,15 +4,15 @@
   <title>GitHub Treanding - text (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/text/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/text/" rel="alternate" />
-  <updated>2024-12-26T04:21:46+00:00</updated>
+  <updated>2024-12-26T11:30:25+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/DSPBluePrints/FactoryBluePrints</id>
+    <id>https://github.com/DSPBluePrints/FactoryBluePrints#1735212625</id>
     <title>https://github.com/DSPBluePrints/FactoryBluePrints</title>
     <link href="https://github.com/DSPBluePrints/FactoryBluePrints" />
-    <updated>2024-12-26T04:21:46+00:00</updated>
+    <updated>2024-12-26T11:30:25+00:00</updated>
     <content type="text">游戏戴森球计划的**工厂**蓝图仓库</content>
   </entry>
 </feed>

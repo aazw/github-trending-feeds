@@ -4,29 +4,22 @@
   <title>GitHub Treanding - just (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/just/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/just/" rel="alternate" />
-  <updated>2024-12-26T04:11:47+00:00</updated>
+  <updated>2024-12-26T11:17:44+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pop-os/cosmic-epoch</id>
-    <title>https://github.com/pop-os/cosmic-epoch</title>
-    <link href="https://github.com/pop-os/cosmic-epoch" />
-    <updated>2024-12-26T04:11:47+00:00</updated>
-    <content type="text">Next generation Cosmic desktop environment</content>
-  </entry>
-  <entry>
-    <id>https://github.com/catppuccin/warp</id>
-    <title>https://github.com/catppuccin/warp</title>
-    <link href="https://github.com/catppuccin/warp" />
-    <updated>2024-12-26T04:11:47+00:00</updated>
-    <content type="text">⚡ Soothing pastel theme for Warp</content>
-  </entry>
-  <entry>
-    <id>https://github.com/secureblue/secureblue</id>
+    <id>https://github.com/secureblue/secureblue#1735211864</id>
     <title>https://github.com/secureblue/secureblue</title>
     <link href="https://github.com/secureblue/secureblue" />
-    <updated>2024-12-26T04:11:47+00:00</updated>
+    <updated>2024-12-26T11:17:44+00:00</updated>
     <content type="text">Hardened Fedora Atomic and Fedora CoreOS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pop-os/cosmic-epoch#1735211864</id>
+    <title>https://github.com/pop-os/cosmic-epoch</title>
+    <link href="https://github.com/pop-os/cosmic-epoch" />
+    <updated>2024-12-26T11:17:44+00:00</updated>
+    <content type="text">Next generation Cosmic desktop environment</content>
   </entry>
 </feed>

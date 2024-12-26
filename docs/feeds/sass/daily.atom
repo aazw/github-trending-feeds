@@ -4,22 +4,15 @@
   <title>GitHub Treanding - sass (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/sass/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/sass/" rel="alternate" />
-  <updated>2024-12-26T04:19:39+00:00</updated>
+  <updated>2024-12-26T11:27:41+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/heroku/boomerang</id>
-    <title>https://github.com/heroku/boomerang</title>
-    <link href="https://github.com/heroku/boomerang" />
-    <updated>2024-12-26T04:19:39+00:00</updated>
-    <content type="text">Boomerang is a JavaScript widget that gives users a way back to Heroku from Addon provider sites.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/readthedocs/sphinx_rtd_theme</id>
+    <id>https://github.com/readthedocs/sphinx_rtd_theme#1735212461</id>
     <title>https://github.com/readthedocs/sphinx_rtd_theme</title>
     <link href="https://github.com/readthedocs/sphinx_rtd_theme" />
-    <updated>2024-12-26T04:19:39+00:00</updated>
+    <updated>2024-12-26T11:27:41+00:00</updated>
     <content type="text">Sphinx theme from Read the Docs</content>
   </entry>
 </feed>

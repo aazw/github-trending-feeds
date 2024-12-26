@@ -4,15 +4,15 @@
   <title>GitHub Treanding - agda (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/agda/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/agda/" rel="alternate" />
-  <updated>2024-12-26T04:02:38+00:00</updated>
+  <updated>2024-12-26T11:06:29+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/agda/agda-stdlib</id>
+    <id>https://github.com/agda/agda-stdlib#1735211189</id>
     <title>https://github.com/agda/agda-stdlib</title>
     <link href="https://github.com/agda/agda-stdlib" />
-    <updated>2024-12-26T04:02:38+00:00</updated>
+    <updated>2024-12-26T11:06:29+00:00</updated>
     <content type="text">The Agda standard library</content>
   </entry>
 </feed>

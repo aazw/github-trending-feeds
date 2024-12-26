@@ -4,15 +4,29 @@
   <title>GitHub Treanding - matlab (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/" rel="alternate" />
-  <updated>2024-12-26T04:13:33+00:00</updated>
+  <updated>2024-12-26T11:19:50+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/TadasBaltrusaitis/OpenFace</id>
+    <id>https://github.com/BIMK/PlatEMO#1735211990</id>
+    <title>https://github.com/BIMK/PlatEMO</title>
+    <link href="https://github.com/BIMK/PlatEMO" />
+    <updated>2024-12-26T11:19:50+00:00</updated>
+    <content type="text">Evolutionary multi-objective optimization platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fieldtrip/fieldtrip#1735211990</id>
+    <title>https://github.com/fieldtrip/fieldtrip</title>
+    <link href="https://github.com/fieldtrip/fieldtrip" />
+    <updated>2024-12-26T11:19:50+00:00</updated>
+    <content type="text">The MATLAB toolbox for MEG, EEG and iEEG analysis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TadasBaltrusaitis/OpenFace#1735211990</id>
     <title>https://github.com/TadasBaltrusaitis/OpenFace</title>
     <link href="https://github.com/TadasBaltrusaitis/OpenFace" />
-    <updated>2024-12-26T04:13:33+00:00</updated>
+    <updated>2024-12-26T11:19:50+00:00</updated>
     <content type="text">OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.</content>
   </entry>
 </feed>

@@ -1,11 +1,172 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
-  <title>GitHub Treanding - c++</title>
+  <title>GitHub Treanding - c++ (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/" rel="alternate" />
-  <updated>2024-12-25T15:38:44+00:00</updated>
+  <updated>2024-12-26T11:08:39+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/HKUST-Aerial-Robotics/VINS-Fusion#1735211319</id>
+    <title>https://github.com/HKUST-Aerial-Robotics/VINS-Fusion</title>
+    <link href="https://github.com/HKUST-Aerial-Robotics/VINS-Fusion" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">An optimization-based multi-sensor state estimator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocornut/imgui#1735211319</id>
+    <title>https://github.com/ocornut/imgui</title>
+    <link href="https://github.com/ocornut/imgui" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/telegramdesktop/tdesktop#1735211319</id>
+    <title>https://github.com/telegramdesktop/tdesktop</title>
+    <link href="https://github.com/telegramdesktop/tdesktop" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">Telegram Desktop messaging app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware.universe#1735211319</id>
+    <title>https://github.com/autowarefoundation/autoware.universe</title>
+    <link href="https://github.com/autowarefoundation/autoware.universe" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/rocksdb#1735211319</id>
+    <title>https://github.com/facebook/rocksdb</title>
+    <link href="https://github.com/facebook/rocksdb" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">A library that provides an embeddable, persistent key-value store for fast storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BYVoid/OpenCC#1735211319</id>
+    <title>https://github.com/BYVoid/OpenCC</title>
+    <link href="https://github.com/BYVoid/OpenCC" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">Conversion between Traditional and Simplified Chinese</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ydb-platform/ydb#1735211319</id>
+    <title>https://github.com/ydb-platform/ydb</title>
+    <link href="https://github.com/ydb-platform/ydb" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/transmission/transmission#1735211319</id>
+    <title>https://github.com/transmission/transmission</title>
+    <link href="https://github.com/transmission/transmission" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">Official Transmission BitTorrent client repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TrinityCore/TrinityCore#1735211319</id>
+    <title>https://github.com/TrinityCore/TrinityCore</title>
+    <link href="https://github.com/TrinityCore/TrinityCore" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">TrinityCore Open Source MMO Framework (master = 11.0.7.58238, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.1.57916)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ExpressLRS/ExpressLRS#1735211319</id>
+    <title>https://github.com/ExpressLRS/ExpressLRS</title>
+    <link href="https://github.com/ExpressLRS/ExpressLRS" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">ESP32/ESP8285-based High-Performance Radio Link for RC applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/organicmaps/organicmaps#1735211319</id>
+    <title>https://github.com/organicmaps/organicmaps</title>
+    <link href="https://github.com/organicmaps/organicmaps" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">🍃 Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ton-blockchain/ton#1735211319</id>
+    <title>https://github.com/ton-blockchain/ton</title>
+    <link href="https://github.com/ton-blockchain/ton" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">Main TON monorepo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qinguoyi/TinyWebServer#1735211319</id>
+    <title>https://github.com/qinguoyi/TinyWebServer</title>
+    <link href="https://github.com/qinguoyi/TinyWebServer" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">🔥 Linux下C++轻量级WebServer服务器</content>
+  </entry>
+  <entry>
+    <id>https://github.com/baldurk/renderdoc#1735211319</id>
+    <title>https://github.com/baldurk/renderdoc</title>
+    <link href="https://github.com/baldurk/renderdoc" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">RenderDoc is a stand-alone graphics debugging tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doitsujin/dxvk#1735211319</id>
+    <title>https://github.com/doitsujin/dxvk</title>
+    <link href="https://github.com/doitsujin/dxvk" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AlexandreRouma/SDRPlusPlus#1735211319</id>
+    <title>https://github.com/AlexandreRouma/SDRPlusPlus</title>
+    <link href="https://github.com/AlexandreRouma/SDRPlusPlus" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">Cross-Platform SDR Software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ArthurSonzogni/FTXUI#1735211319</id>
+    <title>https://github.com/ArthurSonzogni/FTXUI</title>
+    <link href="https://github.com/ArthurSonzogni/FTXUI" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">💻 C++ Functional Terminal User Interface. ❤️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EsotericSoftware/spine-runtimes#1735211319</id>
+    <title>https://github.com/EsotericSoftware/spine-runtimes</title>
+    <link href="https://github.com/EsotericSoftware/spine-runtimes" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">2D skeletal animation runtimes for Spine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cutlass#1735211319</id>
+    <title>https://github.com/NVIDIA/cutlass</title>
+    <link href="https://github.com/NVIDIA/cutlass" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">CUDA Templates for Linear Algebra Subroutines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/MNN#1735211319</id>
+    <title>https://github.com/alibaba/MNN</title>
+    <link href="https://github.com/alibaba/MNN" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadps4-emu/shadPS4#1735211319</id>
+    <title>https://github.com/shadps4-emu/shadPS4</title>
+    <link href="https://github.com/shadps4-emu/shadPS4" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">PS4 emulator for Windows,Linux,MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FastLED/FastLED#1735211319</id>
+    <title>https://github.com/FastLED/FastLED</title>
+    <link href="https://github.com/FastLED/FastLED" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oceanbase/oceanbase#1735211319</id>
+    <title>https://github.com/oceanbase/oceanbase</title>
+    <link href="https://github.com/oceanbase/oceanbase" />
+    <updated>2024-12-26T11:08:39+00:00</updated>
+    <content type="text">OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</content>
+  </entry>
 </feed>

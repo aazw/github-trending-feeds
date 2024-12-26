@@ -4,92 +4,78 @@
   <title>GitHub Treanding - bitbake (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/" rel="alternate" />
-  <updated>2024-12-26T04:03:57+00:00</updated>
+  <updated>2024-12-26T11:08:02+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Xilinx/meta-xilinx</id>
-    <title>https://github.com/Xilinx/meta-xilinx</title>
-    <link href="https://github.com/Xilinx/meta-xilinx" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">Collection of Yocto Project layers to enable AMD Xilinx products</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ros/meta-ros</id>
-    <title>https://github.com/ros/meta-ros</title>
-    <link href="https://github.com/ros/meta-ros" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">OpenEmbedded Layers for ROS 1 and ROS 2</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OE4T/meta-tegra</id>
-    <title>https://github.com/OE4T/meta-tegra</title>
-    <link href="https://github.com/OE4T/meta-tegra" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Freescale/meta-freescale-3rdparty</id>
-    <title>https://github.com/Freescale/meta-freescale-3rdparty</title>
-    <link href="https://github.com/Freescale/meta-freescale-3rdparty" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kraj/meta-openwrt</id>
-    <title>https://github.com/kraj/meta-openwrt</title>
-    <link href="https://github.com/kraj/meta-openwrt" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">OE/Yocto metadata layer for OpenWRT</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openembedded/openembedded-core</id>
-    <title>https://github.com/openembedded/openembedded-core</title>
-    <link href="https://github.com/openembedded/openembedded-core" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rust-embedded/meta-rust-bin</id>
-    <title>https://github.com/rust-embedded/meta-rust-bin</title>
-    <link href="https://github.com/rust-embedded/meta-rust-bin" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Freescale/meta-freescale</id>
-    <title>https://github.com/Freescale/meta-freescale</title>
-    <link href="https://github.com/Freescale/meta-freescale" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">Layer containing NXP hardware support metadata</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openembedded/meta-openembedded</id>
+    <id>https://github.com/openembedded/meta-openembedded#1735211282</id>
     <title>https://github.com/openembedded/meta-openembedded</title>
     <link href="https://github.com/openembedded/meta-openembedded" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
+    <updated>2024-12-26T11:08:02+00:00</updated>
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/meta-rust/meta-rust</id>
+    <id>https://github.com/rauc/meta-rauc#1735211282</id>
+    <title>https://github.com/rauc/meta-rauc</title>
+    <link href="https://github.com/rauc/meta-rauc" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OE4T/meta-tegra#1735211282</id>
+    <title>https://github.com/OE4T/meta-tegra</title>
+    <link href="https://github.com/OE4T/meta-tegra" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-clang#1735211282</id>
+    <title>https://github.com/kraj/meta-clang</title>
+    <link href="https://github.com/kraj/meta-clang" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1735211282</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1735211282</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/STMicroelectronics/meta-st-stm32mp#1735211282</id>
+    <title>https://github.com/STMicroelectronics/meta-st-stm32mp</title>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">meta-st-stm32mp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1735211282</id>
     <title>https://github.com/meta-rust/meta-rust</title>
     <link href="https://github.com/meta-rust/meta-rust" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
+    <updated>2024-12-26T11:08:02+00:00</updated>
     <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
   </entry>
   <entry>
-    <id>https://github.com/mendersoftware/meta-mender</id>
-    <title>https://github.com/mendersoftware/meta-mender</title>
-    <link href="https://github.com/mendersoftware/meta-mender" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">Yocto Project meta layer for the Mender client</content>
+    <id>https://github.com/openembedded/openembedded-core#1735211282</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
   </entry>
   <entry>
-    <id>https://github.com/openbmc/openbmc</id>
-    <title>https://github.com/openbmc/openbmc</title>
-    <link href="https://github.com/openbmc/openbmc" />
-    <updated>2024-12-26T04:03:57+00:00</updated>
-    <content type="text">OpenBMC Distribution</content>
+    <id>https://github.com/mendersoftware/meta-mender#1735211282</id>
+    <title>https://github.com/mendersoftware/meta-mender</title>
+    <link href="https://github.com/mendersoftware/meta-mender" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Yocto Project meta layer for the Mender client</content>
   </entry>
 </feed>

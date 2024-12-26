@@ -4,15 +4,15 @@
   <title>GitHub Treanding - json (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/json/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/json/" rel="alternate" />
-  <updated>2024-12-26T04:11:31+00:00</updated>
+  <updated>2024-12-26T11:17:27+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/mdn/browser-compat-data</id>
+    <id>https://github.com/mdn/browser-compat-data#1735211847</id>
     <title>https://github.com/mdn/browser-compat-data</title>
     <link href="https://github.com/mdn/browser-compat-data" />
-    <updated>2024-12-26T04:11:31+00:00</updated>
+    <updated>2024-12-26T11:17:27+00:00</updated>
     <content type="text">This repository contains compatibility data for Web technologies as displayed on MDN</content>
   </entry>
 </feed>

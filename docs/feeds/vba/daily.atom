@@ -4,22 +4,15 @@
   <title>GitHub Treanding - vba (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/vba/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/vba/" rel="alternate" />
-  <updated>2024-12-26T04:22:45+00:00</updated>
+  <updated>2024-12-26T11:31:37+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Jonathan-LeRoux/IguanaTex</id>
-    <title>https://github.com/Jonathan-LeRoux/IguanaTex</title>
-    <link href="https://github.com/Jonathan-LeRoux/IguanaTex" />
-    <updated>2024-12-26T04:22:45+00:00</updated>
-    <content type="text">A PowerPoint add-in to insert LaTeX equations into PowerPoint presentations on Windows and Mac</content>
-  </entry>
-  <entry>
-    <id>https://github.com/RelaxTools/RelaxTools-Addin</id>
+    <id>https://github.com/RelaxTools/RelaxTools-Addin#1735212697</id>
     <title>https://github.com/RelaxTools/RelaxTools-Addin</title>
     <link href="https://github.com/RelaxTools/RelaxTools-Addin" />
-    <updated>2024-12-26T04:22:45+00:00</updated>
+    <updated>2024-12-26T11:31:37+00:00</updated>
     <content type="text">RelaxTools Addin for Microsoft Excel 2010/2013/2016</content>
   </entry>
 </feed>

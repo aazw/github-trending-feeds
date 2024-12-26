@@ -4,22 +4,36 @@
   <title>GitHub Treanding - shaderlab (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/shaderlab/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/shaderlab/" rel="alternate" />
-  <updated>2024-12-26T04:19:57+00:00</updated>
+  <updated>2024-12-26T11:28:07+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/lilxyzw/lilToon</id>
+    <id>https://github.com/candycat1992/Unity_Shaders_Book#1735212487</id>
+    <title>https://github.com/candycat1992/Unity_Shaders_Book</title>
+    <link href="https://github.com/candycat1992/Unity_Shaders_Book" />
+    <updated>2024-12-26T11:28:07+00:00</updated>
+    <content type="text">📖 书籍《Unity Shader入门精要》源代码</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project#1735212487</id>
+    <title>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project</title>
+    <link href="https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project" />
+    <updated>2024-12-26T11:28:07+00:00</updated>
+    <content type="text">UnityChanToonShaderVer2 Project / v.2.0.9 Release</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lilxyzw/lilToon#1735212487</id>
     <title>https://github.com/lilxyzw/lilToon</title>
     <link href="https://github.com/lilxyzw/lilToon" />
-    <updated>2024-12-26T04:19:57+00:00</updated>
+    <updated>2024-12-26T11:28:07+00:00</updated>
     <content type="text">Feature-rich shaders for avatars</content>
   </entry>
   <entry>
-    <id>https://github.com/poiyomi/PoiyomiToonShader</id>
+    <id>https://github.com/poiyomi/PoiyomiToonShader#1735212487</id>
     <title>https://github.com/poiyomi/PoiyomiToonShader</title>
     <link href="https://github.com/poiyomi/PoiyomiToonShader" />
-    <updated>2024-12-26T04:19:57+00:00</updated>
+    <updated>2024-12-26T11:28:07+00:00</updated>
     <content type="text">A feature rich toon shader for unity and VR Chat</content>
   </entry>
 </feed>

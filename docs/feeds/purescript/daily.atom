@@ -4,57 +4,57 @@
   <title>GitHub Treanding - purescript (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/purescript/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/purescript/" rel="alternate" />
-  <updated>2024-12-26T04:18:00+00:00</updated>
+  <updated>2024-12-26T11:25:37+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/purescript/purescript-typelevel-prelude</id>
-    <title>https://github.com/purescript/purescript-typelevel-prelude</title>
-    <link href="https://github.com/purescript/purescript-typelevel-prelude" />
-    <updated>2024-12-26T04:18:00+00:00</updated>
-    <content type="text">Types and kinds for basic type-level programming</content>
-  </entry>
-  <entry>
-    <id>https://github.com/purescript/purescript-catenable-lists</id>
-    <title>https://github.com/purescript/purescript-catenable-lists</title>
-    <link href="https://github.com/purescript/purescript-catenable-lists" />
-    <updated>2024-12-26T04:18:00+00:00</updated>
-    <content type="text">Catenable lists</content>
-  </entry>
-  <entry>
-    <id>https://github.com/purescript/purescript-lists</id>
+    <id>https://github.com/purescript/purescript-lists#1735212337</id>
     <title>https://github.com/purescript/purescript-lists</title>
     <link href="https://github.com/purescript/purescript-lists" />
-    <updated>2024-12-26T04:18:00+00:00</updated>
+    <updated>2024-12-26T11:25:37+00:00</updated>
     <content type="text">Linked Lists</content>
   </entry>
   <entry>
-    <id>https://github.com/purescript/purescript-profunctor</id>
-    <title>https://github.com/purescript/purescript-profunctor</title>
-    <link href="https://github.com/purescript/purescript-profunctor" />
-    <updated>2024-12-26T04:18:00+00:00</updated>
-    <content type="text">Profunctor type classes and data structures</content>
-  </entry>
-  <entry>
-    <id>https://github.com/purescript/purescript-free</id>
-    <title>https://github.com/purescript/purescript-free</title>
-    <link href="https://github.com/purescript/purescript-free" />
-    <updated>2024-12-26T04:18:00+00:00</updated>
-    <content type="text">Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/purescript/purescript-transformers</id>
+    <id>https://github.com/purescript/purescript-transformers#1735212337</id>
     <title>https://github.com/purescript/purescript-transformers</title>
     <link href="https://github.com/purescript/purescript-transformers" />
-    <updated>2024-12-26T04:18:00+00:00</updated>
+    <updated>2024-12-26T11:25:37+00:00</updated>
     <content type="text">Monad and comonad transformers</content>
   </entry>
   <entry>
-    <id>https://github.com/nammayatri/nammayatri</id>
+    <id>https://github.com/purescript/purescript-profunctor#1735212337</id>
+    <title>https://github.com/purescript/purescript-profunctor</title>
+    <link href="https://github.com/purescript/purescript-profunctor" />
+    <updated>2024-12-26T11:25:37+00:00</updated>
+    <content type="text">Profunctor type classes and data structures</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-catenable-lists#1735212337</id>
+    <title>https://github.com/purescript/purescript-catenable-lists</title>
+    <link href="https://github.com/purescript/purescript-catenable-lists" />
+    <updated>2024-12-26T11:25:37+00:00</updated>
+    <content type="text">Catenable lists</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-free#1735212337</id>
+    <title>https://github.com/purescript/purescript-free</title>
+    <link href="https://github.com/purescript/purescript-free" />
+    <updated>2024-12-26T11:25:37+00:00</updated>
+    <content type="text">Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-typelevel-prelude#1735212337</id>
+    <title>https://github.com/purescript/purescript-typelevel-prelude</title>
+    <link href="https://github.com/purescript/purescript-typelevel-prelude" />
+    <updated>2024-12-26T11:25:37+00:00</updated>
+    <content type="text">Types and kinds for basic type-level programming</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nammayatri/nammayatri#1735212337</id>
     <title>https://github.com/nammayatri/nammayatri</title>
     <link href="https://github.com/nammayatri/nammayatri" />
-    <updated>2024-12-26T04:18:00+00:00</updated>
+    <updated>2024-12-26T11:25:37+00:00</updated>
     <content type="text">A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</content>
   </entry>
 </feed>

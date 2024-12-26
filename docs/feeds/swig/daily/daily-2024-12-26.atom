@@ -4,15 +4,15 @@
   <title>GitHub Treanding - swig (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/swig/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/swig/" rel="alternate" />
-  <updated>2024-12-26T04:21:20+00:00</updated>
+  <updated>2024-12-26T11:29:59+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/tpaviot/pythonocc-core</id>
+    <id>https://github.com/tpaviot/pythonocc-core#1735212599</id>
     <title>https://github.com/tpaviot/pythonocc-core</title>
     <link href="https://github.com/tpaviot/pythonocc-core" />
-    <updated>2024-12-26T04:21:20+00:00</updated>
+    <updated>2024-12-26T11:29:59+00:00</updated>
     <content type="text">Python package for 3D geometry CAD/BIM/CAM</content>
   </entry>
 </feed>

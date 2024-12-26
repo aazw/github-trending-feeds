@@ -4,169 +4,148 @@
   <title>GitHub Treanding - java (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/java/" rel="alternate" />
-  <updated>2024-12-26T04:11:09+00:00</updated>
+  <updated>2024-12-26T11:16:59+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/yuliskov/SmartTube</id>
-    <title>https://github.com/yuliskov/SmartTube</title>
-    <link href="https://github.com/yuliskov/SmartTube" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">SmartTube - an advanced player for set-top boxes and tvs running Android OS</content>
+    <id>https://github.com/Helium314/HeliBoard#1735211819</id>
+    <title>https://github.com/Helium314/HeliBoard</title>
+    <link href="https://github.com/Helium314/HeliBoard" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">Customizable and privacy-conscious open-source keyboard</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/gravitino</id>
-    <title>https://github.com/apache/gravitino</title>
-    <link href="https://github.com/apache/gravitino" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.</content>
+    <id>https://github.com/Tencent/APIJSON#1735211819</id>
+    <title>https://github.com/Tencent/APIJSON</title>
+    <link href="https://github.com/Tencent/APIJSON" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users</content>
   </entry>
   <entry>
-    <id>https://github.com/648540858/wvp-GB28181-pro</id>
-    <title>https://github.com/648540858/wvp-GB28181-pro</title>
-    <link href="https://github.com/648540858/wvp-GB28181-pro" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/neo4j/neo4j</id>
-    <title>https://github.com/neo4j/neo4j</title>
-    <link href="https://github.com/neo4j/neo4j" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Graphs for Everyone</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elastic/elasticsearch</id>
-    <title>https://github.com/elastic/elasticsearch</title>
-    <link href="https://github.com/elastic/elasticsearch" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Free and Open Source, Distributed, RESTful Search Engine</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Stirling-Tools/Stirling-PDF</id>
-    <title>https://github.com/Stirling-Tools/Stirling-PDF</title>
-    <link href="https://github.com/Stirling-Tools/Stirling-PDF" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">#1 Locally hosted web application that allows you to perform various operations on PDF files</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PowerJob/PowerJob</id>
-    <title>https://github.com/PowerJob/PowerJob</title>
-    <link href="https://github.com/PowerJob/PowerJob" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Enterprise job scheduling middleware with distributed computing ability.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OpenEMS/openems</id>
-    <title>https://github.com/OpenEMS/openems</title>
-    <link href="https://github.com/OpenEMS/openems" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">OpenEMS - Open Source Energy Management System</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/paimon</id>
-    <title>https://github.com/apache/paimon</title>
-    <link href="https://github.com/apache/paimon" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/alibaba/spring-cloud-alibaba</id>
-    <title>https://github.com/alibaba/spring-cloud-alibaba</title>
-    <link href="https://github.com/alibaba/spring-cloud-alibaba" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/doocs/leetcode</id>
-    <title>https://github.com/doocs/leetcode</title>
-    <link href="https://github.com/doocs/leetcode" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解</content>
-  </entry>
-  <entry>
-    <id>https://github.com/termux/termux-app</id>
-    <title>https://github.com/termux/termux-app</title>
-    <link href="https://github.com/termux/termux-app" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Termux - a terminal emulator application for Android OS extendible by variety of packages.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/DataLinkDC/dinky</id>
-    <title>https://github.com/DataLinkDC/dinky</title>
-    <link href="https://github.com/DataLinkDC/dinky" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/flink-cdc</id>
-    <title>https://github.com/apache/flink-cdc</title>
-    <link href="https://github.com/apache/flink-cdc" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Flink CDC is a streaming data integration tool</content>
-  </entry>
-  <entry>
-    <id>https://github.com/checkstyle/checkstyle</id>
-    <title>https://github.com/checkstyle/checkstyle</title>
-    <link href="https://github.com/checkstyle/checkstyle" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/krahets/hello-algo</id>
-    <title>https://github.com/krahets/hello-algo</title>
-    <link href="https://github.com/krahets/hello-algo" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jeecgboot/JeecgBoot</id>
-    <title>https://github.com/jeecgboot/JeecgBoot</title>
-    <link href="https://github.com/jeecgboot/JeecgBoot" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&amp;Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式，引入AI模型能力 OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dataease/dataease</id>
-    <title>https://github.com/dataease/dataease</title>
-    <link href="https://github.com/dataease/dataease" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tencentmusic/supersonic</id>
+    <id>https://github.com/tencentmusic/supersonic#1735211819</id>
     <title>https://github.com/tencentmusic/supersonic</title>
     <link href="https://github.com/tencentmusic/supersonic" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
+    <updated>2024-12-26T11:16:59+00:00</updated>
     <content type="text">SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.</content>
   </entry>
   <entry>
-    <id>https://github.com/CarGuo/GSYVideoPlayer</id>
-    <title>https://github.com/CarGuo/GSYVideoPlayer</title>
-    <link href="https://github.com/CarGuo/GSYVideoPlayer" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。</content>
+    <id>https://github.com/alibaba/easyexcel#1735211819</id>
+    <title>https://github.com/alibaba/easyexcel</title>
+    <link href="https://github.com/alibaba/easyexcel" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">快速、简洁、解决大文件内存溢出的java处理Excel工具</content>
   </entry>
   <entry>
-    <id>https://github.com/metersphere/metersphere</id>
-    <title>https://github.com/metersphere/metersphere</title>
-    <link href="https://github.com/metersphere/metersphere" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。</content>
+    <id>https://github.com/apache/skywalking#1735211819</id>
+    <title>https://github.com/apache/skywalking</title>
+    <link href="https://github.com/apache/skywalking" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">APM, Application Performance Monitoring System</content>
   </entry>
   <entry>
-    <id>https://github.com/CodePhiliaX/Chat2DB</id>
+    <id>https://github.com/redisson/redisson#1735211819</id>
+    <title>https://github.com/redisson/redisson</title>
+    <link href="https://github.com/redisson/redisson" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">Redisson - Valkey and Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..</content>
+  </entry>
+  <entry>
+    <id>https://github.com/648540858/wvp-GB28181-pro#1735211819</id>
+    <title>https://github.com/648540858/wvp-GB28181-pro</title>
+    <link href="https://github.com/648540858/wvp-GB28181-pro" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/paimon#1735211819</id>
+    <title>https://github.com/apache/paimon</title>
+    <link href="https://github.com/apache/paimon" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeecgboot/JimuReport#1735211819</id>
+    <title>https://github.com/jeecgboot/JimuReport</title>
+    <link href="https://github.com/jeecgboot/JimuReport" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/fastjson2#1735211819</id>
+    <title>https://github.com/alibaba/fastjson2</title>
+    <link href="https://github.com/alibaba/fastjson2" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">🚄 FASTJSON2 is a Java JSON library with excellent performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StarRocks/starrocks#1735211819</id>
+    <title>https://github.com/StarRocks/starrocks</title>
+    <link href="https://github.com/StarRocks/starrocks" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krahets/hello-algo#1735211819</id>
+    <title>https://github.com/krahets/hello-algo</title>
+    <link href="https://github.com/krahets/hello-algo" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeecgboot/JeecgBoot#1735211819</id>
+    <title>https://github.com/jeecgboot/JeecgBoot</title>
+    <link href="https://github.com/jeecgboot/JeecgBoot" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&amp;Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式，引入AI模型能力 OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ashishps1/awesome-low-level-design#1735211819</id>
+    <title>https://github.com/ashishps1/awesome-low-level-design</title>
+    <link href="https://github.com/ashishps1/awesome-low-level-design" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">Learn Low Level Design (LLD) and prepare for interviews using free resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microg/GmsCore#1735211819</id>
+    <title>https://github.com/microg/GmsCore</title>
+    <link href="https://github.com/microg/GmsCore" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">Free implementation of Play Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java#1735211819</id>
+    <title>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</title>
+    <link href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuliskov/SmartTube#1735211819</id>
+    <title>https://github.com/yuliskov/SmartTube</title>
+    <link href="https://github.com/yuliskov/SmartTube" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">SmartTube - an advanced player for set-top boxes and tvs running Android OS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataLinkDC/dinky#1735211819</id>
+    <title>https://github.com/DataLinkDC/dinky</title>
+    <link href="https://github.com/DataLinkDC/dinky" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CodePhiliaX/Chat2DB#1735211819</id>
     <title>https://github.com/CodePhiliaX/Chat2DB</title>
     <link href="https://github.com/CodePhiliaX/Chat2DB" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
+    <updated>2024-12-26T11:16:59+00:00</updated>
     <content type="text">🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</content>
   </entry>
   <entry>
-    <id>https://github.com/microg/GmsCore</id>
-    <title>https://github.com/microg/GmsCore</title>
-    <link href="https://github.com/microg/GmsCore" />
-    <updated>2024-12-26T04:11:09+00:00</updated>
-    <content type="text">Free implementation of Play Services</content>
+    <id>https://github.com/termux/termux-app#1735211819</id>
+    <title>https://github.com/termux/termux-app</title>
+    <link href="https://github.com/termux/termux-app" />
+    <updated>2024-12-26T11:16:59+00:00</updated>
+    <content type="text">Termux - a terminal emulator application for Android OS extendible by variety of packages.</content>
   </entry>
 </feed>

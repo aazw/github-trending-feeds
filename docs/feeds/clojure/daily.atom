@@ -4,50 +4,57 @@
   <title>GitHub Treanding - clojure (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/" rel="alternate" />
-  <updated>2024-12-26T04:05:19+00:00</updated>
+  <updated>2024-12-26T11:09:35+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/penpot/penpot</id>
-    <title>https://github.com/penpot/penpot</title>
-    <link href="https://github.com/penpot/penpot" />
-    <updated>2024-12-26T04:05:19+00:00</updated>
-    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jepsen-io/maelstrom</id>
-    <title>https://github.com/jepsen-io/maelstrom</title>
-    <link href="https://github.com/jepsen-io/maelstrom" />
-    <updated>2024-12-26T04:05:19+00:00</updated>
-    <content type="text">A workbench for writing toy implementations of distributed systems.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/babashka/babashka</id>
+    <id>https://github.com/babashka/babashka#1735211375</id>
     <title>https://github.com/babashka/babashka</title>
     <link href="https://github.com/babashka/babashka" />
-    <updated>2024-12-26T04:05:19+00:00</updated>
+    <updated>2024-12-26T11:09:35+00:00</updated>
     <content type="text">Native, fast starting Clojure interpreter for scripting</content>
   </entry>
   <entry>
-    <id>https://github.com/logseq/logseq</id>
+    <id>https://github.com/logseq/logseq#1735211375</id>
     <title>https://github.com/logseq/logseq</title>
     <link href="https://github.com/logseq/logseq" />
-    <updated>2024-12-26T04:05:19+00:00</updated>
+    <updated>2024-12-26T11:09:35+00:00</updated>
     <content type="text">A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</content>
   </entry>
   <entry>
-    <id>https://github.com/tonsky/FiraCode</id>
-    <title>https://github.com/tonsky/FiraCode</title>
-    <link href="https://github.com/tonsky/FiraCode" />
-    <updated>2024-12-26T04:05:19+00:00</updated>
-    <content type="text">Free monospaced font with programming ligatures</content>
+    <id>https://github.com/cognitect-labs/test-runner#1735211375</id>
+    <title>https://github.com/cognitect-labs/test-runner</title>
+    <link href="https://github.com/cognitect-labs/test-runner" />
+    <updated>2024-12-26T11:09:35+00:00</updated>
+    <content type="text">A test runner for clojure.test</content>
   </entry>
   <entry>
-    <id>https://github.com/metabase/metabase</id>
+    <id>https://github.com/instantdb/instant#1735211375</id>
+    <title>https://github.com/instantdb/instant</title>
+    <link href="https://github.com/instantdb/instant" />
+    <updated>2024-12-26T11:09:35+00:00</updated>
+    <content type="text">Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/weavejester/compojure#1735211375</id>
+    <title>https://github.com/weavejester/compojure</title>
+    <link href="https://github.com/weavejester/compojure" />
+    <updated>2024-12-26T11:09:35+00:00</updated>
+    <content type="text">A concise routing library for Ring/Clojure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metabase/metabase#1735211375</id>
     <title>https://github.com/metabase/metabase</title>
     <link href="https://github.com/metabase/metabase" />
-    <updated>2024-12-26T04:05:19+00:00</updated>
+    <updated>2024-12-26T11:09:35+00:00</updated>
     <content type="text">The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tonsky/FiraCode#1735211375</id>
+    <title>https://github.com/tonsky/FiraCode</title>
+    <link href="https://github.com/tonsky/FiraCode" />
+    <updated>2024-12-26T11:09:35+00:00</updated>
+    <content type="text">Free monospaced font with programming ligatures</content>
   </entry>
 </feed>

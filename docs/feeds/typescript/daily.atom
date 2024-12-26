@@ -4,141 +4,148 @@
   <title>GitHub Treanding - typescript (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/typescript/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/typescript/" rel="alternate" />
-  <updated>2024-12-26T04:22:17+00:00</updated>
+  <updated>2024-12-26T11:31:04+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dream-num/univer</id>
-    <title>https://github.com/dream-num/univer</title>
-    <link href="https://github.com/dream-num/univer" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/labring/FastGPT</id>
+    <id>https://github.com/labring/FastGPT#1735212664</id>
     <title>https://github.com/labring/FastGPT</title>
     <link href="https://github.com/labring/FastGPT" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
+    <updated>2024-12-26T11:31:04+00:00</updated>
     <content type="text">FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.</content>
   </entry>
   <entry>
-    <id>https://github.com/makeplane/plane</id>
-    <title>https://github.com/makeplane/plane</title>
-    <link href="https://github.com/makeplane/plane" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.</content>
+    <id>https://github.com/vueuse/vueuse#1735212664</id>
+    <title>https://github.com/vueuse/vueuse</title>
+    <link href="https://github.com/vueuse/vueuse" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">Collection of essential Vue Composition Utilities for Vue 2 and 3</content>
   </entry>
   <entry>
-    <id>https://github.com/tolgee/tolgee-platform</id>
-    <title>https://github.com/tolgee/tolgee-platform</title>
-    <link href="https://github.com/tolgee/tolgee-platform" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">Developer &amp; translator friendly web-based localization platform</content>
+    <id>https://github.com/freeCodeCamp/freeCodeCamp#1735212664</id>
+    <title>https://github.com/freeCodeCamp/freeCodeCamp</title>
+    <link href="https://github.com/freeCodeCamp/freeCodeCamp" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</content>
   </entry>
   <entry>
-    <id>https://github.com/labring/sealos</id>
-    <title>https://github.com/labring/sealos</title>
-    <link href="https://github.com/labring/sealos" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and run any docker image.</content>
+    <id>https://github.com/siyuan-note/siyuan#1735212664</id>
+    <title>https://github.com/siyuan-note/siyuan</title>
+    <link href="https://github.com/siyuan-note/siyuan" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</content>
   </entry>
   <entry>
-    <id>https://github.com/idootop/mi-gpt</id>
-    <title>https://github.com/idootop/mi-gpt</title>
-    <link href="https://github.com/idootop/mi-gpt" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/langgenius/dify</id>
-    <title>https://github.com/langgenius/dify</title>
-    <link href="https://github.com/langgenius/dify" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/medusajs/medusa</id>
-    <title>https://github.com/medusajs/medusa</title>
-    <link href="https://github.com/medusajs/medusa" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">The world's most flexible commerce platform.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Expensify/App</id>
+    <id>https://github.com/Expensify/App#1735212664</id>
     <title>https://github.com/Expensify/App</title>
     <link href="https://github.com/Expensify/App" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
+    <updated>2024-12-26T11:31:04+00:00</updated>
     <content type="text">Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.</content>
   </entry>
   <entry>
-    <id>https://github.com/kamranahmedse/developer-roadmap</id>
-    <title>https://github.com/kamranahmedse/developer-roadmap</title>
-    <link href="https://github.com/kamranahmedse/developer-roadmap" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">Interactive roadmaps, guides and other educational content to help developers grow in their careers.</content>
+    <id>https://github.com/medusajs/medusa#1735212664</id>
+    <title>https://github.com/medusajs/medusa</title>
+    <link href="https://github.com/medusajs/medusa" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">The world's most flexible commerce platform.</content>
   </entry>
   <entry>
-    <id>https://github.com/novuhq/novu</id>
+    <id>https://github.com/element-plus/element-plus#1735212664</id>
+    <title>https://github.com/element-plus/element-plus</title>
+    <link href="https://github.com/element-plus/element-plus" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">🎉 A Vue.js 3 UI Library made by Element team</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xjh22222228/nav#1735212664</id>
+    <title>https://github.com/xjh22222228/nav</title>
+    <link href="https://github.com/xjh22222228/nav" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">🔍 发现导航 , 最强轻量级导航网站</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linkwarden/linkwarden#1735212664</id>
+    <title>https://github.com/linkwarden/linkwarden</title>
+    <link href="https://github.com/linkwarden/linkwarden" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clash-verge-rev/clash-verge-rev#1735212664</id>
+    <title>https://github.com/clash-verge-rev/clash-verge-rev</title>
+    <link href="https://github.com/clash-verge-rev/clash-verge-rev" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/molvqingtai/WebChat#1735212664</id>
+    <title>https://github.com/molvqingtai/WebChat</title>
+    <link href="https://github.com/molvqingtai/WebChat" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">💬 Chat with anyone on any website.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/novuhq/novu#1735212664</id>
     <title>https://github.com/novuhq/novu</title>
     <link href="https://github.com/novuhq/novu" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
+    <updated>2024-12-26T11:31:04+00:00</updated>
     <content type="text">Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.</content>
   </entry>
   <entry>
-    <id>https://github.com/browserbase/stagehand</id>
-    <title>https://github.com/browserbase/stagehand</title>
-    <link href="https://github.com/browserbase/stagehand" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">An AI web browsing framework focused on simplicity and extensibility.</content>
+    <id>https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web#1735212664</id>
+    <title>https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web</title>
+    <link href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。</content>
   </entry>
   <entry>
-    <id>https://github.com/stackblitz/bolt.new</id>
-    <title>https://github.com/stackblitz/bolt.new</title>
-    <link href="https://github.com/stackblitz/bolt.new" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">Prompt, run, edit, and deploy full-stack web applications</content>
+    <id>https://github.com/n8n-io/n8n#1735212664</id>
+    <title>https://github.com/n8n-io/n8n</title>
+    <link href="https://github.com/n8n-io/n8n" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</content>
   </entry>
   <entry>
-    <id>https://github.com/tldraw/tldraw</id>
-    <title>https://github.com/tldraw/tldraw</title>
-    <link href="https://github.com/tldraw/tldraw" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">whiteboard / infinite canvas SDK</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gitroomhq/postiz-app</id>
-    <title>https://github.com/gitroomhq/postiz-app</title>
-    <link href="https://github.com/gitroomhq/postiz-app" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/echarts</id>
-    <title>https://github.com/apache/echarts</title>
-    <link href="https://github.com/apache/echarts" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
-    <content type="text">Apache ECharts is a powerful, interactive charting and data visualization library for browser</content>
-  </entry>
-  <entry>
-    <id>https://github.com/awslabs/multi-agent-orchestrator</id>
+    <id>https://github.com/awslabs/multi-agent-orchestrator#1735212664</id>
     <title>https://github.com/awslabs/multi-agent-orchestrator</title>
     <link href="https://github.com/awslabs/multi-agent-orchestrator" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
+    <updated>2024-12-26T11:31:04+00:00</updated>
     <content type="text">Flexible and powerful framework for managing multiple AI agents and handling complex conversations</content>
   </entry>
   <entry>
-    <id>https://github.com/lobehub/lobe-chat</id>
+    <id>https://github.com/kamranahmedse/developer-roadmap#1735212664</id>
+    <title>https://github.com/kamranahmedse/developer-roadmap</title>
+    <link href="https://github.com/kamranahmedse/developer-roadmap" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">Interactive roadmaps, guides and other educational content to help developers grow in their careers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitroomhq/postiz-app#1735212664</id>
+    <title>https://github.com/gitroomhq/postiz-app</title>
+    <link href="https://github.com/gitroomhq/postiz-app" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/echarts#1735212664</id>
+    <title>https://github.com/apache/echarts</title>
+    <link href="https://github.com/apache/echarts" />
+    <updated>2024-12-26T11:31:04+00:00</updated>
+    <content type="text">Apache ECharts is a powerful, interactive charting and data visualization library for browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lobehub/lobe-chat#1735212664</id>
     <title>https://github.com/lobehub/lobe-chat</title>
     <link href="https://github.com/lobehub/lobe-chat" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
+    <updated>2024-12-26T11:31:04+00:00</updated>
     <content type="text">🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</content>
   </entry>
   <entry>
-    <id>https://github.com/anti-work/shortest</id>
+    <id>https://github.com/anti-work/shortest#1735212664</id>
     <title>https://github.com/anti-work/shortest</title>
     <link href="https://github.com/anti-work/shortest" />
-    <updated>2024-12-26T04:22:17+00:00</updated>
+    <updated>2024-12-26T11:31:04+00:00</updated>
     <content type="text">QA via natural language AI tests</content>
   </entry>
 </feed>

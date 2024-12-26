@@ -4,29 +4,36 @@
   <title>GitHub Treanding - xslt (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/" rel="alternate" />
-  <updated>2024-12-26T04:24:08+00:00</updated>
+  <updated>2024-12-26T11:33:20+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/usnistgov/oscal-content</id>
-    <title>https://github.com/usnistgov/oscal-content</title>
-    <link href="https://github.com/usnistgov/oscal-content" />
-    <updated>2024-12-26T04:24:08+00:00</updated>
-    <content type="text">NIST SP 800-53 content and other OSCAL content examples</content>
+    <id>https://github.com/usnistgov/OSCAL#1735212800</id>
+    <title>https://github.com/usnistgov/OSCAL</title>
+    <link href="https://github.com/usnistgov/OSCAL" />
+    <updated>2024-12-26T11:33:20+00:00</updated>
+    <content type="text">Open Security Controls Assessment Language (OSCAL)</content>
   </entry>
   <entry>
-    <id>https://github.com/LOLBAS-Project/LOLBAS</id>
+    <id>https://github.com/LOLBAS-Project/LOLBAS#1735212800</id>
     <title>https://github.com/LOLBAS-Project/LOLBAS</title>
     <link href="https://github.com/LOLBAS-Project/LOLBAS" />
-    <updated>2024-12-26T04:24:08+00:00</updated>
+    <updated>2024-12-26T11:33:20+00:00</updated>
     <content type="text">Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)</content>
   </entry>
   <entry>
-    <id>https://github.com/uri-templates/uritemplate-test</id>
+    <id>https://github.com/11ty/eleventy-base-blog#1735212800</id>
+    <title>https://github.com/11ty/eleventy-base-blog</title>
+    <link href="https://github.com/11ty/eleventy-base-blog" />
+    <updated>2024-12-26T11:33:20+00:00</updated>
+    <content type="text">A starter repository for a blog web site using the Eleventy static site generator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uri-templates/uritemplate-test#1735212800</id>
     <title>https://github.com/uri-templates/uritemplate-test</title>
     <link href="https://github.com/uri-templates/uritemplate-test" />
-    <updated>2024-12-26T04:24:08+00:00</updated>
+    <updated>2024-12-26T11:33:20+00:00</updated>
     <content type="text">Tests for URI Template implementations</content>
   </entry>
 </feed>

@@ -4,8 +4,15 @@
   <title>GitHub Treanding - racket (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/racket/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/racket/" rel="alternate" />
-  <updated>2024-12-26T04:18:22+00:00</updated>
+  <updated>2024-12-26T11:26:04+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/racket/racket#1735212364</id>
+    <title>https://github.com/racket/racket</title>
+    <link href="https://github.com/racket/racket" />
+    <updated>2024-12-26T11:26:04+00:00</updated>
+    <content type="text">The Racket repository</content>
+  </entry>
 </feed>

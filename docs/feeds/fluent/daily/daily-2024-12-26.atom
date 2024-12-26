@@ -4,22 +4,22 @@
   <title>GitHub Treanding - fluent (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/fluent/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/fluent/" rel="alternate" />
-  <updated>2024-12-26T04:08:07+00:00</updated>
+  <updated>2024-12-26T11:13:10+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/SlimeVR/SlimeVR-Server</id>
+    <id>https://github.com/SlimeVR/SlimeVR-Server#1735211590</id>
     <title>https://github.com/SlimeVR/SlimeVR-Server</title>
     <link href="https://github.com/SlimeVR/SlimeVR-Server" />
-    <updated>2024-12-26T04:08:07+00:00</updated>
+    <updated>2024-12-26T11:13:10+00:00</updated>
     <content type="text">Server app for SlimeVR ecosystem</content>
   </entry>
   <entry>
-    <id>https://github.com/janeczku/calibre-web</id>
+    <id>https://github.com/janeczku/calibre-web#1735211590</id>
     <title>https://github.com/janeczku/calibre-web</title>
     <link href="https://github.com/janeczku/calibre-web" />
-    <updated>2024-12-26T04:08:07+00:00</updated>
+    <updated>2024-12-26T11:13:10+00:00</updated>
     <content type="text">📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database</content>
   </entry>
 </feed>

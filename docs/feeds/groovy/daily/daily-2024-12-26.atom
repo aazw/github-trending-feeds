@@ -4,36 +4,22 @@
   <title>GitHub Treanding - groovy (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/" rel="alternate" />
-  <updated>2024-12-26T04:09:40+00:00</updated>
+  <updated>2024-12-26T11:15:09+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/google/protobuf-gradle-plugin</id>
-    <title>https://github.com/google/protobuf-gradle-plugin</title>
-    <link href="https://github.com/google/protobuf-gradle-plugin" />
-    <updated>2024-12-26T04:09:40+00:00</updated>
-    <content type="text">Protobuf Plugin for Gradle</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nextflow-io/nextflow</id>
-    <title>https://github.com/nextflow-io/nextflow</title>
-    <link href="https://github.com/nextflow-io/nextflow" />
-    <updated>2024-12-26T04:09:40+00:00</updated>
-    <content type="text">A DSL for data-driven computational pipelines</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rundeck/rundeck</id>
-    <title>https://github.com/rundeck/rundeck</title>
-    <link href="https://github.com/rundeck/rundeck" />
-    <updated>2024-12-26T04:09:40+00:00</updated>
-    <content type="text">Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gradle/gradle</id>
+    <id>https://github.com/gradle/gradle#1735211709</id>
     <title>https://github.com/gradle/gradle</title>
     <link href="https://github.com/gradle/gradle" />
-    <updated>2024-12-26T04:09:40+00:00</updated>
+    <updated>2024-12-26T11:15:09+00:00</updated>
     <content type="text">Adaptable, fast automation for all</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rundeck/rundeck#1735211709</id>
+    <title>https://github.com/rundeck/rundeck</title>
+    <link href="https://github.com/rundeck/rundeck" />
+    <updated>2024-12-26T11:15:09+00:00</updated>
+    <content type="text">Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts</content>
   </entry>
 </feed>

@@ -4,36 +4,36 @@
   <title>GitHub Treanding - bicep (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/" rel="alternate" />
-  <updated>2024-12-26T04:03:52+00:00</updated>
+  <updated>2024-12-26T11:07:56+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</id>
+    <id>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app#1735211276</id>
     <title>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
     <link href="https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app" />
-    <updated>2024-12-26T04:03:52+00:00</updated>
+    <updated>2024-12-26T11:07:56+00:00</updated>
     <content type="text">A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB</content>
   </entry>
   <entry>
-    <id>https://github.com/Azure-Samples/contoso-creative-writer</id>
-    <title>https://github.com/Azure-Samples/contoso-creative-writer</title>
-    <link href="https://github.com/Azure-Samples/contoso-creative-writer" />
-    <updated>2024-12-26T04:03:52+00:00</updated>
-    <content type="text">A creative writing multi-agent solution to help users write articles.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Azure/bicep-registry-modules</id>
+    <id>https://github.com/Azure/bicep-registry-modules#1735211276</id>
     <title>https://github.com/Azure/bicep-registry-modules</title>
     <link href="https://github.com/Azure/bicep-registry-modules" />
-    <updated>2024-12-26T04:03:52+00:00</updated>
+    <updated>2024-12-26T11:07:56+00:00</updated>
     <content type="text">Bicep registry modules</content>
   </entry>
   <entry>
-    <id>https://github.com/Azure/azure-quickstart-templates</id>
+    <id>https://github.com/github-copilot-resources/copilot-metrics-viewer#1735211276</id>
+    <title>https://github.com/github-copilot-resources/copilot-metrics-viewer</title>
+    <link href="https://github.com/github-copilot-resources/copilot-metrics-viewer" />
+    <updated>2024-12-26T11:07:56+00:00</updated>
+    <content type="text">Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-quickstart-templates#1735211276</id>
     <title>https://github.com/Azure/azure-quickstart-templates</title>
     <link href="https://github.com/Azure/azure-quickstart-templates" />
-    <updated>2024-12-26T04:03:52+00:00</updated>
+    <updated>2024-12-26T11:07:56+00:00</updated>
     <content type="text">Azure Quickstart Templates</content>
   </entry>
 </feed>

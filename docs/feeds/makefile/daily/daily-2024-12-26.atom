@@ -4,64 +4,99 @@
   <title>GitHub Treanding - makefile (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/" rel="alternate" />
-  <updated>2024-12-26T04:13:12+00:00</updated>
+  <updated>2024-12-26T11:19:27+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pulumi/pulumi-cloudflare</id>
-    <title>https://github.com/pulumi/pulumi-cloudflare</title>
-    <link href="https://github.com/pulumi/pulumi-cloudflare" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
-    <content type="text">Pulumi's Cloudflare package, providing multi-language infrastructure as code for Cloudflare</content>
+    <id>https://github.com/open-telemetry/opentelemetry-proto#1735211967</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
   </entry>
   <entry>
-    <id>https://github.com/pulumi/pulumi-postgresql</id>
-    <title>https://github.com/pulumi/pulumi-postgresql</title>
-    <link href="https://github.com/pulumi/pulumi-postgresql" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
-    <content type="text">A Postgresql Pulumi resource package</content>
+    <id>https://github.com/libretro-thumbnails/libretro-thumbnails#1735211967</id>
+    <title>https://github.com/libretro-thumbnails/libretro-thumbnails</title>
+    <link href="https://github.com/libretro-thumbnails/libretro-thumbnails" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">Thumbnails for RetroArch</content>
   </entry>
   <entry>
-    <id>https://github.com/deepseek-ai/DeepSeek-LLM</id>
-    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
-    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
-    <content type="text">DeepSeek LLM: Let there be answers</content>
+    <id>https://github.com/WebAssembly/wasi-crypto#1735211967</id>
+    <title>https://github.com/WebAssembly/wasi-crypto</title>
+    <link href="https://github.com/WebAssembly/wasi-crypto" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">WASI Cryptography API Proposal</content>
   </entry>
   <entry>
-    <id>https://github.com/uber-go/guide</id>
-    <title>https://github.com/uber-go/guide</title>
-    <link href="https://github.com/uber-go/guide" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
-    <content type="text">The Uber Go Style Guide.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/foostan/crkbd</id>
-    <title>https://github.com/foostan/crkbd</title>
-    <link href="https://github.com/foostan/crkbd" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
-    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/upbound/build</id>
+    <id>https://github.com/upbound/build#1735211967</id>
     <title>https://github.com/upbound/build</title>
     <link href="https://github.com/upbound/build" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
+    <updated>2024-12-26T11:19:27+00:00</updated>
     <content type="text">Upbound build and CI scripts</content>
   </entry>
   <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-proto-go</id>
+    <id>https://github.com/open-telemetry/opentelemetry-specification#1735211967</id>
+    <title>https://github.com/open-telemetry/opentelemetry-specification</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-specification" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">Specifications for OpenTelemetry</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inpyjama/c-ninja-listings#1735211967</id>
+    <title>https://github.com/inpyjama/c-ninja-listings</title>
+    <link href="https://github.com/inpyjama/c-ninja-listings" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">Lower level assembly and C baremetal programming on RISC-V CPUs. Source code listings from the C-Ninja, in Pyjama! book.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jobbole/awesome-python-cn#1735211967</id>
+    <title>https://github.com/jobbole/awesome-python-cn</title>
+    <link href="https://github.com/jobbole/awesome-python-cn" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepseek-ai/DeepSeek-LLM#1735211967</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">DeepSeek LLM: Let there be answers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freebsd/freebsd-ports#1735211967</id>
+    <title>https://github.com/freebsd/freebsd-ports</title>
+    <link href="https://github.com/freebsd/freebsd-ports" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">FreeBSD ports tree (read-only mirror)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1735211967</id>
     <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
     <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
+    <updated>2024-12-26T11:19:27+00:00</updated>
     <content type="text">Generated code for OpenTelemetry protobuf data model</content>
   </entry>
   <entry>
-    <id>https://github.com/teaxyz/white-paper</id>
+    <id>https://github.com/uber-go/guide#1735211967</id>
+    <title>https://github.com/uber-go/guide</title>
+    <link href="https://github.com/uber-go/guide" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">The Uber Go Style Guide.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-standards/project-layout#1735211967</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
+    <updated>2024-12-26T11:19:27+00:00</updated>
+    <content type="text">Standard Go Project Layout</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teaxyz/white-paper#1735211967</id>
     <title>https://github.com/teaxyz/white-paper</title>
     <link href="https://github.com/teaxyz/white-paper" />
-    <updated>2024-12-26T04:13:12+00:00</updated>
+    <updated>2024-12-26T11:19:27+00:00</updated>
     <content type="text">how will the protocol work?</content>
   </entry>
 </feed>

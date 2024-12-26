@@ -4,29 +4,29 @@
   <title>GitHub Treanding - webassembly (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/webassembly/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/webassembly/" rel="alternate" />
-  <updated>2024-12-26T04:23:20+00:00</updated>
+  <updated>2024-12-26T11:32:19+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/iden3/circom</id>
-    <title>https://github.com/iden3/circom</title>
-    <link href="https://github.com/iden3/circom" />
-    <updated>2024-12-26T04:23:20+00:00</updated>
-    <content type="text">zkSnark circuit compiler</content>
+    <id>https://github.com/AssemblyScript/assemblyscript#1735212739</id>
+    <title>https://github.com/AssemblyScript/assemblyscript</title>
+    <link href="https://github.com/AssemblyScript/assemblyscript" />
+    <updated>2024-12-26T11:32:19+00:00</updated>
+    <content type="text">A TypeScript-like language for WebAssembly.</content>
   </entry>
   <entry>
-    <id>https://github.com/WebAssembly/wasi-threads</id>
-    <title>https://github.com/WebAssembly/wasi-threads</title>
-    <link href="https://github.com/WebAssembly/wasi-threads" />
-    <updated>2024-12-26T04:23:20+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/WebAssembly/binaryen</id>
+    <id>https://github.com/WebAssembly/binaryen#1735212739</id>
     <title>https://github.com/WebAssembly/binaryen</title>
     <link href="https://github.com/WebAssembly/binaryen" />
-    <updated>2024-12-26T04:23:20+00:00</updated>
+    <updated>2024-12-26T11:32:19+00:00</updated>
     <content type="text">Optimizer and compiler/toolchain library for WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WebAssembly/wasi-threads#1735212739</id>
+    <title>https://github.com/WebAssembly/wasi-threads</title>
+    <link href="https://github.com/WebAssembly/wasi-threads" />
+    <updated>2024-12-26T11:32:19+00:00</updated>
+    <content type="text" />
   </entry>
 </feed>

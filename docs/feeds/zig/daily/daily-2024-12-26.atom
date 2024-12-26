@@ -4,64 +4,99 @@
   <title>GitHub Treanding - zig (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/" rel="alternate" />
-  <updated>2024-12-26T04:24:30+00:00</updated>
+  <updated>2024-12-26T11:33:46+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pedropark99/zig-book</id>
-    <title>https://github.com/pedropark99/zig-book</title>
-    <link href="https://github.com/pedropark99/zig-book" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
-    <content type="text">An open, technical and introductory book for the Zig programming language</content>
+    <id>https://github.com/JakubSzark/zig-string#1735212826</id>
+    <title>https://github.com/JakubSzark/zig-string</title>
+    <link href="https://github.com/JakubSzark/zig-string" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">A String Library made for Zig</content>
   </entry>
   <entry>
-    <id>https://github.com/tigerbeetle/tigerbeetle</id>
-    <title>https://github.com/tigerbeetle/tigerbeetle</title>
-    <link href="https://github.com/tigerbeetle/tigerbeetle" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
-    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zig-gamedev/zig-gamedev</id>
-    <title>https://github.com/zig-gamedev/zig-gamedev</title>
-    <link href="https://github.com/zig-gamedev/zig-gamedev" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
-    <content type="text">Dev repo for @zig-gamedev libs and sample applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fairyglade/ly</id>
+    <id>https://github.com/fairyglade/ly#1735212826</id>
     <title>https://github.com/fairyglade/ly</title>
     <link href="https://github.com/fairyglade/ly" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
+    <updated>2024-12-26T11:33:46+00:00</updated>
     <content type="text">display manager with console UI</content>
   </entry>
   <entry>
-    <id>https://github.com/oven-sh/bun</id>
+    <id>https://github.com/tigerbeetle/tigerbeetle#1735212826</id>
+    <title>https://github.com/tigerbeetle/tigerbeetle</title>
+    <link href="https://github.com/tigerbeetle/tigerbeetle" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1735212826</id>
     <title>https://github.com/oven-sh/bun</title>
     <link href="https://github.com/oven-sh/bun" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
+    <updated>2024-12-26T11:33:46+00:00</updated>
     <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
   </entry>
   <entry>
-    <id>https://github.com/ziglang/zig</id>
-    <title>https://github.com/ziglang/zig</title>
-    <link href="https://github.com/ziglang/zig" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
-    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+    <id>https://github.com/zig-gamedev/zig-gamedev#1735212826</id>
+    <title>https://github.com/zig-gamedev/zig-gamedev</title>
+    <link href="https://github.com/zig-gamedev/zig-gamedev" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">Dev repo for @zig-gamedev libs and sample applications</content>
   </entry>
   <entry>
-    <id>https://github.com/zigtools/zls</id>
-    <title>https://github.com/zigtools/zls</title>
-    <link href="https://github.com/zigtools/zls" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
-    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+    <id>https://github.com/riverwm/river#1735212826</id>
+    <title>https://github.com/riverwm/river</title>
+    <link href="https://github.com/riverwm/river" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">[mirror] A dynamic tiling Wayland compositor</content>
   </entry>
   <entry>
-    <id>https://github.com/neurocyte/flow</id>
+    <id>https://github.com/mitchellh/libxev#1735212826</id>
+    <title>https://github.com/mitchellh/libxev</title>
+    <link href="https://github.com/mitchellh/libxev" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zml/zml#1735212826</id>
+    <title>https://github.com/zml/zml</title>
+    <link href="https://github.com/zml/zml" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Not-Nik/raylib-zig#1735212826</id>
+    <title>https://github.com/Not-Nik/raylib-zig</title>
+    <link href="https://github.com/Not-Nik/raylib-zig" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedropark99/zig-book#1735212826</id>
+    <title>https://github.com/pedropark99/zig-book</title>
+    <link href="https://github.com/pedropark99/zig-book" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">An open, technical and introductory book for the Zig programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexops/mach#1735212826</id>
+    <title>https://github.com/hexops/mach</title>
+    <link href="https://github.com/hexops/mach" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">zig game engine &amp; graphics toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neurocyte/flow#1735212826</id>
     <title>https://github.com/neurocyte/flow</title>
     <link href="https://github.com/neurocyte/flow" />
-    <updated>2024-12-26T04:24:30+00:00</updated>
+    <updated>2024-12-26T11:33:46+00:00</updated>
     <content type="text">Flow Control: a programmer's text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1735212826</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2024-12-26T11:33:46+00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
   </entry>
 </feed>

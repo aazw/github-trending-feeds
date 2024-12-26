@@ -4,15 +4,22 @@
   <title>GitHub Treanding - asl (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/" rel="alternate" />
-  <updated>2024-12-26T04:03:14+00:00</updated>
+  <updated>2024-12-26T11:07:11+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dortania/Getting-Started-With-ACPI</id>
+    <id>https://github.com/acpica/acpica#1735211231</id>
+    <title>https://github.com/acpica/acpica</title>
+    <link href="https://github.com/acpica/acpica" />
+    <updated>2024-12-26T11:07:11+00:00</updated>
+    <content type="text">The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI). For detailed project information and downloads, go to https://www.acpica.org. For ACPICA contributor and source code licensing information, go to</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dortania/Getting-Started-With-ACPI#1735211231</id>
     <title>https://github.com/dortania/Getting-Started-With-ACPI</title>
     <link href="https://github.com/dortania/Getting-Started-With-ACPI" />
-    <updated>2024-12-26T04:03:14+00:00</updated>
+    <updated>2024-12-26T11:07:11+00:00</updated>
     <content type="text">Repo for Getting Started With ACPI</content>
   </entry>
 </feed>

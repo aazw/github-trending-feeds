@@ -4,29 +4,22 @@
   <title>GitHub Treanding - tcl (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/" rel="alternate" />
-  <updated>2024-12-26T04:21:27+00:00</updated>
+  <updated>2024-12-26T11:30:08+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Digilent/digilent-xdc</id>
-    <title>https://github.com/Digilent/digilent-xdc</title>
-    <link href="https://github.com/Digilent/digilent-xdc" />
-    <updated>2024-12-26T04:21:27+00:00</updated>
-    <content type="text">A collection of Master XDC files for Digilent FPGA and Zynq boards.</content>
+    <id>https://github.com/rdbende/Sun-Valley-ttk-theme#1735212608</id>
+    <title>https://github.com/rdbende/Sun-Valley-ttk-theme</title>
+    <link href="https://github.com/rdbende/Sun-Valley-ttk-theme" />
+    <updated>2024-12-26T11:30:08+00:00</updated>
+    <content type="text">A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨</content>
   </entry>
   <entry>
-    <id>https://github.com/BRL-CAD/brlcad</id>
-    <title>https://github.com/BRL-CAD/brlcad</title>
-    <link href="https://github.com/BRL-CAD/brlcad" />
-    <updated>2024-12-26T04:21:27+00:00</updated>
-    <content type="text">BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system</content>
-  </entry>
-  <entry>
-    <id>https://github.com/macports/macports-ports</id>
+    <id>https://github.com/macports/macports-ports#1735212608</id>
     <title>https://github.com/macports/macports-ports</title>
     <link href="https://github.com/macports/macports-ports" />
-    <updated>2024-12-26T04:21:27+00:00</updated>
+    <updated>2024-12-26T11:30:08+00:00</updated>
     <content type="text">The MacPorts ports tree</content>
   </entry>
 </feed>

@@ -4,8 +4,15 @@
   <title>GitHub Treanding - spline-font-database (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/spline-font-database/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/spline-font-database/" rel="alternate" />
-  <updated>2024-12-26T04:20:37+00:00</updated>
+  <updated>2024-12-26T11:29:04+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/alerque/libertinus#1735212544</id>
+    <title>https://github.com/alerque/libertinus</title>
+    <link href="https://github.com/alerque/libertinus" />
+    <updated>2024-12-26T11:29:04+00:00</updated>
+    <content type="text">The Libertinus font family</content>
+  </entry>
 </feed>

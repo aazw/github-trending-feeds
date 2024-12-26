@@ -4,99 +4,113 @@
   <title>GitHub Treanding - erlang (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/" rel="alternate" />
-  <updated>2024-12-26T04:07:44+00:00</updated>
+  <updated>2024-12-26T11:12:39+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/benoitc/hackney</id>
-    <title>https://github.com/benoitc/hackney</title>
-    <link href="https://github.com/benoitc/hackney" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">simple HTTP client in Erlang</content>
+    <id>https://github.com/processone/ejabberd#1735211559</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
   </entry>
   <entry>
-    <id>https://github.com/erlydtl/erlydtl</id>
-    <title>https://github.com/erlydtl/erlydtl</title>
-    <link href="https://github.com/erlydtl/erlydtl" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">Django templates for Erlang</content>
+    <id>https://github.com/emqx/emqtt#1735211559</id>
+    <title>https://github.com/emqx/emqtt</title>
+    <link href="https://github.com/emqx/emqtt" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Erlang MQTT 5.0 Client</content>
   </entry>
   <entry>
-    <id>https://github.com/kafka4beam/brod</id>
-    <title>https://github.com/kafka4beam/brod</title>
-    <link href="https://github.com/kafka4beam/brod" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">Apache Kafka client library for Erlang/Elixir</content>
+    <id>https://github.com/erlcloud/erlcloud#1735211559</id>
+    <title>https://github.com/erlcloud/erlcloud</title>
+    <link href="https://github.com/erlcloud/erlcloud" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)</content>
   </entry>
   <entry>
-    <id>https://github.com/mochi/mochiweb</id>
-    <title>https://github.com/mochi/mochiweb</title>
-    <link href="https://github.com/mochi/mochiweb" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
+    <id>https://github.com/virtan/eep#1735211559</id>
+    <title>https://github.com/virtan/eep</title>
+    <link href="https://github.com/virtan/eep" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy</content>
   </entry>
   <entry>
-    <id>https://github.com/emqx/emqx</id>
-    <title>https://github.com/emqx/emqx</title>
-    <link href="https://github.com/emqx/emqx" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+    <id>https://github.com/tomas-abrahamsson/gpb#1735211559</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
   </entry>
   <entry>
-    <id>https://github.com/dgiot/dgiot</id>
-    <title>https://github.com/dgiot/dgiot</title>
-    <link href="https://github.com/dgiot/dgiot" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935</content>
+    <id>https://github.com/uwiger/gproc#1735211559</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
   </entry>
   <entry>
-    <id>https://github.com/dnsimple/erldns</id>
-    <title>https://github.com/dnsimple/erldns</title>
-    <link href="https://github.com/dnsimple/erldns" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">DNS server, in Erlang.</content>
+    <id>https://github.com/seancribbs/eunit_formatters#1735211559</id>
+    <title>https://github.com/seancribbs/eunit_formatters</title>
+    <link href="https://github.com/seancribbs/eunit_formatters" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Because eunit's output sucks. Let's make it better.</content>
   </entry>
   <entry>
-    <id>https://github.com/for-GET/jesse</id>
-    <title>https://github.com/for-GET/jesse</title>
-    <link href="https://github.com/for-GET/jesse" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1735211559</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
   </entry>
   <entry>
-    <id>https://github.com/couchbase/couchdb</id>
-    <title>https://github.com/couchbase/couchdb</title>
-    <link href="https://github.com/couchbase/couchdb" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">CouchDB</content>
+    <id>https://github.com/josefs/Gradualizer#1735211559</id>
+    <title>https://github.com/josefs/Gradualizer</title>
+    <link href="https://github.com/josefs/Gradualizer" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">A Gradual type system for Erlang</content>
   </entry>
   <entry>
-    <id>https://github.com/ninenines/gun</id>
-    <title>https://github.com/ninenines/gun</title>
-    <link href="https://github.com/ninenines/gun" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/potatosalad/erlang-jose</id>
+    <id>https://github.com/potatosalad/erlang-jose#1735211559</id>
     <title>https://github.com/potatosalad/erlang-jose</title>
     <link href="https://github.com/potatosalad/erlang-jose" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
+    <updated>2024-12-26T11:12:39+00:00</updated>
     <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
   </entry>
   <entry>
-    <id>https://github.com/erlang/otp</id>
+    <id>https://github.com/for-GET/jesse#1735211559</id>
+    <title>https://github.com/for-GET/jesse</title>
+    <link href="https://github.com/for-GET/jesse" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/couchdb#1735211559</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1735211559</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1735211559</id>
     <title>https://github.com/erlang/otp</title>
     <link href="https://github.com/erlang/otp" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
+    <updated>2024-12-26T11:12:39+00:00</updated>
     <content type="text">Erlang/OTP</content>
   </entry>
   <entry>
-    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</id>
-    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
-    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
-    <updated>2024-12-26T04:07:44+00:00</updated>
-    <content type="text">Delayed Messaging for RabbitMQ</content>
+    <id>https://github.com/dgiot/dgiot#1735211559</id>
+    <title>https://github.com/dgiot/dgiot</title>
+    <link href="https://github.com/dgiot/dgiot" />
+    <updated>2024-12-26T11:12:39+00:00</updated>
+    <content type="text">Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935</content>
   </entry>
 </feed>
