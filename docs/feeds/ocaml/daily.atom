@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</id>
+  <title>GitHub Treanding - ocaml</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/" rel="alternate" />
+  <updated>2024-12-25T15:50:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/facebook/infer</id>
+    <title>https://github.com/facebook/infer</title>
+    <link href="https://github.com/facebook/infer" />
+    <updated>2024-12-25T15:50:48+00:00</updated>
+    <content type="text">A static analyzer for Java, C, C++, and Objective-C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astrada/google-drive-ocamlfuse</id>
+    <title>https://github.com/astrada/google-drive-ocamlfuse</title>
+    <link href="https://github.com/astrada/google-drive-ocamlfuse" />
+    <updated>2024-12-25T15:50:48+00:00</updated>
+    <content type="text">FUSE filesystem over Google Drive</content>
+  </entry>
+  <entry>
+    <id>https://github.com/janestreet/magic-trace</id>
+    <title>https://github.com/janestreet/magic-trace</title>
+    <link href="https://github.com/janestreet/magic-trace" />
+    <updated>2024-12-25T15:50:48+00:00</updated>
+    <content type="text">magic-trace collects and displays high-resolution traces of what a process is doing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MinaProtocol/mina</id>
+    <title>https://github.com/MinaProtocol/mina</title>
+    <link href="https://github.com/MinaProtocol/mina" />
+    <updated>2024-12-25T15:50:48+00:00</updated>
+    <content type="text">Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/semgrep</id>
+    <title>https://github.com/semgrep/semgrep</title>
+    <link href="https://github.com/semgrep/semgrep" />
+    <updated>2024-12-25T15:50:48+00:00</updated>
+    <content type="text">Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/ocaml-tree-sitter-core</id>
+    <title>https://github.com/semgrep/ocaml-tree-sitter-core</title>
+    <link href="https://github.com/semgrep/ocaml-tree-sitter-core" />
+    <updated>2024-12-25T15:50:48+00:00</updated>
+    <content type="text">OCaml code generator and runtime library for handling typed tree-sitter CSTs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bcpierce00/unison</id>
+    <title>https://github.com/bcpierce00/unison</title>
+    <link href="https://github.com/bcpierce00/unison" />
+    <updated>2024-12-25T15:50:48+00:00</updated>
+    <content type="text">Unison file synchronizer</content>
+  </entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cython/daily.atom</id>
+  <title>GitHub Treanding - cython</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cython/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cython/" rel="alternate" />
+  <updated>2024-12-25T15:40:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/openai/mujoco-py</id>
+    <title>https://github.com/openai/mujoco-py</title>
+    <link href="https://github.com/openai/mujoco-py" />
+    <updated>2024-12-25T15:40:44+00:00</updated>
+    <content type="text">MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MagicStack/uvloop</id>
+    <title>https://github.com/MagicStack/uvloop</title>
+    <link href="https://github.com/MagicStack/uvloop" />
+    <updated>2024-12-25T15:40:44+00:00</updated>
+    <content type="text">Ultra fast asyncio event loop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TA-Lib/ta-lib-python</id>
+    <title>https://github.com/TA-Lib/ta-lib-python</title>
+    <link href="https://github.com/TA-Lib/ta-lib-python" />
+    <updated>2024-12-25T15:40:44+00:00</updated>
+    <content type="text">Python wrapper for TA-Lib (http://ta-lib.org/).</content>
+  </entry>
+</feed>

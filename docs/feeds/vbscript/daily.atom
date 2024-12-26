@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vbscript/daily.atom</id>
+  <title>GitHub Treanding - vbscript</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vbscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vbscript/" rel="alternate" />
+  <updated>2024-12-25T15:58:03+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abbodi1406/vcredist</id>
+    <title>https://github.com/abbodi1406/vcredist</title>
+    <link href="https://github.com/abbodi1406/vcredist" />
+    <updated>2024-12-25T15:58:03+00:00</updated>
+    <content type="text">AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Da2dalus/The-MALWARE-Repo</id>
+    <title>https://github.com/Da2dalus/The-MALWARE-Repo</title>
+    <link href="https://github.com/Da2dalus/The-MALWARE-Repo" />
+    <updated>2024-12-25T15:58:03+00:00</updated>
+    <content type="text">A repository full of malware samples.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pyenv-win/pyenv-win</id>
+    <title>https://github.com/pyenv-win/pyenv-win</title>
+    <link href="https://github.com/pyenv-win/pyenv-win" />
+    <updated>2024-12-25T15:58:03+00:00</updated>
+    <content type="text">pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.</content>
+  </entry>
+</feed>

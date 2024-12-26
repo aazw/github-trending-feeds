@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Treanding - julia</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/" rel="alternate" />
+  <updated>2024-12-25T15:46:24+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JuliaLang/julia</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Deltares/Ribasim</id>
+    <title>https://github.com/Deltares/Ribasim</title>
+    <link href="https://github.com/Deltares/Ribasim" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">Water resources modeling</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaLand.jl</id>
+    <title>https://github.com/CliMA/ClimaLand.jl</title>
+    <link href="https://github.com/CliMA/ClimaLand.jl" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">Clima's Land Model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaTimeSteppers.jl</id>
+    <title>https://github.com/CliMA/ClimaTimeSteppers.jl</title>
+    <link href="https://github.com/CliMA/ClimaTimeSteppers.jl" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">A CPU- and GPU-friendly package for solving ordinary differential equations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaCoupler.jl</id>
+    <title>https://github.com/CliMA/ClimaCoupler.jl</title>
+    <link href="https://github.com/CliMA/ClimaCoupler.jl" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">ClimaCoupler: bringing atmosphere, land, and ocean together</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaOcean.jl</id>
+    <title>https://github.com/CliMA/ClimaOcean.jl</title>
+    <link href="https://github.com/CliMA/ClimaOcean.jl" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">🌎 Framework for realistic regional-to-global ocean simulations, and coupled ocean + sea-ice simulations based on Oceananigans and ClimaSeaIce. Basis for the ocean and sea-ice component of CliMA's Earth system model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaAtmos.jl</id>
+    <title>https://github.com/CliMA/ClimaAtmos.jl</title>
+    <link href="https://github.com/CliMA/ClimaAtmos.jl" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/Oceananigans.jl</id>
+    <title>https://github.com/CliMA/Oceananigans.jl</title>
+    <link href="https://github.com/CliMA/Oceananigans.jl" />
+    <updated>2024-12-25T15:46:24+00:00</updated>
+    <content type="text">🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs</content>
+  </entry>
+</feed>

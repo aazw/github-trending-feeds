@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/daily.atom</id>
+  <title>GitHub Treanding - rich-text-format</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/" rel="alternate" />
+  <updated>2024-12-25T15:54:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Maradonna90/NewGAN-Manager</id>
+    <title>https://github.com/Maradonna90/NewGAN-Manager</title>
+    <link href="https://github.com/Maradonna90/NewGAN-Manager" />
+    <updated>2024-12-25T15:54:07+00:00</updated>
+    <content type="text">A tool to generate and manage xml configs for the Newgen Facepack.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/opengpts</id>
+    <title>https://github.com/langchain-ai/opengpts</title>
+    <link href="https://github.com/langchain-ai/opengpts" />
+    <updated>2024-12-25T15:54:07+00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

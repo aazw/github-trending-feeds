@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/wren/daily.atom</id>
+  <title>GitHub Treanding - wren</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/wren/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/wren/" rel="alternate" />
+  <updated>2024-12-25T15:59:01+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/wren-lang/wren</id>
+    <title>https://github.com/wren-lang/wren</title>
+    <link href="https://github.com/wren-lang/wren" />
+    <updated>2024-12-25T15:59:01+00:00</updated>
+    <content type="text">The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.</content>
+  </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom</id>
+  <title>GitHub Treanding - adblock-filter-list</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/" rel="alternate" />
+  <updated>2024-12-25T15:36:46+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdguardFilters</id>
+    <title>https://github.com/AdguardTeam/AdguardFilters</title>
+    <link href="https://github.com/AdguardTeam/AdguardFilters" />
+    <updated>2024-12-25T15:36:46+00:00</updated>
+    <content type="text">AdGuard Content Blocking Filters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardSDNSFilter</id>
+    <title>https://github.com/AdguardTeam/AdGuardSDNSFilter</title>
+    <link href="https://github.com/AdguardTeam/AdGuardSDNSFilter" />
+    <updated>2024-12-25T15:36:46+00:00</updated>
+    <content type="text">AdGuard DNS filter</content>
+  </entry>
+</feed>

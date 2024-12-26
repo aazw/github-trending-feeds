@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom</id>
+  <title>GitHub Treanding - xslt</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/" rel="alternate" />
+  <updated>2024-12-25T15:59:30+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/usnistgov/oscal-content</id>
+    <title>https://github.com/usnistgov/oscal-content</title>
+    <link href="https://github.com/usnistgov/oscal-content" />
+    <updated>2024-12-25T15:59:30+00:00</updated>
+    <content type="text">NIST SP 800-53 content and other OSCAL content examples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LOLBAS-Project/LOLBAS</id>
+    <title>https://github.com/LOLBAS-Project/LOLBAS</title>
+    <link href="https://github.com/LOLBAS-Project/LOLBAS" />
+    <updated>2024-12-25T15:59:30+00:00</updated>
+    <content type="text">Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uri-templates/uritemplate-test</id>
+    <title>https://github.com/uri-templates/uritemplate-test</title>
+    <link href="https://github.com/uri-templates/uritemplate-test" />
+    <updated>2024-12-25T15:59:30+00:00</updated>
+    <content type="text">Tests for URI Template implementations</content>
+  </entry>
+</feed>

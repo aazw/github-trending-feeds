@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mermaid/daily.atom</id>
+  <title>GitHub Treanding - mermaid</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mermaid/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mermaid/" rel="alternate" />
+  <updated>2024-12-25T15:48:30+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/v2fly/v2ray-examples</id>
+    <title>https://github.com/v2fly/v2ray-examples</title>
+    <link href="https://github.com/v2fly/v2ray-examples" />
+    <updated>2024-12-25T15:48:30+00:00</updated>
+    <content type="text">v2ray-core 的模板们</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/power-automate-docs</id>
+    <title>https://github.com/MicrosoftDocs/power-automate-docs</title>
+    <link href="https://github.com/MicrosoftDocs/power-automate-docs" />
+    <updated>2024-12-25T15:48:30+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/EntityFramework.Docs</id>
+    <title>https://github.com/dotnet/EntityFramework.Docs</title>
+    <link href="https://github.com/dotnet/EntityFramework.Docs" />
+    <updated>2024-12-25T15:48:30+00:00</updated>
+    <content type="text">Documentation for Entity Framework Core and Entity Framework 6</content>
+  </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/qml/daily.atom</id>
+  <title>GitHub Treanding - qml</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/qml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/qml/" rel="alternate" />
+  <updated>2024-12-25T15:53:16+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/catsout/wallpaper-engine-kde-plugin</id>
+    <title>https://github.com/catsout/wallpaper-engine-kde-plugin</title>
+    <link href="https://github.com/catsout/wallpaper-engine-kde-plugin" />
+    <updated>2024-12-25T15:53:16+00:00</updated>
+    <content type="text">A kde wallpaper plugin integrating wallpaper engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Swordfish90/cool-retro-term</id>
+    <title>https://github.com/Swordfish90/cool-retro-term</title>
+    <link href="https://github.com/Swordfish90/cool-retro-term" />
+    <updated>2024-12-25T15:53:16+00:00</updated>
+    <content type="text">A good looking terminal emulator which mimics the old cathode display...</content>
+  </entry>
+</feed>

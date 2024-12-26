@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Treanding - jupyter-notebook</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/" rel="alternate" />
+  <updated>2024-12-25T15:46:26+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aws-samples/amazon-bedrock-samples</id>
+    <title>https://github.com/aws-samples/amazon-bedrock-samples</title>
+    <link href="https://github.com/aws-samples/amazon-bedrock-samples" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codebasics/py</id>
+    <title>https://github.com/codebasics/py</title>
+    <link href="https://github.com/codebasics/py" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">Repository to store sample python programs for python learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/AI-For-Beginners</id>
+    <title>https://github.com/microsoft/AI-For-Beginners</title>
+    <link href="https://github.com/microsoft/AI-For-Beginners" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">12 Weeks, 24 Lessons, AI for All!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/generative-ai-for-beginners</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/OmniParser</id>
+    <title>https://github.com/microsoft/OmniParser</title>
+    <link href="https://github.com/microsoft/OmniParser" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">A simple screen parsing tool towards pure vision based GUI agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-cookbook</id>
+    <title>https://github.com/datawhalechina/llm-cookbook</title>
+    <link href="https://github.com/datawhalechina/llm-cookbook" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/anthropic-cookbook</id>
+    <title>https://github.com/anthropics/anthropic-cookbook</title>
+    <link href="https://github.com/anthropics/anthropic-cookbook" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embeddings-benchmark/mteb</id>
+    <title>https://github.com/embeddings-benchmark/mteb</title>
+    <link href="https://github.com/embeddings-benchmark/mteb" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">MTEB: Massive Text Embedding Benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neo4j-labs/llm-graph-builder</id>
+    <title>https://github.com/neo4j-labs/llm-graph-builder</title>
+    <link href="https://github.com/neo4j-labs/llm-graph-builder" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">Neo4j graph construction from unstructured data using LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IDEA-Research/Grounded-SAM-2</id>
+    <title>https://github.com/IDEA-Research/Grounded-SAM-2</title>
+    <link href="https://github.com/IDEA-Research/Grounded-SAM-2" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mlabonne/llm-course</id>
+    <title>https://github.com/mlabonne/llm-course</title>
+    <link href="https://github.com/mlabonne/llm-course" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain-academy</id>
+    <title>https://github.com/langchain-ai/langchain-academy</title>
+    <link href="https://github.com/langchain-ai/langchain-academy" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning</id>
+    <title>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning</title>
+    <link href="https://github.com/SharifiZarchi/Introduction_to_Machine_Learning" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">Machine Learning Course, Sharif University of Technology</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml3</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2024-12-25T15:46:26+00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+</feed>

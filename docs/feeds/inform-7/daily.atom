@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/inform-7/daily.atom</id>
+  <title>GitHub Treanding - inform-7</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/inform-7/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/inform-7/" rel="alternate" />
+  <updated>2024-12-25T15:45:22+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Nuku/Flexible-Survival</id>
+    <title>https://github.com/Nuku/Flexible-Survival</title>
+    <link href="https://github.com/Nuku/Flexible-Survival" />
+    <updated>2024-12-25T15:45:22+00:00</updated>
+    <content type="text">Flexible Survival is an Inform based text game.</content>
+  </entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/stylus/daily.atom</id>
+  <title>GitHub Treanding - stylus</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/stylus/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/stylus/" rel="alternate" />
+  <updated>2024-12-25T15:56:18+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/anzhiyu-c/hexo-theme-anzhiyu</id>
+    <title>https://github.com/anzhiyu-c/hexo-theme-anzhiyu</title>
+    <link href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu" />
+    <updated>2024-12-25T15:56:18+00:00</updated>
+    <content type="text">安知鱼主题，这是一个简洁美丽的hexo主题。</content>
+  </entry>
+</feed>

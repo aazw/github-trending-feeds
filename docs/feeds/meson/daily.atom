@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/meson/daily.atom</id>
+  <title>GitHub Treanding - meson</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/meson/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/meson/" rel="alternate" />
+  <updated>2024-12-25T15:48:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/frida/frida</id>
+    <title>https://github.com/frida/frida</title>
+    <link href="https://github.com/frida/frida" />
+    <updated>2024-12-25T15:48:32+00:00</updated>
+    <content type="text">Clone this repo to build Frida</content>
+  </entry>
+</feed>

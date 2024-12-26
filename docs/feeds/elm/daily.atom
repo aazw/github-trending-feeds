@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elm/daily.atom</id>
+  <title>GitHub Treanding - elm</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elm/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elm/" rel="alternate" />
+  <updated>2024-12-25T15:42:05+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/eikek/docspell</id>
+    <title>https://github.com/eikek/docspell</title>
+    <link href="https://github.com/eikek/docspell" />
+    <updated>2024-12-25T15:42:05+00:00</updated>
+    <content type="text">Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.</content>
+  </entry>
+</feed>

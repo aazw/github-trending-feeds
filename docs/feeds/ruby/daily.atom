@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Treanding - ruby</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/" rel="alternate" />
+  <updated>2024-12-25T15:54:34+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AppsFlyerSDK/AppsFlyerFramework</id>
+    <title>https://github.com/AppsFlyerSDK/AppsFlyerFramework</title>
+    <link href="https://github.com/AppsFlyerSDK/AppsFlyerFramework" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">AppsFlyer Apple SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kilimchoi/engineering-blogs</id>
+    <title>https://github.com/kilimchoi/engineering-blogs</title>
+    <link href="https://github.com/kilimchoi/engineering-blogs" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">A curated list of engineering blogs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doorkeeper-gem/doorkeeper</id>
+    <title>https://github.com/doorkeeper-gem/doorkeeper</title>
+    <link href="https://github.com/doorkeeper-gem/doorkeeper" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tradingview/charting-library-examples</id>
+    <title>https://github.com/tradingview/charting-library-examples</title>
+    <link href="https://github.com/tradingview/charting-library-examples" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Examples of Charting Library integrations with other libraries, frameworks and data transports</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/rbs</id>
+    <title>https://github.com/ruby/rbs</title>
+    <link href="https://github.com/ruby/rbs" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Type Signature for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitlabhq/gitlabhq</id>
+    <title>https://github.com/gitlabhq/gitlabhq</title>
+    <link href="https://github.com/gitlabhq/gitlabhq" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redmine/redmine</id>
+    <title>https://github.com/redmine/redmine</title>
+    <link href="https://github.com/redmine/redmine" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/kamal</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Deploy web apps anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wpscanteam/wpscan</id>
+    <title>https://github.com/wpscanteam/wpscan</title>
+    <link href="https://github.com/wpscanteam/wpscan" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freika/dawarich</id>
+    <title>https://github.com/Freika/dawarich</title>
+    <link href="https://github.com/Freika/dawarich" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Self-hosted alternative to Google Location History (Google Maps Timeline)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-linguist/linguist</id>
+    <title>https://github.com/github-linguist/linguist</title>
+    <link href="https://github.com/github-linguist/linguist" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluentd</id>
+    <title>https://github.com/fluent/fluentd</title>
+    <link href="https://github.com/fluent/fluentd" />
+    <updated>2024-12-25T15:54:34+00:00</updated>
+    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+  </entry>
+</feed>

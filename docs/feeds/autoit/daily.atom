@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/autoit/daily.atom</id>
+  <title>GitHub Treanding - autoit</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/autoit/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/autoit/" rel="alternate" />
+  <updated>2024-12-25T15:37:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SegoCode/AutoWall</id>
+    <title>https://github.com/SegoCode/AutoWall</title>
+    <link href="https://github.com/SegoCode/AutoWall" />
+    <updated>2024-12-25T15:37:43+00:00</updated>
+    <content type="text">🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KovaaK/InterAccel</id>
+    <title>https://github.com/KovaaK/InterAccel</title>
+    <link href="https://github.com/KovaaK/InterAccel" />
+    <updated>2024-12-25T15:37:43+00:00</updated>
+    <content type="text">QuakeLive style mouse acceleration across your entire OS and any game</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Bioruebe/UniExtract2</id>
+    <title>https://github.com/Bioruebe/UniExtract2</title>
+    <link href="https://github.com/Bioruebe/UniExtract2" />
+    <updated>2024-12-25T15:37:43+00:00</updated>
+    <content type="text">Universal Extractor 2 is a tool to extract files from any type of archive or installer.</content>
+  </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rescript/daily.atom</id>
+  <title>GitHub Treanding - rescript</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/" rel="alternate" />
+  <updated>2024-12-25T15:54:00+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch-control-center</id>
+    <title>https://github.com/juspay/hyperswitch-control-center</title>
+    <link href="https://github.com/juspay/hyperswitch-control-center" />
+    <updated>2024-12-25T15:54:00+00:00</updated>
+    <content type="text">Open sourced control center for managing Hyperswitch - an open sourced payment switch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rescript-lang/rescript</id>
+    <title>https://github.com/rescript-lang/rescript</title>
+    <link href="https://github.com/rescript-lang/rescript" />
+    <updated>2024-12-25T15:54:00+00:00</updated>
+    <content type="text">ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.</content>
+  </entry>
+</feed>

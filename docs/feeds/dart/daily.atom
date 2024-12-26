@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dart/daily.atom</id>
+  <title>GitHub Treanding - dart</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dart/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dart/" rel="alternate" />
+  <updated>2024-12-25T15:40:54+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/fluttercommunity/flutter_workmanager</id>
+    <title>https://github.com/fluttercommunity/flutter_workmanager</title>
+    <link href="https://github.com/fluttercommunity/flutter_workmanager" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">A Flutter plugin which allows you to execute code in the background on Android and iOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK</id>
+    <title>https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK</title>
+    <link href="https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">Flutter plugin of Agora RTC SDK for Android/iOS/macOS/Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firebase/flutterfire</id>
+    <title>https://github.com/firebase/flutterfire</title>
+    <link href="https://github.com/firebase/flutterfire" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">🔥 A collection of Firebase plugins for Flutter apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ImranR98/Obtainium</id>
+    <title>https://github.com/ImranR98/Obtainium</title>
+    <link href="https://github.com/ImranR98/Obtainium" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">Get Android app updates straight from the source.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitesh77/Best-Flutter-UI-Templates</id>
+    <title>https://github.com/mitesh77/Best-Flutter-UI-Templates</title>
+    <link href="https://github.com/mitesh77/Best-Flutter-UI-Templates" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">completely free for everyone. Its build-in Flutter Dart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/felangel/bloc</id>
+    <title>https://github.com/felangel/bloc</title>
+    <link href="https://github.com/felangel/bloc" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">A predictable state management library that helps implement the BLoC design pattern</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dart-lang/sdk</id>
+    <title>https://github.com/dart-lang/sdk</title>
+    <link href="https://github.com/dart-lang/sdk" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/letsar/flutter_slidable</id>
+    <title>https://github.com/letsar/flutter_slidable</title>
+    <link href="https://github.com/letsar/flutter_slidable" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">A Flutter implementation of slidable list item with directional slide actions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AppFlowy-IO/AppFlowy</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/localsend/localsend</id>
+    <title>https://github.com/localsend/localsend</title>
+    <link href="https://github.com/localsend/localsend" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">An open-source cross-platform alternative to AirDrop</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anandnet/Harmony-Music</id>
+    <title>https://github.com/anandnet/Harmony-Music</title>
+    <link href="https://github.com/anandnet/Harmony-Music" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">A cross platform App for streaming Music</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pichillilorenzo/flutter_inappwebview</id>
+    <title>https://github.com/pichillilorenzo/flutter_inappwebview</title>
+    <link href="https://github.com/pichillilorenzo/flutter_inappwebview" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flutter/flutter</id>
+    <title>https://github.com/flutter/flutter</title>
+    <link href="https://github.com/flutter/flutter" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">Flutter makes it easy and fast to build beautiful apps for mobile and beyond</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foss42/apidash</id>
+    <title>https://github.com/foss42/apidash</title>
+    <link href="https://github.com/foss42/apidash" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android &amp; iOS) API Client built using Flutter which can help you easily create &amp; customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flutter/samples</id>
+    <title>https://github.com/flutter/samples</title>
+    <link href="https://github.com/flutter/samples" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">A collection of Flutter examples and demos</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RyanYuuki/AnymeX</id>
+    <title>https://github.com/RyanYuuki/AnymeX</title>
+    <link href="https://github.com/RyanYuuki/AnymeX" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">An Open Source app for watching anime, reading mangas and novels</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReVanced/revanced-manager</id>
+    <title>https://github.com/ReVanced/revanced-manager</title>
+    <link href="https://github.com/ReVanced/revanced-manager" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">💊 Application to use ReVanced on Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/academind/flutter-complete-guide-course-resources</id>
+    <title>https://github.com/academind/flutter-complete-guide-course-resources</title>
+    <link href="https://github.com/academind/flutter-complete-guide-course-resources" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">Course resources (code snapshots &amp; slides) for our complete Flutter &amp; Dart course (https://acad.link/flutter).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KaringX/karing</id>
+    <title>https://github.com/KaringX/karing</title>
+    <link href="https://github.com/KaringX/karing" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">Simple &amp; Powerful proxy utility, Support routing rules for clash/sing-box</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hiddify/hiddify-app</id>
+    <title>https://github.com/hiddify/hiddify-app</title>
+    <link href="https://github.com/hiddify/hiddify-app" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaoyaocz/dart_simple_live</id>
+    <title>https://github.com/xiaoyaocz/dart_simple_live</title>
+    <link href="https://github.com/xiaoyaocz/dart_simple_live" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">简简单单的看直播</content>
+  </entry>
+  <entry>
+    <id>https://github.com/guozhigq/pilipala</id>
+    <title>https://github.com/guozhigq/pilipala</title>
+    <link href="https://github.com/guozhigq/pilipala" />
+    <updated>2024-12-25T15:40:54+00:00</updated>
+    <content type="text">PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</content>
+  </entry>
+</feed>

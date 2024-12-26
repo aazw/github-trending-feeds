@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vhdl/daily.atom</id>
+  <title>GitHub Treanding - vhdl</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vhdl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vhdl/" rel="alternate" />
+  <updated>2024-12-25T15:58:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OSVVM/OSVVM</id>
+    <title>https://github.com/OSVVM/OSVVM</title>
+    <link href="https://github.com/OSVVM/OSVVM" />
+    <updated>2024-12-25T15:58:12+00:00</updated>
+    <content type="text">OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VUnit/vunit</id>
+    <title>https://github.com/VUnit/vunit</title>
+    <link href="https://github.com/VUnit/vunit" />
+    <updated>2024-12-25T15:58:12+00:00</updated>
+    <content type="text">VUnit is a unit testing framework for VHDL/SystemVerilog</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghdl/ghdl</id>
+    <title>https://github.com/ghdl/ghdl</title>
+    <link href="https://github.com/ghdl/ghdl" />
+    <updated>2024-12-25T15:58:12+00:00</updated>
+    <content type="text">VHDL 2008/93/87 simulator</content>
+  </entry>
+</feed>

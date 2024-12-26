@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom</id>
+  <title>GitHub Treanding - lean</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/" rel="alternate" />
+  <updated>2024-12-25T15:47:02+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cedar-policy/cedar-spec</id>
+    <title>https://github.com/cedar-policy/cedar-spec</title>
+    <link href="https://github.com/cedar-policy/cedar-spec" />
+    <updated>2024-12-25T15:47:02+00:00</updated>
+    <content type="text">Definitional implementation of Cedar language and utilities for DRT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/mathlib4</id>
+    <title>https://github.com/leanprover-community/mathlib4</title>
+    <link href="https://github.com/leanprover-community/mathlib4" />
+    <updated>2024-12-25T15:47:02+00:00</updated>
+    <content type="text">The math library of Lean 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover/lean4</id>
+    <title>https://github.com/leanprover/lean4</title>
+    <link href="https://github.com/leanprover/lean4" />
+    <updated>2024-12-25T15:47:02+00:00</updated>
+    <content type="text">Lean 4 programming language and theorem prover</content>
+  </entry>
+</feed>

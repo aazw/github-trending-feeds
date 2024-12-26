@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</id>
+  <title>GitHub Treanding - gdscript</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/" rel="alternate" />
+  <updated>2024-12-25T15:43:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bitbrain/beehave</id>
+    <title>https://github.com/bitbrain/beehave</title>
+    <link href="https://github.com/bitbrain/beehave" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">🐝 behavior tree AI for Godot Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alexofp/BDCC</id>
+    <title>https://github.com/Alexofp/BDCC</title>
+    <link href="https://github.com/Alexofp/BDCC" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/endlessm/godot-block-coding</id>
+    <title>https://github.com/endlessm/godot-block-coding</title>
+    <link href="https://github.com/endlessm/godot-block-coding" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Block-based visual programming plugin for Godot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HungryProton/scatter</id>
+    <title>https://github.com/HungryProton/scatter</title>
+    <link href="https://github.com/HungryProton/scatter" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Godot engine addon to randomly fill an area with props or other scenes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitbrain/pandora</id>
+    <title>https://github.com/bitbrain/pandora</title>
+    <link href="https://github.com/bitbrain/pandora" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Phazorknight/Cogito</id>
+    <title>https://github.com/Phazorknight/Cogito</title>
+    <link href="https://github.com/Phazorknight/Cogito" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Immersive Sim Template Project for GODOT 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GDQuest/learn-gdscript</id>
+    <title>https://github.com/GDQuest/learn-gdscript</title>
+    <link href="https://github.com/GDQuest/learn-gdscript" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Learn Godot's GDScript programming language from zero, right in your browser, for free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot-demo-projects</id>
+    <title>https://github.com/godotengine/godot-demo-projects</title>
+    <link href="https://github.com/godotengine/godot-demo-projects" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Demonstration and Template Projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Praytic/youtd2</id>
+    <title>https://github.com/Praytic/youtd2</title>
+    <link href="https://github.com/Praytic/youtd2" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">Classic community-driven session-based Tower Defense game with RPG elements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cherriesandmochi/gdmaim</id>
+    <title>https://github.com/cherriesandmochi/gdmaim</title>
+    <link href="https://github.com/cherriesandmochi/gdmaim" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">GDMaim is a GDScript obfuscation plugin for the Godot Engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dialogic-godot/dialogic</id>
+    <title>https://github.com/dialogic-godot/dialogic</title>
+    <link href="https://github.com/dialogic-godot/dialogic" />
+    <updated>2024-12-25T15:43:11+00:00</updated>
+    <content type="text">💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</content>
+  </entry>
+</feed>

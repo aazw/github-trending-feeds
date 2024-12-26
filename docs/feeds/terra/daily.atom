@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/terra/daily.atom</id>
+  <title>GitHub Treanding - terra</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/terra/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/terra/" rel="alternate" />
+  <updated>2024-12-25T15:56:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+</feed>

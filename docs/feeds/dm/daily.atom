@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dm/daily.atom</id>
+  <title>GitHub Treanding - dm</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dm/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dm/" rel="alternate" />
+  <updated>2024-12-25T15:41:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/goonstation/goonstation</id>
+    <title>https://github.com/goonstation/goonstation</title>
+    <link href="https://github.com/goonstation/goonstation" />
+    <updated>2024-12-25T15:41:12+00:00</updated>
+    <content type="text">Repository for the Goonstation branch of SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ParadiseSS13/Paradise</id>
+    <title>https://github.com/ParadiseSS13/Paradise</title>
+    <link href="https://github.com/ParadiseSS13/Paradise" />
+    <updated>2024-12-25T15:41:12+00:00</updated>
+    <content type="text">Paradise Station's GitHub main repository.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Bubberstation/Bubberstation</id>
+    <title>https://github.com/Bubberstation/Bubberstation</title>
+    <link href="https://github.com/Bubberstation/Bubberstation" />
+    <updated>2024-12-25T15:41:12+00:00</updated>
+    <content type="text">Bubberstation SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cmss13-devs/cmss13</id>
+    <title>https://github.com/cmss13-devs/cmss13</title>
+    <link href="https://github.com/cmss13-devs/cmss13" />
+    <updated>2024-12-25T15:41:12+00:00</updated>
+    <content type="text">Contains the code for CM-SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tgstation/tgstation</id>
+    <title>https://github.com/tgstation/tgstation</title>
+    <link href="https://github.com/tgstation/tgstation" />
+    <updated>2024-12-25T15:41:12+00:00</updated>
+    <content type="text">The /tg/station branch of SS13.</content>
+  </entry>
+</feed>

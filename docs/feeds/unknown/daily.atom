@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom</id>
+  <title>GitHub Treanding - unknown</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/" rel="alternate" />
+  <updated>2024-12-25T15:57:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GitHubDaily/GitHubDaily</id>
+    <title>https://github.com/GitHubDaily/GitHubDaily</title>
+    <link href="https://github.com/GitHubDaily/GitHubDaily" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lukasz-madon/awesome-remote-job</id>
+    <title>https://github.com/lukasz-madon/awesome-remote-job</title>
+    <link href="https://github.com/lukasz-madon/awesome-remote-job" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowercase78/V2RayN-PRO</id>
+    <title>https://github.com/lowercase78/V2RayN-PRO</title>
+    <link href="https://github.com/lowercase78/V2RayN-PRO" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">v2rayN-Pro</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pathwaycom/llm-app</id>
+    <title>https://github.com/pathwaycom/llm-app</title>
+    <link href="https://github.com/pathwaycom/llm-app" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise</id>
+    <title>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise</title>
+    <link href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">Contains Company Wise Questions sorted based on Frequency and all time</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook</id>
+    <title>https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook</title>
+    <link href="https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sindresorhus/awesome</id>
+    <title>https://github.com/sindresorhus/awesome</title>
+    <link href="https://github.com/sindresorhus/awesome" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">😎 Awesome lists about all kinds of interesting topics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AZeC4/TelegramGroup</id>
+    <title>https://github.com/AZeC4/TelegramGroup</title>
+    <link href="https://github.com/AZeC4/TelegramGroup" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emmabostian/developer-portfolios</id>
+    <title>https://github.com/emmabostian/developer-portfolios</title>
+    <link href="https://github.com/emmabostian/developer-portfolios" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">A list of developer portfolios for your inspiration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruanyf/weekly</id>
+    <title>https://github.com/ruanyf/weekly</title>
+    <link href="https://github.com/ruanyf/weekly" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">科技爱好者周刊，每周五发布</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-openapi</id>
+    <title>https://github.com/openai/openai-openapi</title>
+    <link href="https://github.com/openai/openai-openapi" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">OpenAPI specification for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/practical-tutorials/project-based-learning</id>
+    <title>https://github.com/practical-tutorials/project-based-learning</title>
+    <link href="https://github.com/practical-tutorials/project-based-learning" />
+    <updated>2024-12-25T15:57:48+00:00</updated>
+    <content type="text">Curated list of project-based tutorials</content>
+  </entry>
+</feed>

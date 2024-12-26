@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Treanding - shell</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/" rel="alternate" />
+  <updated>2024-12-25T15:55:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChrisTitusTech/linutil</id>
+    <title>https://github.com/ChrisTitusTech/linutil</title>
+    <link href="https://github.com/ChrisTitusTech/linutil" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xubiaolin/docker-zerotier-planet</id>
+    <title>https://github.com/xubiaolin/docker-zerotier-planet</title>
+    <link href="https://github.com/xubiaolin/docker-zerotier-planet" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">一分钟私有部署zerotier-planet服务</content>
+  </entry>
+  <entry>
+    <id>https://github.com/testnet0/testnet</id>
+    <title>https://github.com/testnet0/testnet</title>
+    <link href="https://github.com/testnet0/testnet" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">TestNet资产管理系统（资产管理|信息收集|暴露面管理|子域名扫描|C段扫描|端口扫描|漏洞扫描|Hunter|Fofa）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thijsvanloef/palworld-server-docker</id>
+    <title>https://github.com/thijsvanloef/palworld-server-docker</title>
+    <link href="https://github.com/thijsvanloef/palworld-server-docker" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">A Docker Container to easily run a Palworld dedicated server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zabbix/zabbix-docker</id>
+    <title>https://github.com/zabbix/zabbix-docker</title>
+    <link href="https://github.com/zabbix/zabbix-docker" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Official Zabbix Dockerfiles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kiddin9/Kwrt</id>
+    <title>https://github.com/kiddin9/Kwrt</title>
+    <link href="https://github.com/kiddin9/Kwrt" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P, 树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Joshua-Riek/ubuntu-rockchip</id>
+    <title>https://github.com/Joshua-Riek/ubuntu-rockchip</title>
+    <link href="https://github.com/Joshua-Riek/ubuntu-rockchip" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Ubuntu for Rockchip RK35XX Devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenBMB/ChatDev</id>
+    <title>https://github.com/OpenBMB/ChatDev</title>
+    <link href="https://github.com/OpenBMB/ChatDev" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ophub/amlogic-s9xxx-openwrt</id>
+    <title>https://github.com/ophub/amlogic-s9xxx-openwrt</title>
+    <link href="https://github.com/ophub/amlogic-s9xxx-openwrt" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RROrg/rr</id>
+    <title>https://github.com/RROrg/rr</title>
+    <link href="https://github.com/RROrg/rr" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Redpill Recovery (arpl-i18n)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen2.5</id>
+    <title>https://github.com/QwenLM/Qwen2.5</title>
+    <link href="https://github.com/QwenLM/Qwen2.5" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frankiejun/serv00-play</id>
+    <title>https://github.com/frankiejun/serv00-play</title>
+    <link href="https://github.com/frankiejun/serv00-play" />
+    <updated>2024-12-25T15:55:10+00:00</updated>
+    <content type="text">serv00 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针 等, 自动化部署、批量保号、进程防杀、消息推送</content>
+  </entry>
+</feed>

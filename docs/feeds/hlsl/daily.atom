@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hlsl/daily.atom</id>
+  <title>GitHub Treanding - hlsl</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hlsl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hlsl/" rel="alternate" />
+  <updated>2024-12-25T15:44:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/crosire/reshade-shaders</id>
+    <title>https://github.com/crosire/reshade-shaders</title>
+    <link href="https://github.com/crosire/reshade-shaders" />
+    <updated>2024-12-25T15:44:44+00:00</updated>
+    <content type="text">A collection of post-processing shaders written for ReShade.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BlueSkyDefender/Depth3D</id>
+    <title>https://github.com/BlueSkyDefender/Depth3D</title>
+    <link href="https://github.com/BlueSkyDefender/Depth3D" />
+    <updated>2024-12-25T15:44:44+00:00</updated>
+    <content type="text">Depth Based 3D &amp; Other post-process shaders</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-cast/ray-mmd</id>
+    <title>https://github.com/ray-cast/ray-mmd</title>
+    <link href="https://github.com/ray-cast/ray-mmd" />
+    <updated>2024-12-25T15:44:44+00:00</updated>
+    <content type="text">🎨 The project is designed to create a physically-based rendering at mikumikudance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JamesCJ60/Universal-x86-Tuning-Utility</id>
+    <title>https://github.com/JamesCJ60/Universal-x86-Tuning-Utility</title>
+    <link href="https://github.com/JamesCJ60/Universal-x86-Tuning-Utility" />
+    <updated>2024-12-25T15:44:44+00:00</updated>
+    <content type="text">Unlock the full potential of your Intel/AMD based device.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Blinue/Magpie</id>
+    <title>https://github.com/Blinue/Magpie</title>
+    <link href="https://github.com/Blinue/Magpie" />
+    <updated>2024-12-25T15:44:44+00:00</updated>
+    <content type="text">An all-purpose window upscaler for Windows 10/11.</content>
+  </entry>
+</feed>

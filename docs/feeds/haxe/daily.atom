@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haxe/daily.atom</id>
+  <title>GitHub Treanding - haxe</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haxe/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haxe/" rel="alternate" />
+  <updated>2024-12-25T15:44:38+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ShadowMario/FNF-PsychEngine</id>
+    <title>https://github.com/ShadowMario/FNF-PsychEngine</title>
+    <link href="https://github.com/ShadowMario/FNF-PsychEngine" />
+    <updated>2024-12-25T15:44:38+00:00</updated>
+    <content type="text">Engine originally used on Mind Games mod</content>
+  </entry>
+</feed>

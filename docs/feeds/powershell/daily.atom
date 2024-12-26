@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/powershell/daily.atom</id>
+  <title>GitHub Treanding - powershell</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/" rel="alternate" />
+  <updated>2024-12-25T15:52:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/PowerShell-Docs</id>
+    <title>https://github.com/MicrosoftDocs/PowerShell-Docs</title>
+    <link href="https://github.com/MicrosoftDocs/PowerShell-Docs" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">The official PowerShell documentation sources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meetrevision/playbook</id>
+    <title>https://github.com/meetrevision/playbook</title>
+    <link href="https://github.com/meetrevision/playbook" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hak5/usbrubberducky-payloads</id>
+    <title>https://github.com/hak5/usbrubberducky-payloads</title>
+    <link href="https://github.com/hak5/usbrubberducky-payloads" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">The Official USB Rubber Ducky Payload Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Scoop</id>
+    <title>https://github.com/ScoopInstaller/Scoop</title>
+    <link href="https://github.com/ScoopInstaller/Scoop" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">A command-line installer for Windows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Orange-Cyberdefense/GOAD</id>
+    <title>https://github.com/Orange-Cyberdefense/GOAD</title>
+    <link href="https://github.com/Orange-Cyberdefense/GOAD" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">game of active directory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Versions</id>
+    <title>https://github.com/ScoopInstaller/Versions</title>
+    <link href="https://github.com/ScoopInstaller/Versions" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">📦 A Scoop bucket for alternative versions of apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Extras</id>
+    <title>https://github.com/ScoopInstaller/Extras</title>
+    <link href="https://github.com/ScoopInstaller/Extras" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">📦 The Extras bucket for Scoop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/core</id>
+    <title>https://github.com/dotnet/core</title>
+    <link href="https://github.com/dotnet/core" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">.NET news, announcements, release notes, and more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Main</id>
+    <title>https://github.com/ScoopInstaller/Main</title>
+    <link href="https://github.com/ScoopInstaller/Main" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">📦 The default bucket for Scoop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mandiant/flare-vm</id>
+    <title>https://github.com/mandiant/flare-vm</title>
+    <link href="https://github.com/mandiant/flare-vm" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB</id>
+    <title>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB</title>
+    <link href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Raphire/Win11Debloat</id>
+    <title>https://github.com/Raphire/Win11Debloat</title>
+    <link href="https://github.com/Raphire/Win11Debloat" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/memstechtips/UnattendedWinstall</id>
+    <title>https://github.com/memstechtips/UnattendedWinstall</title>
+    <link href="https://github.com/memstechtips/UnattendedWinstall" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 &amp; 11 during the installation process.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/runner-images</id>
+    <title>https://github.com/actions/runner-images</title>
+    <link href="https://github.com/actions/runner-images" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">GitHub Actions runner images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpotX-Official/SpotX</id>
+    <title>https://github.com/SpotX-Official/SpotX</title>
+    <link href="https://github.com/SpotX-Official/SpotX" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">SpotX patcher used for patching the desktop version of Spotify</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ugurkocde/IntuneAssignmentChecker</id>
+    <title>https://github.com/ugurkocde/IntuneAssignmentChecker</title>
+    <link href="https://github.com/ugurkocde/IntuneAssignmentChecker" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ChrisTitusTech/winutil</id>
+    <title>https://github.com/ChrisTitusTech/winutil</title>
+    <link href="https://github.com/ChrisTitusTech/winutil" />
+    <updated>2024-12-25T15:52:32+00:00</updated>
+    <content type="text">Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</content>
+  </entry>
+</feed>

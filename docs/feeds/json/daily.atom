@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/json/daily.atom</id>
+  <title>GitHub Treanding - json</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/json/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/json/" rel="alternate" />
+  <updated>2024-12-25T15:46:13+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mdn/browser-compat-data</id>
+    <title>https://github.com/mdn/browser-compat-data</title>
+    <link href="https://github.com/mdn/browser-compat-data" />
+    <updated>2024-12-25T15:46:13+00:00</updated>
+    <content type="text">This repository contains compatibility data for Web technologies as displayed on MDN</content>
+  </entry>
+</feed>

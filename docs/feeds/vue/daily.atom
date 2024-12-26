@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vue/daily.atom</id>
+  <title>GitHub Treanding - vue</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vue/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vue/" rel="alternate" />
+  <updated>2024-12-25T15:58:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/frappe/crm</id>
+    <title>https://github.com/frappe/crm</title>
+    <link href="https://github.com/frappe/crm" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">Fully featured, open source CRM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hslr-s/sun-panel</id>
+    <title>https://github.com/hslr-s/sun-panel</title>
+    <link href="https://github.com/hslr-s/sun-panel" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekip/naive-ui-admin</id>
+    <title>https://github.com/jekip/naive-ui-admin</title>
+    <link href="https://github.com/jekip/naive-ui-admin" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ElemeFE/element</id>
+    <title>https://github.com/ElemeFE/element</title>
+    <link href="https://github.com/ElemeFE/element" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">A Vue.js 2.0 UI Toolkit for Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zxwk1998/vue-admin-better</id>
+    <title>https://github.com/zxwk1998/vue-admin-better</title>
+    <link href="https://github.com/zxwk1998/vue-admin-better" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TeamPiped/Piped</id>
+    <title>https://github.com/TeamPiped/Piped</title>
+    <link href="https://github.com/TeamPiped/Piped" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">An alternative privacy-friendly YouTube frontend which is efficient by design.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/advplyr/audiobookshelf-app</id>
+    <title>https://github.com/advplyr/audiobookshelf-app</title>
+    <link href="https://github.com/advplyr/audiobookshelf-app" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">Mobile application for Audiobookshelf</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vbenjs/vue-vben-admin</id>
+    <title>https://github.com/vbenjs/vue-vben-admin</title>
+    <link href="https://github.com/vbenjs/vue-vben-admin" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lin-xin/vue-manage-system</id>
+    <title>https://github.com/lin-xin/vue-manage-system</title>
+    <link href="https://github.com/lin-xin/vue-manage-system" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">Vue3、Element Plus、typescript后台管理系统</content>
+  </entry>
+  <entry>
+    <id>https://github.com/requarks/wiki</id>
+    <title>https://github.com/requarks/wiki</title>
+    <link href="https://github.com/requarks/wiki" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">Wiki.js | A modern and powerful wiki app built on Node.js</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccbikai/Sink</id>
+    <title>https://github.com/ccbikai/Sink</title>
+    <link href="https://github.com/ccbikai/Sink" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xJacky/nginx-ui</id>
+    <title>https://github.com/0xJacky/nginx-ui</title>
+    <link href="https://github.com/0xJacky/nginx-ui" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">Yet another WebUI for Nginx</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imsyy/SPlayer</id>
+    <title>https://github.com/imsyy/SPlayer</title>
+    <link href="https://github.com/imsyy/SPlayer" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PanJiaChen/vue-element-admin</id>
+    <title>https://github.com/PanJiaChen/vue-element-admin</title>
+    <link href="https://github.com/PanJiaChen/vue-element-admin" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AutomaApp/automa</id>
+    <title>https://github.com/AutomaApp/automa</title>
+    <link href="https://github.com/AutomaApp/automa" />
+    <updated>2024-12-25T15:58:27+00:00</updated>
+    <content type="text">A browser extension for automating your browser by connecting blocks</content>
+  </entry>
+</feed>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Treanding - haskell</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/" rel="alternate" />
+  <updated>2024-12-25T15:44:35+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/koka-lang/koka</id>
+    <title>https://github.com/koka-lang/koka</title>
+    <link href="https://github.com/koka-lang/koka" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Koka language compiler and interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixfmt</id>
+    <title>https://github.com/NixOS/nixfmt</title>
+    <link href="https://github.com/NixOS/nixfmt" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">The official (but not yet stable) formatter for Nix code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seanhess/hyperbole</id>
+    <title>https://github.com/seanhess/hyperbole</title>
+    <link href="https://github.com/seanhess/hyperbole" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Haskell interactive serverside web framework inspired by HTMX</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runtimeverification/haskell-backend</id>
+    <title>https://github.com/runtimeverification/haskell-backend</title>
+    <link href="https://github.com/runtimeverification/haskell-backend" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">The symbolic execution engine powering the K Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GaloisInc/cryptol</id>
+    <title>https://github.com/GaloisInc/cryptol</title>
+    <link href="https://github.com/GaloisInc/cryptol" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Cryptol: The Language of Cryptography</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GaloisInc/macaw</id>
+    <title>https://github.com/GaloisInc/macaw</title>
+    <link href="https://github.com/GaloisInc/macaw" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Open source binary analysis tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GaloisInc/what4</id>
+    <title>https://github.com/GaloisInc/what4</title>
+    <link href="https://github.com/GaloisInc/what4" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Symbolic formula representation and solver interaction library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2024-12-25T15:44:35+00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+</feed>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/svelte/daily.atom</id>
+  <title>GitHub Treanding - svelte</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/svelte/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/svelte/" rel="alternate" />
+  <updated>2024-12-25T15:56:25+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/matt8707/ha-fusion</id>
+    <title>https://github.com/matt8707/ha-fusion</title>
+    <link href="https://github.com/matt8707/ha-fusion" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">A modern, easy-to-use and performant custom Home Assistant dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReVanced/revanced-website</id>
+    <title>https://github.com/ReVanced/revanced-website</title>
+    <link href="https://github.com/ReVanced/revanced-website" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">🌐 Website for ReVanced</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThaUnknown/miru</id>
+    <title>https://github.com/ThaUnknown/miru</title>
+    <link href="https://github.com/ThaUnknown/miru" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sveltejs/svelte.dev</id>
+    <title>https://github.com/sveltejs/svelte.dev</title>
+    <link href="https://github.com/sveltejs/svelte.dev" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">The Svelte omnisite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/appwrite/website</id>
+    <title>https://github.com/appwrite/website</title>
+    <link href="https://github.com/appwrite/website" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">The Appwrite website, docs and blog 🏠</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pluja/whishper</id>
+    <title>https://github.com/pluja/whishper</title>
+    <link href="https://github.com/pluja/whishper" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satisfactorymodding/SatisfactoryModManager</id>
+    <title>https://github.com/satisfactorymodding/SatisfactoryModManager</title>
+    <link href="https://github.com/satisfactorymodding/SatisfactoryModManager" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">A mod manager for easy installation of mods and modloader for Satisfactory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EddieHubCommunity/good-first-issue-finder</id>
+    <title>https://github.com/EddieHubCommunity/good-first-issue-finder</title>
+    <link href="https://github.com/EddieHubCommunity/good-first-issue-finder" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">Issue-Crawler for GitHub based on Sveltekit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0x2E/fusion</id>
+    <title>https://github.com/0x2E/fusion</title>
+    <link href="https://github.com/0x2E/fusion" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">A lightweight, self-hosted friendly RSS aggregator and reader</content>
+  </entry>
+  <entry>
+    <id>https://github.com/saadeghi/daisyui</id>
+    <title>https://github.com/saadeghi/daisyui</title>
+    <link href="https://github.com/saadeghi/daisyui" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dbgate/dbgate</id>
+    <title>https://github.com/dbgate/dbgate</title>
+    <link href="https://github.com/dbgate/dbgate" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vkurko/calendar</id>
+    <title>https://github.com/vkurko/calendar</title>
+    <link href="https://github.com/vkurko/calendar" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taikoxyz/taiko-mono</id>
+    <title>https://github.com/taikoxyz/taiko-mono</title>
+    <link href="https://github.com/taikoxyz/taiko-mono" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">Taiko's Alethia based rollup protocol 🥁 🌸</content>
+  </entry>
+  <entry>
+    <id>https://github.com/marcusolsson/obsidian-projects</id>
+    <title>https://github.com/marcusolsson/obsidian-projects</title>
+    <link href="https://github.com/marcusolsson/obsidian-projects" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">Plain text project planning in Obsidian</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huntabyte/shadcn-svelte</id>
+    <title>https://github.com/huntabyte/shadcn-svelte</title>
+    <link href="https://github.com/huntabyte/shadcn-svelte" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">shadcn/ui, but for Svelte. ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imputnet/cobalt</id>
+    <title>https://github.com/imputnet/cobalt</title>
+    <link href="https://github.com/imputnet/cobalt" />
+    <updated>2024-12-25T15:56:25+00:00</updated>
+    <content type="text">best way to save what you love</content>
+  </entry>
+</feed>

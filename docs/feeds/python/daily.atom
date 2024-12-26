@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Treanding - python</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/" rel="alternate" />
+  <updated>2024-12-25T15:53:09+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Significant-Gravitas/AutoGPT</id>
+    <title>https://github.com/Significant-Gravitas/AutoGPT</title>
+    <link href="https://github.com/Significant-Gravitas/AutoGPT" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AtsushiSakai/PythonRobotics</id>
+    <title>https://github.com/AtsushiSakai/PythonRobotics</title>
+    <link href="https://github.com/AtsushiSakai/PythonRobotics" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">Python sample codes for robotics algorithms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ErikBjare/gptme</id>
+    <title>https://github.com/ErikBjare/gptme</title>
+    <link href="https://github.com/ErikBjare/gptme" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LC044/WeChatMsg</id>
+    <title>https://github.com/LC044/WeChatMsg</title>
+    <link href="https://github.com/LC044/WeChatMsg" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hpcaitech/Open-Sora</id>
+    <title>https://github.com/hpcaitech/Open-Sora</title>
+    <link href="https://github.com/hpcaitech/Open-Sora" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">Open-Sora: Democratizing Efficient Video Production for All</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PromptWizard</id>
+    <title>https://github.com/microsoft/PromptWizard</title>
+    <link href="https://github.com/microsoft/PromptWizard" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">Task-Aware Agent-driven Prompt Optimization Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/vllm</id>
+    <title>https://github.com/vllm-project/vllm</title>
+    <link href="https://github.com/vllm-project/vllm" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">A high-throughput and memory-efficient inference and serving engine for LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenSPG/KAG</id>
+    <title>https://github.com/OpenSPG/KAG</title>
+    <link href="https://github.com/OpenSPG/KAG" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/donnemartin/system-design-primer</id>
+    <title>https://github.com/donnemartin/system-design-primer</title>
+    <link href="https://github.com/donnemartin/system-design-primer" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shubhamsaboo/awesome-llm-apps</id>
+    <title>https://github.com/Shubhamsaboo/awesome-llm-apps</title>
+    <link href="https://github.com/Shubhamsaboo/awesome-llm-apps" />
+    <updated>2024-12-25T15:53:09+00:00</updated>
+    <content type="text">Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</content>
+  </entry>
+</feed>

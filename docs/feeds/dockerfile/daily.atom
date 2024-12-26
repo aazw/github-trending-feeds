@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Treanding - dockerfile</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/" rel="alternate" />
+  <updated>2024-12-25T15:41:20+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/linuxserver/docker-unifi-network-application</id>
+    <title>https://github.com/linuxserver/docker-unifi-network-application</title>
+    <link href="https://github.com/linuxserver/docker-unifi-network-application" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-swag</id>
+    <title>https://github.com/linuxserver/docker-swag</title>
+    <link href="https://github.com/linuxserver/docker-swag" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nodejs/docker-node</id>
+    <title>https://github.com/nodejs/docker-node</title>
+    <link href="https://github.com/nodejs/docker-node" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-buildtools-prereqs-docker</id>
+    <title>https://github.com/dotnet/dotnet-buildtools-prereqs-docker</title>
+    <link href="https://github.com/dotnet/dotnet-buildtools-prereqs-docker" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-functions-docker</id>
+    <title>https://github.com/Azure/azure-functions-docker</title>
+    <link href="https://github.com/Azure/azure-functions-docker" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">This repo contains the base Docker images for working with azure functions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv-docker-example</id>
+    <title>https://github.com/astral-sh/uv-docker-example</title>
+    <link href="https://github.com/astral-sh/uv-docker-example" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">An example of using uv in Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hassio-addons/addon-vscode</id>
+    <title>https://github.com/hassio-addons/addon-vscode</title>
+    <link href="https://github.com/hassio-addons/addon-vscode" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Studio Code Server - Home Assistant Community Add-ons</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell-Docker</id>
+    <title>https://github.com/PowerShell/PowerShell-Docker</title>
+    <link href="https://github.com/PowerShell/PowerShell-Docker" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Repository for building PowerShell Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StaPH-B/docker-builds</id>
+    <title>https://github.com/StaPH-B/docker-builds</title>
+    <link href="https://github.com/StaPH-B/docker-builds" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">📦 🐳 Dockerfiles and documentation on tools for public health bioinformatics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware</id>
+    <title>https://github.com/autowarefoundation/autoware</title>
+    <link href="https://github.com/autowarefoundation/autoware" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Anduin2017/HowToCook</id>
+    <title>https://github.com/Anduin2017/HowToCook</title>
+    <link href="https://github.com/Anduin2017/HowToCook" />
+    <updated>2024-12-25T15:41:20+00:00</updated>
+    <content type="text">程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</content>
+  </entry>
+</feed>
