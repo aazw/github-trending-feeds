@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/weekly.atom</id>
+  <title>GitHub Treanding - gdscript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:23:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dialogic-godot/dialogic#1735255395</id>
+    <title>https://github.com/dialogic-godot/dialogic</title>
+    <link href="https://github.com/dialogic-godot/dialogic" />
+    <updated>2024-12-26T23:23:15+00:00</updated>
+    <content type="text">💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot-demo-projects#1735255395</id>
+    <title>https://github.com/godotengine/godot-demo-projects</title>
+    <link href="https://github.com/godotengine/godot-demo-projects" />
+    <updated>2024-12-26T23:23:15+00:00</updated>
+    <content type="text">Demonstration and Template Projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derkork/godot-statecharts#1735255395</id>
+    <title>https://github.com/derkork/godot-statecharts</title>
+    <link href="https://github.com/derkork/godot-statecharts" />
+    <updated>2024-12-26T23:23:15+00:00</updated>
+    <content type="text">A state charts extension for Godot 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pablogila/TileMapDual#1735255395</id>
+    <title>https://github.com/pablogila/TileMapDual</title>
+    <link href="https://github.com/pablogila/TileMapDual" />
+    <updated>2024-12-26T23:23:15+00:00</updated>
+    <content type="text">An automatic, real-time dual-grid tileset system for Godot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Maaack/Godot-Game-Template#1735255395</id>
+    <title>https://github.com/Maaack/Godot-Game-Template</title>
+    <link href="https://github.com/Maaack/Godot-Game-Template" />
+    <updated>2024-12-26T23:23:15+00:00</updated>
+    <content type="text">Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alexofp/BDCC#1735255395</id>
+    <title>https://github.com/Alexofp/BDCC</title>
+    <link href="https://github.com/Alexofp/BDCC" />
+    <updated>2024-12-26T23:23:15+00:00</updated>
+    <content type="text">Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</content>
+  </entry>
+</feed>

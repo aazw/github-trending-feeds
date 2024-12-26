@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/weekly.atom</id>
+  <title>GitHub Treanding - julia (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:26:55+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JuliaParallel/ClusterManagers.jl#1735255615</id>
+    <title>https://github.com/JuliaParallel/ClusterManagers.jl</title>
+    <link href="https://github.com/JuliaParallel/ClusterManagers.jl" />
+    <updated>2024-12-26T23:26:55+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1735255615</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2024-12-26T23:26:55+00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lindahua/NumericExtensions.jl#1735255615</id>
+    <title>https://github.com/lindahua/NumericExtensions.jl</title>
+    <link href="https://github.com/lindahua/NumericExtensions.jl" />
+    <updated>2024-12-26T23:26:55+00:00</updated>
+    <content type="text">Julia extensions to provide high performance computational support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1735255615</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2024-12-26T23:26:55+00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+</feed>

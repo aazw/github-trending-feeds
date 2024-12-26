@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Treanding - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:24:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tulir/whatsmeow#1735255447</id>
+    <title>https://github.com/tulir/whatsmeow</title>
+    <link href="https://github.com/tulir/whatsmeow" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Go library for the WhatsApp web multidevice API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hugomd/ascii-live#1735255447</id>
+    <title>https://github.com/hugomd/ascii-live</title>
+    <link href="https://github.com/hugomd/ascii-live" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">An extension to parrot.live, with support for more animations! http://ascii.live</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1735255447</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1735255447</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lionsoul2014/ip2region#1735255447</id>
+    <title>https://github.com/lionsoul2014/ip2region</title>
+    <link href="https://github.com/lionsoul2014/ip2region" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moonD4rk/HackBrowserData#1735255447</id>
+    <title>https://github.com/moonD4rk/HackBrowserData</title>
+    <link href="https://github.com/moonD4rk/HackBrowserData" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1735255447</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadow1ng/fscan#1735255447</id>
+    <title>https://github.com/shadow1ng/fscan</title>
+    <link href="https://github.com/shadow1ng/fscan" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1735255447</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/avelino/awesome-go#1735255447</id>
+    <title>https://github.com/avelino/awesome-go</title>
+    <link href="https://github.com/avelino/awesome-go" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">A curated list of awesome Go frameworks, libraries and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kratos/kratos#1735255447</id>
+    <title>https://github.com/go-kratos/kratos</title>
+    <link href="https://github.com/go-kratos/kratos" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Your ultimate Go microservices framework for the cloud-native era.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/auth#1735255447</id>
+    <title>https://github.com/supabase/auth</title>
+    <link href="https://github.com/supabase/auth" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">A JWT based API for managing users and issuing JWT tokens</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogs/gogs#1735255447</id>
+    <title>https://github.com/gogs/gogs</title>
+    <link href="https://github.com/gogs/gogs" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">Gogs is a painless self-hosted Git service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XIU2/CloudflareSpeedTest#1735255447</id>
+    <title>https://github.com/XIU2/CloudflareSpeedTest</title>
+    <link href="https://github.com/XIU2/CloudflareSpeedTest" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1735255447</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1735255447</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1735255447</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1735255447</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IceWhaleTech/CasaOS#1735255447</id>
+    <title>https://github.com/IceWhaleTech/CasaOS</title>
+    <link href="https://github.com/IceWhaleTech/CasaOS" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1735255447</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2024-12-26T23:24:07+00:00</updated>
+    <content type="text">🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.</content>
+  </entry>
+</feed>

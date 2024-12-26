@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/yara/weekly.atom</id>
+  <title>GitHub Treanding - yara (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/yara/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:42:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Neo23x0/signature-base#1735256527</id>
+    <title>https://github.com/Neo23x0/signature-base</title>
+    <link href="https://github.com/Neo23x0/signature-base" />
+    <updated>2024-12-26T23:42:07+00:00</updated>
+    <content type="text">YARA signature and IOC database for my scanners and tools</content>
+  </entry>
+</feed>

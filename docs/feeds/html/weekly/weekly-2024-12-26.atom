@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/html/weekly.atom</id>
+  <title>GitHub Treanding - html (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/html/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:25:09+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/midudev/javascript-100-proyectos#1735255509</id>
+    <title>https://github.com/midudev/javascript-100-proyectos</title>
+    <link href="https://github.com/midudev/javascript-100-proyectos" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">100 proyectos de JavaScript con código y vídeos. ¡Gratis!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/davidarroyo1234/InstagramUnfollowers#1735255509</id>
+    <title>https://github.com/davidarroyo1234/InstagramUnfollowers</title>
+    <link href="https://github.com/davidarroyo1234/InstagramUnfollowers" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">Check if people follows you back on Instagram.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexeygrigorev/data-science-interviews#1735255509</id>
+    <title>https://github.com/alexeygrigorev/data-science-interviews</title>
+    <link href="https://github.com/alexeygrigorev/data-science-interviews" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">Data science interview questions and answers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owickstrom/the-monospace-web#1735255509</id>
+    <title>https://github.com/owickstrom/the-monospace-web</title>
+    <link href="https://github.com/owickstrom/the-monospace-web" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">A minimalist design exploration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alex-shpak/hugo-book#1735255509</id>
+    <title>https://github.com/alex-shpak/hugo-book</title>
+    <link href="https://github.com/alex-shpak/hugo-book" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">Hugo documentation theme as simple as plain book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/ML-For-Beginners#1735255509</id>
+    <title>https://github.com/microsoft/ML-For-Beginners</title>
+    <link href="https://github.com/microsoft/ML-For-Beginners" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ultrasecurity/Storm-Breaker#1735255509</id>
+    <title>https://github.com/ultrasecurity/Storm-Breaker</title>
+    <link href="https://github.com/ultrasecurity/Storm-Breaker" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">Social engineering tool [Access Webcam &amp; Microphone &amp; Location Finder] With {Py,JS,PHP}</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cotes2020/jekyll-theme-chirpy#1735255509</id>
+    <title>https://github.com/cotes2020/jekyll-theme-chirpy</title>
+    <link href="https://github.com/cotes2020/jekyll-theme-chirpy" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">A minimal, responsive, and feature-rich Jekyll theme for technical writing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/drduh/YubiKey-Guide#1735255509</id>
+    <title>https://github.com/drduh/YubiKey-Guide</title>
+    <link href="https://github.com/drduh/YubiKey-Guide" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">Guide to using YubiKey for GnuPG and SSH</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PKUFlyingPig/cs-self-learning#1735255509</id>
+    <title>https://github.com/PKUFlyingPig/cs-self-learning</title>
+    <link href="https://github.com/PKUFlyingPig/cs-self-learning" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">计算机自学指南</content>
+  </entry>
+  <entry>
+    <id>https://github.com/comfyanonymous/ComfyUI_examples#1735255509</id>
+    <title>https://github.com/comfyanonymous/ComfyUI_examples</title>
+    <link href="https://github.com/comfyanonymous/ComfyUI_examples" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">Examples of ComfyUI workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/midscene#1735255509</id>
+    <title>https://github.com/web-infra-dev/midscene</title>
+    <link href="https://github.com/web-infra-dev/midscene" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-platform-tests/wpt#1735255509</id>
+    <title>https://github.com/web-platform-tests/wpt</title>
+    <link href="https://github.com/web-platform-tests/wpt" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">Test suites for Web platform specs — including WHATWG, W3C, and others</content>
+  </entry>
+  <entry>
+    <id>https://github.com/home-assistant/home-assistant.io#1735255509</id>
+    <title>https://github.com/home-assistant/home-assistant.io</title>
+    <link href="https://github.com/home-assistant/home-assistant.io" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">📘 Home Assistant User documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EbookFoundation/free-programming-books#1735255509</id>
+    <title>https://github.com/EbookFoundation/free-programming-books</title>
+    <link href="https://github.com/EbookFoundation/free-programming-books" />
+    <updated>2024-12-26T23:25:09+00:00</updated>
+    <content type="text">📚 Freely available programming books</content>
+  </entry>
+</feed>

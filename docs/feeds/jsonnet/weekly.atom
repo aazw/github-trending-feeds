@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jsonnet/weekly.atom</id>
+  <title>GitHub Treanding - jsonnet (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jsonnet/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:26:51+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/kubernetes-monitoring/kubernetes-mixin#1735255611</id>
+    <title>https://github.com/kubernetes-monitoring/kubernetes-mixin</title>
+    <link href="https://github.com/kubernetes-monitoring/kubernetes-mixin" />
+    <updated>2024-12-26T23:26:51+00:00</updated>
+    <content type="text">A set of Grafana dashboards and Prometheus alerts for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/grafonnet-lib#1735255611</id>
+    <title>https://github.com/grafana/grafonnet-lib</title>
+    <link href="https://github.com/grafana/grafonnet-lib" />
+    <updated>2024-12-26T23:26:51+00:00</updated>
+    <content type="text">Jsonnet library for generating Grafana dashboard files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argocd-example-apps#1735255611</id>
+    <title>https://github.com/argoproj/argocd-example-apps</title>
+    <link href="https://github.com/argoproj/argocd-example-apps" />
+    <updated>2024-12-26T23:26:51+00:00</updated>
+    <content type="text">Example Apps to Demonstrate Argo CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus-operator/kube-prometheus#1735255611</id>
+    <title>https://github.com/prometheus-operator/kube-prometheus</title>
+    <link href="https://github.com/prometheus-operator/kube-prometheus" />
+    <updated>2024-12-26T23:26:51+00:00</updated>
+    <content type="text">Use Prometheus to monitor Kubernetes and applications running on Kubernetes</content>
+  </entry>
+</feed>

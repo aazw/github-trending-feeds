@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/racket/weekly.atom</id>
+  <title>GitHub Treanding - racket (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/racket/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:34:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/racket/racket#1735256084</id>
+    <title>https://github.com/racket/racket</title>
+    <link href="https://github.com/racket/racket" />
+    <updated>2024-12-26T23:34:44+00:00</updated>
+    <content type="text">The Racket repository</content>
+  </entry>
+</feed>

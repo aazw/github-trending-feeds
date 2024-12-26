@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/svelte/weekly.atom</id>
+  <title>GitHub Treanding - svelte (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/svelte/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:38:25+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/leaningtech/webvm#1735256305</id>
+    <title>https://github.com/leaningtech/webvm</title>
+    <link href="https://github.com/leaningtech/webvm" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Virtual Machine for the Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BetterDiscord/Installer#1735256305</id>
+    <title>https://github.com/BetterDiscord/Installer</title>
+    <link href="https://github.com/BetterDiscord/Installer" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dora-team/dora.dev#1735256305</id>
+    <title>https://github.com/dora-team/dora.dev</title>
+    <link href="https://github.com/dora-team/dora.dev" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Public-facing knowledge site: https://dora.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/appwrite/website#1735256305</id>
+    <title>https://github.com/appwrite/website</title>
+    <link href="https://github.com/appwrite/website" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">The Appwrite website, docs and blog 🏠</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NoCrypt/migu#1735256305</id>
+    <title>https://github.com/NoCrypt/migu</title>
+    <link href="https://github.com/NoCrypt/migu" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Stream anime torrents, real-time with no waiting for downloads</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EddieHubCommunity/good-first-issue-finder#1735256305</id>
+    <title>https://github.com/EddieHubCommunity/good-first-issue-finder</title>
+    <link href="https://github.com/EddieHubCommunity/good-first-issue-finder" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Issue-Crawler for GitHub based on Sveltekit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matt8707/ha-fusion#1735256305</id>
+    <title>https://github.com/matt8707/ha-fusion</title>
+    <link href="https://github.com/matt8707/ha-fusion" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">A modern, easy-to-use and performant custom Home Assistant dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/snoww/loa-logs#1735256305</id>
+    <title>https://github.com/snoww/loa-logs</title>
+    <link href="https://github.com/snoww/loa-logs" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">LOA Logs - Modern DPS Meter for Lost Ark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThaUnknown/miru#1735256305</id>
+    <title>https://github.com/ThaUnknown/miru</title>
+    <link href="https://github.com/ThaUnknown/miru" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SOH69/mm_radio#1735256305</id>
+    <title>https://github.com/SOH69/mm_radio</title>
+    <link href="https://github.com/SOH69/mm_radio" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">A Radio Script for Fivem Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChurchApps/FreeShow#1735256305</id>
+    <title>https://github.com/ChurchApps/FreeShow</title>
+    <link href="https://github.com/ChurchApps/FreeShow" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">FreeShow is a free and open-source, user-friendly presenter software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vkurko/calendar#1735256305</id>
+    <title>https://github.com/vkurko/calendar</title>
+    <link href="https://github.com/vkurko/calendar" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primocms/primo#1735256305</id>
+    <title>https://github.com/primocms/primo</title>
+    <link href="https://github.com/primocms/primo" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skeletonlabs/skeleton#1735256305</id>
+    <title>https://github.com/skeletonlabs/skeleton</title>
+    <link href="https://github.com/skeletonlabs/skeleton" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">An adaptive design system and component solution built around Tailwind.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taikoxyz/taiko-mono#1735256305</id>
+    <title>https://github.com/taikoxyz/taiko-mono</title>
+    <link href="https://github.com/taikoxyz/taiko-mono" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Taiko Alethia based rollup protocol 🥁 🌸</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hackclub/OnBoard#1735256305</id>
+    <title>https://github.com/hackclub/OnBoard</title>
+    <link href="https://github.com/hackclub/OnBoard" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">💡 Join 1,000 teenagers and make your first PCB with a $100 grant!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/marcusolsson/obsidian-projects#1735256305</id>
+    <title>https://github.com/marcusolsson/obsidian-projects</title>
+    <link href="https://github.com/marcusolsson/obsidian-projects" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">Plain text project planning in Obsidian</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huntabyte/shadcn-svelte#1735256305</id>
+    <title>https://github.com/huntabyte/shadcn-svelte</title>
+    <link href="https://github.com/huntabyte/shadcn-svelte" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">shadcn/ui, but for Svelte. ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/saadeghi/daisyui#1735256305</id>
+    <title>https://github.com/saadeghi/daisyui</title>
+    <link href="https://github.com/saadeghi/daisyui" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imputnet/cobalt#1735256305</id>
+    <title>https://github.com/imputnet/cobalt</title>
+    <link href="https://github.com/imputnet/cobalt" />
+    <updated>2024-12-26T23:38:25+00:00</updated>
+    <content type="text">best way to save what you love</content>
+  </entry>
+</feed>

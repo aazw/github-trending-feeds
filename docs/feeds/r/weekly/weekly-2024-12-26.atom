@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom</id>
+  <title>GitHub Treanding - r (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:34:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/briatte/awesome-network-analysis#1735256081</id>
+    <title>https://github.com/briatte/awesome-network-analysis</title>
+    <link href="https://github.com/briatte/awesome-network-analysis" />
+    <updated>2024-12-26T23:34:41+00:00</updated>
+    <content type="text">A curated list of awesome network analysis resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1735256081</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2024-12-26T23:34:41+00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swirldev/swirl_courses#1735256081</id>
+    <title>https://github.com/swirldev/swirl_courses</title>
+    <link href="https://github.com/swirldev/swirl_courses" />
+    <updated>2024-12-26T23:34:41+00:00</updated>
+    <content type="text">🎓 A collection of interactive courses for the swirl R package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MRCIEU/TwoSampleMR#1735256081</id>
+    <title>https://github.com/MRCIEU/TwoSampleMR</title>
+    <link href="https://github.com/MRCIEU/TwoSampleMR" />
+    <updated>2024-12-26T23:34:41+00:00</updated>
+    <content type="text">R package for performing 2-sample MR using MR-Base database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ellmer#1735256081</id>
+    <title>https://github.com/tidyverse/ellmer</title>
+    <link href="https://github.com/tidyverse/ellmer" />
+    <updated>2024-12-26T23:34:41+00:00</updated>
+    <content type="text">Call LLM APIs from R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qinwf/awesome-R#1735256081</id>
+    <title>https://github.com/qinwf/awesome-R</title>
+    <link href="https://github.com/qinwf/awesome-R" />
+    <updated>2024-12-26T23:34:41+00:00</updated>
+    <content type="text">A curated list of awesome R packages, frameworks and software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/dplyr#1735256081</id>
+    <title>https://github.com/tidyverse/dplyr</title>
+    <link href="https://github.com/tidyverse/dplyr" />
+    <updated>2024-12-26T23:34:41+00:00</updated>
+    <content type="text">dplyr: A grammar of data manipulation</content>
+  </entry>
+</feed>

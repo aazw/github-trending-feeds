@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/common-lisp/weekly.atom</id>
+  <title>GitHub Treanding - common-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:19:37+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/open-goal/jak-project#1735255177</id>
+    <title>https://github.com/open-goal/jak-project</title>
+    <link href="https://github.com/open-goal/jak-project" />
+    <updated>2024-12-26T23:19:37+00:00</updated>
+    <content type="text">Reviving the language that brought us the Jak &amp; Daxter Series</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lem-project/lem#1735255177</id>
+    <title>https://github.com/lem-project/lem</title>
+    <link href="https://github.com/lem-project/lem" />
+    <updated>2024-12-26T23:19:37+00:00</updated>
+    <content type="text">Common Lisp editor/IDE with high expansibility</content>
+  </entry>
+</feed>

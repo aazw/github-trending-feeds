@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/css/weekly.atom</id>
+  <title>GitHub Treanding - css (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/css/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:20:04+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MrOtherGuy/firefox-csshacks#1735255204</id>
+    <title>https://github.com/MrOtherGuy/firefox-csshacks</title>
+    <link href="https://github.com/MrOtherGuy/firefox-csshacks" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">Collection of userstyles affecting the browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kepano/flexoki#1735255204</id>
+    <title>https://github.com/kepano/flexoki</title>
+    <link href="https://github.com/kepano/flexoki" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">An inky color scheme for prose and code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ayusharma/birthday#1735255204</id>
+    <title>https://github.com/ayusharma/birthday</title>
+    <link href="https://github.com/ayusharma/birthday" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">A Happy Birthday animation design in CSS3, HTML5</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joy-of-react/project-toast#1735255204</id>
+    <title>https://github.com/joy-of-react/project-toast</title>
+    <link href="https://github.com/joy-of-react/project-toast" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/EthicalSource/contributor_covenant#1735255204</id>
+    <title>https://github.com/EthicalSource/contributor_covenant</title>
+    <link href="https://github.com/EthicalSource/contributor_covenant" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">Pledge your respect and appreciation for contributors of all kinds to your open source project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/animate-css/animate.css#1735255204</id>
+    <title>https://github.com/animate-css/animate.css</title>
+    <link href="https://github.com/animate-css/animate.css" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primefaces/primereact#1735255204</id>
+    <title>https://github.com/primefaces/primereact</title>
+    <link href="https://github.com/primefaces/primereact" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">The Most Complete React UI Component Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryanoasis/nerd-fonts#1735255204</id>
+    <title>https://github.com/ryanoasis/nerd-fonts</title>
+    <link href="https://github.com/ryanoasis/nerd-fonts" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/refact0r/midnight-discord#1735255204</id>
+    <title>https://github.com/refact0r/midnight-discord</title>
+    <link href="https://github.com/refact0r/midnight-discord" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">A dark, rounded discord theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imfing/hextra#1735255204</id>
+    <title>https://github.com/imfing/hextra</title>
+    <link href="https://github.com/imfing/hextra" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thewhiteh4t/seeker#1735255204</id>
+    <title>https://github.com/thewhiteh4t/seeker</title>
+    <link href="https://github.com/thewhiteh4t/seeker" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">Accurately Locate Smartphones using Social Engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bradtraversy/50projects50days#1735255204</id>
+    <title>https://github.com/bradtraversy/50projects50days</title>
+    <link href="https://github.com/bradtraversy/50projects50days" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">50+ mini web projects using HTML, CSS &amp; JS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adobe-fonts/source-code-pro#1735255204</id>
+    <title>https://github.com/adobe-fonts/source-code-pro</title>
+    <link href="https://github.com/adobe-fonts/source-code-pro" />
+    <updated>2024-12-26T23:20:04+00:00</updated>
+    <content type="text">Monospaced font family for user interface and coding environments</content>
+  </entry>
+</feed>

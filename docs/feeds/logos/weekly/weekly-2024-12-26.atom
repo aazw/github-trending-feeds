@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/logos/weekly.atom</id>
+  <title>GitHub Treanding - logos (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/logos/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:28:16+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/jjolano/shadow#1735255696</id>
+    <title>https://github.com/jjolano/shadow</title>
+    <link href="https://github.com/jjolano/shadow" />
+    <updated>2024-12-26T23:28:16+00:00</updated>
+    <content type="text">A jailbreak detection bypass for modern iOS jailbreaks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dayanch96/YTLite#1735255696</id>
+    <title>https://github.com/dayanch96/YTLite</title>
+    <link href="https://github.com/dayanch96/YTLite" />
+    <updated>2024-12-26T23:28:16+00:00</updated>
+    <content type="text">A flexible enhancer for YouTube on iOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arichornlover/YouTubeRebornPlus#1735255696</id>
+    <title>https://github.com/arichornlover/YouTubeRebornPlus</title>
+    <link href="https://github.com/arichornlover/YouTubeRebornPlus" />
+    <updated>2024-12-26T23:28:16+00:00</updated>
+    <content type="text">LillieH1000’s YouTube Reborn but with even more features!</content>
+  </entry>
+</feed>

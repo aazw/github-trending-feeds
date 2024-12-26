@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/weekly.atom</id>
+  <title>GitHub Treanding - lua (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:28:29+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1735255709</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m4xshen/hardtime.nvim#1735255709</id>
+    <title>https://github.com/m4xshen/hardtime.nvim</title>
+    <link href="https://github.com/m4xshen/hardtime.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Establish good command workflow and quit bad habit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neo-tree/neo-tree.nvim#1735255709</id>
+    <title>https://github.com/nvim-neo-tree/neo-tree.nvim</title>
+    <link href="https://github.com/nvim-neo-tree/neo-tree.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Steamopollys/Steamodded#1735255709</id>
+    <title>https://github.com/Steamopollys/Steamodded</title>
+    <link href="https://github.com/Steamopollys/Steamodded" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">A Balatro ModLoader</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-tree.lua#1735255709</id>
+    <title>https://github.com/nvim-tree/nvim-tree.lua</title>
+    <link href="https://github.com/nvim-tree/nvim-tree.lua" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">A file explorer tree for neovim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1735255709</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/dressing.nvim#1735255709</id>
+    <title>https://github.com/stevearc/dressing.nvim</title>
+    <link href="https://github.com/stevearc/dressing.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Neovim plugin to improve the default vim.ui interfaces</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1735255709</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1735255709</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/starter#1735255709</id>
+    <title>https://github.com/LazyVim/starter</title>
+    <link href="https://github.com/LazyVim/starter" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Starter template for LazyVim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epwalsh/obsidian.nvim#1735255709</id>
+    <title>https://github.com/epwalsh/obsidian.nvim</title>
+    <link href="https://github.com/epwalsh/obsidian.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Obsidian 🤝 Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hrsh7th/nvim-cmp#1735255709</id>
+    <title>https://github.com/hrsh7th/nvim-cmp</title>
+    <link href="https://github.com/hrsh7th/nvim-cmp" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">A completion plugin for neovim coded in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1735255709</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1735255709</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1735255709</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason-lspconfig.nvim#1735255709</id>
+    <title>https://github.com/williamboman/mason-lspconfig.nvim</title>
+    <link href="https://github.com/williamboman/mason-lspconfig.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zbirenbaum/copilot.lua#1735255709</id>
+    <title>https://github.com/zbirenbaum/copilot.lua</title>
+    <link href="https://github.com/zbirenbaum/copilot.lua" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Github Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/oil.nvim#1735255709</id>
+    <title>https://github.com/stevearc/oil.nvim</title>
+    <link href="https://github.com/stevearc/oil.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Neovim file explorer: edit your filesystem like a buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1735255709</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1735255709</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1735255709</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1735255709</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2024-12-26T23:28:29+00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+</feed>

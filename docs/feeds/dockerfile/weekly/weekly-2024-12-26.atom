@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/weekly.atom</id>
+  <title>GitHub Treanding - dockerfile (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:21:08+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/iv-org/documentation#1735255268</id>
+    <title>https://github.com/iv-org/documentation</title>
+    <link href="https://github.com/iv-org/documentation" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">The official Invidious documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/exaco/laravel-octane-dockerfile#1735255268</id>
+    <title>https://github.com/exaco/laravel-octane-dockerfile</title>
+    <link href="https://github.com/exaco/laravel-octane-dockerfile" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">Production-ready Dockerfile for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hassio-addons/addon-vscode#1735255268</id>
+    <title>https://github.com/hassio-addons/addon-vscode</title>
+    <link href="https://github.com/hassio-addons/addon-vscode" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">Studio Code Server - Home Assistant Community Add-ons</content>
+  </entry>
+  <entry>
+    <id>https://github.com/madMAx43v3r/chia-gigahorse#1735255268</id>
+    <title>https://github.com/madMAx43v3r/chia-gigahorse</title>
+    <link href="https://github.com/madMAx43v3r/chia-gigahorse" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/CaiJimmy/hugo-theme-stack-starter#1735255268</id>
+    <title>https://github.com/CaiJimmy/hugo-theme-stack-starter</title>
+    <link href="https://github.com/CaiJimmy/hugo-theme-stack-starter" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">A quickstart template to create a Hugo blog using hugo-theme-stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1735255268</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kagisearch/kagi-docs#1735255268</id>
+    <title>https://github.com/kagisearch/kagi-docs</title>
+    <link href="https://github.com/kagisearch/kagi-docs" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">Documentation for products made by Kagi Inc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-swag#1735255268</id>
+    <title>https://github.com/linuxserver/docker-swag</title>
+    <link href="https://github.com/linuxserver/docker-swag" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-buildtools-prereqs-docker#1735255268</id>
+    <title>https://github.com/dotnet/dotnet-buildtools-prereqs-docker</title>
+    <link href="https://github.com/dotnet/dotnet-buildtools-prereqs-docker" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k8s-operatorhub/community-operators#1735255268</id>
+    <title>https://github.com/k8s-operatorhub/community-operators</title>
+    <link href="https://github.com/k8s-operatorhub/community-operators" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperliquid-dex/node#1735255268</id>
+    <title>https://github.com/hyperliquid-dex/node</title>
+    <link href="https://github.com/hyperliquid-dex/node" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware#1735255268</id>
+    <title>https://github.com/autowarefoundation/autoware</title>
+    <link href="https://github.com/autowarefoundation/autoware" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Anduin2017/HowToCook#1735255268</id>
+    <title>https://github.com/Anduin2017/HowToCook</title>
+    <link href="https://github.com/Anduin2017/HowToCook" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock#1735255268</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaywcjlove/reference#1735255268</id>
+    <title>https://github.com/jaywcjlove/reference</title>
+    <link href="https://github.com/jaywcjlove/reference" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">为开发人员分享快速参考备忘清单(速查表)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goldbergyoni/nodebestpractices#1735255268</id>
+    <title>https://github.com/goldbergyoni/nodebestpractices</title>
+    <link href="https://github.com/goldbergyoni/nodebestpractices" />
+    <updated>2024-12-26T23:21:08+00:00</updated>
+    <content type="text">✅ The Node.js best practices list (July 2024)</content>
+  </entry>
+</feed>

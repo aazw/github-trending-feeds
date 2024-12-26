@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/objective-c++/weekly.atom</id>
+  <title>GitHub Treanding - objective-c++ (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c++/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:31:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/sbmpost/AutoRaise#1735255901</id>
+    <title>https://github.com/sbmpost/AutoRaise</title>
+    <link href="https://github.com/sbmpost/AutoRaise" />
+    <updated>2024-12-26T23:31:41+00:00</updated>
+    <content type="text">AutoRaise (and focus) a window when hovering over it with the mouse</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketsvg/PocketSVG#1735255901</id>
+    <title>https://github.com/pocketsvg/PocketSVG</title>
+    <link href="https://github.com/pocketsvg/PocketSVG" />
+    <updated>2024-12-26T23:31:41+00:00</updated>
+    <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KhronosGroup/MoltenVK#1735255901</id>
+    <title>https://github.com/KhronosGroup/MoltenVK</title>
+    <link href="https://github.com/KhronosGroup/MoltenVK" />
+    <updated>2024-12-26T23:31:41+00:00</updated>
+    <content type="text">MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gree/unity-webview#1735255901</id>
+    <title>https://github.com/gree/unity-webview</title>
+    <link href="https://github.com/gree/unity-webview" />
+    <updated>2024-12-26T23:31:41+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/facebookarchive/pop#1735255901</id>
+    <title>https://github.com/facebookarchive/pop</title>
+    <link href="https://github.com/facebookarchive/pop" />
+    <updated>2024-12-26T23:31:41+00:00</updated>
+    <content type="text">An extensible iOS and OS X animation library, useful for physics-based interactions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yasirkula/UnityNativeGallery#1735255901</id>
+    <title>https://github.com/yasirkula/UnityNativeGallery</title>
+    <link href="https://github.com/yasirkula/UnityNativeGallery" />
+    <updated>2024-12-26T23:31:41+00:00</updated>
+    <content type="text">A native Unity plugin to interact with Gallery/Photos on Android &amp; iOS (save and/or load images/videos)</content>
+  </entry>
+</feed>

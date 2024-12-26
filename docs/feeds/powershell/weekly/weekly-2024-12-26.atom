@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/powershell/weekly.atom</id>
+  <title>GitHub Treanding - powershell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:33:42+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Scoop#1735256022</id>
+    <title>https://github.com/ScoopInstaller/Scoop</title>
+    <link href="https://github.com/ScoopInstaller/Scoop" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">A command-line installer for Windows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Atlas-OS/Atlas#1735256022</id>
+    <title>https://github.com/Atlas-OS/Atlas</title>
+    <link href="https://github.com/Atlas-OS/Atlas" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB#1735256022</id>
+    <title>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB</title>
+    <link href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoftgraph/microsoft-graph-docs-contrib#1735256022</id>
+    <title>https://github.com/microsoftgraph/microsoft-graph-docs-contrib</title>
+    <link href="https://github.com/microsoftgraph/microsoft-graph-docs-contrib" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">Documentation for the Microsoft Graph REST API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/core#1735256022</id>
+    <title>https://github.com/dotnet/core</title>
+    <link href="https://github.com/dotnet/core" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">.NET news, announcements, release notes, and more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/docker#1735256022</id>
+    <title>https://github.com/jenkinsci/docker</title>
+    <link href="https://github.com/jenkinsci/docker" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">Docker official jenkins repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jamesstringerparsec/Easy-GPU-PV#1735256022</id>
+    <title>https://github.com/jamesstringerparsec/Easy-GPU-PV</title>
+    <link href="https://github.com/jamesstringerparsec/Easy-GPU-PV" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">A Project dedicated to making GPU Partitioning on Windows easier!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Extras#1735256022</id>
+    <title>https://github.com/ScoopInstaller/Extras</title>
+    <link href="https://github.com/ScoopInstaller/Extras" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">📦 The Extras bucket for Scoop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChrisTitusTech/winutil#1735256022</id>
+    <title>https://github.com/ChrisTitusTech/winutil</title>
+    <link href="https://github.com/ChrisTitusTech/winutil" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/winget-pkgs#1735256022</id>
+    <title>https://github.com/microsoft/winget-pkgs</title>
+    <link href="https://github.com/microsoft/winget-pkgs" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">The Microsoft community Windows Package Manager manifest repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpotX-Official/SpotX#1735256022</id>
+    <title>https://github.com/SpotX-Official/SpotX</title>
+    <link href="https://github.com/SpotX-Official/SpotX" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">SpotX patcher used for patching the desktop version of Spotify</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Raphire/Win11Debloat#1735256022</id>
+    <title>https://github.com/Raphire/Win11Debloat</title>
+    <link href="https://github.com/Raphire/Win11Debloat" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/runner-images#1735256022</id>
+    <title>https://github.com/actions/runner-images</title>
+    <link href="https://github.com/actions/runner-images" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">GitHub Actions runner images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hak5/usbrubberducky-payloads#1735256022</id>
+    <title>https://github.com/hak5/usbrubberducky-payloads</title>
+    <link href="https://github.com/hak5/usbrubberducky-payloads" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">The Official USB Rubber Ducky Payload Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cisagov/ScubaGear#1735256022</id>
+    <title>https://github.com/cisagov/ScubaGear</title>
+    <link href="https://github.com/cisagov/ScubaGear" />
+    <updated>2024-12-26T23:33:42+00:00</updated>
+    <content type="text">Automation to assess the state of your M365 tenant against CISA's baselines</content>
+  </entry>
+</feed>

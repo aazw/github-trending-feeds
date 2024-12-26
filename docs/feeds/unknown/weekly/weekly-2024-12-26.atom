@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/unknown/weekly.atom</id>
+  <title>GitHub Treanding - unknown (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:39:56+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pathwaycom/llm-app#1735256396</id>
+    <title>https://github.com/pathwaycom/llm-app</title>
+    <link href="https://github.com/pathwaycom/llm-app" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code#1735256396</id>
+    <title>https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</title>
+    <link href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">500 AI Machine learning Deep learning Computer vision NLP Projects with code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emmabostian/developer-portfolios#1735256396</id>
+    <title>https://github.com/emmabostian/developer-portfolios</title>
+    <link href="https://github.com/emmabostian/developer-portfolios" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">A list of developer portfolios for your inspiration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SimplifyJobs/New-Grad-Positions#1735256396</id>
+    <title>https://github.com/SimplifyJobs/New-Grad-Positions</title>
+    <link href="https://github.com/SimplifyJobs/New-Grad-Positions" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">A collection of full time roles in SWE, Quant, and PM for new grads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AZeC4/TelegramGroup#1735256396</id>
+    <title>https://github.com/AZeC4/TelegramGroup</title>
+    <link href="https://github.com/AZeC4/TelegramGroup" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trimstray/the-book-of-secret-knowledge#1735256396</id>
+    <title>https://github.com/trimstray/the-book-of-secret-knowledge</title>
+    <link href="https://github.com/trimstray/the-book-of-secret-knowledge" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ossu/computer-science#1735256396</id>
+    <title>https://github.com/ossu/computer-science</title>
+    <link href="https://github.com/ossu/computer-science" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">🎓 Path to a free self-taught education in Computer Science!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruanyf/weekly#1735256396</id>
+    <title>https://github.com/ruanyf/weekly</title>
+    <link href="https://github.com/ruanyf/weekly" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">科技爱好者周刊，每周五发布</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hijkzzz/Awesome-LLM-Strawberry#1735256396</id>
+    <title>https://github.com/hijkzzz/Awesome-LLM-Strawberry</title>
+    <link href="https://github.com/hijkzzz/Awesome-LLM-Strawberry" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise#1735256396</id>
+    <title>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise</title>
+    <link href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">Contains Company Wise Questions sorted based on Frequency and all time</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sindresorhus/awesome#1735256396</id>
+    <title>https://github.com/sindresorhus/awesome</title>
+    <link href="https://github.com/sindresorhus/awesome" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">😎 Awesome lists about all kinds of interesting topics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/practical-tutorials/project-based-learning#1735256396</id>
+    <title>https://github.com/practical-tutorials/project-based-learning</title>
+    <link href="https://github.com/practical-tutorials/project-based-learning" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">Curated list of project-based tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PatrickJS/awesome-cursorrules#1735256396</id>
+    <title>https://github.com/PatrickJS/awesome-cursorrules</title>
+    <link href="https://github.com/PatrickJS/awesome-cursorrules" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">📄 A curated list of awesome .cursorrules files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ByteByteGoHq/system-design-101#1735256396</id>
+    <title>https://github.com/ByteByteGoHq/system-design-101</title>
+    <link href="https://github.com/ByteByteGoHq/system-design-101" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-openapi#1735256396</id>
+    <title>https://github.com/openai/openai-openapi</title>
+    <link href="https://github.com/openai/openai-openapi" />
+    <updated>2024-12-26T23:39:56+00:00</updated>
+    <content type="text">OpenAPI specification for the OpenAI API</content>
+  </entry>
+</feed>

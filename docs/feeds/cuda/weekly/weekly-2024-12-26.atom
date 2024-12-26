@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cuda/weekly.atom</id>
+  <title>GitHub Treanding - cuda (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cuda/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:20:09+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/CUDALibrarySamples#1735255209</id>
+    <title>https://github.com/NVIDIA/CUDALibrarySamples</title>
+    <link href="https://github.com/NVIDIA/CUDALibrarySamples" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">CUDA Library Samples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVlabs/instant-ngp#1735255209</id>
+    <title>https://github.com/NVlabs/instant-ngp</title>
+    <link href="https://github.com/NVlabs/instant-ngp" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">Instant neural graphics primitives: lightning fast NeRF and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nccl-tests#1735255209</id>
+    <title>https://github.com/NVIDIA/nccl-tests</title>
+    <link href="https://github.com/NVIDIA/nccl-tests" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">NCCL Tests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Liu-xiandong/How_to_optimize_in_GPU#1735255209</id>
+    <title>https://github.com/Liu-xiandong/How_to_optimize_in_GPU</title>
+    <link href="https://github.com/Liu-xiandong/How_to_optimize_in_GPU" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">This is a series of GPU optimization topics. Here we will introduce how to optimize the CUDA kernel in detail. I will introduce several basic kernel optimizations, including: elementwise, reduce, sgemv, sgemm, etc. The performance of these kernels is basically at or near the theoretical limit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tony-Tan/CUDA_Freshman#1735255209</id>
+    <title>https://github.com/Tony-Tan/CUDA_Freshman</title>
+    <link href="https://github.com/Tony-Tan/CUDA_Freshman" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mit-han-lab/torchsparse#1735255209</id>
+    <title>https://github.com/mit-han-lab/torchsparse</title>
+    <link href="https://github.com/mit-han-lab/torchsparse" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">[MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/cuvs#1735255209</id>
+    <title>https://github.com/rapidsai/cuvs</title>
+    <link href="https://github.com/rapidsai/cuvs" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">cuVS - a library for vector search and clustering on the GPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HigherOrderCO/HVM#1735255209</id>
+    <title>https://github.com/HigherOrderCO/HVM</title>
+    <link href="https://github.com/HigherOrderCO/HVM" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">A massively parallel, optimal functional runtime in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/raft#1735255209</id>
+    <title>https://github.com/rapidsai/raft</title>
+    <link href="https://github.com/rapidsai/raft" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nvbench#1735255209</id>
+    <title>https://github.com/NVIDIA/nvbench</title>
+    <link href="https://github.com/NVIDIA/nvbench" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">CUDA Kernel Benchmarking Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nerfstudio-project/gsplat#1735255209</id>
+    <title>https://github.com/nerfstudio-project/gsplat</title>
+    <link href="https://github.com/nerfstudio-project/gsplat" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">CUDA accelerated rasterization of gaussian splatting</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llm.c#1735255209</id>
+    <title>https://github.com/karpathy/llm.c</title>
+    <link href="https://github.com/karpathy/llm.c" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">LLM training in simple, raw C/CUDA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flashinfer-ai/flashinfer#1735255209</id>
+    <title>https://github.com/flashinfer-ai/flashinfer</title>
+    <link href="https://github.com/flashinfer-ai/flashinfer" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">FlashInfer: Kernel Library for LLM Serving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HazyResearch/ThunderKittens#1735255209</id>
+    <title>https://github.com/HazyResearch/ThunderKittens</title>
+    <link href="https://github.com/HazyResearch/ThunderKittens" />
+    <updated>2024-12-26T23:20:09+00:00</updated>
+    <content type="text">Tile primitives for speedy kernels</content>
+  </entry>
+</feed>

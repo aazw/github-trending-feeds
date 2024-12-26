@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/weekly.atom</id>
+  <title>GitHub Treanding - adblock-filter-list (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:16:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardSDNSFilter#1735254971</id>
+    <title>https://github.com/AdguardTeam/AdGuardSDNSFilter</title>
+    <link href="https://github.com/AdguardTeam/AdGuardSDNSFilter" />
+    <updated>2024-12-26T23:16:11+00:00</updated>
+    <content type="text">AdGuard DNS filter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jerryn70/GoodbyeAds#1735254971</id>
+    <title>https://github.com/jerryn70/GoodbyeAds</title>
+    <link href="https://github.com/jerryn70/GoodbyeAds" />
+    <updated>2024-12-26T23:16:11+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/FiltersRegistry#1735254971</id>
+    <title>https://github.com/AdguardTeam/FiltersRegistry</title>
+    <link href="https://github.com/AdguardTeam/FiltersRegistry" />
+    <updated>2024-12-26T23:16:11+00:00</updated>
+    <content type="text">Known filters subscriptions transformed for better compatibility with AdGuard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdguardFilters#1735254971</id>
+    <title>https://github.com/AdguardTeam/AdguardFilters</title>
+    <link href="https://github.com/AdguardTeam/AdguardFilters" />
+    <updated>2024-12-26T23:16:11+00:00</updated>
+    <content type="text">AdGuard Content Blocking Filters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uBlockOrigin/uAssets#1735254971</id>
+    <title>https://github.com/uBlockOrigin/uAssets</title>
+    <link href="https://github.com/uBlockOrigin/uAssets" />
+    <updated>2024-12-26T23:16:11+00:00</updated>
+    <content type="text">Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.</content>
+  </entry>
+</feed>

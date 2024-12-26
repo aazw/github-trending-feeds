@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom</id>
+  <title>GitHub Treanding - cmake (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:19:20+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ttroy50/cmake-examples#1735255160</id>
+    <title>https://github.com/ttroy50/cmake-examples</title>
+    <link href="https://github.com/ttroy50/cmake-examples" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">Useful CMake Examples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minecraft-linux/mcpelauncher-manifest#1735255160</id>
+    <title>https://github.com/minecraft-linux/mcpelauncher-manifest</title>
+    <link href="https://github.com/minecraft-linux/mcpelauncher-manifest" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheLartians/PackageProject.cmake#1735255160</id>
+    <title>https://github.com/TheLartians/PackageProject.cmake</title>
+    <link href="https://github.com/TheLartians/PackageProject.cmake" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libbpf/libbpf-bootstrap#1735255160</id>
+    <title>https://github.com/libbpf/libbpf-bootstrap</title>
+    <link href="https://github.com/libbpf/libbpf-bootstrap" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">Scaffolding for BPF application development with libbpf and BPF CO-RE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cpm-cmake/CPM.cmake#1735255160</id>
+    <title>https://github.com/cpm-cmake/CPM.cmake</title>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1735255160</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shinchiro/mpv-winbuild-cmake#1735255160</id>
+    <title>https://github.com/shinchiro/mpv-winbuild-cmake</title>
+    <link href="https://github.com/shinchiro/mpv-winbuild-cmake" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">CMake-based MinGW-w64 Cross Toolchain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1735255160</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2024-12-26T23:19:20+00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+</feed>

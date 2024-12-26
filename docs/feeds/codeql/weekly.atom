@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/codeql/weekly.atom</id>
+  <title>GitHub Treanding - codeql (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/codeql/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:19:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/github/codeql#1735255167</id>
+    <title>https://github.com/github/codeql</title>
+    <link href="https://github.com/github/codeql" />
+    <updated>2024-12-26T23:19:27+00:00</updated>
+    <content type="text">CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</content>
+  </entry>
+</feed>

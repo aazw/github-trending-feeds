@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tcl/weekly.atom</id>
+  <title>GitHub Treanding - tcl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:38:47+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/macports/macports-ports#1735256327</id>
+    <title>https://github.com/macports/macports-ports</title>
+    <link href="https://github.com/macports/macports-ports" />
+    <updated>2024-12-26T23:38:47+00:00</updated>
+    <content type="text">The MacPorts ports tree</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdbende/Sun-Valley-ttk-theme#1735256327</id>
+    <title>https://github.com/rdbende/Sun-Valley-ttk-theme</title>
+    <link href="https://github.com/rdbende/Sun-Valley-ttk-theme" />
+    <updated>2024-12-26T23:38:47+00:00</updated>
+    <content type="text">A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨</content>
+  </entry>
+</feed>

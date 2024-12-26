@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/sass/weekly.atom</id>
+  <title>GitHub Treanding - sass (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/sass/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:36:30+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pradyunsg/furo#1735256190</id>
+    <title>https://github.com/pradyunsg/furo</title>
+    <link href="https://github.com/pradyunsg/furo" />
+    <updated>2024-12-26T23:36:30+00:00</updated>
+    <content type="text">A clean customizable documentation theme for Sphinx</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heroku/boomerang#1735256190</id>
+    <title>https://github.com/heroku/boomerang</title>
+    <link href="https://github.com/heroku/boomerang" />
+    <updated>2024-12-26T23:36:30+00:00</updated>
+    <content type="text">Boomerang is a JavaScript widget that gives users a way back to Heroku from Addon provider sites.</content>
+  </entry>
+</feed>

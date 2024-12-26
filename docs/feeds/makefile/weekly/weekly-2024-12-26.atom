@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/weekly.atom</id>
+  <title>GitHub Treanding - makefile (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:28:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/moul/http2curl#1735255723</id>
+    <title>https://github.com/moul/http2curl</title>
+    <link href="https://github.com/moul/http2curl" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">📐 Convert Golang's http.Request to CURL command line</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WerWolv/Tesla-Menu#1735255723</id>
+    <title>https://github.com/WerWolv/Tesla-Menu</title>
+    <link href="https://github.com/WerWolv/Tesla-Menu" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">The Nintendo Switch overlay menu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1735255723</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/guide#1735255723</id>
+    <title>https://github.com/uber-go/guide</title>
+    <link href="https://github.com/uber-go/guide" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">The Uber Go Style Guide.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opamp-spec#1735255723</id>
+    <title>https://github.com/open-telemetry/opamp-spec</title>
+    <link href="https://github.com/open-telemetry/opamp-spec" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">OpAMP Specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inpyjama/c-ninja-listings#1735255723</id>
+    <title>https://github.com/inpyjama/c-ninja-listings</title>
+    <link href="https://github.com/inpyjama/c-ninja-listings" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">Lower level assembly and C baremetal programming on RISC-V CPUs. Source code listings from the C-Ninja, in Pyjama! book.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuk7/ArchWSL#1735255723</id>
+    <title>https://github.com/yuk7/ArchWSL</title>
+    <link href="https://github.com/yuk7/ArchWSL" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">ArchLinux based WSL Distribution. Supports multiple install.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zhimin-dev/iptv-checker#1735255723</id>
+    <title>https://github.com/zhimin-dev/iptv-checker</title>
+    <link href="https://github.com/zhimin-dev/iptv-checker" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">IPTV checker tool for Docker &amp;&amp; Desktop &amp;&amp; CMD, check your playlist is available</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto#1735255723</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/people#1735255723</id>
+    <title>https://github.com/cncf/people</title>
+    <link href="https://github.com/cncf/people" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">Stores the data that will populate the various people listings on cncf.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/noobs#1735255723</id>
+    <title>https://github.com/raspberrypi/noobs</title>
+    <link href="https://github.com/raspberrypi/noobs" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/packages#1735255723</id>
+    <title>https://github.com/openwrt/packages</title>
+    <link href="https://github.com/openwrt/packages" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foostan/crkbd#1735255723</id>
+    <title>https://github.com/foostan/crkbd</title>
+    <link href="https://github.com/foostan/crkbd" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teaxyz/white-paper#1735255723</id>
+    <title>https://github.com/teaxyz/white-paper</title>
+    <link href="https://github.com/teaxyz/white-paper" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">how will the protocol work?</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-standards/project-layout#1735255723</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
+    <updated>2024-12-26T23:28:43+00:00</updated>
+    <content type="text">Standard Go Project Layout</content>
+  </entry>
+</feed>

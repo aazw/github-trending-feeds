@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/d/weekly.atom</id>
+  <title>GitHub Treanding - d (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/d/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:20:31+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abraunegg/onedrive#1735255231</id>
+    <title>https://github.com/abraunegg/onedrive</title>
+    <link href="https://github.com/abraunegg/onedrive" />
+    <updated>2024-12-26T23:20:31+00:00</updated>
+    <content type="text">OneDrive Client for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Dadoum/anisette-v3-server#1735255231</id>
+    <title>https://github.com/Dadoum/anisette-v3-server</title>
+    <link href="https://github.com/Dadoum/anisette-v3-server" />
+    <updated>2024-12-26T23:20:31+00:00</updated>
+    <content type="text">sidestore's anisette-v3 compatible server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dlang/dmd#1735255231</id>
+    <title>https://github.com/dlang/dmd</title>
+    <link href="https://github.com/dlang/dmd" />
+    <updated>2024-12-26T23:20:31+00:00</updated>
+    <content type="text">dmd D Programming Language compiler</content>
+  </entry>
+</feed>

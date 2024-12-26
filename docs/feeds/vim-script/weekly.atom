@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Treanding - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:40:31+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1735256431</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/romainl/vim-cool#1735256431</id>
+    <title>https://github.com/romainl/vim-cool</title>
+    <link href="https://github.com/romainl/vim-cool" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">A very simple plugin that makes hlsearch more useful.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline#1735256431</id>
+    <title>https://github.com/vim-airline/vim-airline</title>
+    <link href="https://github.com/vim-airline/vim-airline" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">lean &amp; mean status/tabline for vim that's light as air</content>
+  </entry>
+  <entry>
+    <id>https://github.com/udalov/kotlin-vim#1735256431</id>
+    <title>https://github.com/udalov/kotlin-vim</title>
+    <link href="https://github.com/udalov/kotlin-vim" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrisbra/csv.vim#1735256431</id>
+    <title>https://github.com/chrisbra/csv.vim</title>
+    <link href="https://github.com/chrisbra/csv.vim" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">A Filetype plugin for csv files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rails#1735256431</id>
+    <title>https://github.com/tpope/vim-rails</title>
+    <link href="https://github.com/tpope/vim-rails" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">rails.vim: Ruby on Rails power tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1735256431</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1735256431</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1735256431</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jpalardy/vim-slime#1735256431</id>
+    <title>https://github.com/jpalardy/vim-slime</title>
+    <link href="https://github.com/jpalardy/vim-slime" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">A vim plugin to give you some slime. (Emacs)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andymass/vim-matchup#1735256431</id>
+    <title>https://github.com/andymass/vim-matchup</title>
+    <link href="https://github.com/andymass/vim-matchup" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-projectionist#1735256431</id>
+    <title>https://github.com/tpope/vim-projectionist</title>
+    <link href="https://github.com/tpope/vim-projectionist" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">projectionist.vim: Granular project configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-completion#1735256431</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-completion</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-completion" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">Database autocompletion powered by https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1735256431</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpaceVim/SpaceVim#1735256431</id>
+    <title>https://github.com/SpaceVim/SpaceVim</title>
+    <link href="https://github.com/SpaceVim/SpaceVim" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">A modular configuration of Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1735256431</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1735256431</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1735256431</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2024-12-26T23:40:31+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+</feed>

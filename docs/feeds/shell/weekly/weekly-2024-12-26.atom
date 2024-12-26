@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/weekly.atom</id>
+  <title>GitHub Treanding - shell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:36:54+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Steam-Headless/docker-steam-headless#1735256214</id>
+    <title>https://github.com/Steam-Headless/docker-steam-headless</title>
+    <link href="https://github.com/Steam-Headless/docker-steam-headless" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frankiejun/serv00-play#1735256214</id>
+    <title>https://github.com/frankiejun/serv00-play</title>
+    <link href="https://github.com/frankiejun/serv00-play" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">serv00 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针 等, 自动化部署、批量保号、进程防杀、消息推送</content>
+  </entry>
+  <entry>
+    <id>https://github.com/armbian/build#1735256214</id>
+    <title>https://github.com/armbian/build</title>
+    <link href="https://github.com/armbian/build" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 &amp; armhf</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1735256214</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Joshua-Riek/ubuntu-rockchip#1735256214</id>
+    <title>https://github.com/Joshua-Riek/ubuntu-rockchip</title>
+    <link href="https://github.com/Joshua-Riek/ubuntu-rockchip" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">Ubuntu for Rockchip RK35XX Devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1735256214</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/void-linux/void-packages#1735256214</id>
+    <title>https://github.com/void-linux/void-packages</title>
+    <link href="https://github.com/void-linux/void-packages" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">The Void source packages collection</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1735256214</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-packages#1735256214</id>
+    <title>https://github.com/termux/termux-packages</title>
+    <link href="https://github.com/termux/termux-packages" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">A package build system for Termux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/pi-hole#1735256214</id>
+    <title>https://github.com/pi-hole/pi-hole</title>
+    <link href="https://github.com/pi-hole/pi-hole" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">A black hole for Internet advertisements</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles#1735256214</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2024-12-26T23:36:54+00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributions.</content>
+  </entry>
+</feed>

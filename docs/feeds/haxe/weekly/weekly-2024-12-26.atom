@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haxe/weekly.atom</id>
+  <title>GitHub Treanding - haxe (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haxe/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:24:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CodenameCrew/CodenameEngine#1735255493</id>
+    <title>https://github.com/CodenameCrew/CodenameEngine</title>
+    <link href="https://github.com/CodenameCrew/CodenameEngine" />
+    <updated>2024-12-26T23:24:53+00:00</updated>
+    <content type="text">awesome fnf engine :D</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HaxeFoundation/haxe#1735255493</id>
+    <title>https://github.com/HaxeFoundation/haxe</title>
+    <link href="https://github.com/HaxeFoundation/haxe" />
+    <updated>2024-12-26T23:24:53+00:00</updated>
+    <content type="text">Haxe - The Cross-Platform Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FunkinCrew/Funkin#1735255493</id>
+    <title>https://github.com/FunkinCrew/Funkin</title>
+    <link href="https://github.com/FunkinCrew/Funkin" />
+    <updated>2024-12-26T23:24:53+00:00</updated>
+    <content type="text">A rhythm game made with HaxeFlixel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ShadowMario/FNF-PsychEngine#1735255493</id>
+    <title>https://github.com/ShadowMario/FNF-PsychEngine</title>
+    <link href="https://github.com/ShadowMario/FNF-PsychEngine" />
+    <updated>2024-12-26T23:24:53+00:00</updated>
+    <content type="text">Engine originally used on Mind Games mod</content>
+  </entry>
+</feed>

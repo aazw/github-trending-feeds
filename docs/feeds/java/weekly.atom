@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/weekly.atom</id>
+  <title>GitHub Treanding - java (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:26:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Creators-of-Create/Create#1735255575</id>
+    <title>https://github.com/Creators-of-Create/Create</title>
+    <link href="https://github.com/Creators-of-Create/Create" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">[Forge Mod] Building Tools and Aesthetic Technology</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/gravitino#1735255575</id>
+    <title>https://github.com/apache/gravitino</title>
+    <link href="https://github.com/apache/gravitino" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RikkaApps/Shizuku-API#1735255575</id>
+    <title>https://github.com/RikkaApps/Shizuku-API</title>
+    <link href="https://github.com/RikkaApps/Shizuku-API" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">The API and the developer guide for Shizuku and Sui.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elunez/eladmin#1735255575</id>
+    <title>https://github.com/elunez/eladmin</title>
+    <link href="https://github.com/elunez/eladmin" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hkhcoder/vprofile-project#1735255575</id>
+    <title>https://github.com/hkhcoder/vprofile-project</title>
+    <link href="https://github.com/hkhcoder/vprofile-project" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/dataease/dataease#1735255575</id>
+    <title>https://github.com/dataease/dataease</title>
+    <link href="https://github.com/dataease/dataease" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CarGuo/GSYVideoPlayer#1735255575</id>
+    <title>https://github.com/CarGuo/GSYVideoPlayer</title>
+    <link href="https://github.com/CarGuo/GSYVideoPlayer" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java#1735255575</id>
+    <title>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</title>
+    <link href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MeteorDevelopment/meteor-client#1735255575</id>
+    <title>https://github.com/MeteorDevelopment/meteor-client</title>
+    <link href="https://github.com/MeteorDevelopment/meteor-client" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">Based Minecraft utility mod.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeecgboot/JeecgBoot#1735255575</id>
+    <title>https://github.com/jeecgboot/JeecgBoot</title>
+    <link href="https://github.com/jeecgboot/JeecgBoot" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&amp;Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式，引入AI模型能力 OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuliskov/SmartTube#1735255575</id>
+    <title>https://github.com/yuliskov/SmartTube</title>
+    <link href="https://github.com/yuliskov/SmartTube" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">SmartTube - an advanced player for set-top boxes and tvs running Android OS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-framework#1735255575</id>
+    <title>https://github.com/spring-projects/spring-framework</title>
+    <link href="https://github.com/spring-projects/spring-framework" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">Spring Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeecgboot/JimuReport#1735255575</id>
+    <title>https://github.com/jeecgboot/JimuReport</title>
+    <link href="https://github.com/jeecgboot/JimuReport" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CaffeineMC/sodium#1735255575</id>
+    <title>https://github.com/CaffeineMC/sodium</title>
+    <link href="https://github.com/CaffeineMC/sodium" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">A Minecraft mod designed to improve frame rates and reduce micro-stutter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheAlgorithms/Java#1735255575</id>
+    <title>https://github.com/TheAlgorithms/Java</title>
+    <link href="https://github.com/TheAlgorithms/Java" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">All Algorithms implemented in Java</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lakesoul-io/LakeSoul#1735255575</id>
+    <title>https://github.com/lakesoul-io/LakeSoul</title>
+    <link href="https://github.com/lakesoul-io/LakeSoul" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tencentmusic/supersonic#1735255575</id>
+    <title>https://github.com/tencentmusic/supersonic</title>
+    <link href="https://github.com/tencentmusic/supersonic" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CodePhiliaX/Chat2DB#1735255575</id>
+    <title>https://github.com/CodePhiliaX/Chat2DB</title>
+    <link href="https://github.com/CodePhiliaX/Chat2DB" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ashishps1/awesome-low-level-design#1735255575</id>
+    <title>https://github.com/ashishps1/awesome-low-level-design</title>
+    <link href="https://github.com/ashishps1/awesome-low-level-design" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">Learn Low Level Design (LLD) and prepare for interviews using free resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xuchengsheng/spring-reading#1735255575</id>
+    <title>https://github.com/xuchengsheng/spring-reading</title>
+    <link href="https://github.com/xuchengsheng/spring-reading" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microg/GmsCore#1735255575</id>
+    <title>https://github.com/microg/GmsCore</title>
+    <link href="https://github.com/microg/GmsCore" />
+    <updated>2024-12-26T23:26:15+00:00</updated>
+    <content type="text">Free implementation of Play Services</content>
+  </entry>
+</feed>

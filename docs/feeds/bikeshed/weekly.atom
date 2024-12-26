@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bikeshed/weekly.atom</id>
+  <title>GitHub Treanding - bikeshed (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:17:42+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/immersive-web/webxr#1735255062</id>
+    <title>https://github.com/immersive-web/webxr</title>
+    <link href="https://github.com/immersive-web/webxr" />
+    <updated>2024-12-26T23:17:42+00:00</updated>
+    <content type="text">Repository for the WebXR Device API Specification.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/attribution-reporting-api#1735255062</id>
+    <title>https://github.com/WICG/attribution-reporting-api</title>
+    <link href="https://github.com/WICG/attribution-reporting-api" />
+    <updated>2024-12-26T23:17:42+00:00</updated>
+    <content type="text">Attribution Reporting API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/first-party-sets#1735255062</id>
+    <title>https://github.com/WICG/first-party-sets</title>
+    <link href="https://github.com/WICG/first-party-sets" />
+    <updated>2024-12-26T23:17:42+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/webmachinelearning/writing-assistance-apis#1735255062</id>
+    <title>https://github.com/webmachinelearning/writing-assistance-apis</title>
+    <link href="https://github.com/webmachinelearning/writing-assistance-apis" />
+    <updated>2024-12-26T23:17:42+00:00</updated>
+    <content type="text">✍️ A proposal for writing assistance web APIs: summarizer, writer, and rewriter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gpuweb/gpuweb#1735255062</id>
+    <title>https://github.com/gpuweb/gpuweb</title>
+    <link href="https://github.com/gpuweb/gpuweb" />
+    <updated>2024-12-26T23:17:42+00:00</updated>
+    <content type="text">Where the GPU for the Web work happens!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/csswg-drafts#1735255062</id>
+    <title>https://github.com/w3c/csswg-drafts</title>
+    <link href="https://github.com/w3c/csswg-drafts" />
+    <updated>2024-12-26T23:17:42+00:00</updated>
+    <content type="text">CSS Working Group Editor Drafts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patcg-individual-drafts/topics#1735255062</id>
+    <title>https://github.com/patcg-individual-drafts/topics</title>
+    <link href="https://github.com/patcg-individual-drafts/topics" />
+    <updated>2024-12-26T23:17:42+00:00</updated>
+    <content type="text">The Topics API</content>
+  </entry>
+</feed>

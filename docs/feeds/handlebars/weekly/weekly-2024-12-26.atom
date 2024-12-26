@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/handlebars/weekly.atom</id>
+  <title>GitHub Treanding - handlebars (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/handlebars/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:24:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/elastic/integrations#1735255481</id>
+    <title>https://github.com/elastic/integrations</title>
+    <link href="https://github.com/elastic/integrations" />
+    <updated>2024-12-26T23:24:41+00:00</updated>
+    <content type="text">Elastic Integrations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/hub-docs#1735255481</id>
+    <title>https://github.com/huggingface/hub-docs</title>
+    <link href="https://github.com/huggingface/hub-docs" />
+    <updated>2024-12-26T23:24:41+00:00</updated>
+    <content type="text">Docs of the Hugging Face Hub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CrunchyData/postgres-operator-examples#1735255481</id>
+    <title>https://github.com/CrunchyData/postgres-operator-examples</title>
+    <link href="https://github.com/CrunchyData/postgres-operator-examples" />
+    <updated>2024-12-26T23:24:41+00:00</updated>
+    <content type="text">Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-by-example#1735255481</id>
+    <title>https://github.com/rust-lang/rust-by-example</title>
+    <link href="https://github.com/rust-lang/rust-by-example" />
+    <updated>2024-12-26T23:24:41+00:00</updated>
+    <content type="text">Learn Rust with examples (Live code editor included)</content>
+  </entry>
+</feed>

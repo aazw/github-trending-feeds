@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/weekly.atom</id>
+  <title>GitHub Treanding - c++ (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:18:22+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/oceanbase/oceanbase#1735255102</id>
+    <title>https://github.com/oceanbase/oceanbase</title>
+    <link href="https://github.com/oceanbase/oceanbase" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SoftFever/OrcaSlicer#1735255102</id>
+    <title>https://github.com/SoftFever/OrcaSlicer</title>
+    <link href="https://github.com/SoftFever/OrcaSlicer" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/envoy#1735255102</id>
+    <title>https://github.com/envoyproxy/envoy</title>
+    <link href="https://github.com/envoyproxy/envoy" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Cloud-native high-performance edge/middle/service proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esphome/esphome#1735255102</id>
+    <title>https://github.com/esphome/esphome</title>
+    <link href="https://github.com/esphome/esphome" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doitsujin/dxvk#1735255102</id>
+    <title>https://github.com/doitsujin/dxvk</title>
+    <link href="https://github.com/doitsujin/dxvk" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MAZHARMIK/Interview_DS_Algo#1735255102</id>
+    <title>https://github.com/MAZHARMIK/Interview_DS_Algo</title>
+    <link href="https://github.com/MAZHARMIK/Interview_DS_Algo" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Super Repository for Coding Interview Preperation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyprwm/Hyprland#1735255102</id>
+    <title>https://github.com/hyprwm/Hyprland</title>
+    <link href="https://github.com/hyprwm/Hyprland" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot#1735255102</id>
+    <title>https://github.com/godotengine/godot</title>
+    <link href="https://github.com/godotengine/godot" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Godot Engine – Multi-platform 2D and 3D game engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nomic-ai/gpt4all#1735255102</id>
+    <title>https://github.com/nomic-ai/gpt4all</title>
+    <link href="https://github.com/nomic-ai/gpt4all" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/azerothcore/azerothcore-wotlk#1735255102</id>
+    <title>https://github.com/azerothcore/azerothcore-wotlk</title>
+    <link href="https://github.com/azerothcore/azerothcore-wotlk" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Complete Open Source and Modular solution for MMO</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Oneflow-Inc/oneflow#1735255102</id>
+    <title>https://github.com/Oneflow-Inc/oneflow</title>
+    <link href="https://github.com/Oneflow-Inc/oneflow" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ArthurSonzogni/FTXUI#1735255102</id>
+    <title>https://github.com/ArthurSonzogni/FTXUI</title>
+    <link href="https://github.com/ArthurSonzogni/FTXUI" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">💻 C++ Functional Terminal User Interface. ❤️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vnotex/vnote#1735255102</id>
+    <title>https://github.com/vnotex/vnote</title>
+    <link href="https://github.com/vnotex/vnote" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">A pleasant note-taking platform in native C++.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/official-stockfish/Stockfish#1735255102</id>
+    <title>https://github.com/official-stockfish/Stockfish</title>
+    <link href="https://github.com/official-stockfish/Stockfish" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">A free and strong UCI chess engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/llama.cpp#1735255102</id>
+    <title>https://github.com/ggerganov/llama.cpp</title>
+    <link href="https://github.com/ggerganov/llama.cpp" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">LLM inference in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cameron314/concurrentqueue#1735255102</id>
+    <title>https://github.com/cameron314/concurrentqueue</title>
+    <link href="https://github.com/cameron314/concurrentqueue" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">A fast multi-producer, multi-consumer lock-free concurrent queue for C++11</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/ggml#1735255102</id>
+    <title>https://github.com/ggerganov/ggml</title>
+    <link href="https://github.com/ggerganov/ggml" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Tensor library for machine learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadps4-emu/shadPS4#1735255102</id>
+    <title>https://github.com/shadps4-emu/shadPS4</title>
+    <link href="https://github.com/shadps4-emu/shadPS4" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">PS4 emulator for Windows,Linux,MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ydb-platform/ydb#1735255102</id>
+    <title>https://github.com/ydb-platform/ydb</title>
+    <link href="https://github.com/ydb-platform/ydb" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chiteroman/PlayIntegrityFix#1735255102</id>
+    <title>https://github.com/chiteroman/PlayIntegrityFix</title>
+    <link href="https://github.com/chiteroman/PlayIntegrityFix" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Fix Play Integrity (and SafetyNet) verdicts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrouwe/JoltPhysics#1735255102</id>
+    <title>https://github.com/jrouwe/JoltPhysics</title>
+    <link href="https://github.com/jrouwe/JoltPhysics" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scylladb/scylladb#1735255102</id>
+    <title>https://github.com/scylladb/scylladb</title>
+    <link href="https://github.com/scylladb/scylladb" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">NoSQL data store using the seastar framework, compatible with Apache Cassandra</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amnezia-vpn/amnezia-client#1735255102</id>
+    <title>https://github.com/amnezia-vpn/amnezia-client</title>
+    <link href="https://github.com/amnezia-vpn/amnezia-client" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Amnezia VPN Client (Desktop+Mobile)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taichi-dev/taichi#1735255102</id>
+    <title>https://github.com/taichi-dev/taichi</title>
+    <link href="https://github.com/taichi-dev/taichi" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Productive, portable, and performant GPU programming in Python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocornut/imgui#1735255102</id>
+    <title>https://github.com/ocornut/imgui</title>
+    <link href="https://github.com/ocornut/imgui" />
+    <updated>2024-12-26T23:18:22+00:00</updated>
+    <content type="text">Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</content>
+  </entry>
+</feed>

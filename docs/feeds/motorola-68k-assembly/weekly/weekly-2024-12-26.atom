@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/motorola-68k-assembly/weekly.atom</id>
+  <title>GitHub Treanding - motorola-68k-assembly (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/motorola-68k-assembly/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:30:05+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+</feed>

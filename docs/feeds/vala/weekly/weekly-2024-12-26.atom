@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vala/weekly.atom</id>
+  <title>GitHub Treanding - vala (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vala/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:40:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/teejee2008/timeshift#1735256410</id>
+    <title>https://github.com/teejee2008/timeshift</title>
+    <link href="https://github.com/teejee2008/timeshift" />
+    <updated>2024-12-26T23:40:10+00:00</updated>
+    <content type="text">System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cheesecakeufo/komorebi#1735256410</id>
+    <title>https://github.com/cheesecakeufo/komorebi</title>
+    <link href="https://github.com/cheesecakeufo/komorebi" />
+    <updated>2024-12-26T23:40:10+00:00</updated>
+    <content type="text">A beautiful and customizable wallpapers manager for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phw/peek#1735256410</id>
+    <title>https://github.com/phw/peek</title>
+    <link href="https://github.com/phw/peek" />
+    <updated>2024-12-26T23:40:10+00:00</updated>
+    <content type="text">Simple animated GIF screen recorder with an easy to use interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frida/frida-core#1735256410</id>
+    <title>https://github.com/frida/frida-core</title>
+    <link href="https://github.com/frida/frida-core" />
+    <updated>2024-12-26T23:40:10+00:00</updated>
+    <content type="text">Frida core library intended for static linking into bindings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Aylur/astal#1735256410</id>
+    <title>https://github.com/Aylur/astal</title>
+    <link href="https://github.com/Aylur/astal" />
+    <updated>2024-12-26T23:40:10+00:00</updated>
+    <content type="text">Building blocks for creating custom desktop shells</content>
+  </entry>
+</feed>

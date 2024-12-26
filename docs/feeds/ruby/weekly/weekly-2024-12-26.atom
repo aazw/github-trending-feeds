@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/weekly.atom</id>
+  <title>GitHub Treanding - ruby (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:36:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1735256175</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solidusio/solidus#1735256175</id>
+    <title>https://github.com/solidusio/solidus</title>
+    <link href="https://github.com/solidusio/solidus" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">🛒 Solidus, the open-source eCommerce framework for industry trailblazers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CocoaPods/CocoaPods#1735256175</id>
+    <title>https://github.com/CocoaPods/CocoaPods</title>
+    <link href="https://github.com/CocoaPods/CocoaPods" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">The Cocoa Dependency Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/urbanadventurer/WhatWeb#1735256175</id>
+    <title>https://github.com/urbanadventurer/WhatWeb</title>
+    <link href="https://github.com/urbanadventurer/WhatWeb" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">Next generation web scanner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/kamal#1735256175</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">Deploy web apps anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1735256175</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/jekyll#1735256175</id>
+    <title>https://github.com/jekyll/jekyll</title>
+    <link href="https://github.com/jekyll/jekyll" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">🌐 Jekyll is a blog-aware static site generator in Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1735256175</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwt/ruby-jwt#1735256175</id>
+    <title>https://github.com/jwt/ruby-jwt</title>
+    <link href="https://github.com/jwt/ruby-jwt" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vagrant#1735256175</id>
+    <title>https://github.com/hashicorp/vagrant</title>
+    <link href="https://github.com/hashicorp/vagrant" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">Vagrant is a tool for building and distributing development environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maybe-finance/maybe#1735256175</id>
+    <title>https://github.com/maybe-finance/maybe</title>
+    <link href="https://github.com/maybe-finance/maybe" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">The OS for your personal finances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/brew#1735256175</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree#1735256175</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kilimchoi/engineering-blogs#1735256175</id>
+    <title>https://github.com/kilimchoi/engineering-blogs</title>
+    <link href="https://github.com/kilimchoi/engineering-blogs" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">A curated list of engineering blogs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-linguist/linguist#1735256175</id>
+    <title>https://github.com/github-linguist/linguist</title>
+    <link href="https://github.com/github-linguist/linguist" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1735256175</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2024-12-26T23:36:15+00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+  </entry>
+</feed>

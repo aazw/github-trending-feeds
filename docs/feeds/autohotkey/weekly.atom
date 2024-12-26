@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/autohotkey/weekly.atom</id>
+  <title>GitHub Treanding - autohotkey (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/autohotkey/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:17:16+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/kyokakawaii/DoroHelper#1735255036</id>
+    <title>https://github.com/kyokakawaii/DoroHelper</title>
+    <link href="https://github.com/kyokakawaii/DoroHelper" />
+    <updated>2024-12-26T23:17:16+00:00</updated>
+    <content type="text">Nikke日常任务脚本。A Time-Saving Script for Goddess of Victory: Nikke.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Pulover/PuloversMacroCreator#1735255036</id>
+    <title>https://github.com/Pulover/PuloversMacroCreator</title>
+    <link href="https://github.com/Pulover/PuloversMacroCreator" />
+    <updated>2024-12-26T23:17:16+00:00</updated>
+    <content type="text">Automation Utility - Recorder &amp; Script Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CemuUser8/mouse2joystick_custom_CEMU#1735255036</id>
+    <title>https://github.com/CemuUser8/mouse2joystick_custom_CEMU</title>
+    <link href="https://github.com/CemuUser8/mouse2joystick_custom_CEMU" />
+    <updated>2024-12-26T23:17:16+00:00</updated>
+    <content type="text">An AutoHotkey Script to allow the use of Mouse and Keyboard control in CEMU. This uses vJoy and provides several additional features over regular keyboard control, like: the ability to control the camera with the mouse, toggle walking speed, in BotW use MouseWheel to change weapons, a separate Toggle key for ZL useful for locking onto a target …</content>
+  </entry>
+  <entry>
+    <id>https://github.com/umageddon/namDHC#1735255036</id>
+    <title>https://github.com/umageddon/namDHC</title>
+    <link href="https://github.com/umageddon/namDHC" />
+    <updated>2024-12-26T23:17:16+00:00</updated>
+    <content type="text">Windows frontend for CHDMAN - written in Autohotkey</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NatroTeam/NatroMacro#1735255036</id>
+    <title>https://github.com/NatroTeam/NatroMacro</title>
+    <link href="https://github.com/NatroTeam/NatroMacro" />
+    <updated>2024-12-26T23:17:16+00:00</updated>
+    <content type="text">A Bee Swarm Simulator macro for Windows</content>
+  </entry>
+</feed>

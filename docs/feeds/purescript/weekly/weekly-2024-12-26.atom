@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/purescript/weekly.atom</id>
+  <title>GitHub Treanding - purescript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/purescript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:34:17+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/purescript/purescript-catenable-lists#1735256057</id>
+    <title>https://github.com/purescript/purescript-catenable-lists</title>
+    <link href="https://github.com/purescript/purescript-catenable-lists" />
+    <updated>2024-12-26T23:34:17+00:00</updated>
+    <content type="text">Catenable lists</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-free#1735256057</id>
+    <title>https://github.com/purescript/purescript-free</title>
+    <link href="https://github.com/purescript/purescript-free" />
+    <updated>2024-12-26T23:34:17+00:00</updated>
+    <content type="text">Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-lists#1735256057</id>
+    <title>https://github.com/purescript/purescript-lists</title>
+    <link href="https://github.com/purescript/purescript-lists" />
+    <updated>2024-12-26T23:34:17+00:00</updated>
+    <content type="text">Linked Lists</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nammayatri/nammayatri#1735256057</id>
+    <title>https://github.com/nammayatri/nammayatri</title>
+    <link href="https://github.com/nammayatri/nammayatri" />
+    <updated>2024-12-26T23:34:17+00:00</updated>
+    <content type="text">A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</content>
+  </entry>
+</feed>
