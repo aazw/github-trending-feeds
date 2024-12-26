@@ -57,7 +57,7 @@ def main(language: str, date_range: str, output: str, atom_updated_date: str, ve
     appLogger.info(f"generated: atom_advertise_url = {atom_advertise_url}")
 
     # atom_advertise_alt_url
-    atom_advertise_alt_url = f"https://aazw.github.io/github-trending-feeds/feeds/{language}/"
+    atom_advertise_alt_url = f"https://aazw.github.io/github-trending-feeds/"
     appLogger.info(f"generated: atom_advertise_alt_url = {atom_advertise_alt_url}")
 
     # updated (drop milliseconds)
