@@ -18,6 +18,15 @@ jobs:
 
       - name: scraping trending
         run: ./scripts/scrape_daily_trending.sh
+
+      - name: copy atoms
+        run: |
+          d=$(date -I)
+
+          for atom in $(ls ./docs/feeds/*/daily.atom); do
+            mkdir -p "$(dirname $atom)/daily"
+            cp "${atom}" "$(dirname $atom)/daily/daily-${d}.atom"
+          done
           
       - name: Create new commit
         run: |

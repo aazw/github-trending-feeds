@@ -10,6 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
+# Making Python loggers output all messages to stdout in addition to log file
 # https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log-file
 formatter = logging.Formatter('%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s')
 
@@ -23,13 +24,18 @@ appLogger.addHandler(handler)
 
 
 @click.command()
-@click.option('--language',   type=str,                                                               required=True,  help='')
-@click.option('--date_range', type=click.Choice(['daily', 'weekly', 'monthly'], case_sensitive=True), required=True,  help='')
-@click.option('--output',     type=str,                                                               required=False, help='')
-def main(language: str, date_range: str, output: str):
+@click.option('--language',   type=str,                                                               required=True,                    help="")
+@click.option('--date_range', type=click.Choice(['daily', 'weekly', 'monthly'], case_sensitive=True), required=True,                    help="")
+@click.option('--output',     type=str,                                                               required=False,                   help="")
+@click.option("--verbose",    is_flag=True,                                                           default=False, show_default=True, help="")
+def main(language: str, date_range: str, output: str, verbose: bool):
     appLogger.info(f"command-line argument: language = {language}")
     appLogger.info(f"command-line argument: date_range = {date_range}")
     appLogger.info(f"command-line argument: output = {output}")
+    appLogger.info(f"command-line argument: verbose = {verbose}")
+
+    if verbose:
+        appLogger.setLevel(logging.DEBUG)
 
     # url
     url = f"https://github.com/trending/{language}?since={date_range}"
@@ -127,7 +133,10 @@ def main(language: str, date_range: str, output: str):
 
         # get xml
         feed_xml = ET.tostring(feed, encoding="utf-8", xml_declaration=True).decode("utf-8")
-        print(feed_xml)
+    
+        # write to stdout
+        if verbose:
+            print(feed_xml)
 
         # write to file
         if output:
@@ -147,11 +156,15 @@ def main(language: str, date_range: str, output: str):
     except Exception as e:
         appLogger.error(e)
 
+        # PythonのException発生時のTracebackを綺麗に見る
+        # https://vaaaaaanquish.hatenablog.com/entry/2017/12/14/183225
         t, v, tb = sys.exc_info()
         appLogger.error(traceback.format_exception(t,v,tb))
         appLogger.error(traceback.format_tb(e.__traceback__))
 
-        appLogger.error(f"request failed by status code {res.status_code}")
+        if res:
+            appLogger.error(f"request failed by status code {res.status_code}")
+
         raise e
 
 
@@ -159,11 +172,14 @@ if __name__ == '__main__':
     appLogger.info("start app")
 
     try:
+        # python click usage of standalone_mode
         # https://stackoverflow.com/questions/34286165/python-click-usage-of-standalone-mode
         main(standalone_mode=False)
     except Exception as e:
         appLogger.error(e)
 
+        # PythonのException発生時のTracebackを綺麗に見る
+        # https://vaaaaaanquish.hatenablog.com/entry/2017/12/14/183225
         t, v, tb = sys.exc_info()
         appLogger.error(traceback.format_exception(t,v,tb))
         appLogger.error(traceback.format_tb(e.__traceback__))
