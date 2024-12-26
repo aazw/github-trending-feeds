@@ -4,155 +4,127 @@
   <title>GitHub Treanding - swift (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/" rel="alternate" />
-  <updated>2024-12-26T04:21:17+00:00</updated>
+  <updated>2024-12-26T11:29:56+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/gonzalezreal/swift-markdown-ui</id>
-    <title>https://github.com/gonzalezreal/swift-markdown-ui</title>
-    <link href="https://github.com/gonzalezreal/swift-markdown-ui" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Display and customize Markdown text in SwiftUI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/TheWidlarzGroup/react-native-video</id>
-    <title>https://github.com/TheWidlarzGroup/react-native-video</title>
-    <link href="https://github.com/TheWidlarzGroup/react-native-video" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">A &lt;Video /&gt; component for react-native</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hummingbird-project/hummingbird</id>
-    <title>https://github.com/hummingbird-project/hummingbird</title>
-    <link href="https://github.com/hummingbird-project/hummingbird" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Lightweight, flexible HTTP server framework written in Swift</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AugustDev/enchanted</id>
-    <title>https://github.com/AugustDev/enchanted</title>
-    <link href="https://github.com/AugustDev/enchanted" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/shadowsocks/ShadowsocksX-NG</id>
-    <title>https://github.com/shadowsocks/ShadowsocksX-NG</title>
-    <link href="https://github.com/shadowsocks/ShadowsocksX-NG" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Next Generation of ShadowsocksX</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apple/swift-algorithms</id>
-    <title>https://github.com/apple/swift-algorithms</title>
-    <link href="https://github.com/apple/swift-algorithms" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Commonly used sequence and collection algorithms for Swift</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SwiftyJSON/SwiftyJSON</id>
-    <title>https://github.com/SwiftyJSON/SwiftyJSON</title>
-    <link href="https://github.com/SwiftyJSON/SwiftyJSON" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">The better way to deal with JSON data in Swift.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mrousavy/react-native-vision-camera</id>
-    <title>https://github.com/mrousavy/react-native-vision-camera</title>
-    <link href="https://github.com/mrousavy/react-native-vision-camera" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">📸 A powerful, high-performance React Native Camera library.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/groue/GRDB.swift</id>
-    <title>https://github.com/groue/GRDB.swift</title>
-    <link href="https://github.com/groue/GRDB.swift" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">A toolkit for SQLite databases, with a focus on application development</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nalexn/clean-architecture-swiftui</id>
-    <title>https://github.com/nalexn/clean-architecture-swiftui</title>
-    <link href="https://github.com/nalexn/clean-architecture-swiftui" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/scinfu/SwiftSoup</id>
-    <title>https://github.com/scinfu/SwiftSoup</title>
-    <link href="https://github.com/scinfu/SwiftSoup" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/onevcat/Kingfisher</id>
-    <title>https://github.com/onevcat/Kingfisher</title>
-    <link href="https://github.com/onevcat/Kingfisher" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">A lightweight, pure-Swift library for downloading and caching images from the web.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pointfreeco/swift-navigation</id>
-    <title>https://github.com/pointfreeco/swift-navigation</title>
-    <link href="https://github.com/pointfreeco/swift-navigation" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Bringing simple and powerful navigation tools to all Swift platforms, inspired by SwiftUI.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rechsteiner/Parchment</id>
-    <title>https://github.com/rechsteiner/Parchment</title>
-    <link href="https://github.com/rechsteiner/Parchment" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">A paging view with a highly customizable menu ✨</content>
-  </entry>
-  <entry>
-    <id>https://github.com/utmapp/UTM</id>
-    <title>https://github.com/utmapp/UTM</title>
-    <link href="https://github.com/utmapp/UTM" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Virtual machines for iOS and macOS</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ReactiveX/RxSwift</id>
-    <title>https://github.com/ReactiveX/RxSwift</title>
-    <link href="https://github.com/ReactiveX/RxSwift" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Reactive Programming in Swift</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tuist/tuist</id>
-    <title>https://github.com/tuist/tuist</title>
-    <link href="https://github.com/tuist/tuist" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Tuist's CLI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Alamofire/Alamofire</id>
-    <title>https://github.com/Alamofire/Alamofire</title>
-    <link href="https://github.com/Alamofire/Alamofire" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Elegant HTTP Networking in Swift</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ChartsOrg/Charts</id>
-    <title>https://github.com/ChartsOrg/Charts</title>
-    <link href="https://github.com/ChartsOrg/Charts" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/airbnb/lottie-ios</id>
+    <id>https://github.com/airbnb/lottie-ios#1735212596</id>
     <title>https://github.com/airbnb/lottie-ios</title>
     <link href="https://github.com/airbnb/lottie-ios" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
+    <updated>2024-12-26T11:29:56+00:00</updated>
     <content type="text">An iOS library to natively render After Effects vector animations</content>
   </entry>
   <entry>
-    <id>https://github.com/lwouis/alt-tab-macos</id>
-    <title>https://github.com/lwouis/alt-tab-macos</title>
-    <link href="https://github.com/lwouis/alt-tab-macos" />
-    <updated>2024-12-26T04:21:17+00:00</updated>
-    <content type="text">Windows alt-tab on macOS</content>
+    <id>https://github.com/ReactiveX/RxSwift#1735212596</id>
+    <title>https://github.com/ReactiveX/RxSwift</title>
+    <link href="https://github.com/ReactiveX/RxSwift" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Reactive Programming in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Moya/Moya#1735212596</id>
+    <title>https://github.com/Moya/Moya</title>
+    <link href="https://github.com/Moya/Moya" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Network abstraction layer written in Swift.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jacklandrin/OnlySwitch#1735212596</id>
+    <title>https://github.com/jacklandrin/OnlySwitch</title>
+    <link href="https://github.com/jacklandrin/OnlySwitch" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/whoeevee/EeveeSpotify#1735212596</id>
+    <title>https://github.com/whoeevee/EeveeSpotify</title>
+    <link href="https://github.com/whoeevee/EeveeSpotify" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">A tweak to get Spotify Premium for free, just like Spotilife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MrKai77/Loop#1735212596</id>
+    <title>https://github.com/MrKai77/Loop</title>
+    <link href="https://github.com/MrKai77/Loop" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Window management made elegant.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/p0deje/Maccy#1735212596</id>
+    <title>https://github.com/p0deje/Maccy</title>
+    <link href="https://github.com/p0deje/Maccy" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Lightweight clipboard manager for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dwarvesf/hidden#1735212596</id>
+    <title>https://github.com/dwarvesf/hidden</title>
+    <link href="https://github.com/dwarvesf/hidden" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">An ultra-light MacOS utility that helps hide menu bar icons</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XITRIX/iTorrent#1735212596</id>
+    <title>https://github.com/XITRIX/iTorrent</title>
+    <link href="https://github.com/XITRIX/iTorrent" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Torrent client for iOS 16+</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alamofire/Alamofire#1735212596</id>
+    <title>https://github.com/Alamofire/Alamofire</title>
+    <link href="https://github.com/Alamofire/Alamofire" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Elegant HTTP Networking in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yonaskolb/XcodeGen#1735212596</id>
+    <title>https://github.com/yonaskolb/XcodeGen</title>
+    <link href="https://github.com/yonaskolb/XcodeGen" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">A Swift command line tool for generating your Xcode project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/siteline/swiftui-introspect#1735212596</id>
+    <title>https://github.com/siteline/swiftui-introspect</title>
+    <link href="https://github.com/siteline/swiftui-introspect" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Introspect underlying UIKit/AppKit components from SwiftUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SnapKit/SnapKit#1735212596</id>
+    <title>https://github.com/SnapKit/SnapKit</title>
+    <link href="https://github.com/SnapKit/SnapKit" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">A Swift Autolayout DSL for iOS &amp; OS X</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AudioKit/AudioKit#1735212596</id>
+    <title>https://github.com/AudioKit/AudioKit</title>
+    <link href="https://github.com/AudioKit/AudioKit" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Audio synthesis, processing, &amp; analysis platform for iOS, macOS and tvOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChartsOrg/Charts#1735212596</id>
+    <title>https://github.com/ChartsOrg/Charts</title>
+    <link href="https://github.com/ChartsOrg/Charts" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mangerlahn/Latest#1735212596</id>
+    <title>https://github.com/mangerlahn/Latest</title>
+    <link href="https://github.com/mangerlahn/Latest" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vincentneo/LosslessSwitcher#1735212596</id>
+    <title>https://github.com/vincentneo/LosslessSwitcher</title>
+    <link href="https://github.com/vincentneo/LosslessSwitcher" />
+    <updated>2024-12-26T11:29:56+00:00</updated>
+    <content type="text">Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.</content>
   </entry>
 </feed>

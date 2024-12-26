@@ -4,113 +4,92 @@
   <title>GitHub Treanding - starlark (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/" rel="alternate" />
-  <updated>2024-12-26T04:20:53+00:00</updated>
+  <updated>2024-12-26T11:29:27+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/aspect-build/rules_ts</id>
-    <title>https://github.com/aspect-build/rules_ts</title>
-    <link href="https://github.com/aspect-build/rules_ts" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Bazel rules for the `tsc` compiler from http://typescriptlang.org</content>
-  </entry>
-  <entry>
-    <id>https://github.com/googleapis/api-common-protos</id>
-    <title>https://github.com/googleapis/api-common-protos</title>
-    <link href="https://github.com/googleapis/api-common-protos" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazelbuild/rules_scala</id>
-    <title>https://github.com/bazelbuild/rules_scala</title>
-    <link href="https://github.com/bazelbuild/rules_scala" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Scala rules for Bazel</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazelbuild/rules_proto</id>
-    <title>https://github.com/bazelbuild/rules_proto</title>
-    <link href="https://github.com/bazelbuild/rules_proto" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Protocol buffer rules for Bazel</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazelbuild/bazel-skylib</id>
-    <title>https://github.com/bazelbuild/bazel-skylib</title>
-    <link href="https://github.com/bazelbuild/bazel-skylib" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Common useful functions and rules for Bazel</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazel-contrib/rules_oci</id>
-    <title>https://github.com/bazel-contrib/rules_oci</title>
-    <link href="https://github.com/bazel-contrib/rules_oci" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Bazel rules for building OCI containers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ethpandaops/ethereum-package</id>
-    <title>https://github.com/ethpandaops/ethereum-package</title>
-    <link href="https://github.com/ethpandaops/ethereum-package" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">A Kurtosis package that deploys a private, portable, and modular Ethereum devnet</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazelbuild/examples</id>
-    <title>https://github.com/bazelbuild/examples</title>
-    <link href="https://github.com/bazelbuild/examples" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Examples for Bazel</content>
-  </entry>
-  <entry>
-    <id>https://github.com/google/cel-spec</id>
-    <title>https://github.com/google/cel-spec</title>
-    <link href="https://github.com/google/cel-spec" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Common Expression Language -- specification and binary representation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/GoogleContainerTools/distroless</id>
-    <title>https://github.com/GoogleContainerTools/distroless</title>
-    <link href="https://github.com/GoogleContainerTools/distroless" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rules-proto-grpc/rules_proto_grpc</id>
-    <title>https://github.com/rules-proto-grpc/rules_proto_grpc</title>
-    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazelbuild/rules_rust</id>
-    <title>https://github.com/bazelbuild/rules_rust</title>
-    <link href="https://github.com/bazelbuild/rules_rust" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">Rust rules for Bazel</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cncf/xds</id>
-    <title>https://github.com/cncf/xds</title>
-    <link href="https://github.com/cncf/xds" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
-    <content type="text">xDS API Working Group</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aspect-build/rules_js</id>
+    <id>https://github.com/aspect-build/rules_js#1735212567</id>
     <title>https://github.com/aspect-build/rules_js</title>
     <link href="https://github.com/aspect-build/rules_js" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
+    <updated>2024-12-26T11:29:27+00:00</updated>
     <content type="text">High-performance Bazel rules for running Node.js tools and building JavaScript projects</content>
   </entry>
   <entry>
-    <id>https://github.com/googleapis/googleapis</id>
+    <id>https://github.com/google/cel-spec#1735212567</id>
+    <title>https://github.com/google/cel-spec</title>
+    <link href="https://github.com/google/cel-spec" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">Common Expression Language -- specification and binary representation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/api-common-protos#1735212567</id>
+    <title>https://github.com/googleapis/api-common-protos</title>
+    <link href="https://github.com/googleapis/api-common-protos" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_proto#1735212567</id>
+    <title>https://github.com/bazelbuild/rules_proto</title>
+    <link href="https://github.com/bazelbuild/rules_proto" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">Protocol buffer rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-proto#1735212567</id>
+    <title>https://github.com/grpc/grpc-proto</title>
+    <link href="https://github.com/grpc/grpc-proto" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/xds#1735212567</id>
+    <title>https://github.com/cncf/xds</title>
+    <link href="https://github.com/cncf/xds" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">xDS API Working Group</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-skylib#1735212567</id>
+    <title>https://github.com/bazelbuild/bazel-skylib</title>
+    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">Common useful functions and rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rules-proto-grpc/rules_proto_grpc#1735212567</id>
+    <title>https://github.com/rules-proto-grpc/rules_proto_grpc</title>
+    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_rust#1735212567</id>
+    <title>https://github.com/bazelbuild/rules_rust</title>
+    <link href="https://github.com/bazelbuild/rules_rust" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">Rust rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/googleapis#1735212567</id>
     <title>https://github.com/googleapis/googleapis</title>
     <link href="https://github.com/googleapis/googleapis" />
-    <updated>2024-12-26T04:20:53+00:00</updated>
+    <updated>2024-12-26T11:29:27+00:00</updated>
     <content type="text">Public interface definitions of Google APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xPolygon/kurtosis-cdk#1735212567</id>
+    <title>https://github.com/0xPolygon/kurtosis-cdk</title>
+    <link href="https://github.com/0xPolygon/kurtosis-cdk" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">A Kurtosis package that deploys a private, portable, and modular Polygon CDK devnet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1735212567</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2024-12-26T11:29:27+00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
   </entry>
 </feed>

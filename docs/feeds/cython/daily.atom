@@ -4,29 +4,29 @@
   <title>GitHub Treanding - cython (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/cython/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/cython/" rel="alternate" />
-  <updated>2024-12-26T04:06:20+00:00</updated>
+  <updated>2024-12-26T11:10:53+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/openai/mujoco-py</id>
-    <title>https://github.com/openai/mujoco-py</title>
-    <link href="https://github.com/openai/mujoco-py" />
-    <updated>2024-12-26T04:06:20+00:00</updated>
-    <content type="text">MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/MagicStack/uvloop</id>
+    <id>https://github.com/MagicStack/uvloop#1735211453</id>
     <title>https://github.com/MagicStack/uvloop</title>
     <link href="https://github.com/MagicStack/uvloop" />
-    <updated>2024-12-26T04:06:20+00:00</updated>
+    <updated>2024-12-26T11:10:53+00:00</updated>
     <content type="text">Ultra fast asyncio event loop.</content>
   </entry>
   <entry>
-    <id>https://github.com/TA-Lib/ta-lib-python</id>
+    <id>https://github.com/openai/mujoco-py#1735211453</id>
+    <title>https://github.com/openai/mujoco-py</title>
+    <link href="https://github.com/openai/mujoco-py" />
+    <updated>2024-12-26T11:10:53+00:00</updated>
+    <content type="text">MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TA-Lib/ta-lib-python#1735211453</id>
     <title>https://github.com/TA-Lib/ta-lib-python</title>
     <link href="https://github.com/TA-Lib/ta-lib-python" />
-    <updated>2024-12-26T04:06:20+00:00</updated>
+    <updated>2024-12-26T11:10:53+00:00</updated>
     <content type="text">Python wrapper for TA-Lib (http://ta-lib.org/).</content>
   </entry>
 </feed>

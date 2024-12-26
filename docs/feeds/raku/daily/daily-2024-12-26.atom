@@ -4,15 +4,15 @@
   <title>GitHub Treanding - raku (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/raku/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/raku/" rel="alternate" />
-  <updated>2024-12-26T04:18:25+00:00</updated>
+  <updated>2024-12-26T11:26:09+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Kong/lua-kong-nginx-module</id>
+    <id>https://github.com/Kong/lua-kong-nginx-module#1735212369</id>
     <title>https://github.com/Kong/lua-kong-nginx-module</title>
     <link href="https://github.com/Kong/lua-kong-nginx-module" />
-    <updated>2024-12-26T04:18:25+00:00</updated>
+    <updated>2024-12-26T11:26:09+00:00</updated>
     <content type="text">Nginx C module to allow deeper control of Nginx behaviors by Kong Lua code</content>
   </entry>
 </feed>

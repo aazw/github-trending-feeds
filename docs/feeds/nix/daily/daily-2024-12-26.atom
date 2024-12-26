@@ -4,113 +4,141 @@
   <title>GitHub Treanding - nix (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/" rel="alternate" />
-  <updated>2024-12-26T04:15:08+00:00</updated>
+  <updated>2024-12-26T11:21:56+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dustinlyons/nixos-config</id>
+    <id>https://github.com/nix-community/nix-on-droid#1735212116</id>
+    <title>https://github.com/nix-community/nix-on-droid</title>
+    <link href="https://github.com/nix-community/nix-on-droid" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dustinlyons/nixos-config#1735212116</id>
     <title>https://github.com/dustinlyons/nixos-config</title>
     <link href="https://github.com/dustinlyons/nixos-config" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
+    <updated>2024-12-26T11:21:56+00:00</updated>
     <content type="text">General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨</content>
   </entry>
   <entry>
-    <id>https://github.com/LnL7/nix-darwin</id>
+    <id>https://github.com/nix-community/nur-packages-template#1735212116</id>
+    <title>https://github.com/nix-community/nur-packages-template</title>
+    <link href="https://github.com/nix-community/nur-packages-template" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">A template for NUR repositories: [maintainer=@fgaz]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/raspberry-pi-nix#1735212116</id>
+    <title>https://github.com/nix-community/raspberry-pi-nix</title>
+    <link href="https://github.com/nix-community/raspberry-pi-nix" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">NixOS modules to aid in configuring NixOS for raspberry pi products</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LnL7/nix-darwin#1735212116</id>
     <title>https://github.com/LnL7/nix-darwin</title>
     <link href="https://github.com/LnL7/nix-darwin" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
+    <updated>2024-12-26T11:21:56+00:00</updated>
     <content type="text">nix modules for darwin</content>
   </entry>
   <entry>
-    <id>https://github.com/danth/stylix</id>
-    <title>https://github.com/danth/stylix</title>
-    <link href="https://github.com/danth/stylix" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">System-wide colorscheming and typography for NixOS</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tweag/jupyenv</id>
+    <id>https://github.com/tweag/jupyenv#1735212116</id>
     <title>https://github.com/tweag/jupyenv</title>
     <link href="https://github.com/tweag/jupyenv" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
+    <updated>2024-12-26T11:21:56+00:00</updated>
     <content type="text">Declarative and reproducible Jupyter environments - powered by Nix</content>
   </entry>
   <entry>
-    <id>https://github.com/nix-community/home-manager</id>
-    <title>https://github.com/nix-community/home-manager</title>
-    <link href="https://github.com/nix-community/home-manager" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+    <id>https://github.com/cardano-foundation/cardano-token-registry#1735212116</id>
+    <title>https://github.com/cardano-foundation/cardano-token-registry</title>
+    <link href="https://github.com/cardano-foundation/cardano-token-registry" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/mitchellh/nixos-config</id>
-    <title>https://github.com/mitchellh/nixos-config</title>
-    <link href="https://github.com/mitchellh/nixos-config" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">My NixOS configurations.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nix-community/nixvim</id>
-    <title>https://github.com/nix-community/nixvim</title>
-    <link href="https://github.com/nix-community/nixvim" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Jovian-Experiments/Jovian-NixOS</id>
-    <title>https://github.com/Jovian-Experiments/Jovian-NixOS</title>
-    <link href="https://github.com/Jovian-Experiments/Jovian-NixOS" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org</content>
-  </entry>
-  <entry>
-    <id>https://github.com/astro/microvm.nix</id>
-    <title>https://github.com/astro/microvm.nix</title>
-    <link href="https://github.com/astro/microvm.nix" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">NixOS MicroVMs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cachix/devenv</id>
-    <title>https://github.com/cachix/devenv</title>
-    <link href="https://github.com/cachix/devenv" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NixOS/nixos-hardware</id>
-    <title>https://github.com/NixOS/nixos-hardware</title>
-    <link href="https://github.com/NixOS/nixos-hardware" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Misterio77/nix-starter-configs</id>
+    <id>https://github.com/Misterio77/nix-starter-configs#1735212116</id>
     <title>https://github.com/Misterio77/nix-starter-configs</title>
     <link href="https://github.com/Misterio77/nix-starter-configs" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
+    <updated>2024-12-26T11:21:56+00:00</updated>
     <content type="text">Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</content>
   </entry>
   <entry>
-    <id>https://github.com/NixOS/nix.dev</id>
-    <title>https://github.com/NixOS/nix.dev</title>
-    <link href="https://github.com/NixOS/nix.dev" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
-    <content type="text">Official documentation for getting things done with Nix.</content>
+    <id>https://github.com/cachix/devenv#1735212116</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments</content>
   </entry>
   <entry>
-    <id>https://github.com/nix-community/disko</id>
+    <id>https://github.com/Jovian-Experiments/Jovian-NixOS#1735212116</id>
+    <title>https://github.com/Jovian-Experiments/Jovian-NixOS</title>
+    <link href="https://github.com/Jovian-Experiments/Jovian-NixOS" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryan4yin/nixos-and-flakes-book#1735212116</id>
+    <title>https://github.com/ryan4yin/nixos-and-flakes-book</title>
+    <link href="https://github.com/ryan4yin/nixos-and-flakes-book" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">🛠️ ❤️ Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mic92/sops-nix#1735212116</id>
+    <title>https://github.com/Mic92/sops-nix</title>
+    <link href="https://github.com/Mic92/sops-nix" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">Atomic secret provisioning for NixOS based on sops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/nixos-config#1735212116</id>
+    <title>https://github.com/mitchellh/nixos-config</title>
+    <link href="https://github.com/mitchellh/nixos-config" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">My NixOS configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixOS-WSL#1735212116</id>
+    <title>https://github.com/nix-community/NixOS-WSL</title>
+    <link href="https://github.com/nix-community/NixOS-WSL" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">NixOS on WSL(2) [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1735212116</id>
     <title>https://github.com/nix-community/disko</title>
     <link href="https://github.com/nix-community/disko" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
+    <updated>2024-12-26T11:21:56+00:00</updated>
     <content type="text">Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]</content>
   </entry>
   <entry>
-    <id>https://github.com/NixOS/nixpkgs</id>
+    <id>https://github.com/nix-community/home-manager#1735212116</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixos-hardware#1735212116</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1735212116</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2024-12-26T11:21:56+00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1735212116</id>
     <title>https://github.com/NixOS/nixpkgs</title>
     <link href="https://github.com/NixOS/nixpkgs" />
-    <updated>2024-12-26T04:15:08+00:00</updated>
+    <updated>2024-12-26T11:21:56+00:00</updated>
     <content type="text">Nix Packages collection &amp; NixOS</content>
   </entry>
 </feed>

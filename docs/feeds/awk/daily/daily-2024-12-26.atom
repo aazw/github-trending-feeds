@@ -4,8 +4,15 @@
   <title>GitHub Treanding - awk (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/awk/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/awk/" rel="alternate" />
-  <updated>2024-12-26T04:03:35+00:00</updated>
+  <updated>2024-12-26T11:07:37+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/soimort/translate-shell#1735211257</id>
+    <title>https://github.com/soimort/translate-shell</title>
+    <link href="https://github.com/soimort/translate-shell" />
+    <updated>2024-12-26T11:07:37+00:00</updated>
+    <content type="text">💬 Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.</content>
+  </entry>
 </feed>

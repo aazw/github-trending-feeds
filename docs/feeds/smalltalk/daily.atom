@@ -4,29 +4,22 @@
   <title>GitHub Treanding - smalltalk (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/" rel="alternate" />
-  <updated>2024-12-26T04:20:18+00:00</updated>
+  <updated>2024-12-26T11:28:39+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/feenkcom/gtoolkit</id>
-    <title>https://github.com/feenkcom/gtoolkit</title>
-    <link href="https://github.com/feenkcom/gtoolkit" />
-    <updated>2024-12-26T04:20:18+00:00</updated>
-    <content type="text">Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.</content>
+    <id>https://github.com/pharo-graphics/Bloc#1735212519</id>
+    <title>https://github.com/pharo-graphics/Bloc</title>
+    <link href="https://github.com/pharo-graphics/Bloc" />
+    <updated>2024-12-26T11:28:39+00:00</updated>
+    <content type="text">Low-level UI infrastructure &amp; framework for Pharo</content>
   </entry>
   <entry>
-    <id>https://github.com/SeasideSt/Seaside</id>
+    <id>https://github.com/SeasideSt/Seaside#1735212519</id>
     <title>https://github.com/SeasideSt/Seaside</title>
     <link href="https://github.com/SeasideSt/Seaside" />
-    <updated>2024-12-26T04:20:18+00:00</updated>
+    <updated>2024-12-26T11:28:39+00:00</updated>
     <content type="text">The framework for developing sophisticated web applications in Smalltalk.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pharo-contributions/OSSubprocess</id>
-    <title>https://github.com/pharo-contributions/OSSubprocess</title>
-    <link href="https://github.com/pharo-contributions/OSSubprocess" />
-    <updated>2024-12-26T04:20:18+00:00</updated>
-    <content type="text">Forking Operating System Processes from within Pharo Language</content>
   </entry>
 </feed>

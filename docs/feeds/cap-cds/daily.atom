@@ -4,8 +4,15 @@
   <title>GitHub Treanding - cap-cds (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/cap-cds/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/cap-cds/" rel="alternate" />
-  <updated>2024-12-26T04:04:49+00:00</updated>
+  <updated>2024-12-26T11:08:57+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/SAP-samples/cap-sflight#1735211337</id>
+    <title>https://github.com/SAP-samples/cap-sflight</title>
+    <link href="https://github.com/SAP-samples/cap-sflight" />
+    <updated>2024-12-26T11:08:57+00:00</updated>
+    <content type="text">Using SAP Cloud Application Programming Model and SAP Fiori elements to build a simple travel management app, both with Node.js and Java.</content>
+  </entry>
 </feed>

@@ -4,120 +4,113 @@
   <title>GitHub Treanding - scss (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/scss/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/scss/" rel="alternate" />
-  <updated>2024-12-26T04:19:49+00:00</updated>
+  <updated>2024-12-26T11:27:58+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/just-the-docs/just-the-docs</id>
-    <title>https://github.com/just-the-docs/just-the-docs</title>
-    <link href="https://github.com/just-the-docs/just-the-docs" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</content>
+    <id>https://github.com/mldangelo/personal-site#1735212478</id>
+    <title>https://github.com/mldangelo/personal-site</title>
+    <link href="https://github.com/mldangelo/personal-site" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.</content>
   </entry>
   <entry>
-    <id>https://github.com/Dorota1997/react-frontend-dev-portfolio</id>
-    <title>https://github.com/Dorota1997/react-frontend-dev-portfolio</title>
-    <link href="https://github.com/Dorota1997/react-frontend-dev-portfolio" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">Easy to adapt and deploy React portfolio inspired with solutions found at GitHub.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/IanLunn/Hover</id>
-    <title>https://github.com/IanLunn/Hover</title>
-    <link href="https://github.com/IanLunn/Hover" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/duckduckgo/duckduckgo-help-pages</id>
-    <title>https://github.com/duckduckgo/duckduckgo-help-pages</title>
-    <link href="https://github.com/duckduckgo/duckduckgo-help-pages" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">DuckDuckGo Help Pages</content>
-  </entry>
-  <entry>
-    <id>https://github.com/keyvanakbary/learning-notes</id>
-    <title>https://github.com/keyvanakbary/learning-notes</title>
-    <link href="https://github.com/keyvanakbary/learning-notes" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">Notes on books I read, talks I watch, articles I study, and papers I love</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vinceliuice/Colloid-gtk-theme</id>
-    <title>https://github.com/vinceliuice/Colloid-gtk-theme</title>
-    <link href="https://github.com/vinceliuice/Colloid-gtk-theme" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">Colloid gtk theme for linux</content>
-  </entry>
-  <entry>
-    <id>https://github.com/selectize/selectize.js</id>
-    <title>https://github.com/selectize/selectize.js</title>
-    <link href="https://github.com/selectize/selectize.js" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jamigibbs/phantom</id>
-    <title>https://github.com/jamigibbs/phantom</title>
-    <link href="https://github.com/jamigibbs/phantom" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">A minimalist, responsive portfolio theme for Jekyll with Bootstrap</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jessepollak/card</id>
-    <title>https://github.com/jessepollak/card</title>
-    <link href="https://github.com/jessepollak/card" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">💳 make your credit card form better in one line of code</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jekyll/minima</id>
+    <id>https://github.com/jekyll/minima#1735212478</id>
     <title>https://github.com/jekyll/minima</title>
     <link href="https://github.com/jekyll/minima" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
+    <updated>2024-12-26T11:27:58+00:00</updated>
     <content type="text">Minima is a one-size-fits-all Jekyll theme for writers.</content>
   </entry>
   <entry>
-    <id>https://github.com/maildev/maildev</id>
-    <title>https://github.com/maildev/maildev</title>
-    <link href="https://github.com/maildev/maildev" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">📫 SMTP Server + Web Interface for viewing and testing emails during development.</content>
+    <id>https://github.com/keyvanakbary/learning-notes#1735212478</id>
+    <title>https://github.com/keyvanakbary/learning-notes</title>
+    <link href="https://github.com/keyvanakbary/learning-notes" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">Notes on books I read, talks I watch, articles I study, and papers I love</content>
   </entry>
   <entry>
-    <id>https://github.com/thingsym/hugo-theme-techdoc</id>
+    <id>https://github.com/duckduckgo/duckduckgo-help-pages#1735212478</id>
+    <title>https://github.com/duckduckgo/duckduckgo-help-pages</title>
+    <link href="https://github.com/duckduckgo/duckduckgo-help-pages" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">DuckDuckGo Help Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pages-themes/minimal#1735212478</id>
+    <title>https://github.com/pages-themes/minimal</title>
+    <link href="https://github.com/pages-themes/minimal" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">Minimal is a Jekyll theme for GitHub Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/monkeyWzr/hugo-theme-cactus#1735212478</id>
+    <title>https://github.com/monkeyWzr/hugo-theme-cactus</title>
+    <link href="https://github.com/monkeyWzr/hugo-theme-cactus" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">Cactus theme for hugo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Keldos-Li/typora-latex-theme#1735212478</id>
+    <title>https://github.com/Keldos-Li/typora-latex-theme</title>
+    <link href="https://github.com/Keldos-Li/typora-latex-theme" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ileriayo/markdown-badges#1735212478</id>
+    <title>https://github.com/Ileriayo/markdown-badges</title>
+    <link href="https://github.com/Ileriayo/markdown-badges" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">Badges for your personal developer branding, profile, and projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vpnfast/vpnfast.github.io#1735212478</id>
+    <title>https://github.com/vpnfast/vpnfast.github.io</title>
+    <link href="https://github.com/vpnfast/vpnfast.github.io" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">2024翻墙科学上网指南，最新最好用的翻墙VPN推荐排行，持续关注SSR、V2ray代理、VPN、梯子等翻墙工具，中国访问ChatGPT使用AI方法。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thingsym/hugo-theme-techdoc#1735212478</id>
     <title>https://github.com/thingsym/hugo-theme-techdoc</title>
     <link href="https://github.com/thingsym/hugo-theme-techdoc" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
+    <updated>2024-12-26T11:27:58+00:00</updated>
     <content type="text">The Techdoc is a Hugo Theme for technical documentation.</content>
   </entry>
   <entry>
-    <id>https://github.com/mpa139/allanlab</id>
-    <title>https://github.com/mpa139/allanlab</title>
-    <link href="https://github.com/mpa139/allanlab" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">Allan Lab website</content>
+    <id>https://github.com/just-the-docs/just-the-docs#1735212478</id>
+    <title>https://github.com/just-the-docs/just-the-docs</title>
+    <link href="https://github.com/just-the-docs/just-the-docs" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</content>
   </entry>
   <entry>
-    <id>https://github.com/creativetimofficial/vue-now-ui-kit</id>
-    <title>https://github.com/creativetimofficial/vue-now-ui-kit</title>
-    <link href="https://github.com/creativetimofficial/vue-now-ui-kit" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">Vue Now UI Kit</content>
+    <id>https://github.com/amitmerchant1990/reverie#1735212478</id>
+    <title>https://github.com/amitmerchant1990/reverie</title>
+    <link href="https://github.com/amitmerchant1990/reverie" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">🎨 A ridiculously elegant Jekyll theme.</content>
   </entry>
   <entry>
-    <id>https://github.com/cobiwave/simplefolio</id>
+    <id>https://github.com/LeelaChessZero/lczero.org#1735212478</id>
+    <title>https://github.com/LeelaChessZero/lczero.org</title>
+    <link href="https://github.com/LeelaChessZero/lczero.org" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">A website (will be lczero.org)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cobiwave/simplefolio#1735212478</id>
     <title>https://github.com/cobiwave/simplefolio</title>
     <link href="https://github.com/cobiwave/simplefolio" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
+    <updated>2024-12-26T11:27:58+00:00</updated>
     <content type="text">⚡️ A minimal portfolio template for Developers</content>
   </entry>
   <entry>
-    <id>https://github.com/Ileriayo/markdown-badges</id>
-    <title>https://github.com/Ileriayo/markdown-badges</title>
-    <link href="https://github.com/Ileriayo/markdown-badges" />
-    <updated>2024-12-26T04:19:49+00:00</updated>
-    <content type="text">Badges for your personal developer branding, profile, and projects.</content>
+    <id>https://github.com/vinceliuice/WhiteSur-gtk-theme#1735212478</id>
+    <title>https://github.com/vinceliuice/WhiteSur-gtk-theme</title>
+    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" />
+    <updated>2024-12-26T11:27:58+00:00</updated>
+    <content type="text">MacOS like theme for all gtk based desktops</content>
   </entry>
 </feed>

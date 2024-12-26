@@ -4,15 +4,8 @@
   <title>GitHub Treanding - mojo (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/mojo/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/mojo/" rel="alternate" />
-  <updated>2024-12-26T04:14:11+00:00</updated>
+  <updated>2024-12-26T11:20:45+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/modularml/mojo</id>
-    <title>https://github.com/modularml/mojo</title>
-    <link href="https://github.com/modularml/mojo" />
-    <updated>2024-12-26T04:14:11+00:00</updated>
-    <content type="text">The Mojo Programming Language</content>
-  </entry>
 </feed>

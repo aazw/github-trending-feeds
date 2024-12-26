@@ -4,29 +4,29 @@
   <title>GitHub Treanding - lean (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/" rel="alternate" />
-  <updated>2024-12-26T04:12:19+00:00</updated>
+  <updated>2024-12-26T11:18:22+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/cedar-policy/cedar-spec</id>
-    <title>https://github.com/cedar-policy/cedar-spec</title>
-    <link href="https://github.com/cedar-policy/cedar-spec" />
-    <updated>2024-12-26T04:12:19+00:00</updated>
-    <content type="text">Definitional implementation of Cedar language and utilities for DRT</content>
+    <id>https://github.com/ImperialCollegeLondon/FLT#1735211902</id>
+    <title>https://github.com/ImperialCollegeLondon/FLT</title>
+    <link href="https://github.com/ImperialCollegeLondon/FLT" />
+    <updated>2024-12-26T11:18:22+00:00</updated>
+    <content type="text">Ongoing Lean formalisation of the proof of Fermat's Last Theorem</content>
   </entry>
   <entry>
-    <id>https://github.com/leanprover-community/mathlib4</id>
-    <title>https://github.com/leanprover-community/mathlib4</title>
-    <link href="https://github.com/leanprover-community/mathlib4" />
-    <updated>2024-12-26T04:12:19+00:00</updated>
-    <content type="text">The math library of Lean 4</content>
-  </entry>
-  <entry>
-    <id>https://github.com/leanprover/lean4</id>
+    <id>https://github.com/leanprover/lean4#1735211902</id>
     <title>https://github.com/leanprover/lean4</title>
     <link href="https://github.com/leanprover/lean4" />
-    <updated>2024-12-26T04:12:19+00:00</updated>
+    <updated>2024-12-26T11:18:22+00:00</updated>
     <content type="text">Lean 4 programming language and theorem prover</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/mathlib4#1735211902</id>
+    <title>https://github.com/leanprover-community/mathlib4</title>
+    <link href="https://github.com/leanprover-community/mathlib4" />
+    <updated>2024-12-26T11:18:22+00:00</updated>
+    <content type="text">The math library of Lean 4</content>
   </entry>
 </feed>

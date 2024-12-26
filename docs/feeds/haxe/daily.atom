@@ -4,15 +4,43 @@
   <title>GitHub Treanding - haxe (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/haxe/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/haxe/" rel="alternate" />
-  <updated>2024-12-26T04:09:56+00:00</updated>
+  <updated>2024-12-26T11:15:30+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/ShadowMario/FNF-PsychEngine</id>
+    <id>https://github.com/haxetink/tink_http#1735211730</id>
+    <title>https://github.com/haxetink/tink_http</title>
+    <link href="https://github.com/haxetink/tink_http" />
+    <updated>2024-12-26T11:15:30+00:00</updated>
+    <content type="text">Cross platform HTTP abstraction</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CodenameCrew/CodenameEngine#1735211730</id>
+    <title>https://github.com/CodenameCrew/CodenameEngine</title>
+    <link href="https://github.com/CodenameCrew/CodenameEngine" />
+    <updated>2024-12-26T11:15:30+00:00</updated>
+    <content type="text">awesome fnf engine :D</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HaxeFoundation/haxe#1735211730</id>
+    <title>https://github.com/HaxeFoundation/haxe</title>
+    <link href="https://github.com/HaxeFoundation/haxe" />
+    <updated>2024-12-26T11:15:30+00:00</updated>
+    <content type="text">Haxe - The Cross-Platform Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FunkinCrew/Funkin#1735211730</id>
+    <title>https://github.com/FunkinCrew/Funkin</title>
+    <link href="https://github.com/FunkinCrew/Funkin" />
+    <updated>2024-12-26T11:15:30+00:00</updated>
+    <content type="text">A rhythm game made with HaxeFlixel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ShadowMario/FNF-PsychEngine#1735211730</id>
     <title>https://github.com/ShadowMario/FNF-PsychEngine</title>
     <link href="https://github.com/ShadowMario/FNF-PsychEngine" />
-    <updated>2024-12-26T04:09:56+00:00</updated>
+    <updated>2024-12-26T11:15:30+00:00</updated>
     <content type="text">Engine originally used on Mind Games mod</content>
   </entry>
 </feed>

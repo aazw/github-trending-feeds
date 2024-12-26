@@ -4,120 +4,148 @@
   <title>GitHub Treanding - ruby (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/" rel="alternate" />
-  <updated>2024-12-26T04:19:29+00:00</updated>
+  <updated>2024-12-26T11:27:26+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/AppsFlyerSDK/AppsFlyerFramework</id>
-    <title>https://github.com/AppsFlyerSDK/AppsFlyerFramework</title>
-    <link href="https://github.com/AppsFlyerSDK/AppsFlyerFramework" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">AppsFlyer Apple SDK</content>
+    <id>https://github.com/rubysec/bundler-audit#1735212446</id>
+    <title>https://github.com/rubysec/bundler-audit</title>
+    <link href="https://github.com/rubysec/bundler-audit" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">Patch-level verification for Bundler</content>
   </entry>
   <entry>
-    <id>https://github.com/kilimchoi/engineering-blogs</id>
-    <title>https://github.com/kilimchoi/engineering-blogs</title>
-    <link href="https://github.com/kilimchoi/engineering-blogs" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">A curated list of engineering blogs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/doorkeeper-gem/doorkeeper</id>
-    <title>https://github.com/doorkeeper-gem/doorkeeper</title>
-    <link href="https://github.com/doorkeeper-gem/doorkeeper" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tradingview/charting-library-examples</id>
-    <title>https://github.com/tradingview/charting-library-examples</title>
-    <link href="https://github.com/tradingview/charting-library-examples" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Examples of Charting Library integrations with other libraries, frameworks and data transports</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rubysec/ruby-advisory-db</id>
+    <id>https://github.com/rubysec/ruby-advisory-db#1735212446</id>
     <title>https://github.com/rubysec/ruby-advisory-db</title>
     <link href="https://github.com/rubysec/ruby-advisory-db" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
+    <updated>2024-12-26T11:27:26+00:00</updated>
     <content type="text">A database of vulnerable Ruby Gems</content>
   </entry>
   <entry>
-    <id>https://github.com/ruby/rbs</id>
-    <title>https://github.com/ruby/rbs</title>
-    <link href="https://github.com/ruby/rbs" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Type Signature for Ruby</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ruby/ruby</id>
-    <title>https://github.com/ruby/ruby</title>
-    <link href="https://github.com/ruby/ruby" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">The Ruby Programming Language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gitlabhq/gitlabhq</id>
-    <title>https://github.com/gitlabhq/gitlabhq</title>
-    <link href="https://github.com/gitlabhq/gitlabhq" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</content>
-  </entry>
-  <entry>
-    <id>https://github.com/spree/spree</id>
+    <id>https://github.com/spree/spree#1735212446</id>
     <title>https://github.com/spree/spree</title>
     <link href="https://github.com/spree/spree" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
+    <updated>2024-12-26T11:27:26+00:00</updated>
     <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
   </entry>
   <entry>
-    <id>https://github.com/redmine/redmine</id>
-    <title>https://github.com/redmine/redmine</title>
-    <link href="https://github.com/redmine/redmine" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp</content>
+    <id>https://github.com/CocoaPods/CocoaPods#1735212446</id>
+    <title>https://github.com/CocoaPods/CocoaPods</title>
+    <link href="https://github.com/CocoaPods/CocoaPods" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">The Cocoa Dependency Manager.</content>
   </entry>
   <entry>
-    <id>https://github.com/basecamp/kamal</id>
-    <title>https://github.com/basecamp/kamal</title>
-    <link href="https://github.com/basecamp/kamal" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Deploy web apps anywhere.</content>
+    <id>https://github.com/huginn/huginn#1735212446</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
   </entry>
   <entry>
-    <id>https://github.com/wpscanteam/wpscan</id>
+    <id>https://github.com/ubicloud/ubicloud#1735212446</id>
+    <title>https://github.com/ubicloud/ubicloud</title>
+    <link href="https://github.com/ubicloud/ubicloud" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instructure/canvas-lms#1735212446</id>
+    <title>https://github.com/instructure/canvas-lms</title>
+    <link href="https://github.com/instructure/canvas-lms" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">The open LMS by Instructure, Inc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wpscanteam/wpscan#1735212446</id>
     <title>https://github.com/wpscanteam/wpscan</title>
     <link href="https://github.com/wpscanteam/wpscan" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
+    <updated>2024-12-26T11:27:26+00:00</updated>
     <content type="text">WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com</content>
   </entry>
   <entry>
-    <id>https://github.com/rapid7/metasploit-framework</id>
-    <title>https://github.com/rapid7/metasploit-framework</title>
-    <link href="https://github.com/rapid7/metasploit-framework" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Metasploit Framework</content>
+    <id>https://github.com/endoflife-date/endoflife.date#1735212446</id>
+    <title>https://github.com/endoflife-date/endoflife.date</title>
+    <link href="https://github.com/endoflife-date/endoflife.date" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">Informative site with EoL dates of everything</content>
   </entry>
   <entry>
-    <id>https://github.com/Freika/dawarich</id>
-    <title>https://github.com/Freika/dawarich</title>
-    <link href="https://github.com/Freika/dawarich" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Self-hosted alternative to Google Location History (Google Maps Timeline)</content>
+    <id>https://github.com/aws/aws-sdk-ruby#1735212446</id>
+    <title>https://github.com/aws/aws-sdk-ruby</title>
+    <link href="https://github.com/aws/aws-sdk-ruby" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">The official AWS SDK for Ruby.</content>
   </entry>
   <entry>
-    <id>https://github.com/github-linguist/linguist</id>
+    <id>https://github.com/mastodon/mastodon#1735212446</id>
+    <title>https://github.com/mastodon/mastodon</title>
+    <link href="https://github.com/mastodon/mastodon" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openstreetmap/openstreetmap-website#1735212446</id>
+    <title>https://github.com/openstreetmap/openstreetmap-website</title>
+    <link href="https://github.com/openstreetmap/openstreetmap-website" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">The Rails application that powers OpenStreetMap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitlabhq/gitlabhq#1735212446</id>
+    <title>https://github.com/gitlabhq/gitlabhq</title>
+    <link href="https://github.com/gitlabhq/gitlabhq" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-linguist/linguist#1735212446</id>
     <title>https://github.com/github-linguist/linguist</title>
     <link href="https://github.com/github-linguist/linguist" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
+    <updated>2024-12-26T11:27:26+00:00</updated>
     <content type="text">Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</content>
   </entry>
   <entry>
-    <id>https://github.com/fluent/fluentd</id>
-    <title>https://github.com/fluent/fluentd</title>
-    <link href="https://github.com/fluent/fluentd" />
-    <updated>2024-12-26T04:19:29+00:00</updated>
-    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+    <id>https://github.com/Homebrew/brew#1735212446</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freeCodeCamp/devdocs#1735212446</id>
+    <title>https://github.com/freeCodeCamp/devdocs</title>
+    <link href="https://github.com/freeCodeCamp/devdocs" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">API Documentation Browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vagrant#1735212446</id>
+    <title>https://github.com/hashicorp/vagrant</title>
+    <link href="https://github.com/hashicorp/vagrant" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">Vagrant is a tool for building and distributing development environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zammad/zammad#1735212446</id>
+    <title>https://github.com/zammad/zammad</title>
+    <link href="https://github.com/zammad/zammad" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">Zammad is a web based open source helpdesk/customer support system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1735212446</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1735212446</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2024-12-26T11:27:26+00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
   </entry>
 </feed>

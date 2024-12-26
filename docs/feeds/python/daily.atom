@@ -4,64 +4,99 @@
   <title>GitHub Treanding - python (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/python/" rel="alternate" />
-  <updated>2024-12-26T04:18:07+00:00</updated>
+  <updated>2024-12-26T11:25:45+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Significant-Gravitas/AutoGPT</id>
-    <title>https://github.com/Significant-Gravitas/AutoGPT</title>
-    <link href="https://github.com/Significant-Gravitas/AutoGPT" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
-    <content type="text">AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</content>
+    <id>https://github.com/JoeanAmier/XHS-Downloader#1735212345</id>
+    <title>https://github.com/JoeanAmier/XHS-Downloader</title>
+    <link href="https://github.com/JoeanAmier/XHS-Downloader" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件</content>
   </entry>
   <entry>
-    <id>https://github.com/AtsushiSakai/PythonRobotics</id>
+    <id>https://github.com/ComposioHQ/composio#1735212345</id>
+    <title>https://github.com/ComposioHQ/composio</title>
+    <link href="https://github.com/ComposioHQ/composio" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">Composio equip's your AI agents &amp; LLMs with 100+ high-quality integrations via function calling</content>
+  </entry>
+  <entry>
+    <id>https://github.com/1Panel-dev/MaxKB#1735212345</id>
+    <title>https://github.com/1Panel-dev/MaxKB</title>
+    <link href="https://github.com/1Panel-dev/MaxKB" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">💬 Ready-to-use, flexible RAG Chatbot.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frappe/erpnext#1735212345</id>
+    <title>https://github.com/frappe/erpnext</title>
+    <link href="https://github.com/frappe/erpnext" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">Free and Open Source Enterprise Resource Planning (ERP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getomni-ai/zerox#1735212345</id>
+    <title>https://github.com/getomni-ai/zerox</title>
+    <link href="https://github.com/getomni-ai/zerox" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">PDF to Markdown with vision models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sgl-project/sglang#1735212345</id>
+    <title>https://github.com/sgl-project/sglang</title>
+    <link href="https://github.com/sgl-project/sglang" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">SGLang is a fast serving framework for large language models and vision language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lipku/LiveTalking#1735212345</id>
+    <title>https://github.com/lipku/LiveTalking</title>
+    <link href="https://github.com/lipku/LiveTalking" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">Real time interactive streaming digital human</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/autogen#1735212345</id>
+    <title>https://github.com/microsoft/autogen</title>
+    <link href="https://github.com/microsoft/autogen" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AtsushiSakai/PythonRobotics#1735212345</id>
     <title>https://github.com/AtsushiSakai/PythonRobotics</title>
     <link href="https://github.com/AtsushiSakai/PythonRobotics" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
+    <updated>2024-12-26T11:25:45+00:00</updated>
     <content type="text">Python sample codes for robotics algorithms.</content>
   </entry>
   <entry>
-    <id>https://github.com/ErikBjare/gptme</id>
-    <title>https://github.com/ErikBjare/gptme</title>
-    <link href="https://github.com/ErikBjare/gptme" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
-    <content type="text">Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.</content>
+    <id>https://github.com/freqtrade/freqtrade-strategies#1735212345</id>
+    <title>https://github.com/freqtrade/freqtrade-strategies</title>
+    <link href="https://github.com/freqtrade/freqtrade-strategies" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">Free trading strategies for Freqtrade bot</content>
   </entry>
   <entry>
-    <id>https://github.com/LC044/WeChatMsg</id>
-    <title>https://github.com/LC044/WeChatMsg</title>
-    <link href="https://github.com/LC044/WeChatMsg" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
-    <content type="text">提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hpcaitech/Open-Sora</id>
-    <title>https://github.com/hpcaitech/Open-Sora</title>
-    <link href="https://github.com/hpcaitech/Open-Sora" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
-    <content type="text">Open-Sora: Democratizing Efficient Video Production for All</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vllm-project/vllm</id>
-    <title>https://github.com/vllm-project/vllm</title>
-    <link href="https://github.com/vllm-project/vllm" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
-    <content type="text">A high-throughput and memory-efficient inference and serving engine for LLMs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OpenSPG/KAG</id>
+    <id>https://github.com/OpenSPG/KAG#1735212345</id>
     <title>https://github.com/OpenSPG/KAG</title>
     <link href="https://github.com/OpenSPG/KAG" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
+    <updated>2024-12-26T11:25:45+00:00</updated>
     <content type="text">KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</content>
   </entry>
   <entry>
-    <id>https://github.com/donnemartin/system-design-primer</id>
-    <title>https://github.com/donnemartin/system-design-primer</title>
-    <link href="https://github.com/donnemartin/system-design-primer" />
-    <updated>2024-12-26T04:18:07+00:00</updated>
-    <content type="text">Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</content>
+    <id>https://github.com/Significant-Gravitas/AutoGPT#1735212345</id>
+    <title>https://github.com/Significant-Gravitas/AutoGPT</title>
+    <link href="https://github.com/Significant-Gravitas/AutoGPT" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/3b1b/manim#1735212345</id>
+    <title>https://github.com/3b1b/manim</title>
+    <link href="https://github.com/3b1b/manim" />
+    <updated>2024-12-26T11:25:45+00:00</updated>
+    <content type="text">Animation engine for explanatory math videos</content>
   </entry>
 </feed>

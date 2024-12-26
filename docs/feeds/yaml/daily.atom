@@ -4,57 +4,50 @@
   <title>GitHub Treanding - yaml (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/" rel="alternate" />
-  <updated>2024-12-26T04:24:14+00:00</updated>
+  <updated>2024-12-26T11:33:26+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/mustache/spec</id>
-    <title>https://github.com/mustache/spec</title>
-    <link href="https://github.com/mustache/spec" />
-    <updated>2024-12-26T04:24:14+00:00</updated>
-    <content type="text">The Mustache spec.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dell/omnia</id>
+    <id>https://github.com/dell/omnia#1735212806</id>
     <title>https://github.com/dell/omnia</title>
     <link href="https://github.com/dell/omnia" />
-    <updated>2024-12-26T04:24:14+00:00</updated>
+    <updated>2024-12-26T11:33:26+00:00</updated>
     <content type="text">An open-source toolkit for deploying and managing high performance clusters for HPC, AI, and data analytics workloads.</content>
   </entry>
   <entry>
-    <id>https://github.com/k3s-io/k3s-ansible</id>
+    <id>https://github.com/mustache/spec#1735212806</id>
+    <title>https://github.com/mustache/spec</title>
+    <link href="https://github.com/mustache/spec" />
+    <updated>2024-12-26T11:33:26+00:00</updated>
+    <content type="text">The Mustache spec.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquaproj/aqua-registry#1735212806</id>
+    <title>https://github.com/aquaproj/aqua-registry</title>
+    <link href="https://github.com/aquaproj/aqua-registry" />
+    <updated>2024-12-26T11:33:26+00:00</updated>
+    <content type="text">aqua's Standard Registry</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3s-io/k3s-ansible#1735212806</id>
     <title>https://github.com/k3s-io/k3s-ansible</title>
     <link href="https://github.com/k3s-io/k3s-ansible" />
-    <updated>2024-12-26T04:24:14+00:00</updated>
+    <updated>2024-12-26T11:33:26+00:00</updated>
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/kubeflow/manifests</id>
-    <title>https://github.com/kubeflow/manifests</title>
-    <link href="https://github.com/kubeflow/manifests" />
-    <updated>2024-12-26T04:24:14+00:00</updated>
-    <content type="text">A repository for Kustomize manifests</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ansible-lockdown/RHEL8-CIS</id>
-    <title>https://github.com/ansible-lockdown/RHEL8-CIS</title>
-    <link href="https://github.com/ansible-lockdown/RHEL8-CIS" />
-    <updated>2024-12-26T04:24:14+00:00</updated>
-    <content type="text">Ansible role for Red Hat 8 CIS Baseline</content>
-  </entry>
-  <entry>
-    <id>https://github.com/stashapp/CommunityScrapers</id>
+    <id>https://github.com/stashapp/CommunityScrapers#1735212806</id>
     <title>https://github.com/stashapp/CommunityScrapers</title>
     <link href="https://github.com/stashapp/CommunityScrapers" />
-    <updated>2024-12-26T04:24:14+00:00</updated>
+    <updated>2024-12-26T11:33:26+00:00</updated>
     <content type="text">This is a public repository containing scrapers created by the Stash Community.</content>
   </entry>
   <entry>
-    <id>https://github.com/aquaproj/aqua-registry</id>
-    <title>https://github.com/aquaproj/aqua-registry</title>
-    <link href="https://github.com/aquaproj/aqua-registry" />
-    <updated>2024-12-26T04:24:14+00:00</updated>
-    <content type="text">aqua's Standard Registry</content>
+    <id>https://github.com/ansible-lockdown/RHEL8-CIS#1735212806</id>
+    <title>https://github.com/ansible-lockdown/RHEL8-CIS</title>
+    <link href="https://github.com/ansible-lockdown/RHEL8-CIS" />
+    <updated>2024-12-26T11:33:26+00:00</updated>
+    <content type="text">Ansible role for Red Hat 8 CIS Baseline</content>
   </entry>
 </feed>

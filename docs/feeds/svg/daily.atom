@@ -4,15 +4,22 @@
   <title>GitHub Treanding - svg (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/svg/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/svg/" rel="alternate" />
-  <updated>2024-12-26T04:21:12+00:00</updated>
+  <updated>2024-12-26T11:29:50+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/tandpfun/skill-icons</id>
+    <id>https://github.com/tandpfun/skill-icons#1735212590</id>
     <title>https://github.com/tandpfun/skill-icons</title>
     <link href="https://github.com/tandpfun/skill-icons" />
-    <updated>2024-12-26T04:21:12+00:00</updated>
+    <updated>2024-12-26T11:29:50+00:00</updated>
     <content type="text">Showcase your skills on your Github readme or resumé with ease ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n3r4zzurr0/svg-spinners#1735212590</id>
+    <title>https://github.com/n3r4zzurr0/svg-spinners</title>
+    <link href="https://github.com/n3r4zzurr0/svg-spinners" />
+    <updated>2024-12-26T11:29:50+00:00</updated>
+    <content type="text">A collection of 24 x 24 dp SVG spinners! (CSS &amp; SMIL)</content>
   </entry>
 </feed>

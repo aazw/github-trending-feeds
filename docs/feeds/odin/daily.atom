@@ -4,15 +4,15 @@
   <title>GitHub Treanding - odin (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/odin/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/odin/" rel="alternate" />
-  <updated>2024-12-26T04:15:53+00:00</updated>
+  <updated>2024-12-26T11:22:54+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/odin-lang/Odin</id>
+    <id>https://github.com/odin-lang/Odin#1735212174</id>
     <title>https://github.com/odin-lang/Odin</title>
     <link href="https://github.com/odin-lang/Odin" />
-    <updated>2024-12-26T04:15:53+00:00</updated>
+    <updated>2024-12-26T11:22:54+00:00</updated>
     <content type="text">Odin Programming Language</content>
   </entry>
 </feed>

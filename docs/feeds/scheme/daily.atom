@@ -4,15 +4,15 @@
   <title>GitHub Treanding - scheme (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/scheme/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/scheme/" rel="alternate" />
-  <updated>2024-12-26T04:19:46+00:00</updated>
+  <updated>2024-12-26T11:27:54+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/nvim-treesitter/nvim-treesitter-textobjects</id>
-    <title>https://github.com/nvim-treesitter/nvim-treesitter-textobjects</title>
-    <link href="https://github.com/nvim-treesitter/nvim-treesitter-textobjects" />
-    <updated>2024-12-26T04:19:46+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/nvim-treesitter/nvim-treesitter#1735212474</id>
+    <title>https://github.com/nvim-treesitter/nvim-treesitter</title>
+    <link href="https://github.com/nvim-treesitter/nvim-treesitter" />
+    <updated>2024-12-26T11:27:54+00:00</updated>
+    <content type="text">Nvim Treesitter configurations and abstraction layer</content>
   </entry>
 </feed>

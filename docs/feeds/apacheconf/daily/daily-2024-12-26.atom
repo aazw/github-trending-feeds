@@ -4,15 +4,15 @@
   <title>GitHub Treanding - apacheconf (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/apacheconf/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/apacheconf/" rel="alternate" />
-  <updated>2024-12-26T04:03:01+00:00</updated>
+  <updated>2024-12-26T11:06:54+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/scm-ninja/starter-web</id>
+    <id>https://github.com/scm-ninja/starter-web#1735211214</id>
     <title>https://github.com/scm-ninja/starter-web</title>
     <link href="https://github.com/scm-ninja/starter-web" />
-    <updated>2024-12-26T04:03:01+00:00</updated>
+    <updated>2024-12-26T11:06:54+00:00</updated>
     <content type="text">Simple starting point website project based upon Initializr</content>
   </entry>
 </feed>

@@ -4,15 +4,15 @@
   <title>GitHub Treanding - elm (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/elm/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/elm/" rel="alternate" />
-  <updated>2024-12-26T04:07:33+00:00</updated>
+  <updated>2024-12-26T11:12:26+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/eikek/docspell</id>
-    <title>https://github.com/eikek/docspell</title>
-    <link href="https://github.com/eikek/docspell" />
-    <updated>2024-12-26T04:07:33+00:00</updated>
-    <content type="text">Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.</content>
+    <id>https://github.com/azimuttapp/azimutt#1735211546</id>
+    <title>https://github.com/azimuttapp/azimutt</title>
+    <link href="https://github.com/azimuttapp/azimutt" />
+    <updated>2024-12-26T11:12:26+00:00</updated>
+    <content type="text">Explore, document and optimize any database</content>
   </entry>
 </feed>

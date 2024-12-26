@@ -4,43 +4,36 @@
   <title>GitHub Treanding - coffeescript (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/" rel="alternate" />
-  <updated>2024-12-26T04:05:31+00:00</updated>
+  <updated>2024-12-26T11:09:52+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/oozcitak/xmlbuilder-js</id>
-    <title>https://github.com/oozcitak/xmlbuilder-js</title>
-    <link href="https://github.com/oozcitak/xmlbuilder-js" />
-    <updated>2024-12-26T04:05:31+00:00</updated>
-    <content type="text">An XML builder for node.js</content>
+    <id>https://github.com/ccd0/4chan-x#1735211392</id>
+    <title>https://github.com/ccd0/4chan-x</title>
+    <link href="https://github.com/ccd0/4chan-x" />
+    <updated>2024-12-26T11:09:52+00:00</updated>
+    <content type="text">Adds various features to anonymous imageboards.</content>
   </entry>
   <entry>
-    <id>https://github.com/adaltas/node-csv</id>
-    <title>https://github.com/adaltas/node-csv</title>
-    <link href="https://github.com/adaltas/node-csv" />
-    <updated>2024-12-26T04:05:31+00:00</updated>
-    <content type="text">Full featured CSV parser with simple api and tested against large datasets.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fbsamples/graph-api-webhooks-samples</id>
-    <title>https://github.com/fbsamples/graph-api-webhooks-samples</title>
-    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" />
-    <updated>2024-12-26T04:05:31+00:00</updated>
-    <content type="text">These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dropbox/zxcvbn</id>
+    <id>https://github.com/dropbox/zxcvbn#1735211392</id>
     <title>https://github.com/dropbox/zxcvbn</title>
     <link href="https://github.com/dropbox/zxcvbn" />
-    <updated>2024-12-26T04:05:31+00:00</updated>
+    <updated>2024-12-26T11:09:52+00:00</updated>
     <content type="text">Low-Budget Password Strength Estimation</content>
   </entry>
   <entry>
-    <id>https://github.com/FelisCatus/SwitchyOmega</id>
+    <id>https://github.com/FelisCatus/SwitchyOmega#1735211392</id>
     <title>https://github.com/FelisCatus/SwitchyOmega</title>
     <link href="https://github.com/FelisCatus/SwitchyOmega" />
-    <updated>2024-12-26T04:05:31+00:00</updated>
+    <updated>2024-12-26T11:09:52+00:00</updated>
     <content type="text">Manage and switch between multiple proxies quickly &amp; easily.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oozcitak/xmlbuilder-js#1735211392</id>
+    <title>https://github.com/oozcitak/xmlbuilder-js</title>
+    <link href="https://github.com/oozcitak/xmlbuilder-js" />
+    <updated>2024-12-26T11:09:52+00:00</updated>
+    <content type="text">An XML builder for node.js</content>
   </entry>
 </feed>

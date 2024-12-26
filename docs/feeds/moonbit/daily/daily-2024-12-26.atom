@@ -4,22 +4,15 @@
   <title>GitHub Treanding - moonbit (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/moonbit/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/moonbit/" rel="alternate" />
-  <updated>2024-12-26T04:14:17+00:00</updated>
+  <updated>2024-12-26T11:20:53+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/moonbitlang/core</id>
+    <id>https://github.com/moonbitlang/core#1735212053</id>
     <title>https://github.com/moonbitlang/core</title>
     <link href="https://github.com/moonbitlang/core" />
-    <updated>2024-12-26T04:14:17+00:00</updated>
+    <updated>2024-12-26T11:20:53+00:00</updated>
     <content type="text">MoonBit's Core library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/moonbitlang/moonbit-docs</id>
-    <title>https://github.com/moonbitlang/moonbit-docs</title>
-    <link href="https://github.com/moonbitlang/moonbit-docs" />
-    <updated>2024-12-26T04:14:17+00:00</updated>
-    <content type="text">The docs of MoonBit programming language</content>
   </entry>
 </feed>

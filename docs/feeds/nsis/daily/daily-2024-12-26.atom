@@ -4,8 +4,15 @@
   <title>GitHub Treanding - nsis (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nsis/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nsis/" rel="alternate" />
-  <updated>2024-12-26T04:15:20+00:00</updated>
+  <updated>2024-12-26T11:22:11+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/bituq/Roshade#1735212131</id>
+    <title>https://github.com/bituq/Roshade</title>
+    <link href="https://github.com/bituq/Roshade" />
+    <updated>2024-12-26T11:22:11+00:00</updated>
+    <content type="text">An installation package made in NSIS for installing Reshade presets and shaders to Roblox.</content>
+  </entry>
 </feed>

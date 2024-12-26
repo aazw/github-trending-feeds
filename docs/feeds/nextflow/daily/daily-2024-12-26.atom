@@ -4,15 +4,8 @@
   <title>GitHub Treanding - nextflow (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/" rel="alternate" />
-  <updated>2024-12-26T04:14:59+00:00</updated>
+  <updated>2024-12-26T11:21:45+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/nextflow-io/training</id>
-    <title>https://github.com/nextflow-io/training</title>
-    <link href="https://github.com/nextflow-io/training" />
-    <updated>2024-12-26T04:14:59+00:00</updated>
-    <content type="text">Nextflow training material</content>
-  </entry>
 </feed>

@@ -4,127 +4,120 @@
   <title>GitHub Treanding - elixir (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/" rel="alternate" />
-  <updated>2024-12-26T04:07:29+00:00</updated>
+  <updated>2024-12-26T11:12:23+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/livebook-dev/livebook</id>
-    <title>https://github.com/livebook-dev/livebook</title>
-    <link href="https://github.com/livebook-dev/livebook" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elixir-lsp/elixir-ls</id>
-    <title>https://github.com/elixir-lsp/elixir-ls</title>
-    <link href="https://github.com/elixir-lsp/elixir-ls" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hexpm/hex</id>
-    <title>https://github.com/hexpm/hex</title>
-    <link href="https://github.com/hexpm/hex" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Package manager for the Erlang ecosystem.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/anoma/anoma</id>
-    <title>https://github.com/anoma/anoma</title>
-    <link href="https://github.com/anoma/anoma" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Reference implementation of Anoma</content>
-  </entry>
-  <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-erlang-contrib</id>
+    <id>https://github.com/open-telemetry/opentelemetry-erlang-contrib#1735211543</id>
     <title>https://github.com/open-telemetry/opentelemetry-erlang-contrib</title>
     <link href="https://github.com/open-telemetry/opentelemetry-erlang-contrib" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
+    <updated>2024-12-26T11:12:23+00:00</updated>
     <content type="text">OpenTelemetry instrumentation for Erlang &amp; Elixir</content>
   </entry>
   <entry>
-    <id>https://github.com/OffchainLabs/blockscout</id>
-    <title>https://github.com/OffchainLabs/blockscout</title>
-    <link href="https://github.com/OffchainLabs/blockscout" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/absinthe-graphql/absinthe#1735211543</id>
+    <title>https://github.com/absinthe-graphql/absinthe</title>
+    <link href="https://github.com/absinthe-graphql/absinthe" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">The GraphQL toolkit for Elixir</content>
   </entry>
   <entry>
-    <id>https://github.com/ocsf/ocsf-server</id>
-    <title>https://github.com/ocsf/ocsf-server</title>
-    <link href="https://github.com/ocsf/ocsf-server" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">OCSF Schema WEB Server</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ash-project/ash</id>
-    <title>https://github.com/ash-project/ash</title>
-    <link href="https://github.com/ash-project/ash" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kieraneglin/pinchflat</id>
-    <title>https://github.com/kieraneglin/pinchflat</title>
-    <link href="https://github.com/kieraneglin/pinchflat" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Your next YouTube media manager</content>
-  </entry>
-  <entry>
-    <id>https://github.com/firezone/firezone</id>
-    <title>https://github.com/firezone/firezone</title>
-    <link href="https://github.com/firezone/firezone" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/thmsmlr/instructor_ex</id>
-    <title>https://github.com/thmsmlr/instructor_ex</title>
-    <link href="https://github.com/thmsmlr/instructor_ex" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Structured outputs for LLMs in Elixir</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pentacent/keila</id>
-    <title>https://github.com/pentacent/keila</title>
-    <link href="https://github.com/pentacent/keila" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Open Source Newsletter Tool.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/duffelhq/paginator</id>
-    <title>https://github.com/duffelhq/paginator</title>
-    <link href="https://github.com/duffelhq/paginator" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
-    <content type="text">Cursor-based pagination for Elixir Ecto</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bluzky/salad_ui</id>
+    <id>https://github.com/bluzky/salad_ui#1735211543</id>
     <title>https://github.com/bluzky/salad_ui</title>
     <link href="https://github.com/bluzky/salad_ui" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
+    <updated>2024-12-26T11:12:23+00:00</updated>
     <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
   </entry>
   <entry>
-    <id>https://github.com/elixir-lang/elixir</id>
+    <id>https://github.com/livebook-dev/livebook#1735211543</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alfert/propcheck#1735211543</id>
+    <title>https://github.com/alfert/propcheck</title>
+    <link href="https://github.com/alfert/propcheck" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">Property based Testing for Elixir (based upon PropEr)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OffchainLabs/blockscout#1735211543</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1735211543</id>
     <title>https://github.com/elixir-lang/elixir</title>
     <link href="https://github.com/elixir-lang/elixir" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
+    <updated>2024-12-26T11:12:23+00:00</updated>
     <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
   </entry>
   <entry>
-    <id>https://github.com/phoenixframework/phoenix_live_view</id>
+    <id>https://github.com/teslamate-org/teslamate#1735211543</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/naymspace/backpex#1735211543</id>
+    <title>https://github.com/naymspace/backpex</title>
+    <link href="https://github.com/naymspace/backpex" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">Backpex is a highly customizable administration panel for Phoenix LiveView applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1735211543</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1735211543</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1735211543</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dwyl/quotes#1735211543</id>
+    <title>https://github.com/dwyl/quotes</title>
+    <link href="https://github.com/dwyl/quotes" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">💬 a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1735211543</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2024-12-26T11:12:23+00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1735211543</id>
     <title>https://github.com/phoenixframework/phoenix_live_view</title>
     <link href="https://github.com/phoenixframework/phoenix_live_view" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
+    <updated>2024-12-26T11:12:23+00:00</updated>
     <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
   </entry>
   <entry>
-    <id>https://github.com/blockscout/blockscout</id>
+    <id>https://github.com/blockscout/blockscout#1735211543</id>
     <title>https://github.com/blockscout/blockscout</title>
     <link href="https://github.com/blockscout/blockscout" />
-    <updated>2024-12-26T04:07:29+00:00</updated>
+    <updated>2024-12-26T11:12:23+00:00</updated>
     <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
   </entry>
 </feed>

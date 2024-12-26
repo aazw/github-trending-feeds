@@ -4,15 +4,22 @@
   <title>GitHub Treanding - codeql (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/codeql/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/codeql/" rel="alternate" />
-  <updated>2024-12-26T04:05:29+00:00</updated>
+  <updated>2024-12-26T11:09:49+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/github/codeql</id>
+    <id>https://github.com/github/vscode-codeql-starter#1735211389</id>
+    <title>https://github.com/github/vscode-codeql-starter</title>
+    <link href="https://github.com/github/vscode-codeql-starter" />
+    <updated>2024-12-26T11:09:49+00:00</updated>
+    <content type="text">Starter workspace to use with the CodeQL extension for Visual Studio Code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/codeql#1735211389</id>
     <title>https://github.com/github/codeql</title>
     <link href="https://github.com/github/codeql" />
-    <updated>2024-12-26T04:05:29+00:00</updated>
+    <updated>2024-12-26T11:09:49+00:00</updated>
     <content type="text">CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</content>
   </entry>
 </feed>

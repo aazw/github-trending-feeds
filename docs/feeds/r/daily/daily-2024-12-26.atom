@@ -4,57 +4,57 @@
   <title>GitHub Treanding - r (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/r/" rel="alternate" />
-  <updated>2024-12-26T04:18:20+00:00</updated>
+  <updated>2024-12-26T11:26:02+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/chris-mcginnis-ucsf/DoubletFinder</id>
-    <title>https://github.com/chris-mcginnis-ucsf/DoubletFinder</title>
-    <link href="https://github.com/chris-mcginnis-ucsf/DoubletFinder" />
-    <updated>2024-12-26T04:18:20+00:00</updated>
-    <content type="text">R package for detecting doublets in single-cell RNA sequencing data</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sqjin/CellChat</id>
-    <title>https://github.com/sqjin/CellChat</title>
-    <link href="https://github.com/sqjin/CellChat" />
-    <updated>2024-12-26T04:18:20+00:00</updated>
-    <content type="text">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</content>
-  </entry>
-  <entry>
-    <id>https://github.com/immunogenomics/harmony</id>
+    <id>https://github.com/immunogenomics/harmony#1735212362</id>
     <title>https://github.com/immunogenomics/harmony</title>
     <link href="https://github.com/immunogenomics/harmony" />
-    <updated>2024-12-26T04:18:20+00:00</updated>
+    <updated>2024-12-26T11:26:02+00:00</updated>
     <content type="text">Fast, sensitive and accurate integration of single-cell data with Harmony</content>
   </entry>
   <entry>
-    <id>https://github.com/broadinstitute/infercnv</id>
+    <id>https://github.com/satijalab/seurat-wrappers#1735212362</id>
+    <title>https://github.com/satijalab/seurat-wrappers</title>
+    <link href="https://github.com/satijalab/seurat-wrappers" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">Community-provided extensions to Seurat</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cole-trapnell-lab/monocle3#1735212362</id>
+    <title>https://github.com/cole-trapnell-lab/monocle3</title>
+    <link href="https://github.com/cole-trapnell-lab/monocle3" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/MRCIEU/TwoSampleMR#1735212362</id>
+    <title>https://github.com/MRCIEU/TwoSampleMR</title>
+    <link href="https://github.com/MRCIEU/TwoSampleMR" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">R package for performing 2-sample MR using MR-Base database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1735212362</id>
     <title>https://github.com/broadinstitute/infercnv</title>
     <link href="https://github.com/broadinstitute/infercnv" />
-    <updated>2024-12-26T04:18:20+00:00</updated>
+    <updated>2024-12-26T11:26:02+00:00</updated>
     <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
   </entry>
   <entry>
-    <id>https://github.com/qinwf/awesome-R</id>
-    <title>https://github.com/qinwf/awesome-R</title>
-    <link href="https://github.com/qinwf/awesome-R" />
-    <updated>2024-12-26T04:18:20+00:00</updated>
-    <content type="text">A curated list of awesome R packages, frameworks and software.</content>
+    <id>https://github.com/swirldev/swirl_courses#1735212362</id>
+    <title>https://github.com/swirldev/swirl_courses</title>
+    <link href="https://github.com/swirldev/swirl_courses" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">🎓 A collection of interactive courses for the swirl R package.</content>
   </entry>
   <entry>
-    <id>https://github.com/tidyverse/ggplot2</id>
-    <title>https://github.com/tidyverse/ggplot2</title>
-    <link href="https://github.com/tidyverse/ggplot2" />
-    <updated>2024-12-26T04:18:20+00:00</updated>
-    <content type="text">An implementation of the Grammar of Graphics in R</content>
-  </entry>
-  <entry>
-    <id>https://github.com/thackl/gggenomes</id>
-    <title>https://github.com/thackl/gggenomes</title>
-    <link href="https://github.com/thackl/gggenomes" />
-    <updated>2024-12-26T04:18:20+00:00</updated>
-    <content type="text">A grammar of graphics for comparative genomics</content>
+    <id>https://github.com/rstudio/pointblank#1735212362</id>
+    <title>https://github.com/rstudio/pointblank</title>
+    <link href="https://github.com/rstudio/pointblank" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">Data quality assessment and metadata reporting for data frames and database tables</content>
   </entry>
 </feed>

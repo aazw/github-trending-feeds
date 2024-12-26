@@ -4,22 +4,29 @@
   <title>GitHub Treanding - common-lisp (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/" rel="alternate" />
-  <updated>2024-12-26T04:05:38+00:00</updated>
+  <updated>2024-12-26T11:10:00+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dimitri/pgloader</id>
-    <title>https://github.com/dimitri/pgloader</title>
-    <link href="https://github.com/dimitri/pgloader" />
-    <updated>2024-12-26T04:05:38+00:00</updated>
-    <content type="text">Migrate to PostgreSQL in a single command!</content>
+    <id>https://github.com/joaotavora/sly#1735211400</id>
+    <title>https://github.com/joaotavora/sly</title>
+    <link href="https://github.com/joaotavora/sly" />
+    <updated>2024-12-26T11:10:00+00:00</updated>
+    <content type="text">Sylvester the Cat's Common Lisp IDE</content>
   </entry>
   <entry>
-    <id>https://github.com/open-goal/jak-project</id>
+    <id>https://github.com/atlas-engineer/nyxt#1735211400</id>
+    <title>https://github.com/atlas-engineer/nyxt</title>
+    <link href="https://github.com/atlas-engineer/nyxt" />
+    <updated>2024-12-26T11:10:00+00:00</updated>
+    <content type="text">Nyxt - the hacker's browser.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-goal/jak-project#1735211400</id>
     <title>https://github.com/open-goal/jak-project</title>
     <link href="https://github.com/open-goal/jak-project" />
-    <updated>2024-12-26T04:05:38+00:00</updated>
+    <updated>2024-12-26T11:10:00+00:00</updated>
     <content type="text">Reviving the language that brought us the Jak &amp; Daxter Series</content>
   </entry>
 </feed>

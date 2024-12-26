@@ -4,15 +4,8 @@
   <title>GitHub Treanding - yara (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/yara/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/yara/" rel="alternate" />
-  <updated>2024-12-26T04:24:18+00:00</updated>
+  <updated>2024-12-26T11:33:31+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/Yara-Rules/rules</id>
-    <title>https://github.com/Yara-Rules/rules</title>
-    <link href="https://github.com/Yara-Rules/rules" />
-    <updated>2024-12-26T04:24:18+00:00</updated>
-    <content type="text">Repository of yara rules</content>
-  </entry>
 </feed>

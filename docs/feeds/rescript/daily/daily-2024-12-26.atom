@@ -4,22 +4,22 @@
   <title>GitHub Treanding - rescript (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/" rel="alternate" />
-  <updated>2024-12-26T04:18:56+00:00</updated>
+  <updated>2024-12-26T11:26:46+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/juspay/hyperswitch-control-center</id>
-    <title>https://github.com/juspay/hyperswitch-control-center</title>
-    <link href="https://github.com/juspay/hyperswitch-control-center" />
-    <updated>2024-12-26T04:18:56+00:00</updated>
-    <content type="text">Open sourced control center for managing Hyperswitch - an open sourced payment switch.</content>
+    <id>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples#1735212406</id>
+    <title>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples</title>
+    <link href="https://github.com/Xilinx/Vitis-HLS-Introductory-Examples" />
+    <updated>2024-12-26T11:26:46+00:00</updated>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/rescript-lang/rescript</id>
+    <id>https://github.com/rescript-lang/rescript#1735212406</id>
     <title>https://github.com/rescript-lang/rescript</title>
     <link href="https://github.com/rescript-lang/rescript" />
-    <updated>2024-12-26T04:18:56+00:00</updated>
+    <updated>2024-12-26T11:26:46+00:00</updated>
     <content type="text">ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.</content>
   </entry>
 </feed>

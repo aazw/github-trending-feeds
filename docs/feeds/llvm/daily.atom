@@ -4,36 +4,36 @@
   <title>GitHub Treanding - llvm (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/llvm/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/llvm/" rel="alternate" />
-  <updated>2024-12-26T04:12:44+00:00</updated>
+  <updated>2024-12-26T11:18:54+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/EnzymeAD/Enzyme</id>
+    <id>https://github.com/EnzymeAD/Enzyme#1735211934</id>
     <title>https://github.com/EnzymeAD/Enzyme</title>
     <link href="https://github.com/EnzymeAD/Enzyme" />
-    <updated>2024-12-26T04:12:44+00:00</updated>
+    <updated>2024-12-26T11:18:54+00:00</updated>
     <content type="text">High-performance automatic differentiation of LLVM and MLIR.</content>
   </entry>
   <entry>
-    <id>https://github.com/intel/llvm</id>
+    <id>https://github.com/intel/llvm#1735211934</id>
     <title>https://github.com/intel/llvm</title>
     <link href="https://github.com/intel/llvm" />
-    <updated>2024-12-26T04:12:44+00:00</updated>
+    <updated>2024-12-26T11:18:54+00:00</updated>
     <content type="text">Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</content>
   </entry>
   <entry>
-    <id>https://github.com/KhronosGroup/SPIRV-LLVM-Translator</id>
+    <id>https://github.com/KhronosGroup/SPIRV-LLVM-Translator#1735211934</id>
     <title>https://github.com/KhronosGroup/SPIRV-LLVM-Translator</title>
     <link href="https://github.com/KhronosGroup/SPIRV-LLVM-Translator" />
-    <updated>2024-12-26T04:12:44+00:00</updated>
+    <updated>2024-12-26T11:18:54+00:00</updated>
     <content type="text">A tool and a library for bi-directional translation between SPIR-V and LLVM IR</content>
   </entry>
   <entry>
-    <id>https://github.com/llvm/llvm-project</id>
+    <id>https://github.com/llvm/llvm-project#1735211934</id>
     <title>https://github.com/llvm/llvm-project</title>
     <link href="https://github.com/llvm/llvm-project" />
-    <updated>2024-12-26T04:12:44+00:00</updated>
+    <updated>2024-12-26T11:18:54+00:00</updated>
     <content type="text">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</content>
   </entry>
 </feed>

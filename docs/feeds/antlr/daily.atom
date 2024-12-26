@@ -4,15 +4,15 @@
   <title>GitHub Treanding - antlr (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/antlr/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/antlr/" rel="alternate" />
-  <updated>2024-12-26T04:02:59+00:00</updated>
+  <updated>2024-12-26T11:06:52+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/antlr/grammars-v4</id>
+    <id>https://github.com/antlr/grammars-v4#1735211212</id>
     <title>https://github.com/antlr/grammars-v4</title>
     <link href="https://github.com/antlr/grammars-v4" />
-    <updated>2024-12-26T04:02:59+00:00</updated>
+    <updated>2024-12-26T11:06:52+00:00</updated>
     <content type="text">Grammars written for ANTLR v4; expectation that the grammars are free of actions.</content>
   </entry>
 </feed>

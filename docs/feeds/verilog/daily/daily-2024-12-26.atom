@@ -4,36 +4,50 @@
   <title>GitHub Treanding - verilog (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/" rel="alternate" />
-  <updated>2024-12-26T04:22:54+00:00</updated>
+  <updated>2024-12-26T11:31:47+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/alexforencich/verilog-ethernet</id>
+    <id>https://github.com/efabless/caravel#1735212707</id>
+    <title>https://github.com/efabless/caravel</title>
+    <link href="https://github.com/efabless/caravel" />
+    <updated>2024-12-26T11:31:47+00:00</updated>
+    <content type="text">Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexforencich/verilog-ethernet#1735212707</id>
     <title>https://github.com/alexforencich/verilog-ethernet</title>
     <link href="https://github.com/alexforencich/verilog-ethernet" />
-    <updated>2024-12-26T04:22:54+00:00</updated>
+    <updated>2024-12-26T11:31:47+00:00</updated>
     <content type="text">Verilog Ethernet components for FPGA implementation</content>
   </entry>
   <entry>
-    <id>https://github.com/EttusResearch/uhd</id>
-    <title>https://github.com/EttusResearch/uhd</title>
-    <link href="https://github.com/EttusResearch/uhd" />
-    <updated>2024-12-26T04:22:54+00:00</updated>
-    <content type="text">The USRP™ Hardware Driver Repository</content>
-  </entry>
-  <entry>
-    <id>https://github.com/The-OpenROAD-Project/OpenROAD</id>
-    <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
-    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
-    <updated>2024-12-26T04:22:54+00:00</updated>
-    <content type="text">OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</content>
-  </entry>
-  <entry>
-    <id>https://github.com/analogdevicesinc/hdl</id>
+    <id>https://github.com/analogdevicesinc/hdl#1735212707</id>
     <title>https://github.com/analogdevicesinc/hdl</title>
     <link href="https://github.com/analogdevicesinc/hdl" />
-    <updated>2024-12-26T04:22:54+00:00</updated>
+    <updated>2024-12-26T11:31:47+00:00</updated>
     <content type="text">HDL libraries and projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-mcu/e203_hbirdv2#1735212707</id>
+    <title>https://github.com/riscv-mcu/e203_hbirdv2</title>
+    <link href="https://github.com/riscv-mcu/e203_hbirdv2" />
+    <updated>2024-12-26T11:31:47+00:00</updated>
+    <content type="text">The Ultra-Low Power RISC-V Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vortexgpgpu/vortex#1735212707</id>
+    <title>https://github.com/vortexgpgpu/vortex</title>
+    <link href="https://github.com/vortexgpgpu/vortex" />
+    <updated>2024-12-26T11:31:47+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/The-OpenROAD-Project/OpenROAD#1735212707</id>
+    <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
+    <updated>2024-12-26T11:31:47+00:00</updated>
+    <content type="text">OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</content>
   </entry>
 </feed>

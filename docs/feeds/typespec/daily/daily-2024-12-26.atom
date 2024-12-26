@@ -4,22 +4,22 @@
   <title>GitHub Treanding - typespec (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/typespec/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/typespec/" rel="alternate" />
-  <updated>2024-12-26T04:22:20+00:00</updated>
+  <updated>2024-12-26T11:31:09+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Azure/autorest</id>
-    <title>https://github.com/Azure/autorest</title>
-    <link href="https://github.com/Azure/autorest" />
-    <updated>2024-12-26T04:22:20+00:00</updated>
-    <content type="text">OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python</content>
+    <id>https://github.com/john30/ebusd-configuration#1735212669</id>
+    <title>https://github.com/john30/ebusd-configuration</title>
+    <link href="https://github.com/john30/ebusd-configuration" />
+    <updated>2024-12-26T11:31:09+00:00</updated>
+    <content type="text">ebusd configuration files</content>
   </entry>
   <entry>
-    <id>https://github.com/Azure/azure-rest-api-specs</id>
+    <id>https://github.com/Azure/azure-rest-api-specs#1735212669</id>
     <title>https://github.com/Azure/azure-rest-api-specs</title>
     <link href="https://github.com/Azure/azure-rest-api-specs" />
-    <updated>2024-12-26T04:22:20+00:00</updated>
+    <updated>2024-12-26T11:31:09+00:00</updated>
     <content type="text">The source for REST API specifications for Microsoft Azure.</content>
   </entry>
 </feed>

@@ -4,127 +4,92 @@
   <title>GitHub Treanding - html (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/html/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/html/" rel="alternate" />
-  <updated>2024-12-26T04:10:11+00:00</updated>
+  <updated>2024-12-26T11:15:48+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</id>
-    <title>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</title>
-    <link href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">吴恩达老师的机器学习课程个人笔记</content>
+    <id>https://github.com/TandoorRecipes/recipes#1735211748</id>
+    <title>https://github.com/TandoorRecipes/recipes</title>
+    <link href="https://github.com/TandoorRecipes/recipes" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">Application for managing recipes, planning meals, building shopping lists and much much more!</content>
   </entry>
   <entry>
-    <id>https://github.com/windmill-labs/windmill</id>
-    <title>https://github.com/windmill-labs/windmill</title>
-    <link href="https://github.com/windmill-labs/windmill" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openwhu/OpenWHU</id>
-    <title>https://github.com/openwhu/OpenWHU</title>
-    <link href="https://github.com/openwhu/OpenWHU" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">武汉大学课程资料整理-WHU课代表计划</content>
-  </entry>
-  <entry>
-    <id>https://github.com/wttdotm/traffic_cam_photobooth</id>
-    <title>https://github.com/wttdotm/traffic_cam_photobooth</title>
-    <link href="https://github.com/wttdotm/traffic_cam_photobooth" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">The repository for www.TrafficCamPhotobooth.com</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Tencent/weui</id>
-    <title>https://github.com/Tencent/weui</title>
-    <link href="https://github.com/Tencent/weui" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/RayTracing/raytracing.github.io</id>
-    <title>https://github.com/RayTracing/raytracing.github.io</title>
-    <link href="https://github.com/RayTracing/raytracing.github.io" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">Main Web Site (Online Books)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/munificent/craftinginterpreters</id>
-    <title>https://github.com/munificent/craftinginterpreters</title>
-    <link href="https://github.com/munificent/craftinginterpreters" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">Repository for the book "Crafting Interpreters"</content>
-  </entry>
-  <entry>
-    <id>https://github.com/unclecode/crawl4ai</id>
-    <title>https://github.com/unclecode/crawl4ai</title>
-    <link href="https://github.com/unclecode/crawl4ai" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/iam-veeramalla/ansible-zero-to-hero</id>
-    <title>https://github.com/iam-veeramalla/ansible-zero-to-hero</title>
-    <link href="https://github.com/iam-veeramalla/ansible-zero-to-hero" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/CaiJimmy/hugo-theme-stack</id>
-    <title>https://github.com/CaiJimmy/hugo-theme-stack</title>
-    <link href="https://github.com/CaiJimmy/hugo-theme-stack" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">Card-style Hugo theme designed for bloggers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PKUFlyingPig/cs-self-learning</id>
-    <title>https://github.com/PKUFlyingPig/cs-self-learning</title>
-    <link href="https://github.com/PKUFlyingPig/cs-self-learning" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">计算机自学指南</content>
-  </entry>
-  <entry>
-    <id>https://github.com/comfyanonymous/ComfyUI_examples</id>
-    <title>https://github.com/comfyanonymous/ComfyUI_examples</title>
-    <link href="https://github.com/comfyanonymous/ComfyUI_examples" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">Examples of ComfyUI workflows</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ultrasecurity/Storm-Breaker</id>
-    <title>https://github.com/ultrasecurity/Storm-Breaker</title>
-    <link href="https://github.com/ultrasecurity/Storm-Breaker" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">Social engineering tool [Access Webcam &amp; Microphone &amp; Location Finder] With {Py,JS,PHP}</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fengdu78/deeplearning_ai_books</id>
-    <title>https://github.com/fengdu78/deeplearning_ai_books</title>
-    <link href="https://github.com/fengdu78/deeplearning_ai_books" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
-    <content type="text">deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ripienaar/free-for-dev</id>
+    <id>https://github.com/ripienaar/free-for-dev#1735211748</id>
     <title>https://github.com/ripienaar/free-for-dev</title>
     <link href="https://github.com/ripienaar/free-for-dev" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
+    <updated>2024-12-26T11:15:48+00:00</updated>
     <content type="text">A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</content>
   </entry>
   <entry>
-    <id>https://github.com/yangzongzhuan/RuoYi</id>
+    <id>https://github.com/bigbrodude6119/flipper-zero-evil-portal#1735211748</id>
+    <title>https://github.com/bigbrodude6119/flipper-zero-evil-portal</title>
+    <link href="https://github.com/bigbrodude6119/flipper-zero-evil-portal" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">Evil portal app for the flipper zero + WiFi dev board</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PKUFlyingPig/cs-self-learning#1735211748</id>
+    <title>https://github.com/PKUFlyingPig/cs-self-learning</title>
+    <link href="https://github.com/PKUFlyingPig/cs-self-learning" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">计算机自学指南</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yangzongzhuan/RuoYi#1735211748</id>
     <title>https://github.com/yangzongzhuan/RuoYi</title>
     <link href="https://github.com/yangzongzhuan/RuoYi" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
+    <updated>2024-12-26T11:15:48+00:00</updated>
     <content type="text">🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用</content>
   </entry>
   <entry>
-    <id>https://github.com/web-infra-dev/midscene</id>
+    <id>https://github.com/CaiJimmy/hugo-theme-stack#1735211748</id>
+    <title>https://github.com/CaiJimmy/hugo-theme-stack</title>
+    <link href="https://github.com/CaiJimmy/hugo-theme-stack" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">Card-style Hugo theme designed for bloggers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adityatelange/hugo-PaperMod#1735211748</id>
+    <title>https://github.com/adityatelange/hugo-PaperMod</title>
+    <link href="https://github.com/adityatelange/hugo-PaperMod" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">A fast, clean, responsive Hugo theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QSCTech/zju-icicles#1735211748</id>
+    <title>https://github.com/QSCTech/zju-icicles</title>
+    <link href="https://github.com/QSCTech/zju-icicles" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">浙江大学课程攻略共享计划</content>
+  </entry>
+  <entry>
+    <id>https://github.com/comfyanonymous/ComfyUI_examples#1735211748</id>
+    <title>https://github.com/comfyanonymous/ComfyUI_examples</title>
+    <link href="https://github.com/comfyanonymous/ComfyUI_examples" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">Examples of ComfyUI workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cotes2020/jekyll-theme-chirpy#1735211748</id>
+    <title>https://github.com/cotes2020/jekyll-theme-chirpy</title>
+    <link href="https://github.com/cotes2020/jekyll-theme-chirpy" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">A minimal, responsive, and feature-rich Jekyll theme for technical writing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unclecode/crawl4ai#1735211748</id>
+    <title>https://github.com/unclecode/crawl4ai</title>
+    <link href="https://github.com/unclecode/crawl4ai" />
+    <updated>2024-12-26T11:15:48+00:00</updated>
+    <content type="text">🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/midscene#1735211748</id>
     <title>https://github.com/web-infra-dev/midscene</title>
     <link href="https://github.com/web-infra-dev/midscene" />
-    <updated>2024-12-26T04:10:11+00:00</updated>
+    <updated>2024-12-26T11:15:48+00:00</updated>
     <content type="text">An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.</content>
   </entry>
 </feed>

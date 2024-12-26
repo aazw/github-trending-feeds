@@ -4,120 +4,99 @@
   <title>GitHub Treanding - solidity (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/solidity/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/solidity/" rel="alternate" />
-  <updated>2024-12-26T04:20:30+00:00</updated>
+  <updated>2024-12-26T11:28:55+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/bnb-chain/BEPs</id>
-    <title>https://github.com/bnb-chain/BEPs</title>
-    <link href="https://github.com/bnb-chain/BEPs" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">BNB Evolution Proposals</content>
+    <id>https://github.com/crytic/building-secure-contracts#1735212535</id>
+    <title>https://github.com/crytic/building-secure-contracts</title>
+    <link href="https://github.com/crytic/building-secure-contracts" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">Guidelines and training material to write secure smart contracts</content>
   </entry>
   <entry>
-    <id>https://github.com/circlefin/evm-cctp-contracts</id>
+    <id>https://github.com/Arachnid/solidity-stringutils#1735212535</id>
+    <title>https://github.com/Arachnid/solidity-stringutils</title>
+    <link href="https://github.com/Arachnid/solidity-stringutils" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">Basic string utilities for Solidity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/circlefin/evm-cctp-contracts#1735212535</id>
     <title>https://github.com/circlefin/evm-cctp-contracts</title>
     <link href="https://github.com/circlefin/evm-cctp-contracts" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
+    <updated>2024-12-26T11:28:55+00:00</updated>
     <content type="text">Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol</content>
   </entry>
   <entry>
-    <id>https://github.com/Uniswap/v4-core</id>
+    <id>https://github.com/Uniswap/v4-core#1735212535</id>
     <title>https://github.com/Uniswap/v4-core</title>
     <link href="https://github.com/Uniswap/v4-core" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
+    <updated>2024-12-26T11:28:55+00:00</updated>
     <content type="text">🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</content>
   </entry>
   <entry>
-    <id>https://github.com/bgd-labs/aave-helpers</id>
-    <title>https://github.com/bgd-labs/aave-helpers</title>
-    <link href="https://github.com/bgd-labs/aave-helpers" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/summa-tx/memview-sol#1735212535</id>
+    <title>https://github.com/summa-tx/memview-sol</title>
+    <link href="https://github.com/summa-tx/memview-sol" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">Memory access with runtime typechecking in Solidity</content>
   </entry>
   <entry>
-    <id>https://github.com/Uniswap/permit2</id>
-    <title>https://github.com/Uniswap/permit2</title>
-    <link href="https://github.com/Uniswap/permit2" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">🔑🔑🔑 next generation token approvals mechanism</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Uniswap/v4-periphery</id>
-    <title>https://github.com/Uniswap/v4-periphery</title>
-    <link href="https://github.com/Uniswap/v4-periphery" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</content>
-  </entry>
-  <entry>
-    <id>https://github.com/base-org/basenames</id>
-    <title>https://github.com/base-org/basenames</title>
-    <link href="https://github.com/base-org/basenames" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">Base-native Identity</content>
-  </entry>
-  <entry>
-    <id>https://github.com/morpho-org/metamorpho</id>
-    <title>https://github.com/morpho-org/metamorpho</title>
-    <link href="https://github.com/morpho-org/metamorpho" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">MetaMorpho</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PaulRBerg/prb-math</id>
-    <title>https://github.com/PaulRBerg/prb-math</title>
-    <link href="https://github.com/PaulRBerg/prb-math" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">Solidity library for advanced fixed-point math</content>
-  </entry>
-  <entry>
-    <id>https://github.com/WTFAcademy/WTF-Dapp</id>
-    <title>https://github.com/WTFAcademy/WTF-Dapp</title>
-    <link href="https://github.com/WTFAcademy/WTF-Dapp" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">⭐ Minimal tutorials to build Dapps | DEX Development Tutorial | Uniswap 代码解析 | 去中心化交易所实战教程 | DApp 智能合约和前端教程 ⭐</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Vectorized/solady</id>
-    <title>https://github.com/Vectorized/solady</title>
-    <link href="https://github.com/Vectorized/solady" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">Optimized Solidity snippets.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Dapp-Learning-DAO/Dapp-Learning</id>
-    <title>https://github.com/Dapp-Learning-DAO/Dapp-Learning</title>
-    <link href="https://github.com/Dapp-Learning-DAO/Dapp-Learning" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/semgrep/semgrep-rules</id>
+    <id>https://github.com/semgrep/semgrep-rules#1735212535</id>
     <title>https://github.com/semgrep/semgrep-rules</title>
     <link href="https://github.com/semgrep/semgrep-rules" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
+    <updated>2024-12-26T11:28:55+00:00</updated>
     <content type="text">Semgrep rules registry</content>
   </entry>
   <entry>
-    <id>https://github.com/0xPolygonHermez/zkevm-contracts</id>
-    <title>https://github.com/0xPolygonHermez/zkevm-contracts</title>
-    <link href="https://github.com/0xPolygonHermez/zkevm-contracts" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">Polygon zkEVM Smart Contracts</content>
+    <id>https://github.com/Uniswap/v4-periphery#1735212535</id>
+    <title>https://github.com/Uniswap/v4-periphery</title>
+    <link href="https://github.com/Uniswap/v4-periphery" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</content>
   </entry>
   <entry>
-    <id>https://github.com/AmazingAng/WTF-Solidity</id>
-    <title>https://github.com/AmazingAng/WTF-Solidity</title>
-    <link href="https://github.com/AmazingAng/WTF-Solidity" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
-    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
+    <id>https://github.com/Uniswap/permit2#1735212535</id>
+    <title>https://github.com/Uniswap/permit2</title>
+    <link href="https://github.com/Uniswap/permit2" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">🔑🔑🔑 next generation token approvals mechanism</content>
   </entry>
   <entry>
-    <id>https://github.com/OpenZeppelin/openzeppelin-contracts</id>
+    <id>https://github.com/PaulRBerg/prb-math#1735212535</id>
+    <title>https://github.com/PaulRBerg/prb-math</title>
+    <link href="https://github.com/PaulRBerg/prb-math" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">Solidity library for advanced fixed-point math</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1735212535</id>
     <title>https://github.com/OpenZeppelin/openzeppelin-contracts</title>
     <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
-    <updated>2024-12-26T04:20:30+00:00</updated>
+    <updated>2024-12-26T11:28:55+00:00</updated>
     <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Dapp-Learning-DAO/Dapp-Learning#1735212535</id>
+    <title>https://github.com/Dapp-Learning-DAO/Dapp-Learning</title>
+    <link href="https://github.com/Dapp-Learning-DAO/Dapp-Learning" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/v2-periphery#1735212535</id>
+    <title>https://github.com/Uniswap/v2-periphery</title>
+    <link href="https://github.com/Uniswap/v2-periphery" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">🎚 Peripheral smart contracts for interacting with Uniswap V2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AmazingAng/WTF-Solidity#1735212535</id>
+    <title>https://github.com/AmazingAng/WTF-Solidity</title>
+    <link href="https://github.com/AmazingAng/WTF-Solidity" />
+    <updated>2024-12-26T11:28:55+00:00</updated>
+    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
   </entry>
 </feed>

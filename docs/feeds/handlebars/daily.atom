@@ -4,29 +4,22 @@
   <title>GitHub Treanding - handlebars (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/handlebars/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/handlebars/" rel="alternate" />
-  <updated>2024-12-26T04:09:47+00:00</updated>
+  <updated>2024-12-26T11:15:17+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/rust-lang/rust-by-example</id>
-    <title>https://github.com/rust-lang/rust-by-example</title>
-    <link href="https://github.com/rust-lang/rust-by-example" />
-    <updated>2024-12-26T04:09:47+00:00</updated>
-    <content type="text">Learn Rust with examples (Live code editor included)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elastic/integrations</id>
-    <title>https://github.com/elastic/integrations</title>
-    <link href="https://github.com/elastic/integrations" />
-    <updated>2024-12-26T04:09:47+00:00</updated>
-    <content type="text">Elastic Integrations</content>
-  </entry>
-  <entry>
-    <id>https://github.com/CrunchyData/postgres-operator-examples</id>
+    <id>https://github.com/CrunchyData/postgres-operator-examples#1735211717</id>
     <title>https://github.com/CrunchyData/postgres-operator-examples</title>
     <link href="https://github.com/CrunchyData/postgres-operator-examples" />
-    <updated>2024-12-26T04:09:47+00:00</updated>
+    <updated>2024-12-26T11:15:17+00:00</updated>
     <content type="text">Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-by-example#1735211717</id>
+    <title>https://github.com/rust-lang/rust-by-example</title>
+    <link href="https://github.com/rust-lang/rust-by-example" />
+    <updated>2024-12-26T11:15:17+00:00</updated>
+    <content type="text">Learn Rust with examples (Live code editor included)</content>
   </entry>
 </feed>

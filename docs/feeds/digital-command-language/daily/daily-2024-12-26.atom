@@ -4,8 +4,15 @@
   <title>GitHub Treanding - digital-command-language (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/digital-command-language/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/digital-command-language/" rel="alternate" />
-  <updated>2024-12-26T04:06:42+00:00</updated>
+  <updated>2024-12-26T11:11:22+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/github/dmca#1735211482</id>
+    <title>https://github.com/github/dmca</title>
+    <link href="https://github.com/github/dmca" />
+    <updated>2024-12-26T11:11:22+00:00</updated>
+    <content type="text">Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at</content>
+  </entry>
 </feed>

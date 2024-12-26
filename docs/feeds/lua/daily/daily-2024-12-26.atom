@@ -4,134 +4,106 @@
   <title>GitHub Treanding - lua (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/" rel="alternate" />
-  <updated>2024-12-26T04:12:59+00:00</updated>
+  <updated>2024-12-26T11:19:14+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/mfussenegger/nvim-lint</id>
-    <title>https://github.com/mfussenegger/nvim-lint</title>
-    <link href="https://github.com/mfussenegger/nvim-lint" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/xmake-io/xmake</id>
-    <title>https://github.com/xmake-io/xmake</title>
-    <link href="https://github.com/xmake-io/xmake" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">🔥 A cross-platform build utility based on Lua</content>
-  </entry>
-  <entry>
-    <id>https://github.com/stevearc/conform.nvim</id>
-    <title>https://github.com/stevearc/conform.nvim</title>
-    <link href="https://github.com/stevearc/conform.nvim" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nvim-java/nvim-java</id>
-    <title>https://github.com/nvim-java/nvim-java</title>
-    <link href="https://github.com/nvim-java/nvim-java" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">Painless Java in Neovim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Saghen/blink.cmp</id>
-    <title>https://github.com/Saghen/blink.cmp</title>
-    <link href="https://github.com/Saghen/blink.cmp" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/luarocks/luarocks</id>
-    <title>https://github.com/luarocks/luarocks</title>
-    <link href="https://github.com/luarocks/luarocks" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">LuaRocks is the package manager for the Lua programming language.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/linkease/istore</id>
-    <title>https://github.com/linkease/istore</title>
-    <link href="https://github.com/linkease/istore" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT</content>
-  </entry>
-  <entry>
-    <id>https://github.com/opentibiabr/canary</id>
-    <title>https://github.com/opentibiabr/canary</title>
-    <link href="https://github.com/opentibiabr/canary" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">Canary Server 13.x for OpenTibia community.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/IntQuant/noita_entangled_worlds</id>
-    <title>https://github.com/IntQuant/noita_entangled_worlds</title>
-    <link href="https://github.com/IntQuant/noita_entangled_worlds" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">True coop multiplayer mod for Noita.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Steamopollys/Steamodded</id>
-    <title>https://github.com/Steamopollys/Steamodded</title>
-    <link href="https://github.com/Steamopollys/Steamodded" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">A Balatro ModLoader</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tarantool/tarantool</id>
-    <title>https://github.com/tarantool/tarantool</title>
-    <link href="https://github.com/tarantool/tarantool" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">Get your data in RAM. Get compute close to data. Enjoy the performance.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/LandSandBoat/server</id>
-    <title>https://github.com/LandSandBoat/server</title>
-    <link href="https://github.com/LandSandBoat/server" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">⛵ LandSandBoat - a server emulator for Final Fantasy XI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mrcjkb/rustaceanvim</id>
-    <title>https://github.com/mrcjkb/rustaceanvim</title>
-    <link href="https://github.com/mrcjkb/rustaceanvim" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/MathIsFun0/Cryptid</id>
+    <id>https://github.com/MathIsFun0/Cryptid#1735211954</id>
     <title>https://github.com/MathIsFun0/Cryptid</title>
     <link href="https://github.com/MathIsFun0/Cryptid" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
+    <updated>2024-12-26T11:19:14+00:00</updated>
     <content type="text">An unbalanced Balatro mod</content>
   </entry>
   <entry>
-    <id>https://github.com/Kong/kong</id>
+    <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1735211954</id>
+    <title>https://github.com/PathOfBuildingCommunity/PathOfBuilding</title>
+    <link href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">Offline build planner for Path of Exile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LuaLS/lua-language-server#1735211954</id>
+    <title>https://github.com/LuaLS/lua-language-server</title>
+    <link href="https://github.com/LuaLS/lua-language-server" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">A language server that offers Lua language support - programmed in Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaorouji/openwrt-passwall2#1735211954</id>
+    <title>https://github.com/xiaorouji/openwrt-passwall2</title>
+    <link href="https://github.com/xiaorouji/openwrt-passwall2" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/amitds1997/remote-nvim.nvim#1735211954</id>
+    <title>https://github.com/amitds1997/remote-nvim.nvim</title>
+    <link href="https://github.com/amitds1997/remote-nvim.nvim" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">Remote development in Neovim 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/apisix#1735211954</id>
+    <title>https://github.com/apache/apisix</title>
+    <link href="https://github.com/apache/apisix" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">The Cloud-Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1735211954</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LandSandBoat/server#1735211954</id>
+    <title>https://github.com/LandSandBoat/server</title>
+    <link href="https://github.com/LandSandBoat/server" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">⛵ LandSandBoat - a server emulator for Final Fantasy XI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kong/kong#1735211954</id>
     <title>https://github.com/Kong/kong</title>
     <link href="https://github.com/Kong/kong" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
+    <updated>2024-12-26T11:19:14+00:00</updated>
     <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
   </entry>
   <entry>
-    <id>https://github.com/nvim-neorg/neorg</id>
-    <title>https://github.com/nvim-neorg/neorg</title>
-    <link href="https://github.com/nvim-neorg/neorg" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">Modernity meets insane extensibility. The future of organizing your life in Neovim.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/epwalsh/obsidian.nvim</id>
-    <title>https://github.com/epwalsh/obsidian.nvim</title>
-    <link href="https://github.com/epwalsh/obsidian.nvim" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
-    <content type="text">Obsidian 🤝 Neovim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/catppuccin/nvim</id>
+    <id>https://github.com/catppuccin/nvim#1735211954</id>
     <title>https://github.com/catppuccin/nvim</title>
     <link href="https://github.com/catppuccin/nvim" />
-    <updated>2024-12-26T04:12:59+00:00</updated>
+    <updated>2024-12-26T11:19:14+00:00</updated>
     <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OXY2DEV/markview.nvim#1735211954</id>
+    <title>https://github.com/OXY2DEV/markview.nvim</title>
+    <link href="https://github.com/OXY2DEV/markview.nvim" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">☄️ Highly customisable markdown(latex &amp; inline html) previewer for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tarantool/tarantool#1735211954</id>
+    <title>https://github.com/tarantool/tarantool</title>
+    <link href="https://github.com/tarantool/tarantool" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">Get your data in RAM. Get compute close to data. Enjoy the performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntQuant/noita_entangled_worlds#1735211954</id>
+    <title>https://github.com/IntQuant/noita_entangled_worlds</title>
+    <link href="https://github.com/IntQuant/noita_entangled_worlds" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">True coop multiplayer mod for Noita.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1735211954</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2024-12-26T11:19:14+00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
   </entry>
 </feed>

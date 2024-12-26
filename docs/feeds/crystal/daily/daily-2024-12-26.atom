@@ -4,15 +4,29 @@
   <title>GitHub Treanding - crystal (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/crystal/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/crystal/" rel="alternate" />
-  <updated>2024-12-26T04:05:53+00:00</updated>
+  <updated>2024-12-26T11:10:18+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/crystal-ameba/ameba</id>
+    <id>https://github.com/vitobotta/hetzner-k3s#1735211418</id>
+    <title>https://github.com/vitobotta/hetzner-k3s</title>
+    <link href="https://github.com/vitobotta/hetzner-k3s" />
+    <updated>2024-12-26T11:10:18+00:00</updated>
+    <content type="text">The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crystal-lang/crystal#1735211418</id>
+    <title>https://github.com/crystal-lang/crystal</title>
+    <link href="https://github.com/crystal-lang/crystal" />
+    <updated>2024-12-26T11:10:18+00:00</updated>
+    <content type="text">The Crystal Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crystal-ameba/ameba#1735211418</id>
     <title>https://github.com/crystal-ameba/ameba</title>
     <link href="https://github.com/crystal-ameba/ameba" />
-    <updated>2024-12-26T04:05:53+00:00</updated>
+    <updated>2024-12-26T11:10:18+00:00</updated>
     <content type="text">A static code analysis tool for Crystal</content>
   </entry>
 </feed>

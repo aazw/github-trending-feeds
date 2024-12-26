@@ -4,99 +4,113 @@
   <title>GitHub Treanding - hcl (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/" rel="alternate" />
-  <updated>2024-12-26T04:09:58+00:00</updated>
+  <updated>2024-12-26T11:15:32+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/GoogleCloudPlatform/terraform-google-secret-manager</id>
-    <title>https://github.com/GoogleCloudPlatform/terraform-google-secret-manager</title>
-    <link href="https://github.com/GoogleCloudPlatform/terraform-google-secret-manager" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Creates one or more Google Secret Manager secrets and manages basic permissions for them</content>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1735211732</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
   </entry>
   <entry>
-    <id>https://github.com/cloudposse/terraform-aws-ses</id>
-    <title>https://github.com/cloudposse/terraform-aws-ses</title>
-    <link href="https://github.com/cloudposse/terraform-aws-ses" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Terraform module to provision Simple Email Service on AWS</content>
+    <id>https://github.com/antonputra/tutorials#1735211732</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">DevOps Tutorials</content>
   </entry>
   <entry>
-    <id>https://github.com/cloudposse/terraform-aws-elasticsearch</id>
-    <title>https://github.com/cloudposse/terraform-aws-elasticsearch</title>
-    <link href="https://github.com/cloudposse/terraform-aws-elasticsearch" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Terraform module to provision an Elasticsearch cluster with built-in integrations with Kibana and Logstash.</content>
+    <id>https://github.com/lgallard/terraform-aws-cognito-user-pool#1735211732</id>
+    <title>https://github.com/lgallard/terraform-aws-cognito-user-pool</title>
+    <link href="https://github.com/lgallard/terraform-aws-cognito-user-pool" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Terraform module to create Amazon Cognito User Pools, configure its attributes and resources such as app clients, domain, resource servers. Amazon Cognito User Pools provide a secure user directory that scales to hundreds of millions of users.</content>
   </entry>
   <entry>
-    <id>https://github.com/Azure/terraform-azurerm-naming</id>
-    <title>https://github.com/Azure/terraform-azurerm-naming</title>
-    <link href="https://github.com/Azure/terraform-azurerm-naming" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/cloudposse/terraform-aws-efs#1735211732</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
   </entry>
   <entry>
-    <id>https://github.com/cloudposse/terraform-aws-ecs-container-definition</id>
-    <title>https://github.com/cloudposse/terraform-aws-ecs-container-definition</title>
-    <link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</content>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-instance#1735211732</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-instance</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-instance" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Terraform module for provisioning a general purpose EC2 host</content>
   </entry>
   <entry>
-    <id>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine</id>
-    <title>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine</title>
-    <link href="https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Terraform AVM module for virtual machines</content>
+    <id>https://github.com/hashicorp/terraform-aws-consul#1735211732</id>
+    <title>https://github.com/hashicorp/terraform-aws-consul</title>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">A Terraform Module for how to run Consul on AWS using Terraform and Packer</content>
   </entry>
   <entry>
-    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached</id>
+    <id>https://github.com/cloudposse/terraform-example-module#1735211732</id>
+    <title>https://github.com/cloudposse/terraform-example-module</title>
+    <link href="https://github.com/cloudposse/terraform-example-module" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Example Terraform Module Scaffolding</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-eks-fargate-profile#1735211732</id>
+    <title>https://github.com/cloudposse/terraform-aws-eks-fargate-profile</title>
+    <link href="https://github.com/cloudposse/terraform-aws-eks-fargate-profile" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Terraform module to provision an EKS Fargate Profile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-sso#1735211732</id>
+    <title>https://github.com/cloudposse/terraform-aws-sso</title>
+    <link href="https://github.com/cloudposse/terraform-aws-sso" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Terraform module to configure AWS Single Sign-On (SSO)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/setup-packer#1735211732</id>
+    <title>https://github.com/hashicorp/setup-packer</title>
+    <link href="https://github.com/hashicorp/setup-packer" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Run HashiCorp Packer as part of your GitHub Actions Workflow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1735211732</id>
     <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
     <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
+    <updated>2024-12-26T11:15:32+00:00</updated>
     <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
   </entry>
   <entry>
-    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</id>
-    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
-    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+    <id>https://github.com/cloudposse/terraform-aws-dynamodb#1735211732</id>
+    <title>https://github.com/cloudposse/terraform-aws-dynamodb</title>
+    <link href="https://github.com/cloudposse/terraform-aws-dynamodb" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Terraform module that implements AWS DynamoDB with support for AutoScaling</content>
   </entry>
   <entry>
-    <id>https://github.com/ministryofjustice/modernisation-platform-environments</id>
-    <title>https://github.com/ministryofjustice/modernisation-platform-environments</title>
-    <link href="https://github.com/ministryofjustice/modernisation-platform-environments" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Modernisation platform environments • This repository is defined and managed in Terraform</content>
-  </entry>
-  <entry>
-    <id>https://github.com/terraform-google-modules/terraform-google-event-function</id>
-    <title>https://github.com/terraform-google-modules/terraform-google-event-function</title>
-    <link href="https://github.com/terraform-google-modules/terraform-google-event-function" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Responds to logging events with a Cloud Function</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</id>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1735211732</id>
     <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
     <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
+    <updated>2024-12-26T11:15:32+00:00</updated>
     <content type="text">Terraform module to provision AWS MSK</content>
   </entry>
   <entry>
-    <id>https://github.com/btkrausen/hashicorp</id>
-    <title>https://github.com/btkrausen/hashicorp</title>
-    <link href="https://github.com/btkrausen/hashicorp" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
-    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1735211732</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2024-12-26T11:15:32+00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
   </entry>
   <entry>
-    <id>https://github.com/ChristianLempa/boilerplates</id>
+    <id>https://github.com/ChristianLempa/boilerplates#1735211732</id>
     <title>https://github.com/ChristianLempa/boilerplates</title>
     <link href="https://github.com/ChristianLempa/boilerplates" />
-    <updated>2024-12-26T04:09:58+00:00</updated>
+    <updated>2024-12-26T11:15:32+00:00</updated>
     <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
   </entry>
 </feed>

@@ -4,22 +4,22 @@
   <title>GitHub Treanding - 1c-enterprise (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/1c-enterprise/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/1c-enterprise/" rel="alternate" />
-  <updated>2024-12-26T04:02:19+00:00</updated>
+  <updated>2024-12-26T11:06:08+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/cpr1c/tools_ui_1c</id>
+    <id>https://github.com/cpr1c/tools_ui_1c#1735211168</id>
     <title>https://github.com/cpr1c/tools_ui_1c</title>
     <link href="https://github.com/cpr1c/tools_ui_1c" />
-    <updated>2024-12-26T04:02:19+00:00</updated>
+    <updated>2024-12-26T11:06:08+00:00</updated>
     <content type="text">Универсальные инструменты 1С для управляемых форм</content>
   </entry>
   <entry>
-    <id>https://github.com/Pr-Mex/vanessa-automation</id>
+    <id>https://github.com/Pr-Mex/vanessa-automation#1735211168</id>
     <title>https://github.com/Pr-Mex/vanessa-automation</title>
     <link href="https://github.com/Pr-Mex/vanessa-automation" />
-    <updated>2024-12-26T04:02:19+00:00</updated>
+    <updated>2024-12-26T11:06:08+00:00</updated>
     <content type="text">BDD в 1С</content>
   </entry>
 </feed>

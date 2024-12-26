@@ -4,50 +4,57 @@
   <title>GitHub Treanding - systemverilog (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/" rel="alternate" />
-  <updated>2024-12-26T04:21:21+00:00</updated>
+  <updated>2024-12-26T11:30:01+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/lowRISC/opentitan</id>
-    <title>https://github.com/lowRISC/opentitan</title>
-    <link href="https://github.com/lowRISC/opentitan" />
-    <updated>2024-12-26T04:21:21+00:00</updated>
-    <content type="text">OpenTitan: Open source silicon root of trust</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openhwgroup/cvfpu</id>
+    <id>https://github.com/openhwgroup/cvfpu#1735212601</id>
     <title>https://github.com/openhwgroup/cvfpu</title>
     <link href="https://github.com/openhwgroup/cvfpu" />
-    <updated>2024-12-26T04:21:21+00:00</updated>
+    <updated>2024-12-26T11:30:01+00:00</updated>
     <content type="text">Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.</content>
   </entry>
   <entry>
-    <id>https://github.com/pulp-platform/riscv-dbg</id>
-    <title>https://github.com/pulp-platform/riscv-dbg</title>
-    <link href="https://github.com/pulp-platform/riscv-dbg" />
-    <updated>2024-12-26T04:21:21+00:00</updated>
-    <content type="text">RISC-V Debug Support for our PULP RISC-V Cores</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openhwgroup/cv-hpdcache</id>
+    <id>https://github.com/openhwgroup/cv-hpdcache#1735212601</id>
     <title>https://github.com/openhwgroup/cv-hpdcache</title>
     <link href="https://github.com/openhwgroup/cv-hpdcache" />
-    <updated>2024-12-26T04:21:21+00:00</updated>
+    <updated>2024-12-26T11:30:01+00:00</updated>
     <content type="text">RTL sources of the High-Performance L1 Dcache (HPDcache) for OpenHW CV cores</content>
   </entry>
   <entry>
-    <id>https://github.com/chipsalliance/Cores-VeeR-EL2</id>
+    <id>https://github.com/pulp-platform/riscv-dbg#1735212601</id>
+    <title>https://github.com/pulp-platform/riscv-dbg</title>
+    <link href="https://github.com/pulp-platform/riscv-dbg" />
+    <updated>2024-12-26T11:30:01+00:00</updated>
+    <content type="text">RISC-V Debug Support for our PULP RISC-V Cores</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/ibex#1735212601</id>
+    <title>https://github.com/lowRISC/ibex</title>
+    <link href="https://github.com/lowRISC/ibex" />
+    <updated>2024-12-26T11:30:01+00:00</updated>
+    <content type="text">Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adam-maj/tiny-gpu#1735212601</id>
+    <title>https://github.com/adam-maj/tiny-gpu</title>
+    <link href="https://github.com/adam-maj/tiny-gpu" />
+    <updated>2024-12-26T11:30:01+00:00</updated>
+    <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1735212601</id>
     <title>https://github.com/chipsalliance/Cores-VeeR-EL2</title>
     <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" />
-    <updated>2024-12-26T04:21:21+00:00</updated>
+    <updated>2024-12-26T11:30:01+00:00</updated>
     <content type="text">VeeR EL2 Core</content>
   </entry>
   <entry>
-    <id>https://github.com/adam-maj/tiny-gpu</id>
-    <title>https://github.com/adam-maj/tiny-gpu</title>
-    <link href="https://github.com/adam-maj/tiny-gpu" />
-    <updated>2024-12-26T04:21:21+00:00</updated>
-    <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
+    <id>https://github.com/lowRISC/opentitan#1735212601</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2024-12-26T11:30:01+00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
   </entry>
 </feed>

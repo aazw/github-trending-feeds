@@ -4,22 +4,36 @@
   <title>GitHub Treanding - adblock-filter-list (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/" rel="alternate" />
-  <updated>2024-12-26T04:02:33+00:00</updated>
+  <updated>2024-12-26T11:06:25+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/AdguardTeam/AdguardFilters</id>
-    <title>https://github.com/AdguardTeam/AdguardFilters</title>
-    <link href="https://github.com/AdguardTeam/AdguardFilters" />
-    <updated>2024-12-26T04:02:33+00:00</updated>
-    <content type="text">AdGuard Content Blocking Filters</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AdguardTeam/AdGuardSDNSFilter</id>
+    <id>https://github.com/AdguardTeam/AdGuardSDNSFilter#1735211185</id>
     <title>https://github.com/AdguardTeam/AdGuardSDNSFilter</title>
     <link href="https://github.com/AdguardTeam/AdGuardSDNSFilter" />
-    <updated>2024-12-26T04:02:33+00:00</updated>
+    <updated>2024-12-26T11:06:25+00:00</updated>
     <content type="text">AdGuard DNS filter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/easylist/easylist#1735211185</id>
+    <title>https://github.com/easylist/easylist</title>
+    <link href="https://github.com/easylist/easylist" />
+    <updated>2024-12-26T11:06:25+00:00</updated>
+    <content type="text">EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/FiltersRegistry#1735211185</id>
+    <title>https://github.com/AdguardTeam/FiltersRegistry</title>
+    <link href="https://github.com/AdguardTeam/FiltersRegistry" />
+    <updated>2024-12-26T11:06:25+00:00</updated>
+    <content type="text">Known filters subscriptions transformed for better compatibility with AdGuard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdguardFilters#1735211185</id>
+    <title>https://github.com/AdguardTeam/AdguardFilters</title>
+    <link href="https://github.com/AdguardTeam/AdguardFilters" />
+    <updated>2024-12-26T11:06:25+00:00</updated>
+    <content type="text">AdGuard Content Blocking Filters</content>
   </entry>
 </feed>

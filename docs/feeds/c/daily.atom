@@ -4,141 +4,162 @@
   <title>GitHub Treanding - c (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/c/" rel="alternate" />
-  <updated>2024-12-26T04:04:20+00:00</updated>
+  <updated>2024-12-26T11:08:32+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pjsip/pjproject</id>
-    <title>https://github.com/pjsip/pjproject</title>
-    <link href="https://github.com/pjsip/pjproject" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">PJSIP project</content>
+    <id>https://github.com/RT-Thread/rt-thread#1735211312</id>
+    <title>https://github.com/RT-Thread/rt-thread</title>
+    <link href="https://github.com/RT-Thread/rt-thread" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">RT-Thread is an open source IoT Real-Time Operating System (RTOS).</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/nuttx</id>
-    <title>https://github.com/apache/nuttx</title>
-    <link href="https://github.com/apache/nuttx" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">Apache NuttX is a mature, real-time embedded operating system (RTOS)</content>
+    <id>https://github.com/Genymobile/scrcpy#1735211312</id>
+    <title>https://github.com/Genymobile/scrcpy</title>
+    <link href="https://github.com/Genymobile/scrcpy" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Display and control your Android device</content>
   </entry>
   <entry>
-    <id>https://github.com/darktable-org/darktable</id>
-    <title>https://github.com/darktable-org/darktable</title>
-    <link href="https://github.com/darktable-org/darktable" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">darktable is an open source photography workflow application and raw developer</content>
-  </entry>
-  <entry>
-    <id>https://github.com/palera1n/palera1n</id>
-    <title>https://github.com/palera1n/palera1n</title>
-    <link href="https://github.com/palera1n/palera1n" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/lvgl/lvgl</id>
+    <id>https://github.com/lvgl/lvgl#1735211312</id>
     <title>https://github.com/lvgl/lvgl</title>
     <link href="https://github.com/lvgl/lvgl" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
+    <updated>2024-12-26T11:08:32+00:00</updated>
     <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
   </entry>
   <entry>
-    <id>https://github.com/ImageMagick/ImageMagick</id>
-    <title>https://github.com/ImageMagick/ImageMagick</title>
-    <link href="https://github.com/ImageMagick/ImageMagick" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">🧙‍♂️ ImageMagick 7</content>
+    <id>https://github.com/immortalwrt/immortalwrt#1735211312</id>
+    <title>https://github.com/immortalwrt/immortalwrt</title>
+    <link href="https://github.com/immortalwrt/immortalwrt" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">An opensource OpenWrt variant for mainland China users.</content>
   </entry>
   <entry>
-    <id>https://github.com/warmcat/libwebsockets</id>
-    <title>https://github.com/warmcat/libwebsockets</title>
-    <link href="https://github.com/warmcat/libwebsockets" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">canonical libwebsockets.org networking library</content>
+    <id>https://github.com/pr3y/Bruce#1735211312</id>
+    <title>https://github.com/pr3y/Bruce</title>
+    <link href="https://github.com/pr3y/Bruce" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Predatory ESP32 Firmware</content>
   </entry>
   <entry>
-    <id>https://github.com/FreeRTOS/FreeRTOS-Kernel</id>
-    <title>https://github.com/FreeRTOS/FreeRTOS-Kernel</title>
-    <link href="https://github.com/FreeRTOS/FreeRTOS-Kernel" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</content>
+    <id>https://github.com/obsproject/obs-studio#1735211312</id>
+    <title>https://github.com/obsproject/obs-studio</title>
+    <link href="https://github.com/obsproject/obs-studio" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">OBS Studio - Free and open source software for live streaming and screen recording</content>
   </entry>
   <entry>
-    <id>https://github.com/libsdl-org/SDL_ttf</id>
-    <title>https://github.com/libsdl-org/SDL_ttf</title>
-    <link href="https://github.com/libsdl-org/SDL_ttf" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">Support for TrueType (.ttf) font files with Simple Directmedia Layer.</content>
+    <id>https://github.com/wechat-miniprogram/minigame-unity-webgl-transform#1735211312</id>
+    <title>https://github.com/wechat-miniprogram/minigame-unity-webgl-transform</title>
+    <link href="https://github.com/wechat-miniprogram/minigame-unity-webgl-transform" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Wechat Mini Game Unity engine adapter documents.</content>
   </entry>
   <entry>
-    <id>https://github.com/HarbourMasters/Shipwright</id>
+    <id>https://github.com/glfw/glfw#1735211312</id>
+    <title>https://github.com/glfw/glfw</title>
+    <link href="https://github.com/glfw/glfw" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arendst/Tasmota#1735211312</id>
+    <title>https://github.com/arendst/Tasmota</title>
+    <link href="https://github.com/arendst/Tasmota" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ffmpegwasm/ffmpeg.wasm#1735211312</id>
+    <title>https://github.com/ffmpegwasm/ffmpeg.wasm</title>
+    <link href="https://github.com/ffmpegwasm/ffmpeg.wasm" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">FFmpeg for browser, powered by WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HarbourMasters/Shipwright#1735211312</id>
     <title>https://github.com/HarbourMasters/Shipwright</title>
     <link href="https://github.com/HarbourMasters/Shipwright" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
+    <updated>2024-12-26T11:08:32+00:00</updated>
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/DaveGamble/cJSON</id>
-    <title>https://github.com/DaveGamble/cJSON</title>
-    <link href="https://github.com/DaveGamble/cJSON" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">Ultralightweight JSON parser in ANSI C</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nicbarker/clay</id>
-    <title>https://github.com/nicbarker/clay</title>
-    <link href="https://github.com/nicbarker/clay" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">High performance UI layout library in C.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/libsdl-org/SDL</id>
+    <id>https://github.com/libsdl-org/SDL#1735211312</id>
     <title>https://github.com/libsdl-org/SDL</title>
     <link href="https://github.com/libsdl-org/SDL" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
+    <updated>2024-12-26T11:08:32+00:00</updated>
     <content type="text">Simple Directmedia Layer</content>
   </entry>
   <entry>
-    <id>https://github.com/hanwckf/immortalwrt-mt798x</id>
-    <title>https://github.com/hanwckf/immortalwrt-mt798x</title>
-    <link href="https://github.com/hanwckf/immortalwrt-mt798x" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">An Immortalwrt variant for mediatek mt798x routers.</content>
+    <id>https://github.com/kingToolbox/WindTerm#1735211312</id>
+    <title>https://github.com/kingToolbox/WindTerm</title>
+    <link href="https://github.com/kingToolbox/WindTerm" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</content>
   </entry>
   <entry>
-    <id>https://github.com/bol-van/zapret</id>
-    <title>https://github.com/bol-van/zapret</title>
-    <link href="https://github.com/bol-van/zapret" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">DPI bypass multi platform</content>
+    <id>https://github.com/UberGuidoZ/Flipper#1735211312</id>
+    <title>https://github.com/UberGuidoZ/Flipper</title>
+    <link href="https://github.com/UberGuidoZ/Flipper" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Playground (and dump) of stuff I make or modify for the Flipper Zero</content>
   </entry>
   <entry>
-    <id>https://github.com/VirusTotal/yara</id>
-    <title>https://github.com/VirusTotal/yara</title>
-    <link href="https://github.com/VirusTotal/yara" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">The pattern matching swiss knife</content>
+    <id>https://github.com/c3lang/c3c#1735211312</id>
+    <title>https://github.com/c3lang/c3c</title>
+    <link href="https://github.com/c3lang/c3c" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Compiler for the C3 language</content>
   </entry>
   <entry>
-    <id>https://github.com/hengyoush/kyanos</id>
+    <id>https://github.com/OnionUI/Onion#1735211312</id>
+    <title>https://github.com/OnionUI/Onion</title>
+    <link href="https://github.com/OnionUI/Onion" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">OS overhaul for Miyoo Mini and Mini+</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coolsnowwolf/lede#1735211312</id>
+    <title>https://github.com/coolsnowwolf/lede</title>
+    <link href="https://github.com/coolsnowwolf/lede" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Lean's LEDE source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pjsip/pjproject#1735211312</id>
+    <title>https://github.com/pjsip/pjproject</title>
+    <link href="https://github.com/pjsip/pjproject" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">PJSIP project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipperdevices/flipperzero-firmware#1735211312</id>
+    <title>https://github.com/flipperdevices/flipperzero-firmware</title>
+    <link href="https://github.com/flipperdevices/flipperzero-firmware" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Flipper Zero firmware source code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hengyoush/kyanos#1735211312</id>
     <title>https://github.com/hengyoush/kyanos</title>
     <link href="https://github.com/hengyoush/kyanos" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
+    <updated>2024-12-26T11:08:32+00:00</updated>
     <content type="text">Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/mimalloc</id>
-    <title>https://github.com/microsoft/mimalloc</title>
-    <link href="https://github.com/microsoft/mimalloc" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">mimalloc is a compact general purpose allocator with excellent performance.</content>
+    <id>https://github.com/DarkFlippers/unleashed-firmware#1735211312</id>
+    <title>https://github.com/DarkFlippers/unleashed-firmware</title>
+    <link href="https://github.com/DarkFlippers/unleashed-firmware" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Flipper Zero Unleashed Firmware</content>
   </entry>
   <entry>
-    <id>https://github.com/raysan5/raylib</id>
-    <title>https://github.com/raysan5/raylib</title>
-    <link href="https://github.com/raysan5/raylib" />
-    <updated>2024-12-26T04:04:20+00:00</updated>
-    <content type="text">A simple and easy-to-use library to enjoy videogames programming</content>
+    <id>https://github.com/betaflight/betaflight#1735211312</id>
+    <title>https://github.com/betaflight/betaflight</title>
+    <link href="https://github.com/betaflight/betaflight" />
+    <updated>2024-12-26T11:08:32+00:00</updated>
+    <content type="text">Open Source Flight Controller Firmware</content>
   </entry>
 </feed>

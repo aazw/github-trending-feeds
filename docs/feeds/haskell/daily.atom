@@ -4,106 +4,120 @@
   <title>GitHub Treanding - haskell (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/" rel="alternate" />
-  <updated>2024-12-26T04:09:54+00:00</updated>
+  <updated>2024-12-26T11:15:27+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/koka-lang/koka</id>
-    <title>https://github.com/koka-lang/koka</title>
-    <link href="https://github.com/koka-lang/koka" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">Koka language compiler and interpreter</content>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1735211727</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
   </entry>
   <entry>
-    <id>https://github.com/IntersectMBO/cardano-node</id>
-    <title>https://github.com/IntersectMBO/cardano-node</title>
-    <link href="https://github.com/IntersectMBO/cardano-node" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+    <id>https://github.com/IntersectMBO/cardano-ledger#1735211727</id>
+    <title>https://github.com/IntersectMBO/cardano-ledger</title>
+    <link href="https://github.com/IntersectMBO/cardano-ledger" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">The ledger implementation and specifications of the Cardano blockchain.</content>
   </entry>
   <entry>
-    <id>https://github.com/jgm/pandoc</id>
-    <title>https://github.com/jgm/pandoc</title>
-    <link href="https://github.com/jgm/pandoc" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">Universal markup converter</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NixOS/nixfmt</id>
-    <title>https://github.com/NixOS/nixfmt</title>
-    <link href="https://github.com/NixOS/nixfmt" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">The official (but not yet stable) formatter for Nix code</content>
-  </entry>
-  <entry>
-    <id>https://github.com/seanhess/hyperbole</id>
+    <id>https://github.com/seanhess/hyperbole#1735211727</id>
     <title>https://github.com/seanhess/hyperbole</title>
     <link href="https://github.com/seanhess/hyperbole" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
+    <updated>2024-12-26T11:15:27+00:00</updated>
     <content type="text">Haskell interactive serverside web framework inspired by HTMX</content>
   </entry>
   <entry>
-    <id>https://github.com/runtimeverification/haskell-backend</id>
+    <id>https://github.com/unisonweb/unison#1735211727</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/cabal#1735211727</id>
+    <title>https://github.com/haskell/cabal</title>
+    <link href="https://github.com/haskell/cabal" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">Official upstream development repository for Cabal and cabal-install</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-api#1735211727</id>
+    <title>https://github.com/IntersectMBO/cardano-api</title>
+    <link href="https://github.com/IntersectMBO/cardano-api" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">Cardano API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simplex-chat/simplexmq#1735211727</id>
+    <title>https://github.com/simplex-chat/simplexmq</title>
+    <link href="https://github.com/simplex-chat/simplexmq" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1735211727</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/system-f/fp-course#1735211727</id>
+    <title>https://github.com/system-f/fp-course</title>
+    <link href="https://github.com/system-f/fp-course" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">Functional Programming Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/juvix#1735211727</id>
+    <title>https://github.com/anoma/juvix</title>
+    <link href="https://github.com/anoma/juvix" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">A language for intent-centric and declarative decentralised applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1735211727</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixfmt#1735211727</id>
+    <title>https://github.com/NixOS/nixfmt</title>
+    <link href="https://github.com/NixOS/nixfmt" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">The official (but not yet stable) formatter for Nix code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runtimeverification/haskell-backend#1735211727</id>
     <title>https://github.com/runtimeverification/haskell-backend</title>
     <link href="https://github.com/runtimeverification/haskell-backend" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
+    <updated>2024-12-26T11:15:27+00:00</updated>
     <content type="text">The symbolic execution engine powering the K Framework</content>
   </entry>
   <entry>
-    <id>https://github.com/GaloisInc/cryptol</id>
-    <title>https://github.com/GaloisInc/cryptol</title>
-    <link href="https://github.com/GaloisInc/cryptol" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">Cryptol: The Language of Cryptography</content>
+    <id>https://github.com/jgm/pandoc#1735211727</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">Universal markup converter</content>
   </entry>
   <entry>
-    <id>https://github.com/GaloisInc/macaw</id>
-    <title>https://github.com/GaloisInc/macaw</title>
-    <link href="https://github.com/GaloisInc/macaw" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">Open source binary analysis tools.</content>
+    <id>https://github.com/simonmichael/hledger#1735211727</id>
+    <title>https://github.com/simonmichael/hledger</title>
+    <link href="https://github.com/simonmichael/hledger" />
+    <updated>2024-12-26T11:15:27+00:00</updated>
+    <content type="text">Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</content>
   </entry>
   <entry>
-    <id>https://github.com/GaloisInc/what4</id>
-    <title>https://github.com/GaloisInc/what4</title>
-    <link href="https://github.com/GaloisInc/what4" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">Symbolic formula representation and solver interaction library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/koalaman/shellcheck</id>
+    <id>https://github.com/koalaman/shellcheck#1735211727</id>
     <title>https://github.com/koalaman/shellcheck</title>
     <link href="https://github.com/koalaman/shellcheck" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
+    <updated>2024-12-26T11:15:27+00:00</updated>
     <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hadolint/hadolint</id>
-    <title>https://github.com/hadolint/hadolint</title>
-    <link href="https://github.com/hadolint/hadolint" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PostgREST/postgrest</id>
-    <title>https://github.com/PostgREST/postgrest</title>
-    <link href="https://github.com/PostgREST/postgrest" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">REST API for any Postgres database</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kmonad/kmonad</id>
-    <title>https://github.com/kmonad/kmonad</title>
-    <link href="https://github.com/kmonad/kmonad" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">An advanced keyboard manager</content>
-  </entry>
-  <entry>
-    <id>https://github.com/haskell/haskell-language-server</id>
-    <title>https://github.com/haskell/haskell-language-server</title>
-    <link href="https://github.com/haskell/haskell-language-server" />
-    <updated>2024-12-26T04:09:54+00:00</updated>
-    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
   </entry>
 </feed>

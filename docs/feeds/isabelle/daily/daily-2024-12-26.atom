@@ -4,8 +4,15 @@
   <title>GitHub Treanding - isabelle (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/isabelle/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/isabelle/" rel="alternate" />
-  <updated>2024-12-26T04:10:56+00:00</updated>
+  <updated>2024-12-26T11:16:42+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/seL4/l4v#1735211802</id>
+    <title>https://github.com/seL4/l4v</title>
+    <link href="https://github.com/seL4/l4v" />
+    <updated>2024-12-26T11:16:42+00:00</updated>
+    <content type="text">seL4 specification and proofs</content>
+  </entry>
 </feed>

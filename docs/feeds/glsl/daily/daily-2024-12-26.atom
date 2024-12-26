@@ -4,50 +4,64 @@
   <title>GitHub Treanding - glsl (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/glsl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/glsl/" rel="alternate" />
-  <updated>2024-12-26T04:09:06+00:00</updated>
+  <updated>2024-12-26T11:14:27+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/KhronosGroup/SPIRV-Cross</id>
-    <title>https://github.com/KhronosGroup/SPIRV-Cross</title>
-    <link href="https://github.com/KhronosGroup/SPIRV-Cross" />
-    <updated>2024-12-26T04:09:06+00:00</updated>
-    <content type="text">SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.</content>
+    <id>https://github.com/patriciogonzalezvivo/lygia#1735211667</id>
+    <title>https://github.com/patriciogonzalezvivo/lygia</title>
+    <link href="https://github.com/patriciogonzalezvivo/lygia" />
+    <updated>2024-12-26T11:14:27+00:00</updated>
+    <content type="text">LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility</content>
   </entry>
   <entry>
-    <id>https://github.com/libretro/glsl-shaders</id>
+    <id>https://github.com/libretro/glsl-shaders#1735211667</id>
     <title>https://github.com/libretro/glsl-shaders</title>
     <link href="https://github.com/libretro/glsl-shaders" />
-    <updated>2024-12-26T04:09:06+00:00</updated>
+    <updated>2024-12-26T11:14:27+00:00</updated>
     <content type="text">This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.</content>
   </entry>
   <entry>
-    <id>https://github.com/X0nk/Bliss-Shader</id>
-    <title>https://github.com/X0nk/Bliss-Shader</title>
-    <link href="https://github.com/X0nk/Bliss-Shader" />
-    <updated>2024-12-26T04:09:06+00:00</updated>
-    <content type="text">A minecraft shader which is an edit of chocapic v9</content>
+    <id>https://github.com/sixthsurge/photon#1735211667</id>
+    <title>https://github.com/sixthsurge/photon</title>
+    <link href="https://github.com/sixthsurge/photon" />
+    <updated>2024-12-26T11:14:27+00:00</updated>
+    <content type="text">A gameplay-focused shader pack for Minecraft</content>
   </entry>
   <entry>
-    <id>https://github.com/patriciogonzalezvivo/thebookofshaders</id>
+    <id>https://github.com/patriciogonzalezvivo/thebookofshaders#1735211667</id>
     <title>https://github.com/patriciogonzalezvivo/thebookofshaders</title>
     <link href="https://github.com/patriciogonzalezvivo/thebookofshaders" />
-    <updated>2024-12-26T04:09:06+00:00</updated>
+    <updated>2024-12-26T11:14:27+00:00</updated>
     <content type="text">Step-by-step guide through the abstract and complex universe of Fragment Shaders.</content>
   </entry>
   <entry>
-    <id>https://github.com/Open4Es/Open4Es-Shader-Android</id>
+    <id>https://github.com/X0nk/Bliss-Shader#1735211667</id>
+    <title>https://github.com/X0nk/Bliss-Shader</title>
+    <link href="https://github.com/X0nk/Bliss-Shader" />
+    <updated>2024-12-26T11:14:27+00:00</updated>
+    <content type="text">A minecraft shader which is an edit of chocapic v9</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KhronosGroup/SPIRV-Cross#1735211667</id>
+    <title>https://github.com/KhronosGroup/SPIRV-Cross</title>
+    <link href="https://github.com/KhronosGroup/SPIRV-Cross" />
+    <updated>2024-12-26T11:14:27+00:00</updated>
+    <content type="text">SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Open4Es/Open4Es-Shader-Android#1735211667</id>
     <title>https://github.com/Open4Es/Open4Es-Shader-Android</title>
     <link href="https://github.com/Open4Es/Open4Es-Shader-Android" />
-    <updated>2024-12-26T04:09:06+00:00</updated>
+    <updated>2024-12-26T11:14:27+00:00</updated>
     <content type="text">This is a shader can running on Minecraft Java Edition For Phone project which uses GL4ES. This repository contains source code for Android platform.</content>
   </entry>
   <entry>
-    <id>https://github.com/SaschaWillems/Vulkan</id>
+    <id>https://github.com/SaschaWillems/Vulkan#1735211667</id>
     <title>https://github.com/SaschaWillems/Vulkan</title>
     <link href="https://github.com/SaschaWillems/Vulkan" />
-    <updated>2024-12-26T04:09:06+00:00</updated>
+    <updated>2024-12-26T11:14:27+00:00</updated>
     <content type="text">C++ examples for the Vulkan graphics API</content>
   </entry>
 </feed>

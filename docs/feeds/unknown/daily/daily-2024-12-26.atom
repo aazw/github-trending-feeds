@@ -4,92 +4,78 @@
   <title>GitHub Treanding - unknown (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/" rel="alternate" />
-  <updated>2024-12-26T04:22:32+00:00</updated>
+  <updated>2024-12-26T11:31:21+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/GitHubDaily/GitHubDaily</id>
-    <title>https://github.com/GitHubDaily/GitHubDaily</title>
-    <link href="https://github.com/GitHubDaily/GitHubDaily" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</content>
+    <id>https://github.com/Loyalsoldier/v2ray-rules-dat#1735212681</id>
+    <title>https://github.com/Loyalsoldier/v2ray-rules-dat</title>
+    <link href="https://github.com/Loyalsoldier/v2ray-rules-dat" />
+    <updated>2024-12-26T11:31:21+00:00</updated>
+    <content type="text">🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.</content>
   </entry>
   <entry>
-    <id>https://github.com/lukasz-madon/awesome-remote-job</id>
-    <title>https://github.com/lukasz-madon/awesome-remote-job</title>
-    <link href="https://github.com/lukasz-madon/awesome-remote-job" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python</content>
+    <id>https://github.com/Hack-with-Github/Awesome-Hacking#1735212681</id>
+    <title>https://github.com/Hack-with-Github/Awesome-Hacking</title>
+    <link href="https://github.com/Hack-with-Github/Awesome-Hacking" />
+    <updated>2024-12-26T11:31:21+00:00</updated>
+    <content type="text">A collection of various awesome lists for hackers, pentesters and security researchers</content>
   </entry>
   <entry>
-    <id>https://github.com/lowercase78/V2RayN-PRO</id>
-    <title>https://github.com/lowercase78/V2RayN-PRO</title>
-    <link href="https://github.com/lowercase78/V2RayN-PRO" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">v2rayN-Pro</content>
+    <id>https://github.com/jwasham/coding-interview-university#1735212681</id>
+    <title>https://github.com/jwasham/coding-interview-university</title>
+    <link href="https://github.com/jwasham/coding-interview-university" />
+    <updated>2024-12-26T11:31:21+00:00</updated>
+    <content type="text">A complete computer science study plan to become a software engineer.</content>
   </entry>
   <entry>
-    <id>https://github.com/pathwaycom/llm-app</id>
-    <title>https://github.com/pathwaycom/llm-app</title>
-    <link href="https://github.com/pathwaycom/llm-app" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</content>
+    <id>https://github.com/PatrickJS/awesome-cursorrules#1735212681</id>
+    <title>https://github.com/PatrickJS/awesome-cursorrules</title>
+    <link href="https://github.com/PatrickJS/awesome-cursorrules" />
+    <updated>2024-12-26T11:31:21+00:00</updated>
+    <content type="text">📄 A curated list of awesome .cursorrules files</content>
   </entry>
   <entry>
-    <id>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise</id>
-    <title>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise</title>
-    <link href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">Contains Company Wise Questions sorted based on Frequency and all time</content>
-  </entry>
-  <entry>
-    <id>https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook</id>
-    <title>https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook</title>
-    <link href="https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sindresorhus/awesome</id>
-    <title>https://github.com/sindresorhus/awesome</title>
-    <link href="https://github.com/sindresorhus/awesome" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">😎 Awesome lists about all kinds of interesting topics</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AZeC4/TelegramGroup</id>
+    <id>https://github.com/AZeC4/TelegramGroup#1735212681</id>
     <title>https://github.com/AZeC4/TelegramGroup</title>
     <link href="https://github.com/AZeC4/TelegramGroup" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
+    <updated>2024-12-26T11:31:21+00:00</updated>
     <content type="text">2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】</content>
   </entry>
   <entry>
-    <id>https://github.com/emmabostian/developer-portfolios</id>
+    <id>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise#1735212681</id>
+    <title>https://github.com/krishnadey30/LeetCode-Questions-CompanyWise</title>
+    <link href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" />
+    <updated>2024-12-26T11:31:21+00:00</updated>
+    <content type="text">Contains Company Wise Questions sorted based on Frequency and all time</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emmabostian/developer-portfolios#1735212681</id>
     <title>https://github.com/emmabostian/developer-portfolios</title>
     <link href="https://github.com/emmabostian/developer-portfolios" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
+    <updated>2024-12-26T11:31:21+00:00</updated>
     <content type="text">A list of developer portfolios for your inspiration</content>
   </entry>
   <entry>
-    <id>https://github.com/ruanyf/weekly</id>
+    <id>https://github.com/practical-tutorials/project-based-learning#1735212681</id>
+    <title>https://github.com/practical-tutorials/project-based-learning</title>
+    <link href="https://github.com/practical-tutorials/project-based-learning" />
+    <updated>2024-12-26T11:31:21+00:00</updated>
+    <content type="text">Curated list of project-based tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruanyf/weekly#1735212681</id>
     <title>https://github.com/ruanyf/weekly</title>
     <link href="https://github.com/ruanyf/weekly" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
+    <updated>2024-12-26T11:31:21+00:00</updated>
     <content type="text">科技爱好者周刊，每周五发布</content>
   </entry>
   <entry>
-    <id>https://github.com/openai/openai-openapi</id>
+    <id>https://github.com/openai/openai-openapi#1735212681</id>
     <title>https://github.com/openai/openai-openapi</title>
     <link href="https://github.com/openai/openai-openapi" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
+    <updated>2024-12-26T11:31:21+00:00</updated>
     <content type="text">OpenAPI specification for the OpenAI API</content>
-  </entry>
-  <entry>
-    <id>https://github.com/practical-tutorials/project-based-learning</id>
-    <title>https://github.com/practical-tutorials/project-based-learning</title>
-    <link href="https://github.com/practical-tutorials/project-based-learning" />
-    <updated>2024-12-26T04:22:32+00:00</updated>
-    <content type="text">Curated list of project-based tutorials</content>
   </entry>
 </feed>

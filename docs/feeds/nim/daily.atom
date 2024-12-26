@@ -4,29 +4,71 @@
   <title>GitHub Treanding - nim (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/" rel="alternate" />
-  <updated>2024-12-26T04:15:02+00:00</updated>
+  <updated>2024-12-26T11:21:49+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/zedeus/nitter</id>
-    <title>https://github.com/zedeus/nitter</title>
-    <link href="https://github.com/zedeus/nitter" />
-    <updated>2024-12-26T04:15:02+00:00</updated>
-    <content type="text">Alternative Twitter front-end</content>
+    <id>https://github.com/guzba/zippy#1735212109</id>
+    <title>https://github.com/guzba/zippy</title>
+    <link href="https://github.com/guzba/zippy" />
+    <updated>2024-12-26T11:21:49+00:00</updated>
+    <content type="text">Pure Nim implementation of deflate, zlib, gzip and zip.</content>
   </entry>
   <entry>
-    <id>https://github.com/crashappsec/chalk</id>
+    <id>https://github.com/nim-lang/atlas#1735212109</id>
+    <title>https://github.com/nim-lang/atlas</title>
+    <link href="https://github.com/nim-lang/atlas" />
+    <updated>2024-12-26T11:21:49+00:00</updated>
+    <content type="text">The Atlas Package cloner. It manages an isolated workspace that contains projects and dependencies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/nimforum#1735212109</id>
+    <title>https://github.com/nim-lang/nimforum</title>
+    <link href="https://github.com/nim-lang/nimforum" />
+    <updated>2024-12-26T11:21:49+00:00</updated>
+    <content type="text">Lightweight alternative to Discourse written in Nim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dom96/jester#1735212109</id>
+    <title>https://github.com/dom96/jester</title>
+    <link href="https://github.com/dom96/jester" />
+    <updated>2024-12-26T11:21:49+00:00</updated>
+    <content type="text">A sinatra-like web framework for Nim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nimbus-eth1#1735212109</id>
+    <title>https://github.com/status-im/nimbus-eth1</title>
+    <link href="https://github.com/status-im/nimbus-eth1" />
+    <updated>2024-12-26T11:21:49+00:00</updated>
+    <content type="text">Nimbus: an Ethereum Execution Client for Resource-Restricted Devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crashappsec/chalk#1735212109</id>
     <title>https://github.com/crashappsec/chalk</title>
     <link href="https://github.com/crashappsec/chalk" />
-    <updated>2024-12-26T04:15:02+00:00</updated>
+    <updated>2024-12-26T11:21:49+00:00</updated>
     <content type="text">Chalk allows you to follow code from development, through builds and into production.</content>
   </entry>
   <entry>
-    <id>https://github.com/nim-lang/Nim</id>
+    <id>https://github.com/nim-lang/langserver#1735212109</id>
+    <title>https://github.com/nim-lang/langserver</title>
+    <link href="https://github.com/nim-lang/langserver" />
+    <updated>2024-12-26T11:21:49+00:00</updated>
+    <content type="text">The Nim language server implementation (based on nimsuggest)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/nimony#1735212109</id>
+    <title>https://github.com/nim-lang/nimony</title>
+    <link href="https://github.com/nim-lang/nimony" />
+    <updated>2024-12-26T11:21:49+00:00</updated>
+    <content type="text">Nimony is a new Nim implementation that is in heavy development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/Nim#1735212109</id>
     <title>https://github.com/nim-lang/Nim</title>
     <link href="https://github.com/nim-lang/Nim" />
-    <updated>2024-12-26T04:15:02+00:00</updated>
+    <updated>2024-12-26T11:21:49+00:00</updated>
     <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
   </entry>
 </feed>

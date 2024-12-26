@@ -4,8 +4,15 @@
   <title>GitHub Treanding - vim-snippet (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-snippet/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-snippet/" rel="alternate" />
-  <updated>2024-12-26T04:23:02+00:00</updated>
+  <updated>2024-12-26T11:31:56+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/honza/vim-snippets#1735212716</id>
+    <title>https://github.com/honza/vim-snippets</title>
+    <link href="https://github.com/honza/vim-snippets" />
+    <updated>2024-12-26T11:31:56+00:00</updated>
+    <content type="text">vim-snipmate default snippets (Previously snipmate-snippets)</content>
+  </entry>
 </feed>

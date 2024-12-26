@@ -4,50 +4,36 @@
   <title>GitHub Treanding - bikeshed (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/" rel="alternate" />
-  <updated>2024-12-26T04:03:53+00:00</updated>
+  <updated>2024-12-26T11:07:58+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/immersive-web/webxr</id>
-    <title>https://github.com/immersive-web/webxr</title>
-    <link href="https://github.com/immersive-web/webxr" />
-    <updated>2024-12-26T04:03:53+00:00</updated>
-    <content type="text">Repository for the WebXR Device API Specification.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/WICG/first-party-sets</id>
+    <id>https://github.com/WICG/first-party-sets#1735211278</id>
     <title>https://github.com/WICG/first-party-sets</title>
     <link href="https://github.com/WICG/first-party-sets" />
-    <updated>2024-12-26T04:03:53+00:00</updated>
+    <updated>2024-12-26T11:07:58+00:00</updated>
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/WICG/attribution-reporting-api</id>
-    <title>https://github.com/WICG/attribution-reporting-api</title>
-    <link href="https://github.com/WICG/attribution-reporting-api" />
-    <updated>2024-12-26T04:03:53+00:00</updated>
-    <content type="text">Attribution Reporting API</content>
+    <id>https://github.com/immersive-web/webxr#1735211278</id>
+    <title>https://github.com/immersive-web/webxr</title>
+    <link href="https://github.com/immersive-web/webxr" />
+    <updated>2024-12-26T11:07:58+00:00</updated>
+    <content type="text">Repository for the WebXR Device API Specification.</content>
   </entry>
   <entry>
-    <id>https://github.com/gpuweb/gpuweb</id>
+    <id>https://github.com/gpuweb/gpuweb#1735211278</id>
     <title>https://github.com/gpuweb/gpuweb</title>
     <link href="https://github.com/gpuweb/gpuweb" />
-    <updated>2024-12-26T04:03:53+00:00</updated>
+    <updated>2024-12-26T11:07:58+00:00</updated>
     <content type="text">Where the GPU for the Web work happens!</content>
   </entry>
   <entry>
-    <id>https://github.com/patcg-individual-drafts/topics</id>
+    <id>https://github.com/patcg-individual-drafts/topics#1735211278</id>
     <title>https://github.com/patcg-individual-drafts/topics</title>
     <link href="https://github.com/patcg-individual-drafts/topics" />
-    <updated>2024-12-26T04:03:53+00:00</updated>
+    <updated>2024-12-26T11:07:58+00:00</updated>
     <content type="text">The Topics API</content>
-  </entry>
-  <entry>
-    <id>https://github.com/w3c/csswg-drafts</id>
-    <title>https://github.com/w3c/csswg-drafts</title>
-    <link href="https://github.com/w3c/csswg-drafts" />
-    <updated>2024-12-26T04:03:53+00:00</updated>
-    <content type="text">CSS Working Group Editor Drafts</content>
   </entry>
 </feed>

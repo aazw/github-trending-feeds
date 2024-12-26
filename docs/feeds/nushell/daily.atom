@@ -4,22 +4,29 @@
   <title>GitHub Treanding - nushell (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nushell/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nushell/" rel="alternate" />
-  <updated>2024-12-26T04:15:27+00:00</updated>
+  <updated>2024-12-26T11:22:21+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/nushell/nu_scripts</id>
+    <id>https://github.com/nushell/nupm#1735212141</id>
+    <title>https://github.com/nushell/nupm</title>
+    <link href="https://github.com/nushell/nupm" />
+    <updated>2024-12-26T11:22:21+00:00</updated>
+    <content type="text">A manager for Nushell packages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nu_scripts#1735212141</id>
     <title>https://github.com/nushell/nu_scripts</title>
     <link href="https://github.com/nushell/nu_scripts" />
-    <updated>2024-12-26T04:15:27+00:00</updated>
+    <updated>2024-12-26T11:22:21+00:00</updated>
     <content type="text">A place to share Nushell scripts with each other</content>
   </entry>
   <entry>
-    <id>https://github.com/omerxx/dotfiles</id>
+    <id>https://github.com/omerxx/dotfiles#1735212141</id>
     <title>https://github.com/omerxx/dotfiles</title>
     <link href="https://github.com/omerxx/dotfiles" />
-    <updated>2024-12-26T04:15:27+00:00</updated>
+    <updated>2024-12-26T11:22:21+00:00</updated>
     <content type="text">My dotfiles synced from localhost and remote machines</content>
   </entry>
 </feed>

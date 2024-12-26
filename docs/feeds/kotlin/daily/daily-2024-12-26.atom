@@ -4,148 +4,141 @@
   <title>GitHub Treanding - kotlin (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/kotlin/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/kotlin/" rel="alternate" />
-  <updated>2024-12-26T04:12:02+00:00</updated>
+  <updated>2024-12-26T11:18:03+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/mollyim/mollyim-android</id>
-    <title>https://github.com/mollyim/mollyim-android</title>
-    <link href="https://github.com/mollyim/mollyim-android" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">Enhanced and security-focused fork of Signal.</content>
+    <id>https://github.com/signalapp/Signal-Android#1735211883</id>
+    <title>https://github.com/signalapp/Signal-Android</title>
+    <link href="https://github.com/signalapp/Signal-Android" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">A private messenger for Android.</content>
   </entry>
   <entry>
-    <id>https://github.com/aws/aws-toolkit-jetbrains</id>
-    <title>https://github.com/aws/aws-toolkit-jetbrains</title>
-    <link href="https://github.com/aws/aws-toolkit-jetbrains" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs</content>
+    <id>https://github.com/jellyfin/jellyfin-androidtv#1735211883</id>
+    <title>https://github.com/jellyfin/jellyfin-androidtv</title>
+    <link href="https://github.com/jellyfin/jellyfin-androidtv" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">Android TV Client for Jellyfin</content>
   </entry>
   <entry>
-    <id>https://github.com/videolan/vlc-android</id>
-    <title>https://github.com/videolan/vlc-android</title>
-    <link href="https://github.com/videolan/vlc-android" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">VLC for Android, Android TV and ChromeOS</content>
+    <id>https://github.com/hectorqin/reader#1735211883</id>
+    <title>https://github.com/hectorqin/reader</title>
+    <link href="https://github.com/hectorqin/reader" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️</content>
   </entry>
   <entry>
-    <id>https://github.com/yairm210/Unciv</id>
-    <title>https://github.com/yairm210/Unciv</title>
-    <link href="https://github.com/yairm210/Unciv" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">Open-source Android/Desktop remake of Civ V</content>
+    <id>https://github.com/futo-org/grayjay-android#1735211883</id>
+    <title>https://github.com/futo-org/grayjay-android</title>
+    <link href="https://github.com/futo-org/grayjay-android" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">Read-only mirror of Grayjay repo for issue tracking</content>
   </entry>
   <entry>
-    <id>https://github.com/bitwarden/android</id>
-    <title>https://github.com/bitwarden/android</title>
-    <link href="https://github.com/bitwarden/android" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">Bitwarden mobile app for Android.</content>
+    <id>https://github.com/tanujnotes/Olauncher#1735211883</id>
+    <title>https://github.com/tanujnotes/Olauncher</title>
+    <link href="https://github.com/tanujnotes/Olauncher" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.</content>
   </entry>
   <entry>
-    <id>https://github.com/d4rken-org/sdmaid-se</id>
-    <title>https://github.com/d4rken-org/sdmaid-se</title>
-    <link href="https://github.com/d4rken-org/sdmaid-se" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">SD Maid 2/SE is Android's most thorough cleaning tool.</content>
+    <id>https://github.com/T8RIN/ImageToolbox#1735211883</id>
+    <title>https://github.com/T8RIN/ImageToolbox</title>
+    <link href="https://github.com/T8RIN/ImageToolbox" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options</content>
   </entry>
   <entry>
-    <id>https://github.com/anilbeesetti/nextplayer</id>
-    <title>https://github.com/anilbeesetti/nextplayer</title>
-    <link href="https://github.com/anilbeesetti/nextplayer" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">An Android native video player</content>
+    <id>https://github.com/MM2-0/Kvaesitso#1735211883</id>
+    <title>https://github.com/MM2-0/Kvaesitso</title>
+    <link href="https://github.com/MM2-0/Kvaesitso" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">A search-focused Android launcher</content>
   </entry>
   <entry>
-    <id>https://github.com/MohamedRejeb/compose-rich-editor</id>
-    <title>https://github.com/MohamedRejeb/compose-rich-editor</title>
-    <link href="https://github.com/MohamedRejeb/compose-rich-editor" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable, supports HTML and Markdown.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tiann/KernelSU</id>
-    <title>https://github.com/tiann/KernelSU</title>
-    <link href="https://github.com/tiann/KernelSU" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">A Kernel based root solution for Android</content>
-  </entry>
-  <entry>
-    <id>https://github.com/JunkFood02/Seal</id>
-    <title>https://github.com/JunkFood02/Seal</title>
-    <link href="https://github.com/JunkFood02/Seal" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You</content>
-  </entry>
-  <entry>
-    <id>https://github.com/deniscerri/ytdlnis</id>
-    <title>https://github.com/deniscerri/ytdlnis</title>
-    <link href="https://github.com/deniscerri/ytdlnis" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">Android Video/Audio Downloader app using yt-dlp</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rebelonion/Dantotsu</id>
-    <title>https://github.com/rebelonion/Dantotsu</title>
-    <link href="https://github.com/rebelonion/Dantotsu" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">Anilist client based on Saikou</content>
-  </entry>
-  <entry>
-    <id>https://github.com/lizongying/my-tv-0</id>
+    <id>https://github.com/lizongying/my-tv-0#1735211883</id>
     <title>https://github.com/lizongying/my-tv-0</title>
     <link href="https://github.com/lizongying/my-tv-0" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
+    <updated>2024-12-26T11:18:03+00:00</updated>
     <content type="text">我的電視·〇 電視視頻播放軟件，可以自定義視頻源</content>
   </entry>
   <entry>
-    <id>https://github.com/ReVanced/revanced-patches</id>
-    <title>https://github.com/ReVanced/revanced-patches</title>
-    <link href="https://github.com/ReVanced/revanced-patches" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">🧩 Patches for ReVanced</content>
+    <id>https://github.com/Shabinder/SpotiFlyer#1735211883</id>
+    <title>https://github.com/Shabinder/SpotiFlyer</title>
+    <link href="https://github.com/Shabinder/SpotiFlyer" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.</content>
   </entry>
   <entry>
-    <id>https://github.com/gkd-kit/gkd</id>
+    <id>https://github.com/vfsfitvnm/ViMusic#1735211883</id>
+    <title>https://github.com/vfsfitvnm/ViMusic</title>
+    <link href="https://github.com/vfsfitvnm/ViMusic" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">An Android application for streaming music from YouTube Music.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yairm210/Unciv#1735211883</id>
+    <title>https://github.com/yairm210/Unciv</title>
+    <link href="https://github.com/yairm210/Unciv" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">Open-source Android/Desktop remake of Civ V</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deniscerri/ytdlnis#1735211883</id>
+    <title>https://github.com/deniscerri/ytdlnis</title>
+    <link href="https://github.com/deniscerri/ytdlnis" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">Android Video/Audio Downloader app using yt-dlp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simplex-chat/simplex-chat#1735211883</id>
+    <title>https://github.com/simplex-chat/simplex-chat</title>
+    <link href="https://github.com/simplex-chat/simplex-chat" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RikkaApps/Shizuku#1735211883</id>
+    <title>https://github.com/RikkaApps/Shizuku</title>
+    <link href="https://github.com/RikkaApps/Shizuku" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gkd-kit/gkd#1735211883</id>
     <title>https://github.com/gkd-kit/gkd</title>
     <link href="https://github.com/gkd-kit/gkd" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
+    <updated>2024-12-26T11:18:03+00:00</updated>
     <content type="text">基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules</content>
   </entry>
   <entry>
-    <id>https://github.com/gedoor/legado</id>
+    <id>https://github.com/JetBrains/ideavim#1735211883</id>
+    <title>https://github.com/JetBrains/ideavim</title>
+    <link href="https://github.com/JetBrains/ideavim" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">IdeaVim – A Vim engine for JetBrains IDEs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ashinch/ReadYou#1735211883</id>
+    <title>https://github.com/Ashinch/ReadYou</title>
+    <link href="https://github.com/Ashinch/ReadYou" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">An Android RSS reader presented in Material You style.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tiann/KernelSU#1735211883</id>
+    <title>https://github.com/tiann/KernelSU</title>
+    <link href="https://github.com/tiann/KernelSU" />
+    <updated>2024-12-26T11:18:03+00:00</updated>
+    <content type="text">A Kernel based root solution for Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gedoor/legado#1735211883</id>
     <title>https://github.com/gedoor/legado</title>
     <link href="https://github.com/gedoor/legado" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
+    <updated>2024-12-26T11:18:03+00:00</updated>
     <content type="text">Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mobile-dev-inc/maestro</id>
-    <title>https://github.com/mobile-dev-inc/maestro</title>
-    <link href="https://github.com/mobile-dev-inc/maestro" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">Painless Mobile UI Automation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/MatsuriDayo/NekoBoxForAndroid</id>
-    <title>https://github.com/MatsuriDayo/NekoBoxForAndroid</title>
-    <link href="https://github.com/MatsuriDayo/NekoBoxForAndroid" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">NekoBox for Android / sing-box / universal proxy toolchain for Android</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Dr-TSNG/Hide-My-Applist</id>
-    <title>https://github.com/Dr-TSNG/Hide-My-Applist</title>
-    <link href="https://github.com/Dr-TSNG/Hide-My-Applist" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">An Xposed module to intercept applist detections</content>
-  </entry>
-  <entry>
-    <id>https://github.com/2dust/v2rayNG</id>
-    <title>https://github.com/2dust/v2rayNG</title>
-    <link href="https://github.com/2dust/v2rayNG" />
-    <updated>2024-12-26T04:12:02+00:00</updated>
-    <content type="text">A V2Ray client for Android, support Xray core and v2fly core</content>
   </entry>
 </feed>

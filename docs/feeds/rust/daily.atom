@@ -4,141 +4,176 @@
   <title>GitHub Treanding - rust (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/" rel="alternate" />
-  <updated>2024-12-26T04:19:32+00:00</updated>
+  <updated>2024-12-26T11:27:33+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/rustdesk/rustdesk-server</id>
-    <title>https://github.com/rustdesk/rustdesk-server</title>
-    <link href="https://github.com/rustdesk/rustdesk-server" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">RustDesk Server Program</content>
+    <id>https://github.com/Y2Z/monolith#1735212453</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
   </entry>
   <entry>
-    <id>https://github.com/slint-ui/slint</id>
-    <title>https://github.com/slint-ui/slint</title>
-    <link href="https://github.com/slint-ui/slint" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.</content>
+    <id>https://github.com/solana-labs/solana#1735212453</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
   </entry>
   <entry>
-    <id>https://github.com/tracel-ai/burn</id>
-    <title>https://github.com/tracel-ai/burn</title>
-    <link href="https://github.com/tracel-ai/burn" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.</content>
+    <id>https://github.com/huggingface/tokenizers#1735212453</id>
+    <title>https://github.com/huggingface/tokenizers</title>
+    <link href="https://github.com/huggingface/tokenizers" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</content>
   </entry>
   <entry>
-    <id>https://github.com/benfred/py-spy</id>
-    <title>https://github.com/benfred/py-spy</title>
-    <link href="https://github.com/benfred/py-spy" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Sampling profiler for Python programs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/starkware-libs/cairo</id>
-    <title>https://github.com/starkware-libs/cairo</title>
-    <link href="https://github.com/starkware-libs/cairo" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Cairo is the first Turing-complete language for creating provable programs for general computation.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/eclipse-iceoryx/iceoryx2</id>
-    <title>https://github.com/eclipse-iceoryx/iceoryx2</title>
-    <link href="https://github.com/eclipse-iceoryx/iceoryx2" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust</content>
-  </entry>
-  <entry>
-    <id>https://github.com/TabbyML/tabby</id>
-    <title>https://github.com/TabbyML/tabby</title>
-    <link href="https://github.com/TabbyML/tabby" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Self-hosted AI coding assistant</content>
-  </entry>
-  <entry>
-    <id>https://github.com/libnyanpasu/clash-nyanpasu</id>
-    <title>https://github.com/libnyanpasu/clash-nyanpasu</title>
-    <link href="https://github.com/libnyanpasu/clash-nyanpasu" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Clash Nyanpasu～(∠・ω&lt; )⌒☆​</content>
-  </entry>
-  <entry>
-    <id>https://github.com/succinctlabs/sp1</id>
-    <title>https://github.com/succinctlabs/sp1</title>
-    <link href="https://github.com/succinctlabs/sp1" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">The fastest, most feature-complete zkVM for developers.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rpcpool/yellowstone-grpc</id>
+    <id>https://github.com/rpcpool/yellowstone-grpc#1735212453</id>
     <title>https://github.com/rpcpool/yellowstone-grpc</title>
     <link href="https://github.com/rpcpool/yellowstone-grpc" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
+    <updated>2024-12-26T11:27:33+00:00</updated>
     <content type="text">solana geyser grpc service</content>
   </entry>
   <entry>
-    <id>https://github.com/tensorzero/tensorzero</id>
-    <title>https://github.com/tensorzero/tensorzero</title>
-    <link href="https://github.com/tensorzero/tensorzero" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+    <id>https://github.com/zdz/ServerStatus-Rust#1735212453</id>
+    <title>https://github.com/zdz/ServerStatus-Rust</title>
+    <link href="https://github.com/zdz/ServerStatus-Rust" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">✨ Rust 版 ServerStatus 探针、威力加强版</content>
   </entry>
   <entry>
-    <id>https://github.com/juspay/hyperswitch</id>
-    <title>https://github.com/juspay/hyperswitch</title>
-    <link href="https://github.com/juspay/hyperswitch" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+    <id>https://github.com/sunface/rust-course#1735212453</id>
+    <title>https://github.com/sunface/rust-course</title>
+    <link href="https://github.com/sunface/rust-course" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book</content>
   </entry>
   <entry>
-    <id>https://github.com/rust-lang/book</id>
-    <title>https://github.com/rust-lang/book</title>
-    <link href="https://github.com/rust-lang/book" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">The Rust Programming Language</content>
+    <id>https://github.com/oxc-project/oxc#1735212453</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
   </entry>
   <entry>
-    <id>https://github.com/qarmin/czkawka</id>
-    <title>https://github.com/qarmin/czkawka</title>
-    <link href="https://github.com/qarmin/czkawka" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">Multi functional app to find duplicates, empty folders, similar images etc.</content>
+    <id>https://github.com/tikv/tikv#1735212453</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
   </entry>
   <entry>
-    <id>https://github.com/tw93/Pake</id>
-    <title>https://github.com/tw93/Pake</title>
-    <link href="https://github.com/tw93/Pake" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+    <id>https://github.com/surrealdb/surrealdb#1735212453</id>
+    <title>https://github.com/surrealdb/surrealdb</title>
+    <link href="https://github.com/surrealdb/surrealdb" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">A scalable, distributed, collaborative, document-graph database, for the realtime web</content>
   </entry>
   <entry>
-    <id>https://github.com/rustdesk/rustdesk</id>
+    <id>https://github.com/kitao/pyxel#1735212453</id>
+    <title>https://github.com/kitao/pyxel</title>
+    <link href="https://github.com/kitao/pyxel" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">A retro game engine for Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TabbyML/tabby#1735212453</id>
+    <title>https://github.com/TabbyML/tabby</title>
+    <link href="https://github.com/TabbyML/tabby" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">Self-hosted AI coding assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1735212453</id>
     <title>https://github.com/rustdesk/rustdesk</title>
     <link href="https://github.com/rustdesk/rustdesk" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
+    <updated>2024-12-26T11:27:33+00:00</updated>
     <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
   </entry>
   <entry>
-    <id>https://github.com/shadowsocks/shadowsocks-rust</id>
-    <title>https://github.com/shadowsocks/shadowsocks-rust</title>
-    <link href="https://github.com/shadowsocks/shadowsocks-rust" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
-    <content type="text">A Rust port of shadowsocks</content>
+    <id>https://github.com/AppFlowy-IO/AppFlowy-Cloud#1735212453</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy-Cloud" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</content>
   </entry>
   <entry>
-    <id>https://github.com/sxyazi/yazi</id>
+    <id>https://github.com/sxyazi/yazi#1735212453</id>
     <title>https://github.com/sxyazi/yazi</title>
     <link href="https://github.com/sxyazi/yazi" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
+    <updated>2024-12-26T11:27:33+00:00</updated>
     <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
   </entry>
   <entry>
-    <id>https://github.com/Orange-OpenSource/hurl</id>
+    <id>https://github.com/risingwavelabs/risingwave#1735212453</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch. PostgreSQL compatible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Orange-OpenSource/hurl#1735212453</id>
     <title>https://github.com/Orange-OpenSource/hurl</title>
     <link href="https://github.com/Orange-OpenSource/hurl" />
-    <updated>2024-12-26T04:19:32+00:00</updated>
+    <updated>2024-12-26T11:27:33+00:00</updated>
     <content type="text">Hurl, run and test HTTP requests with plain text.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1735212453</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadowsocks/shadowsocks-rust#1735212453</id>
+    <title>https://github.com/shadowsocks/shadowsocks-rust</title>
+    <link href="https://github.com/shadowsocks/shadowsocks-rust" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">A Rust port of shadowsocks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1735212453</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hatoo/oha#1735212453</id>
+    <title>https://github.com/hatoo/oha</title>
+    <link href="https://github.com/hatoo/oha" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tree-sitter/tree-sitter#1735212453</id>
+    <title>https://github.com/tree-sitter/tree-sitter</title>
+    <link href="https://github.com/tree-sitter/tree-sitter" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">An incremental parsing system for programming tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1735212453</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eythaann/Seelen-UI#1735212453</id>
+    <title>https://github.com/eythaann/Seelen-UI</title>
+    <link href="https://github.com/eythaann/Seelen-UI" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">The Fully Customizable Desktop Environment for Windows 10/11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1735212453</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2024-12-26T11:27:33+00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
   </entry>
 </feed>

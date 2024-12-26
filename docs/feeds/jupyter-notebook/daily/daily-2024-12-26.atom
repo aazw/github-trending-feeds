@@ -4,120 +4,106 @@
   <title>GitHub Treanding - jupyter-notebook (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/" rel="alternate" />
-  <updated>2024-12-26T04:11:45+00:00</updated>
+  <updated>2024-12-26T11:17:41+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/aws-samples/amazon-bedrock-samples</id>
-    <title>https://github.com/aws-samples/amazon-bedrock-samples</title>
-    <link href="https://github.com/aws-samples/amazon-bedrock-samples" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models</content>
+    <id>https://github.com/google-research/google-research#1735211861</id>
+    <title>https://github.com/google-research/google-research</title>
+    <link href="https://github.com/google-research/google-research" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">Google Research</content>
   </entry>
   <entry>
-    <id>https://github.com/codebasics/py</id>
-    <title>https://github.com/codebasics/py</title>
-    <link href="https://github.com/codebasics/py" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">Repository to store sample python programs for python learning</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/AI-For-Beginners</id>
-    <title>https://github.com/microsoft/AI-For-Beginners</title>
-    <link href="https://github.com/microsoft/AI-For-Beginners" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">12 Weeks, 24 Lessons, AI for All!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/generative-ai-for-beginners</id>
-    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
-    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/OmniParser</id>
-    <title>https://github.com/microsoft/OmniParser</title>
-    <link href="https://github.com/microsoft/OmniParser" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">A simple screen parsing tool towards pure vision based GUI agent</content>
-  </entry>
-  <entry>
-    <id>https://github.com/datawhalechina/llm-cookbook</id>
-    <title>https://github.com/datawhalechina/llm-cookbook</title>
-    <link href="https://github.com/datawhalechina/llm-cookbook" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
-  </entry>
-  <entry>
-    <id>https://github.com/anthropics/anthropic-cookbook</id>
-    <title>https://github.com/anthropics/anthropic-cookbook</title>
-    <link href="https://github.com/anthropics/anthropic-cookbook" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/embeddings-benchmark/mteb</id>
-    <title>https://github.com/embeddings-benchmark/mteb</title>
-    <link href="https://github.com/embeddings-benchmark/mteb" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">MTEB: Massive Text Embedding Benchmark</content>
-  </entry>
-  <entry>
-    <id>https://github.com/neo4j-labs/llm-graph-builder</id>
+    <id>https://github.com/neo4j-labs/llm-graph-builder#1735211861</id>
     <title>https://github.com/neo4j-labs/llm-graph-builder</title>
     <link href="https://github.com/neo4j-labs/llm-graph-builder" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
+    <updated>2024-12-26T11:17:41+00:00</updated>
     <content type="text">Neo4j graph construction from unstructured data using LLMs</content>
   </entry>
   <entry>
-    <id>https://github.com/IDEA-Research/Grounded-SAM-2</id>
-    <title>https://github.com/IDEA-Research/Grounded-SAM-2</title>
-    <link href="https://github.com/IDEA-Research/Grounded-SAM-2" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2</content>
+    <id>https://github.com/facebookresearch/segment-anything#1735211861</id>
+    <title>https://github.com/facebookresearch/segment-anything</title>
+    <link href="https://github.com/facebookresearch/segment-anything" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
   </entry>
   <entry>
-    <id>https://github.com/mlabonne/llm-course</id>
-    <title>https://github.com/mlabonne/llm-course</title>
-    <link href="https://github.com/mlabonne/llm-course" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+    <id>https://github.com/datawhalechina/fun-rec#1735211861</id>
+    <title>https://github.com/datawhalechina/fun-rec</title>
+    <link href="https://github.com/datawhalechina/fun-rec" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/</content>
   </entry>
   <entry>
-    <id>https://github.com/langchain-ai/langchain-academy</id>
-    <title>https://github.com/langchain-ai/langchain-academy</title>
-    <link href="https://github.com/langchain-ai/langchain-academy" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/microsoft/generative-ai-for-beginners#1735211861</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
   </entry>
   <entry>
-    <id>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning</id>
-    <title>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning</title>
-    <link href="https://github.com/SharifiZarchi/Introduction_to_Machine_Learning" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">Machine Learning Course, Sharif University of Technology</content>
+    <id>https://github.com/AI4Finance-Foundation/FinRobot#1735211861</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRobot</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRobot" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀</content>
   </entry>
   <entry>
-    <id>https://github.com/karpathy/nn-zero-to-hero</id>
-    <title>https://github.com/karpathy/nn-zero-to-hero</title>
-    <link href="https://github.com/karpathy/nn-zero-to-hero" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">Neural Networks: Zero to Hero</content>
+    <id>https://github.com/datawhalechina/llm-universe#1735211861</id>
+    <title>https://github.com/datawhalechina/llm-universe</title>
+    <link href="https://github.com/datawhalechina/llm-universe" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</content>
   </entry>
   <entry>
-    <id>https://github.com/ageron/handson-ml3</id>
-    <title>https://github.com/ageron/handson-ml3</title>
-    <link href="https://github.com/ageron/handson-ml3" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
-    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/langchain-ai/langchain</id>
+    <id>https://github.com/langchain-ai/langchain#1735211861</id>
     <title>https://github.com/langchain-ai/langchain</title>
     <link href="https://github.com/langchain-ai/langchain" />
-    <updated>2024-12-26T04:11:45+00:00</updated>
+    <updated>2024-12-26T11:17:41+00:00</updated>
     <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1735211861</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdbourke/pytorch-deep-learning#1735211861</id>
+    <title>https://github.com/mrdbourke/pytorch-deep-learning</title>
+    <link href="https://github.com/mrdbourke/pytorch-deep-learning" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera#1735211861</id>
+    <title>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</title>
+    <link href="https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llms-from-scratch-cn#1735211861</id>
+    <title>https://github.com/datawhalechina/llms-from-scratch-cn</title>
+    <link href="https://github.com/datawhalechina/llms-from-scratch-cn" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/OmniParser#1735211861</id>
+    <title>https://github.com/microsoft/OmniParser</title>
+    <link href="https://github.com/microsoft/OmniParser" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">A simple screen parsing tool towards pure vision based GUI agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1735211861</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2024-12-26T11:17:41+00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
   </entry>
 </feed>
