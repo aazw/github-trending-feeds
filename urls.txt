@@ -181,7 +181,7 @@ emberscript
 eq
 erlang
 euphoria
-f*
+f%2A
 f%23
 factor
 fancy
