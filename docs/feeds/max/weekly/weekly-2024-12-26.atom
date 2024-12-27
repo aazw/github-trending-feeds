@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/max/weekly.atom</id>
+  <title>GitHub Trending - max (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/max/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:29:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mandiant/capa-testfiles#1735255750</id>
+    <title>https://github.com/mandiant/capa-testfiles</title>
+    <link href="https://github.com/mandiant/capa-testfiles" />
+    <updated>2024-12-26T23:29:10+00:00</updated>
+    <content type="text">Data to test capa's code and rules.</content>
+  </entry>
+</feed>

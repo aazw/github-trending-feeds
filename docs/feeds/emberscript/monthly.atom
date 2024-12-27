@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emberscript/monthly.atom</id>
+  <title>GitHub Trending - emberscript (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emberscript/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:58:51+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ros2/rosidl_python#1735257531</id>
+    <title>https://github.com/ros2/rosidl_python</title>
+    <link href="https://github.com/ros2/rosidl_python" />
+    <updated>2024-12-26T23:58:51+00:00</updated>
+    <content type="text">rosidl support for Python</content>
+  </entry>
+</feed>

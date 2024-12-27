@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/autoit/monthly.atom</id>
+  <title>GitHub Trending - autoit (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/autoit/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:54:00+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SegoCode/AutoWall#1735257240</id>
+    <title>https://github.com/SegoCode/AutoWall</title>
+    <link href="https://github.com/SegoCode/AutoWall" />
+    <updated>2024-12-26T23:54:00+00:00</updated>
+    <content type="text">🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcmaehl/MSEdgeRedirect#1735257240</id>
+    <title>https://github.com/rcmaehl/MSEdgeRedirect</title>
+    <link href="https://github.com/rcmaehl/MSEdgeRedirect" />
+    <updated>2024-12-26T23:54:00+00:00</updated>
+    <content type="text">A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcmaehl/WhyNotWin11#1735257240</id>
+    <title>https://github.com/rcmaehl/WhyNotWin11</title>
+    <link href="https://github.com/rcmaehl/WhyNotWin11" />
+    <updated>2024-12-26T23:54:00+00:00</updated>
+    <content type="text">Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KovaaK/InterAccel#1735257240</id>
+    <title>https://github.com/KovaaK/InterAccel</title>
+    <link href="https://github.com/KovaaK/InterAccel" />
+    <updated>2024-12-26T23:54:00+00:00</updated>
+    <content type="text">QuakeLive style mouse acceleration across your entire OS and any game</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Bioruebe/UniExtract2#1735257240</id>
+    <title>https://github.com/Bioruebe/UniExtract2</title>
+    <link href="https://github.com/Bioruebe/UniExtract2" />
+    <updated>2024-12-26T23:54:00+00:00</updated>
+    <content type="text">Universal Extractor 2 is a tool to extract files from any type of archive or installer.</content>
+  </entry>
+</feed>

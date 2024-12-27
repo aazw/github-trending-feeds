@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:36:21+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/libp2p/rust-libp2p#1735256181</id>
+    <title>https://github.com/libp2p/rust-libp2p</title>
+    <link href="https://github.com/libp2p/rust-libp2p" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">The Rust Implementation of the libp2p networking stack.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1735256181</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1735256181</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1735256181</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sunface/rust-by-practice#1735256181</id>
+    <title>https://github.com/sunface/rust-by-practice</title>
+    <link href="https://github.com/sunface/rust-by-practice" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytecodealliance/wasmtime#1735256181</id>
+    <title>https://github.com/bytecodealliance/wasmtime</title>
+    <link href="https://github.com/bytecodealliance/wasmtime" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">A lightweight WebAssembly runtime that is fast, secure, and standards-compliant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1735256181</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hatoo/oha#1735256181</id>
+    <title>https://github.com/hatoo/oha</title>
+    <link href="https://github.com/hatoo/oha" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0x192/universal-android-debloater#1735256181</id>
+    <title>https://github.com/0x192/universal-android-debloater</title>
+    <link href="https://github.com/0x192/universal-android-debloater" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slint-ui/slint#1735256181</id>
+    <title>https://github.com/slint-ui/slint</title>
+    <link href="https://github.com/slint-ui/slint" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modrinth/code#1735256181</id>
+    <title>https://github.com/modrinth/code</title>
+    <link href="https://github.com/modrinth/code" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">The Modrinth monorepo containing all code which powers Modrinth!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embassy-rs/embassy#1735256181</id>
+    <title>https://github.com/embassy-rs/embassy</title>
+    <link href="https://github.com/embassy-rs/embassy" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Modern embedded framework, using Rust and async.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TabbyML/tabby#1735256181</id>
+    <title>https://github.com/TabbyML/tabby</title>
+    <link href="https://github.com/TabbyML/tabby" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Self-hosted AI coding assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1735256181</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadowsocks/shadowsocks-rust#1735256181</id>
+    <title>https://github.com/shadowsocks/shadowsocks-rust</title>
+    <link href="https://github.com/shadowsocks/shadowsocks-rust" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">A Rust port of shadowsocks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eythaann/Seelen-UI#1735256181</id>
+    <title>https://github.com/eythaann/Seelen-UI</title>
+    <link href="https://github.com/eythaann/Seelen-UI" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">The Fully Customizable Desktop Environment for Windows 10/11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GreptimeTeam/greptimedb#1735256181</id>
+    <title>https://github.com/GreptimeTeam/greptimedb</title>
+    <link href="https://github.com/GreptimeTeam/greptimedb" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1735256181</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tursodatabase/limbo#1735256181</id>
+    <title>https://github.com/tursodatabase/limbo</title>
+    <link href="https://github.com/tursodatabase/limbo" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1735256181</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">A lightning-fast search API that fits effortlessly into your apps, websites, and workflow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fish-shell/fish-shell#1735256181</id>
+    <title>https://github.com/fish-shell/fish-shell</title>
+    <link href="https://github.com/fish-shell/fish-shell" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">The user-friendly command line shell.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1735256181</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2024-12-26T23:36:21+00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+</feed>

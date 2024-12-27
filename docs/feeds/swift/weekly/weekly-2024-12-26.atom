@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/swift/weekly.atom</id>
+  <title>GitHub Trending - swift (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:38:36+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Whisky-App/Whisky#1735256316</id>
+    <title>https://github.com/Whisky-App/Whisky</title>
+    <link href="https://github.com/Whisky-App/Whisky" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">A modern Wine wrapper for macOS built with SwiftUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sindresorhus/KeyboardShortcuts#1735256316</id>
+    <title>https://github.com/sindresorhus/KeyboardShortcuts</title>
+    <link href="https://github.com/sindresorhus/KeyboardShortcuts" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scinfu/SwiftSoup#1735256316</id>
+    <title>https://github.com/scinfu/SwiftSoup</title>
+    <link href="https://github.com/scinfu/SwiftSoup" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-distributed-tracing#1735256316</id>
+    <title>https://github.com/apple/swift-distributed-tracing</title>
+    <link href="https://github.com/apple/swift-distributed-tracing" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Instrumentation library for Swift server applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SnapKit/SnapKit#1735256316</id>
+    <title>https://github.com/SnapKit/SnapKit</title>
+    <link href="https://github.com/SnapKit/SnapKit" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">A Swift Autolayout DSL for iOS &amp; OS X</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReactiveX/RxSwift#1735256316</id>
+    <title>https://github.com/ReactiveX/RxSwift</title>
+    <link href="https://github.com/ReactiveX/RxSwift" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Reactive Programming in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XITRIX/iTorrent#1735256316</id>
+    <title>https://github.com/XITRIX/iTorrent</title>
+    <link href="https://github.com/XITRIX/iTorrent" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Torrent client for iOS 16+</content>
+  </entry>
+  <entry>
+    <id>https://github.com/onevcat/Kingfisher#1735256316</id>
+    <title>https://github.com/onevcat/Kingfisher</title>
+    <link href="https://github.com/onevcat/Kingfisher" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">A lightweight, pure-Swift library for downloading and caching images from the web.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SwiftyJSON/SwiftyJSON#1735256316</id>
+    <title>https://github.com/SwiftyJSON/SwiftyJSON</title>
+    <link href="https://github.com/SwiftyJSON/SwiftyJSON" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">The better way to deal with JSON data in Swift.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/peripheryapp/periphery#1735256316</id>
+    <title>https://github.com/peripheryapp/periphery</title>
+    <link href="https://github.com/peripheryapp/periphery" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">A tool to identify unused code in Swift projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/intitni/CopilotForXcode#1735256316</id>
+    <title>https://github.com/intitni/CopilotForXcode</title>
+    <link href="https://github.com/intitni/CopilotForXcode" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CodeEditApp/CodeEdit#1735256316</id>
+    <title>https://github.com/CodeEditApp/CodeEdit</title>
+    <link href="https://github.com/CodeEditApp/CodeEdit" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yonaskolb/XcodeGen#1735256316</id>
+    <title>https://github.com/yonaskolb/XcodeGen</title>
+    <link href="https://github.com/yonaskolb/XcodeGen" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">A Swift command line tool for generating your Xcode project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/p0deje/Maccy#1735256316</id>
+    <title>https://github.com/p0deje/Maccy</title>
+    <link href="https://github.com/p0deje/Maccy" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Lightweight clipboard manager for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seemoo-lab/openhaystack#1735256316</id>
+    <title>https://github.com/seemoo-lab/openhaystack</title>
+    <link href="https://github.com/seemoo-lab/openhaystack" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/khcrysalis/Feather#1735256316</id>
+    <title>https://github.com/khcrysalis/Feather</title>
+    <link href="https://github.com/khcrysalis/Feather" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RevenueCat/purchases-ios#1735256316</id>
+    <title>https://github.com/RevenueCat/purchases-ios</title>
+    <link href="https://github.com/RevenueCat/purchases-ios" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/whoeevee/EeveeSpotify#1735256316</id>
+    <title>https://github.com/whoeevee/EeveeSpotify</title>
+    <link href="https://github.com/whoeevee/EeveeSpotify" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">A tweak to get Spotify Premium for free, just like Spotilife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quoid/userscripts#1735256316</id>
+    <title>https://github.com/quoid/userscripts</title>
+    <link href="https://github.com/quoid/userscripts" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">An open-source userscript manager for Safari</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stripe/stripe-ios#1735256316</id>
+    <title>https://github.com/stripe/stripe-ios</title>
+    <link href="https://github.com/stripe/stripe-ios" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Stripe iOS SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/CopilotForXcode#1735256316</id>
+    <title>https://github.com/github/CopilotForXcode</title>
+    <link href="https://github.com/github/CopilotForXcode" />
+    <updated>2024-12-26T23:38:36+00:00</updated>
+    <content type="text">Xcode extension for GitHub Copilot</content>
+  </entry>
+</feed>

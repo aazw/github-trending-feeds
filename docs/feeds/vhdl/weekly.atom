@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vhdl/weekly.atom</id>
+  <title>GitHub Trending - vhdl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vhdl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:40:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OSVVM/OSVVM#1735256427</id>
+    <title>https://github.com/OSVVM/OSVVM</title>
+    <link href="https://github.com/OSVVM/OSVVM" />
+    <updated>2024-12-26T23:40:27+00:00</updated>
+    <content type="text">OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghdl/ghdl#1735256427</id>
+    <title>https://github.com/ghdl/ghdl</title>
+    <link href="https://github.com/ghdl/ghdl" />
+    <updated>2024-12-26T23:40:27+00:00</updated>
+    <content type="text">VHDL 2008/93/87 simulator</content>
+  </entry>
+</feed>

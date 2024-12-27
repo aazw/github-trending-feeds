@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zenscript/weekly.atom</id>
+  <title>GitHub Trending - zenscript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zenscript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:42:17+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pa1nki113r/Project_Brutality#1735256537</id>
+    <title>https://github.com/pa1nki113r/Project_Brutality</title>
+    <link href="https://github.com/pa1nki113r/Project_Brutality" />
+    <updated>2024-12-26T23:42:17+00:00</updated>
+    <content type="text">This is the primary repository for collaborative efforts between Doom developers on Project Brutality. This is the bleeding-edge version that is constantly being developed on, and not meant in any way shape or form to be representative of the final version of the mod.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DarkPacks/SevTech-Ages#1735256537</id>
+    <title>https://github.com/DarkPacks/SevTech-Ages</title>
+    <link href="https://github.com/DarkPacks/SevTech-Ages" />
+    <updated>2024-12-26T23:42:17+00:00</updated>
+    <content type="text">SevTech: Ages is a massive Minecraft modpack packed with content and progression.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DarkPacks/SkyFactory-4#1735256537</id>
+    <title>https://github.com/DarkPacks/SkyFactory-4</title>
+    <link href="https://github.com/DarkPacks/SkyFactory-4" />
+    <updated>2024-12-26T23:42:17+00:00</updated>
+    <content type="text">SkyFactory 4 offers a brand-new experience never before seen in the series. Full automation, tech, magic, and bacon resources! This iteration offers over 30+ world types so you can play the pack like never before!</content>
+  </entry>
+</feed>

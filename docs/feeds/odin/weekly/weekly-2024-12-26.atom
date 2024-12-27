@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/odin/weekly.atom</id>
+  <title>GitHub Trending - odin (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/odin/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:31:50+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DanielGavin/ols#1735255910</id>
+    <title>https://github.com/DanielGavin/ols</title>
+    <link href="https://github.com/DanielGavin/ols" />
+    <updated>2024-12-26T23:31:50+00:00</updated>
+    <content type="text">Language server for Odin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/odin-lang/Odin#1735255910</id>
+    <title>https://github.com/odin-lang/Odin</title>
+    <link href="https://github.com/odin-lang/Odin" />
+    <updated>2024-12-26T23:31:50+00:00</updated>
+    <content type="text">Odin Programming Language</content>
+  </entry>
+</feed>

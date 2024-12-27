@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/typst/weekly.atom</id>
+  <title>GitHub Trending - typst (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/typst/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:39:49+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/parallel101/cppguidebook#1735256389</id>
+    <title>https://github.com/parallel101/cppguidebook</title>
+    <link href="https://github.com/parallel101/cppguidebook" />
+    <updated>2024-12-26T23:39:49+00:00</updated>
+    <content type="text">小彭老师领衔编写，现代C++的中文百科全书</content>
+  </entry>
+</feed>

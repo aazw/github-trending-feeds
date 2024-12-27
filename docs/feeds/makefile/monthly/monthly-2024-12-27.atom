@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/monthly.atom</id>
+  <title>GitHub Trending - makefile (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:05:26+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/yuk7/ArchWSL#1735257926</id>
+    <title>https://github.com/yuk7/ArchWSL</title>
+    <link href="https://github.com/yuk7/ArchWSL" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">ArchLinux based WSL Distribution. Supports multiple install.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dell/csm#1735257926</id>
+    <title>https://github.com/dell/csm</title>
+    <link href="https://github.com/dell/csm" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Dell Container Storage Modules (CSM)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-standards/project-layout#1735257926</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Standard Go Project Layout</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/people#1735257926</id>
+    <title>https://github.com/cncf/people</title>
+    <link href="https://github.com/cncf/people" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Stores the data that will populate the various people listings on cncf.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1735257926</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jobbole/awesome-python-cn#1735257926</id>
+    <title>https://github.com/jobbole/awesome-python-cn</title>
+    <link href="https://github.com/jobbole/awesome-python-cn" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PartialVolume/shredos.x86_64#1735257926</id>
+    <title>https://github.com/PartialVolume/shredos.x86_64</title>
+    <link href="https://github.com/PartialVolume/shredos.x86_64" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teaxyz/white-paper#1735257926</id>
+    <title>https://github.com/teaxyz/white-paper</title>
+    <link href="https://github.com/teaxyz/white-paper" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">how will the protocol work?</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepseek-ai/DeepSeek-LLM#1735257926</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">DeepSeek LLM: Let there be answers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/packages#1735257926</id>
+    <title>https://github.com/openwrt/packages</title>
+    <link href="https://github.com/openwrt/packages" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/noobs#1735257926</id>
+    <title>https://github.com/raspberrypi/noobs</title>
+    <link href="https://github.com/raspberrypi/noobs" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foostan/crkbd#1735257926</id>
+    <title>https://github.com/foostan/crkbd</title>
+    <link href="https://github.com/foostan/crkbd" />
+    <updated>2024-12-27T00:05:26+00:00</updated>
+    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+  </entry>
+</feed>

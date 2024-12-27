@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/flux/weekly.atom</id>
+  <title>GitHub Trending - flux (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/flux/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:22:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/influxdata/flux#1735255364</id>
+    <title>https://github.com/influxdata/flux</title>
+    <link href="https://github.com/influxdata/flux" />
+    <updated>2024-12-26T23:22:44+00:00</updated>
+    <content type="text">Flux is a lightweight scripting language for querying databases (like InfluxDB) and working with data. It's part of InfluxDB 1.7 and 2.0, but can be run independently of those.</content>
+  </entry>
+</feed>

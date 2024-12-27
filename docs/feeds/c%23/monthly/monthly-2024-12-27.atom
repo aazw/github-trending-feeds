@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c%23/monthly.atom</id>
+  <title>GitHub Trending - c%23 (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c%23/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:55:02+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Cysharp/UniTask#1735257302</id>
+    <title>https://github.com/Cysharp/UniTask</title>
+    <link href="https://github.com/Cysharp/UniTask" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Provides an efficient allocation free async/await integration for Unity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mono/SkiaSharp#1735257302</id>
+    <title>https://github.com/mono/SkiaSharp</title>
+    <link href="https://github.com/mono/SkiaSharp" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rocksdanister/lively#1735257302</id>
+    <title>https://github.com/rocksdanister/lively</title>
+    <link href="https://github.com/rocksdanister/lively" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/files-community/Files#1735257302</id>
+    <title>https://github.com/files-community/Files</title>
+    <link href="https://github.com/files-community/Files" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">A modern file manager that helps users organize their files and folders.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/maui-samples#1735257302</id>
+    <title>https://github.com/dotnet/maui-samples</title>
+    <link href="https://github.com/dotnet/maui-samples" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Samples for .NET Multi-Platform App UI (.NET MAUI)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QL-Win/QuickLook#1735257302</id>
+    <title>https://github.com/QL-Win/QuickLook</title>
+    <link href="https://github.com/QL-Win/QuickLook" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Bring macOS “Quick Look” feature to Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NethermindEth/nethermind#1735257302</id>
+    <title>https://github.com/NethermindEth/nethermind</title>
+    <link href="https://github.com/NethermindEth/nethermind" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">A robust execution client for Ethereum node operators.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TechnitiumSoftware/DnsServer#1735257302</id>
+    <title>https://github.com/TechnitiumSoftware/DnsServer</title>
+    <link href="https://github.com/TechnitiumSoftware/DnsServer" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Technitium DNS Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/semantic-kernel#1735257302</id>
+    <title>https://github.com/microsoft/semantic-kernel</title>
+    <link href="https://github.com/microsoft/semantic-kernel" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Integrate cutting-edge LLM technology quickly and easily into your apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BeyondDimension/SteamTools#1735257302</id>
+    <title>https://github.com/BeyondDimension/SteamTools</title>
+    <link href="https://github.com/BeyondDimension/SteamTools" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BepInEx/BepInEx#1735257302</id>
+    <title>https://github.com/BepInEx/BepInEx</title>
+    <link href="https://github.com/BepInEx/BepInEx" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Unity / XNA game patcher and plugin framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duplicati/duplicati#1735257302</id>
+    <title>https://github.com/duplicati/duplicati</title>
+    <link href="https://github.com/duplicati/duplicati" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Store securely encrypted backups in the cloud!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AvaloniaUI/Avalonia.Samples#1735257302</id>
+    <title>https://github.com/AvaloniaUI/Avalonia.Samples</title>
+    <link href="https://github.com/AvaloniaUI/Avalonia.Samples" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mob-sakai/UIEffect#1735257302</id>
+    <title>https://github.com/mob-sakai/UIEffect</title>
+    <link href="https://github.com/mob-sakai/UIEffect" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seerge/g-helper#1735257302</id>
+    <title>https://github.com/seerge/g-helper</title>
+    <link href="https://github.com/seerge/g-helper" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Perfare/Il2CppDumper#1735257302</id>
+    <title>https://github.com/Perfare/Il2CppDumper</title>
+    <link href="https://github.com/Perfare/Il2CppDumper" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Unity il2cpp reverse engineer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HotCakeX/Harden-Windows-Security#1735257302</id>
+    <title>https://github.com/HotCakeX/Harden-Windows-Security</title>
+    <link href="https://github.com/HotCakeX/Harden-Windows-Security" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leiurayer/downkyi#1735257302</id>
+    <title>https://github.com/leiurayer/downkyi</title>
+    <link href="https://github.com/leiurayer/downkyi" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Sonarr/Sonarr#1735257302</id>
+    <title>https://github.com/Sonarr/Sonarr</title>
+    <link href="https://github.com/Sonarr/Sonarr" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Smart PVR for newsgroup and bittorrent users.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Radarr/Radarr#1735257302</id>
+    <title>https://github.com/Radarr/Radarr</title>
+    <link href="https://github.com/Radarr/Radarr" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Movie organizer/manager for usenet and torrent users.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tyrrrz/YoutubeDownloader#1735257302</id>
+    <title>https://github.com/Tyrrrz/YoutubeDownloader</title>
+    <link href="https://github.com/Tyrrrz/YoutubeDownloader" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Downloads videos and playlists from YouTube</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tichau/FileConverter#1735257302</id>
+    <title>https://github.com/Tichau/FileConverter</title>
+    <link href="https://github.com/Tichau/FileConverter" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PowerToys#1735257302</id>
+    <title>https://github.com/microsoft/PowerToys</title>
+    <link href="https://github.com/microsoft/PowerToys" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">Windows system utilities to maximize productivity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/2dust/v2rayN#1735257302</id>
+    <title>https://github.com/2dust/v2rayN</title>
+    <link href="https://github.com/2dust/v2rayN" />
+    <updated>2024-12-26T23:55:02+00:00</updated>
+    <content type="text">A GUI client for Windows and Linux, support Xray core and sing-box-core and others</content>
+  </entry>
+</feed>

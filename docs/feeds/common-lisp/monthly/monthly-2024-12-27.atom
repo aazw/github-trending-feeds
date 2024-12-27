@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/common-lisp/monthly.atom</id>
+  <title>GitHub Trending - common-lisp (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:56:21+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/open-goal/jak-project#1735257381</id>
+    <title>https://github.com/open-goal/jak-project</title>
+    <link href="https://github.com/open-goal/jak-project" />
+    <updated>2024-12-26T23:56:21+00:00</updated>
+    <content type="text">Reviving the language that brought us the Jak &amp; Daxter Series</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lem-project/lem#1735257381</id>
+    <title>https://github.com/lem-project/lem</title>
+    <link href="https://github.com/lem-project/lem" />
+    <updated>2024-12-26T23:56:21+00:00</updated>
+    <content type="text">Common Lisp editor/IDE with high expansibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/pgloader#1735257381</id>
+    <title>https://github.com/dimitri/pgloader</title>
+    <link href="https://github.com/dimitri/pgloader" />
+    <updated>2024-12-26T23:56:21+00:00</updated>
+    <content type="text">Migrate to PostgreSQL in a single command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atlas-engineer/nyxt#1735257381</id>
+    <title>https://github.com/atlas-engineer/nyxt</title>
+    <link href="https://github.com/atlas-engineer/nyxt" />
+    <updated>2024-12-26T23:56:21+00:00</updated>
+    <content type="text">Nyxt - the hacker's browser.</content>
+  </entry>
+</feed>

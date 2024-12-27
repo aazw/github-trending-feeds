@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/monthly.atom</id>
+  <title>GitHub Trending - systemverilog (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:15:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/adam-maj/tiny-gpu#1735258527</id>
+    <title>https://github.com/adam-maj/tiny-gpu</title>
+    <link href="https://github.com/adam-maj/tiny-gpu" />
+    <updated>2024-12-27T00:15:27+00:00</updated>
+    <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/opentitan#1735258527</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2024-12-27T00:15:27+00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
+  </entry>
+</feed>

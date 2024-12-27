@@ -3,9 +3,16 @@
   <id>https://aazw.github.io/github-trending-feeds/feeds/f*/daily.atom</id>
   <title>GitHub Trending - f* (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/f*/daily.atom" rel="self" />
-  <link href="https://aazw.github.io/github-trending-feeds/feeds/f*/" rel="alternate" />
-  <updated>2024-12-26T11:12:44+00:00</updated>
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T11:13:16+00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/FStarLang/FStar#1735297996</id>
+    <title>https://github.com/FStarLang/FStar</title>
+    <link href="https://github.com/FStarLang/FStar" />
+    <updated>2024-12-27T11:13:16+00:00</updated>
+    <content type="text">A Proof-oriented Programming Language</content>
+  </entry>
 </feed>

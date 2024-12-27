@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/weekly.atom</id>
+  <title>GitHub Trending - systemverilog (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:38:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/adam-maj/tiny-gpu#1735256321</id>
+    <title>https://github.com/adam-maj/tiny-gpu</title>
+    <link href="https://github.com/adam-maj/tiny-gpu" />
+    <updated>2024-12-26T23:38:41+00:00</updated>
+    <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/common_cells#1735256321</id>
+    <title>https://github.com/pulp-platform/common_cells</title>
+    <link href="https://github.com/pulp-platform/common_cells" />
+    <updated>2024-12-26T23:38:41+00:00</updated>
+    <content type="text">Common SystemVerilog components</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cv-hpdcache#1735256321</id>
+    <title>https://github.com/openhwgroup/cv-hpdcache</title>
+    <link href="https://github.com/openhwgroup/cv-hpdcache" />
+    <updated>2024-12-26T23:38:41+00:00</updated>
+    <content type="text">RTL sources of the High-Performance L1 Dcache (HPDcache) for OpenHW CV cores</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/opentitan#1735256321</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2024-12-26T23:38:41+00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi#1735256321</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2024-12-26T23:38:41+00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+</feed>

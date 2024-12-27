@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pug/monthly.atom</id>
+  <title>GitHub Trending - pug (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pug/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:10:59+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/phonegap/phonegap-docs#1735258259</id>
+    <title>https://github.com/phonegap/phonegap-docs</title>
+    <link href="https://github.com/phonegap/phonegap-docs" />
+    <updated>2024-12-27T00:10:59+00:00</updated>
+    <content type="text">PhoneGap Documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nigelpoulton/TheK8sBook#1735258259</id>
+    <title>https://github.com/nigelpoulton/TheK8sBook</title>
+    <link href="https://github.com/nigelpoulton/TheK8sBook" />
+    <updated>2024-12-27T00:10:59+00:00</updated>
+    <content type="text">YAML files for use with The Kubernetes Book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-sb-admin#1735258259</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-sb-admin</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-sb-admin" />
+    <updated>2024-12-27T00:10:59+00:00</updated>
+    <content type="text">A free, open source, Bootstrap admin theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nigelpoulton/getting-started-k8s#1735258259</id>
+    <title>https://github.com/nigelpoulton/getting-started-k8s</title>
+    <link href="https://github.com/nigelpoulton/getting-started-k8s" />
+    <updated>2024-12-27T00:10:59+00:00</updated>
+    <content type="text">Code and YAML files for Getting Started with Kubernetes video course on Pluralsight</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-resume#1735258259</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-resume</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-resume" />
+    <updated>2024-12-27T00:10:59+00:00</updated>
+    <content type="text">A Bootstrap 4 resume/CV theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anders94/blockchain-demo#1735258259</id>
+    <title>https://github.com/anders94/blockchain-demo</title>
+    <link href="https://github.com/anders94/blockchain-demo" />
+    <updated>2024-12-27T00:10:59+00:00</updated>
+    <content type="text">A web-based demonstration of blockchain concepts.</content>
+  </entry>
+</feed>

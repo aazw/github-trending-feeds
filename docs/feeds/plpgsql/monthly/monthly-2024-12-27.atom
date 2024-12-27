@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/plpgsql/monthly.atom</id>
+  <title>GitHub Trending - plpgsql (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/plpgsql/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:10:06+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TryGhost/node-sqlite3#1735258206</id>
+    <title>https://github.com/TryGhost/node-sqlite3</title>
+    <link href="https://github.com/TryGhost/node-sqlite3" />
+    <updated>2024-12-27T00:10:06+00:00</updated>
+    <content type="text">SQLite3 bindings for Node.js</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openmaptiles/openmaptiles#1735258206</id>
+    <title>https://github.com/openmaptiles/openmaptiles</title>
+    <link href="https://github.com/openmaptiles/openmaptiles" />
+    <updated>2024-12-27T00:10:06+00:00</updated>
+    <content type="text">OpenMapTiles Vector Tile Schema Implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pgpartman/pg_partman#1735258206</id>
+    <title>https://github.com/pgpartman/pg_partman</title>
+    <link href="https://github.com/pgpartman/pg_partman" />
+    <updated>2024-12-27T00:10:06+00:00</updated>
+    <content type="text">Partition management extension for PostgreSQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tembo-io/pgmq#1735258206</id>
+    <title>https://github.com/tembo-io/pgmq</title>
+    <link href="https://github.com/tembo-io/pgmq" />
+    <updated>2024-12-27T00:10:06+00:00</updated>
+    <content type="text">A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/timescale/pgai#1735258206</id>
+    <title>https://github.com/timescale/pgai</title>
+    <link href="https://github.com/timescale/pgai" />
+    <updated>2024-12-27T00:10:06+00:00</updated>
+    <content type="text">A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL</content>
+  </entry>
+</feed>

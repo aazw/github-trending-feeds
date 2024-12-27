@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/circom/weekly.atom</id>
+  <title>GitHub Trending - circom (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/circom/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:18:59+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/iden3/circomlib#1735255139</id>
+    <title>https://github.com/iden3/circomlib</title>
+    <link href="https://github.com/iden3/circomlib" />
+    <updated>2024-12-26T23:18:59+00:00</updated>
+    <content type="text">Library of basic circuits for circom</content>
+  </entry>
+</feed>

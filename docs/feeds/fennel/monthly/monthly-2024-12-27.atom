@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fennel/monthly.atom</id>
+  <title>GitHub Trending - fennel (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fennel/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:59:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Olical/conjure#1735257555</id>
+    <title>https://github.com/Olical/conjure</title>
+    <link href="https://github.com/Olical/conjure" />
+    <updated>2024-12-26T23:59:15+00:00</updated>
+    <content type="text">Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggandor/leap.nvim#1735257555</id>
+    <title>https://github.com/ggandor/leap.nvim</title>
+    <link href="https://github.com/ggandor/leap.nvim" />
+    <updated>2024-12-26T23:59:15+00:00</updated>
+    <content type="text">Neovim's answer to the mouse 🦘</content>
+  </entry>
+</feed>

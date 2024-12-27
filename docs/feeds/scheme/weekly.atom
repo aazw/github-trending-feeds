@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scheme/weekly.atom</id>
+  <title>GitHub Trending - scheme (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scheme/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:36:40+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/RRethy/nvim-treesitter-textsubjects#1735256200</id>
+    <title>https://github.com/RRethy/nvim-treesitter-textsubjects</title>
+    <link href="https://github.com/RRethy/nvim-treesitter-textsubjects" />
+    <updated>2024-12-26T23:36:40+00:00</updated>
+    <content type="text">Location and syntax aware text objects which *do what you mean*</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-treesitter/nvim-treesitter#1735256200</id>
+    <title>https://github.com/nvim-treesitter/nvim-treesitter</title>
+    <link href="https://github.com/nvim-treesitter/nvim-treesitter" />
+    <updated>2024-12-26T23:36:40+00:00</updated>
+    <content type="text">Nvim Treesitter configurations and abstraction layer</content>
+  </entry>
+</feed>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/typescript/weekly.atom</id>
+  <title>GitHub Trending - typescript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/typescript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:39:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/immich-app/immich#1735256381</id>
+    <title>https://github.com/immich-app/immich</title>
+    <link href="https://github.com/immich-app/immich" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">High performance self-hosted photo and video management solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/docs#1735256381</id>
+    <title>https://github.com/github/docs</title>
+    <link href="https://github.com/github/docs" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">The open-source repo for docs.github.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youzan/vant#1735256381</id>
+    <title>https://github.com/youzan/vant</title>
+    <link href="https://github.com/youzan/vant" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">A lightweight, customizable Vue UI library for mobile web apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/novuhq/novu#1735256381</id>
+    <title>https://github.com/novuhq/novu</title>
+    <link href="https://github.com/novuhq/novu" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Yonom/assistant-ui#1735256381</id>
+    <title>https://github.com/Yonom/assistant-ui</title>
+    <link href="https://github.com/Yonom/assistant-ui" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">React Components for AI Chat 💬 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elizaOS/agent-twitter-client#1735256381</id>
+    <title>https://github.com/elizaOS/agent-twitter-client</title>
+    <link href="https://github.com/elizaOS/agent-twitter-client" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">A Twitter client for agents-- no API key necessary</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kamranahmedse/developer-roadmap#1735256381</id>
+    <title>https://github.com/kamranahmedse/developer-roadmap</title>
+    <link href="https://github.com/kamranahmedse/developer-roadmap" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Interactive roadmaps, guides and other educational content to help developers grow in their careers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Helicone/helicone#1735256381</id>
+    <title>https://github.com/Helicone/helicone</title>
+    <link href="https://github.com/Helicone/helicone" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n#1735256381</id>
+    <title>https://github.com/n8n-io/n8n</title>
+    <link href="https://github.com/n8n-io/n8n" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/upscayl/upscayl#1735256381</id>
+    <title>https://github.com/upscayl/upscayl</title>
+    <link href="https://github.com/upscayl/upscayl" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FlowiseAI/Flowise#1735256381</id>
+    <title>https://github.com/FlowiseAI/Flowise</title>
+    <link href="https://github.com/FlowiseAI/Flowise" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Drag &amp; drop UI to build your customized LLM flow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laurent22/joplin#1735256381</id>
+    <title>https://github.com/laurent22/joplin</title>
+    <link href="https://github.com/laurent22/joplin" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lissy93/web-check#1735256381</id>
+    <title>https://github.com/Lissy93/web-check</title>
+    <link href="https://github.com/Lissy93/web-check" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">🕵️‍♂️ All-in-one OSINT tool for analysing any website</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mui/base-ui#1735256381</id>
+    <title>https://github.com/mui/base-ui</title>
+    <link href="https://github.com/mui/base-ui" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Base UI is an open-source library of accessible, unstyled UI components for React.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/konfig-dev/konfig#1735256381</id>
+    <title>https://github.com/konfig-dev/konfig</title>
+    <link href="https://github.com/konfig-dev/konfig" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">SDK &amp; API Docs Generator. Sunset as of December 2024</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shardeum/shardeum#1735256381</id>
+    <title>https://github.com/shardeum/shardeum</title>
+    <link href="https://github.com/shardeum/shardeum" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Shardeum is an EVM based autoscaling blockchain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elizaOS/eliza#1735256381</id>
+    <title>https://github.com/elizaOS/eliza</title>
+    <link href="https://github.com/elizaOS/eliza" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Autonomous agents for everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mendableai/firecrawl#1735256381</id>
+    <title>https://github.com/mendableai/firecrawl</title>
+    <link href="https://github.com/mendableai/firecrawl" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1735256381</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/browserbase/stagehand#1735256381</id>
+    <title>https://github.com/browserbase/stagehand</title>
+    <link href="https://github.com/browserbase/stagehand" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">An AI web browsing framework focused on simplicity and extensibility.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cline/cline#1735256381</id>
+    <title>https://github.com/cline/cline</title>
+    <link href="https://github.com/cline/cline" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tldraw/tldraw#1735256381</id>
+    <title>https://github.com/tldraw/tldraw</title>
+    <link href="https://github.com/tldraw/tldraw" />
+    <updated>2024-12-26T23:39:41+00:00</updated>
+    <content type="text">whiteboard / infinite canvas SDK</content>
+  </entry>
+</feed>

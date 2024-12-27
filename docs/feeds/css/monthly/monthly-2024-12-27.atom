@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/css/monthly.atom</id>
+  <title>GitHub Trending - css (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/css/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:56:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/jd-opensource/micro-app#1735257408</id>
+    <title>https://github.com/jd-opensource/micro-app</title>
+    <link href="https://github.com/jd-opensource/micro-app" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-petclinic#1735257408</id>
+    <title>https://github.com/spring-projects/spring-petclinic</title>
+    <link href="https://github.com/spring-projects/spring-petclinic" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">A sample Spring-based application</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spicetify/spicetify-themes#1735257408</id>
+    <title>https://github.com/spicetify/spicetify-themes</title>
+    <link href="https://github.com/spicetify/spicetify-themes" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joy-of-react/project-toast#1735257408</id>
+    <title>https://github.com/joy-of-react/project-toast</title>
+    <link href="https://github.com/joy-of-react/project-toast" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/amplify-next-template#1735257408</id>
+    <title>https://github.com/aws-samples/amplify-next-template</title>
+    <link href="https://github.com/aws-samples/amplify-next-template" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">This is a Next.js starter for building a fullstack app with AWS Amplify.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nakov/Practical-Cryptography-for-Developers-Book#1735257408</id>
+    <title>https://github.com/nakov/Practical-Cryptography-for-Developers-Book</title>
+    <link href="https://github.com/nakov/Practical-Cryptography-for-Developers-Book" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/panr/hugo-theme-terminal#1735257408</id>
+    <title>https://github.com/panr/hugo-theme-terminal</title>
+    <link href="https://github.com/panr/hugo-theme-terminal" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">A simple, retro theme for Hugo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/refact0r/system24#1735257408</id>
+    <title>https://github.com/refact0r/system24</title>
+    <link href="https://github.com/refact0r/system24" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">a tui-style discord theme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primefaces/primereact#1735257408</id>
+    <title>https://github.com/primefaces/primereact</title>
+    <link href="https://github.com/primefaces/primereact" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">The Most Complete React UI Component Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/isocpp/CppCoreGuidelines#1735257408</id>
+    <title>https://github.com/isocpp/CppCoreGuidelines</title>
+    <link href="https://github.com/isocpp/CppCoreGuidelines" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/refact0r/midnight-discord#1735257408</id>
+    <title>https://github.com/refact0r/midnight-discord</title>
+    <link href="https://github.com/refact0r/midnight-discord" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">A dark, rounded discord theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/animate-css/animate.css#1735257408</id>
+    <title>https://github.com/animate-css/animate.css</title>
+    <link href="https://github.com/animate-css/animate.css" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imfing/hextra#1735257408</id>
+    <title>https://github.com/imfing/hextra</title>
+    <link href="https://github.com/imfing/hextra" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bradtraversy/50projects50days#1735257408</id>
+    <title>https://github.com/bradtraversy/50projects50days</title>
+    <link href="https://github.com/bradtraversy/50projects50days" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">50+ mini web projects using HTML, CSS &amp; JS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joy-of-react/project-wordle#1735257408</id>
+    <title>https://github.com/joy-of-react/project-wordle</title>
+    <link href="https://github.com/joy-of-react/project-wordle" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ryanoasis/nerd-fonts#1735257408</id>
+    <title>https://github.com/ryanoasis/nerd-fonts</title>
+    <link href="https://github.com/ryanoasis/nerd-fonts" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IBM/plex#1735257408</id>
+    <title>https://github.com/IBM/plex</title>
+    <link href="https://github.com/IBM/plex" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">The package of IBM’s typeface, IBM Plex.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adobe-fonts/source-code-pro#1735257408</id>
+    <title>https://github.com/adobe-fonts/source-code-pro</title>
+    <link href="https://github.com/adobe-fonts/source-code-pro" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">Monospaced font family for user interface and coding environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MrOtherGuy/firefox-csshacks#1735257408</id>
+    <title>https://github.com/MrOtherGuy/firefox-csshacks</title>
+    <link href="https://github.com/MrOtherGuy/firefox-csshacks" />
+    <updated>2024-12-26T23:56:48+00:00</updated>
+    <content type="text">Collection of userstyles affecting the browser</content>
+  </entry>
+</feed>

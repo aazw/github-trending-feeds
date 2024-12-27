@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/html/monthly.atom</id>
+  <title>GitHub Trending - html (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/html/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:01:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/wdndev/llm_interview_note#1735257713</id>
+    <title>https://github.com/wdndev/llm_interview_note</title>
+    <link href="https://github.com/wdndev/llm_interview_note" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cotes2020/jekyll-theme-chirpy#1735257713</id>
+    <title>https://github.com/cotes2020/jekyll-theme-chirpy</title>
+    <link href="https://github.com/cotes2020/jekyll-theme-chirpy" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">A minimal, responsive, and feature-rich Jekyll theme for technical writing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/ML-For-Beginners#1735257713</id>
+    <title>https://github.com/microsoft/ML-For-Beginners</title>
+    <link href="https://github.com/microsoft/ML-For-Beginners" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</content>
+  </entry>
+  <entry>
+    <id>https://github.com/htr-tech/zphisher#1735257713</id>
+    <title>https://github.com/htr-tech/zphisher</title>
+    <link href="https://github.com/htr-tech/zphisher" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ProletRevDicta/Prolet#1735257713</id>
+    <title>https://github.com/ProletRevDicta/Prolet</title>
+    <link href="https://github.com/ProletRevDicta/Prolet" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/f/awesome-chatgpt-prompts#1735257713</id>
+    <title>https://github.com/f/awesome-chatgpt-prompts</title>
+    <link href="https://github.com/f/awesome-chatgpt-prompts" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">This repo includes ChatGPT prompt curation to use ChatGPT better.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cipher387/osint_stuff_tool_collection#1735257713</id>
+    <title>https://github.com/cipher387/osint_stuff_tool_collection</title>
+    <link href="https://github.com/cipher387/osint_stuff_tool_collection" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">A collection of several hundred online tools for OSINT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/website#1735257713</id>
+    <title>https://github.com/kubernetes/website</title>
+    <link href="https://github.com/kubernetes/website" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">Kubernetes website and documentation repo:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitcoinbook/bitcoinbook#1735257713</id>
+    <title>https://github.com/bitcoinbook/bitcoinbook</title>
+    <link href="https://github.com/bitcoinbook/bitcoinbook" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">Mastering Bitcoin 3rd Edition - Programming the Open Blockchain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/byoungd/English-level-up-tips#1735257713</id>
+    <title>https://github.com/byoungd/English-level-up-tips</title>
+    <link href="https://github.com/byoungd/English-level-up-tips" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ayushparikh-code/Web-dev-mini-projects#1735257713</id>
+    <title>https://github.com/Ayushparikh-code/Web-dev-mini-projects</title>
+    <link href="https://github.com/Ayushparikh-code/Web-dev-mini-projects" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ripienaar/free-for-dev#1735257713</id>
+    <title>https://github.com/ripienaar/free-for-dev</title>
+    <link href="https://github.com/ripienaar/free-for-dev" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/comfyanonymous/ComfyUI_examples#1735257713</id>
+    <title>https://github.com/comfyanonymous/ComfyUI_examples</title>
+    <link href="https://github.com/comfyanonymous/ComfyUI_examples" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">Examples of ComfyUI workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EbookFoundation/free-programming-books#1735257713</id>
+    <title>https://github.com/EbookFoundation/free-programming-books</title>
+    <link href="https://github.com/EbookFoundation/free-programming-books" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">📚 Freely available programming books</content>
+  </entry>
+  <entry>
+    <id>https://github.com/home-assistant/home-assistant.io#1735257713</id>
+    <title>https://github.com/home-assistant/home-assistant.io</title>
+    <link href="https://github.com/home-assistant/home-assistant.io" />
+    <updated>2024-12-27T00:01:53+00:00</updated>
+    <content type="text">📘 Home Assistant User documentation</content>
+  </entry>
+</feed>

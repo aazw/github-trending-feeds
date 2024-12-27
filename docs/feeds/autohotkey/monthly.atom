@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/autohotkey/monthly.atom</id>
+  <title>GitHub Trending - autohotkey (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/autohotkey/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:53:58+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Pulover/PuloversMacroCreator#1735257238</id>
+    <title>https://github.com/Pulover/PuloversMacroCreator</title>
+    <link href="https://github.com/Pulover/PuloversMacroCreator" />
+    <updated>2024-12-26T23:53:58+00:00</updated>
+    <content type="text">Automation Utility - Recorder &amp; Script Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/umageddon/namDHC#1735257238</id>
+    <title>https://github.com/umageddon/namDHC</title>
+    <link href="https://github.com/umageddon/namDHC" />
+    <updated>2024-12-26T23:53:58+00:00</updated>
+    <content type="text">Windows frontend for CHDMAN - written in Autohotkey</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NatroTeam/NatroMacro#1735257238</id>
+    <title>https://github.com/NatroTeam/NatroMacro</title>
+    <link href="https://github.com/NatroTeam/NatroMacro" />
+    <updated>2024-12-26T23:53:58+00:00</updated>
+    <content type="text">A Bee Swarm Simulator macro for Windows</content>
+  </entry>
+</feed>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/perl/weekly.atom</id>
+  <title>GitHub Trending - perl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/perl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:32:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/linux-test-project/lcov#1735255977</id>
+    <title>https://github.com/linux-test-project/lcov</title>
+    <link href="https://github.com/linux-test-project/lcov" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">LCOV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Perl/perl5#1735255977</id>
+    <title>https://github.com/Perl/perl5</title>
+    <link href="https://github.com/Perl/perl5" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">🐪 The Perl programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Zimbra/zm-build#1735255977</id>
+    <title>https://github.com/Zimbra/zm-build</title>
+    <link href="https://github.com/Zimbra/zm-build" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">zm-build for Zimbra Collaboration Suite, FOSS Edition</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LMS-Community/slimserver#1735255977</id>
+    <title>https://github.com/LMS-Community/slimserver</title>
+    <link href="https://github.com/LMS-Community/slimserver" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/.dotfiles#1735255977</id>
+    <title>https://github.com/ThePrimeagen/.dotfiles</title>
+    <link href="https://github.com/ThePrimeagen/.dotfiles" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Difegue/LANraragi#1735255977</id>
+    <title>https://github.com/Difegue/LANraragi</title>
+    <link href="https://github.com/Difegue/LANraragi" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adrienverge/openfortivpn#1735255977</id>
+    <title>https://github.com/adrienverge/openfortivpn</title>
+    <link href="https://github.com/adrienverge/openfortivpn" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">Client for PPP+TLS VPN tunnel services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ddclient/ddclient#1735255977</id>
+    <title>https://github.com/ddclient/ddclient</title>
+    <link href="https://github.com/ddclient/ddclient" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rjbs/Email-Sender#1735255977</id>
+    <title>https://github.com/rjbs/Email-Sender</title>
+    <link href="https://github.com/rjbs/Email-Sender" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">a perl library for sending email</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenKore/openkore#1735255977</id>
+    <title>https://github.com/OpenKore/openkore</title>
+    <link href="https://github.com/OpenKore/openkore" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">A free/open source client and automation tool for Ragnarok Online</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-iplayer/get_iplayer#1735255977</id>
+    <title>https://github.com/get-iplayer/get_iplayer</title>
+    <link href="https://github.com/get-iplayer/get_iplayer" />
+    <updated>2024-12-26T23:32:57+00:00</updated>
+    <content type="text">A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds</content>
+  </entry>
+</feed>

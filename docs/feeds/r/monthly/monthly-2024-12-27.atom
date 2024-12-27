@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/monthly.atom</id>
+  <title>GitHub Trending - r (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:11:33+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cole-trapnell-lab/monocle3#1735258293</id>
+    <title>https://github.com/cole-trapnell-lab/monocle3</title>
+    <link href="https://github.com/cole-trapnell-lab/monocle3" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/briatte/awesome-network-analysis#1735258293</id>
+    <title>https://github.com/briatte/awesome-network-analysis</title>
+    <link href="https://github.com/briatte/awesome-network-analysis" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">A curated list of awesome network analysis resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YuLab-SMU/clusterProfiler#1735258293</id>
+    <title>https://github.com/YuLab-SMU/clusterProfiler</title>
+    <link href="https://github.com/YuLab-SMU/clusterProfiler" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">📊 A universal enrichment tool for interpreting omics data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadley/r4ds#1735258293</id>
+    <title>https://github.com/hadley/r4ds</title>
+    <link href="https://github.com/hadley/r4ds" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">R for data science: a book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chris-mcginnis-ucsf/DoubletFinder#1735258293</id>
+    <title>https://github.com/chris-mcginnis-ucsf/DoubletFinder</title>
+    <link href="https://github.com/chris-mcginnis-ucsf/DoubletFinder" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">R package for detecting doublets in single-cell RNA sequencing data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ellmer#1735258293</id>
+    <title>https://github.com/tidyverse/ellmer</title>
+    <link href="https://github.com/tidyverse/ellmer" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">Call LLM APIs from R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immunogenomics/harmony#1735258293</id>
+    <title>https://github.com/immunogenomics/harmony</title>
+    <link href="https://github.com/immunogenomics/harmony" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">Fast, sensitive and accurate integration of single-cell data with Harmony</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1735258293</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MRCIEU/TwoSampleMR#1735258293</id>
+    <title>https://github.com/MRCIEU/TwoSampleMR</title>
+    <link href="https://github.com/MRCIEU/TwoSampleMR" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">R package for performing 2-sample MR using MR-Base database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqjin/CellChat#1735258293</id>
+    <title>https://github.com/sqjin/CellChat</title>
+    <link href="https://github.com/sqjin/CellChat" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat#1735258293</id>
+    <title>https://github.com/satijalab/seurat</title>
+    <link href="https://github.com/satijalab/seurat" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">R toolkit for single cell genomics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ggplot2#1735258293</id>
+    <title>https://github.com/tidyverse/ggplot2</title>
+    <link href="https://github.com/tidyverse/ggplot2" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">An implementation of the Grammar of Graphics in R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdpeng/ProgrammingAssignment2#1735258293</id>
+    <title>https://github.com/rdpeng/ProgrammingAssignment2</title>
+    <link href="https://github.com/rdpeng/ProgrammingAssignment2" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">Repository for Programming Assignment 2 for R Programming on Coursera</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/dplyr#1735258293</id>
+    <title>https://github.com/tidyverse/dplyr</title>
+    <link href="https://github.com/tidyverse/dplyr" />
+    <updated>2024-12-27T00:11:33+00:00</updated>
+    <content type="text">dplyr: A grammar of data manipulation</content>
+  </entry>
+</feed>

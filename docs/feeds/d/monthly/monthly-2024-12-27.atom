@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/d/monthly.atom</id>
+  <title>GitHub Trending - d (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/d/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:57:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abraunegg/onedrive#1735257435</id>
+    <title>https://github.com/abraunegg/onedrive</title>
+    <link href="https://github.com/abraunegg/onedrive" />
+    <updated>2024-12-26T23:57:15+00:00</updated>
+    <content type="text">OneDrive Client for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gnunn1/tilix#1735257435</id>
+    <title>https://github.com/gnunn1/tilix</title>
+    <link href="https://github.com/gnunn1/tilix" />
+    <updated>2024-12-26T23:57:15+00:00</updated>
+    <content type="text">A tiling terminal emulator for Linux using GTK+ 3</content>
+  </entry>
+</feed>

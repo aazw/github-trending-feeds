@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/weekly.atom</id>
+  <title>GitHub Trending - c (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:18:14+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pjsip/pjproject#1735255094</id>
+    <title>https://github.com/pjsip/pjproject</title>
+    <link href="https://github.com/pjsip/pjproject" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">PJSIP project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrypp/memreduct#1735255094</id>
+    <title>https://github.com/henrypp/memreduct</title>
+    <link href="https://github.com/henrypp/memreduct" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Lightweight real-time memory management application to monitor and clean system memory on your computer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nothings/stb#1735255094</id>
+    <title>https://github.com/nothings/stb</title>
+    <link href="https://github.com/nothings/stb" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">stb single-file public domain libraries for C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valinet/ExplorerPatcher#1735255094</id>
+    <title>https://github.com/valinet/ExplorerPatcher</title>
+    <link href="https://github.com/valinet/ExplorerPatcher" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">This project aims to enhance the working environment on Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erincatto/box2d#1735255094</id>
+    <title>https://github.com/erincatto/box2d</title>
+    <link href="https://github.com/erincatto/box2d" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Box2D is a 2D physics engine for games</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-x11#1735255094</id>
+    <title>https://github.com/termux/termux-x11</title>
+    <link href="https://github.com/termux/termux-x11" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Termux X11 add-on application.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immortalwrt/immortalwrt#1735255094</id>
+    <title>https://github.com/immortalwrt/immortalwrt</title>
+    <link href="https://github.com/immortalwrt/immortalwrt" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">An opensource OpenWrt variant for mainland China users.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pr3y/Bruce#1735255094</id>
+    <title>https://github.com/pr3y/Bruce</title>
+    <link href="https://github.com/pr3y/Bruce" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Predatory ESP32 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HarbourMasters/Shipwright#1735255094</id>
+    <title>https://github.com/HarbourMasters/Shipwright</title>
+    <link href="https://github.com/HarbourMasters/Shipwright" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/OnionUI/Onion#1735255094</id>
+    <title>https://github.com/OnionUI/Onion</title>
+    <link href="https://github.com/OnionUI/Onion" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">OS overhaul for Miyoo Mini and Mini+</content>
+  </entry>
+  <entry>
+    <id>https://github.com/obsproject/obs-studio#1735255094</id>
+    <title>https://github.com/obsproject/obs-studio</title>
+    <link href="https://github.com/obsproject/obs-studio" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">OBS Studio - Free and open source software for live streaming and screen recording</content>
+  </entry>
+  <entry>
+    <id>https://github.com/78/xiaozhi-esp32#1735255094</id>
+    <title>https://github.com/78/xiaozhi-esp32</title>
+    <link href="https://github.com/78/xiaozhi-esp32" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Build your own AI friend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastfetch-cli/fastfetch#1735255094</id>
+    <title>https://github.com/fastfetch-cli/fastfetch</title>
+    <link href="https://github.com/fastfetch-cli/fastfetch" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">A maintained, feature-rich and performance oriented, neofetch like system information tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ventoy/Ventoy#1735255094</id>
+    <title>https://github.com/ventoy/Ventoy</title>
+    <link href="https://github.com/ventoy/Ventoy" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">A new bootable USB solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hufrea/byedpi#1735255094</id>
+    <title>https://github.com/hufrea/byedpi</title>
+    <link href="https://github.com/hufrea/byedpi" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Bypass DPI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libretro/RetroArch#1735255094</id>
+    <title>https://github.com/libretro/RetroArch</title>
+    <link href="https://github.com/libretro/RetroArch" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/c3lang/c3c#1735255094</id>
+    <title>https://github.com/c3lang/c3c</title>
+    <link href="https://github.com/c3lang/c3c" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Compiler for the C3 language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/UberGuidoZ/Flipper#1735255094</id>
+    <title>https://github.com/UberGuidoZ/Flipper</title>
+    <link href="https://github.com/UberGuidoZ/Flipper" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Playground (and dump) of stuff I make or modify for the Flipper Zero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darktable-org/darktable#1735255094</id>
+    <title>https://github.com/darktable-org/darktable</title>
+    <link href="https://github.com/darktable-org/darktable" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">darktable is an open source photography workflow application and raw developer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DarkFlippers/unleashed-firmware#1735255094</id>
+    <title>https://github.com/DarkFlippers/unleashed-firmware</title>
+    <link href="https://github.com/DarkFlippers/unleashed-firmware" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">Flipper Zero Unleashed Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ValdikSS/GoodbyeDPI#1735255094</id>
+    <title>https://github.com/ValdikSS/GoodbyeDPI</title>
+    <link href="https://github.com/ValdikSS/GoodbyeDPI" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bol-van/zapret#1735255094</id>
+    <title>https://github.com/bol-van/zapret</title>
+    <link href="https://github.com/bol-van/zapret" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">DPI bypass multi platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raysan5/raylib#1735255094</id>
+    <title>https://github.com/raysan5/raylib</title>
+    <link href="https://github.com/raysan5/raylib" />
+    <updated>2024-12-26T23:18:14+00:00</updated>
+    <content type="text">A simple and easy-to-use library to enjoy videogames programming</content>
+  </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smalltalk/weekly.atom</id>
+  <title>GitHub Trending - smalltalk (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:37:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/svenvc/NeoCSV#1735256243</id>
+    <title>https://github.com/svenvc/NeoCSV</title>
+    <link href="https://github.com/svenvc/NeoCSV" />
+    <updated>2024-12-26T23:37:23+00:00</updated>
+    <content type="text">NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeasideSt/Seaside#1735256243</id>
+    <title>https://github.com/SeasideSt/Seaside</title>
+    <link href="https://github.com/SeasideSt/Seaside" />
+    <updated>2024-12-26T23:37:23+00:00</updated>
+    <content type="text">The framework for developing sophisticated web applications in Smalltalk.</content>
+  </entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/xslt/weekly.atom</id>
+  <title>GitHub Trending - xslt (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:41:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LOLBAS-Project/LOLBAS#1735256517</id>
+    <title>https://github.com/LOLBAS-Project/LOLBAS</title>
+    <link href="https://github.com/LOLBAS-Project/LOLBAS" />
+    <updated>2024-12-26T23:41:57+00:00</updated>
+    <content type="text">Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZUGFeRD/mustangproject#1735256517</id>
+    <title>https://github.com/ZUGFeRD/mustangproject</title>
+    <link href="https://github.com/ZUGFeRD/mustangproject" />
+    <updated>2024-12-26T23:41:57+00:00</updated>
+    <content type="text">Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uri-templates/uritemplate-test#1735256517</id>
+    <title>https://github.com/uri-templates/uritemplate-test</title>
+    <link href="https://github.com/uri-templates/uritemplate-test" />
+    <updated>2024-12-26T23:41:57+00:00</updated>
+    <content type="text">Tests for URI Template implementations</content>
+  </entry>
+</feed>

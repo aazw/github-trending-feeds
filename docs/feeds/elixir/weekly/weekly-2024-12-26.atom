@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/weekly.atom</id>
+  <title>GitHub Trending - elixir (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:21:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/elixir-ecto/ecto#1735255317</id>
+    <title>https://github.com/elixir-ecto/ecto</title>
+    <link href="https://github.com/elixir-ecto/ecto" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">A toolkit for data mapping and language integrated query.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1735255317</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1735255317</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntrepid8/ex_crypto#1735255317</id>
+    <title>https://github.com/ntrepid8/ex_crypto</title>
+    <link href="https://github.com/ntrepid8/ex_crypto" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Wrapper around the Erlang crypto module for Elixir.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1735255317</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1735255317</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1735255317</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coingaming/moon#1735255317</id>
+    <title>https://github.com/coingaming/moon</title>
+    <link href="https://github.com/coingaming/moon" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Moon Design System for Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fly-apps/live_beats#1735255317</id>
+    <title>https://github.com/fly-apps/live_beats</title>
+    <link href="https://github.com/fly-apps/live_beats" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1735255317</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1735255317</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/eventstore#1735255317</id>
+    <title>https://github.com/commanded/eventstore</title>
+    <link href="https://github.com/commanded/eventstore" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Event store using PostgreSQL for persistence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lsp/elixir-ls#1735255317</id>
+    <title>https://github.com/elixir-lsp/elixir-ls</title>
+    <link href="https://github.com/elixir-lsp/elixir-ls" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lsp/elixir_sense#1735255317</id>
+    <title>https://github.com/elixir-lsp/elixir_sense</title>
+    <link href="https://github.com/elixir-lsp/elixir_sense" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OffchainLabs/blockscout#1735255317</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1735255317</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1735255317</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1735255317</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1735255317</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/anoma#1735255317</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2024-12-26T23:21:57+00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+</feed>

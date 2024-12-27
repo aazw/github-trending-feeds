@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/less/monthly.atom</id>
+  <title>GitHub Trending - less (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/less/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:04:29+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Tencent/weui-wxss#1735257869</id>
+    <title>https://github.com/Tencent/weui-wxss</title>
+    <link href="https://github.com/Tencent/weui-wxss" />
+    <updated>2024-12-27T00:04:29+00:00</updated>
+    <content type="text">A UI library by WeChat official design team, includes the most useful widgets/modules.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Remix-Design/RemixIcon#1735257869</id>
+    <title>https://github.com/Remix-Design/RemixIcon</title>
+    <link href="https://github.com/Remix-Design/RemixIcon" />
+    <updated>2024-12-27T00:04:29+00:00</updated>
+    <content type="text">Open source neutral style icon system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentiny/tiny-vue#1735257869</id>
+    <title>https://github.com/opentiny/tiny-vue</title>
+    <link href="https://github.com/opentiny/tiny-vue" />
+    <updated>2024-12-27T00:04:29+00:00</updated>
+    <content type="text">TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/userstyles#1735257869</id>
+    <title>https://github.com/catppuccin/userstyles</title>
+    <link href="https://github.com/catppuccin/userstyles" />
+    <updated>2024-12-27T00:04:29+00:00</updated>
+    <content type="text">🖌 Soothing pastel userstyles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jerrykuku/luci-theme-argon#1735257869</id>
+    <title>https://github.com/jerrykuku/luci-theme-argon</title>
+    <link href="https://github.com/jerrykuku/luci-theme-argon" />
+    <updated>2024-12-27T00:04:29+00:00</updated>
+    <content type="text">Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.</content>
+  </entry>
+</feed>

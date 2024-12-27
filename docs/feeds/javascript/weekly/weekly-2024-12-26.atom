@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/javascript/weekly.atom</id>
+  <title>GitHub Trending - javascript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/javascript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:26:18+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Mintplex-Labs/anything-llm#1735255578</id>
+    <title>https://github.com/Mintplex-Labs/anything-llm</title>
+    <link href="https://github.com/Mintplex-Labs/anything-llm" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docmirror/dev-sidecar#1735255578</id>
+    <title>https://github.com/docmirror/dev-sidecar</title>
+    <link href="https://github.com/docmirror/dev-sidecar" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MagicMirrorOrg/MagicMirror#1735255578</id>
+    <title>https://github.com/MagicMirrorOrg/MagicMirror</title>
+    <link href="https://github.com/MagicMirrorOrg/MagicMirror" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sampotts/plyr#1735255578</id>
+    <title>https://github.com/sampotts/plyr</title>
+    <link href="https://github.com/sampotts/plyr" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">A simple HTML5, YouTube and Vimeo player</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bgstaal/multipleWindow3dScene#1735255578</id>
+    <title>https://github.com/bgstaal/multipleWindow3dScene</title>
+    <link href="https://github.com/bgstaal/multipleWindow3dScene" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage</content>
+  </entry>
+  <entry>
+    <id>https://github.com/layui/layui#1735255578</id>
+    <title>https://github.com/layui/layui</title>
+    <link href="https://github.com/layui/layui" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leonardomso/33-js-concepts#1735255578</id>
+    <title>https://github.com/leonardomso/33-js-concepts</title>
+    <link href="https://github.com/leonardomso/33-js-concepts" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">📜 33 JavaScript concepts every developer should know.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/transformers.js-examples#1735255578</id>
+    <title>https://github.com/huggingface/transformers.js-examples</title>
+    <link href="https://github.com/huggingface/transformers.js-examples" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">A collection of 🤗 Transformers.js demos and example applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maboloshi/github-chinese#1735255578</id>
+    <title>https://github.com/maboloshi/github-chinese</title>
+    <link href="https://github.com/maboloshi/github-chinese" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gildas-lormeau/SingleFile#1735255578</id>
+    <title>https://github.com/gildas-lormeau/SingleFile</title>
+    <link href="https://github.com/gildas-lormeau/SingleFile" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">Web Extension for saving a faithful copy of a complete web page in a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trekhleb/javascript-algorithms#1735255578</id>
+    <title>https://github.com/trekhleb/javascript-algorithms</title>
+    <link href="https://github.com/trekhleb/javascript-algorithms" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bigskysoftware/htmx#1735255578</id>
+    <title>https://github.com/bigskysoftware/htmx</title>
+    <link href="https://github.com/bigskysoftware/htmx" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">&lt;/&gt; htmx - high power tools for HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fchollet/ARC-AGI#1735255578</id>
+    <title>https://github.com/fchollet/ARC-AGI</title>
+    <link href="https://github.com/fchollet/ARC-AGI" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">The Abstraction and Reasoning Corpus</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorhill/uBlock#1735255578</id>
+    <title>https://github.com/gorhill/uBlock</title>
+    <link href="https://github.com/gorhill/uBlock" />
+    <updated>2024-12-26T23:26:18+00:00</updated>
+    <content type="text">uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</content>
+  </entry>
+</feed>

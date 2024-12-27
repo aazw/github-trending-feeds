@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scss/weekly.atom</id>
+  <title>GitHub Trending - scss (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scss/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:36:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/creativetimofficial/soft-ui-dashboard#1735256204</id>
+    <title>https://github.com/creativetimofficial/soft-ui-dashboard</title>
+    <link href="https://github.com/creativetimofficial/soft-ui-dashboard" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vinceliuice/WhiteSur-gtk-theme#1735256204</id>
+    <title>https://github.com/vinceliuice/WhiteSur-gtk-theme</title>
+    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">MacOS like theme for all gtk based desktops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pages-themes/cayman#1735256204</id>
+    <title>https://github.com/pages-themes/cayman</title>
+    <link href="https://github.com/pages-themes/cayman" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">Cayman is a Jekyll theme for GitHub Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kitian616/jekyll-TeXt-theme#1735256204</id>
+    <title>https://github.com/kitian616/jekyll-TeXt-theme</title>
+    <link href="https://github.com/kitian616/jekyll-TeXt-theme" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckduckgo/duckduckgo-help-pages#1735256204</id>
+    <title>https://github.com/duckduckgo/duckduckgo-help-pages</title>
+    <link href="https://github.com/duckduckgo/duckduckgo-help-pages" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">DuckDuckGo Help Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LeelaChessZero/lczero.org#1735256204</id>
+    <title>https://github.com/LeelaChessZero/lczero.org</title>
+    <link href="https://github.com/LeelaChessZero/lczero.org" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">A website (will be lczero.org)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ileriayo/markdown-badges#1735256204</id>
+    <title>https://github.com/Ileriayo/markdown-badges</title>
+    <link href="https://github.com/Ileriayo/markdown-badges" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">Badges for your personal developer branding, profile, and projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/learning-app-ecommerce#1735256204</id>
+    <title>https://github.com/kodekloudhub/learning-app-ecommerce</title>
+    <link href="https://github.com/kodekloudhub/learning-app-ecommerce" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">A sample e-commerce learning app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zivong/jekyll-theme-hamilton#1735256204</id>
+    <title>https://github.com/zivong/jekyll-theme-hamilton</title>
+    <link href="https://github.com/zivong/jekyll-theme-hamilton" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">A minimal and beautiful Jekyll theme best for writing and note-taking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/theicfire/makefiletutorial#1735256204</id>
+    <title>https://github.com/theicfire/makefiletutorial</title>
+    <link href="https://github.com/theicfire/makefiletutorial" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">Learn make by example</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andrewbanchich/forty-jekyll-theme#1735256204</id>
+    <title>https://github.com/andrewbanchich/forty-jekyll-theme</title>
+    <link href="https://github.com/andrewbanchich/forty-jekyll-theme" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">A Jekyll version of the "Forty" theme by HTML5 UP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thingsym/hugo-theme-techdoc#1735256204</id>
+    <title>https://github.com/thingsym/hugo-theme-techdoc</title>
+    <link href="https://github.com/thingsym/hugo-theme-techdoc" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">The Techdoc is a Hugo Theme for technical documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keyvanakbary/learning-notes#1735256204</id>
+    <title>https://github.com/keyvanakbary/learning-notes</title>
+    <link href="https://github.com/keyvanakbary/learning-notes" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">Notes on books I read, talks I watch, articles I study, and papers I love</content>
+  </entry>
+  <entry>
+    <id>https://github.com/black7375/Firefox-UI-Fix#1735256204</id>
+    <title>https://github.com/black7375/Firefox-UI-Fix</title>
+    <link href="https://github.com/black7375/Firefox-UI-Fix" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">🦊 I respect proton UI and aim to improve it.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/just-the-docs/just-the-docs#1735256204</id>
+    <title>https://github.com/just-the-docs/just-the-docs</title>
+    <link href="https://github.com/just-the-docs/just-the-docs" />
+    <updated>2024-12-26T23:36:44+00:00</updated>
+    <content type="text">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</content>
+  </entry>
+</feed>

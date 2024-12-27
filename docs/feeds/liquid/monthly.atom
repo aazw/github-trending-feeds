@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/liquid/monthly.atom</id>
+  <title>GitHub Trending - liquid (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/liquid/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:04:45+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Shopify/reference-theme#1735257885</id>
+    <title>https://github.com/Shopify/reference-theme</title>
+    <link href="https://github.com/Shopify/reference-theme" />
+    <updated>2024-12-27T00:04:45+00:00</updated>
+    <content type="text">A developer reference theme for Shopify online store themes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/extensions-templates#1735257885</id>
+    <title>https://github.com/Shopify/extensions-templates</title>
+    <link href="https://github.com/Shopify/extensions-templates" />
+    <updated>2024-12-27T00:04:45+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/dawn#1735257885</id>
+    <title>https://github.com/Shopify/dawn</title>
+    <link href="https://github.com/Shopify/dawn" />
+    <updated>2024-12-27T00:04:45+00:00</updated>
+    <content type="text">Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.</content>
+  </entry>
+</feed>

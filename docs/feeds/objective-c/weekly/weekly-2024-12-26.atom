@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/objective-c/weekly.atom</id>
+  <title>GitHub Trending - objective-c (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:31:38+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AliSoftware/OHHTTPStubs#1735255898</id>
+    <title>https://github.com/AliSoftware/OHHTTPStubs</title>
+    <link href="https://github.com/AliSoftware/OHHTTPStubs" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/plcrashreporter#1735255898</id>
+    <title>https://github.com/microsoft/plcrashreporter</title>
+    <link href="https://github.com/microsoft/plcrashreporter" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Reliable, open-source crash reporting for iOS, macOS and tvOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImageWebPCoder#1735255898</id>
+    <title>https://github.com/SDWebImage/SDWebImageWebPCoder</title>
+    <link href="https://github.com/SDWebImage/SDWebImageWebPCoder" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">A WebP coder plugin for SDWebImage, use libwebp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OneSignal/OneSignal-iOS-SDK#1735255898</id>
+    <title>https://github.com/OneSignal/OneSignal-iOS-SDK</title>
+    <link href="https://github.com/OneSignal/OneSignal-iOS-SDK" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TimOliver/TOCropViewController#1735255898</id>
+    <title>https://github.com/TimOliver/TOCropViewController</title>
+    <link href="https://github.com/TimOliver/TOCropViewController" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">A view controller for iOS that allows users to crop portions of UIImage objects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erikdoe/ocmock#1735255898</id>
+    <title>https://github.com/erikdoe/ocmock</title>
+    <link href="https://github.com/erikdoe/ocmock" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Mock objects for Objective-C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImageSVGCoder#1735255898</id>
+    <title>https://github.com/SDWebImage/SDWebImageSVGCoder</title>
+    <link href="https://github.com/SDWebImage/SDWebImageSVGCoder" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">A SVG coder plugin for SDWebImage, using Apple's built-in framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/gtm-session-fetcher#1735255898</id>
+    <title>https://github.com/google/gtm-session-fetcher</title>
+    <link href="https://github.com/google/gtm-session-fetcher" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Google Toolbox for Mac - Session Fetcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/GoogleUtilities#1735255898</id>
+    <title>https://github.com/google/GoogleUtilities</title>
+    <link href="https://github.com/google/GoogleUtilities" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/google/promises#1735255898</id>
+    <title>https://github.com/google/promises</title>
+    <link href="https://github.com/google/promises" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/GoogleSignIn-iOS#1735255898</id>
+    <title>https://github.com/google/GoogleSignIn-iOS</title>
+    <link href="https://github.com/google/GoogleSignIn-iOS" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Enables iOS and macOS apps to sign in with Google.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AFNetworking/AFNetworking#1735255898</id>
+    <title>https://github.com/AFNetworking/AFNetworking</title>
+    <link href="https://github.com/AFNetworking/AFNetworking" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">A delightful networking framework for iOS, macOS, watchOS, and tvOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PojavLauncherTeam/PojavLauncher_iOS#1735255898</id>
+    <title>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</title>
+    <link href="https://github.com/PojavLauncherTeam/PojavLauncher_iOS" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for iOS/iPadOS platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opa334/TrollStore#1735255898</id>
+    <title>https://github.com/opa334/TrollStore</title>
+    <link href="https://github.com/opa334/TrollStore" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</content>
+  </entry>
+  <entry>
+    <id>https://github.com/realm/realm-swift#1735255898</id>
+    <title>https://github.com/realm/realm-swift</title>
+    <link href="https://github.com/realm/realm-swift" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Realm is a mobile database: a replacement for Core Data &amp; SQLite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Hammerspoon/hammerspoon#1735255898</id>
+    <title>https://github.com/Hammerspoon/hammerspoon</title>
+    <link href="https://github.com/Hammerspoon/hammerspoon" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Staggeringly powerful macOS desktop automation with Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImage#1735255898</id>
+    <title>https://github.com/SDWebImage/SDWebImage</title>
+    <link href="https://github.com/SDWebImage/SDWebImage" />
+    <updated>2024-12-26T23:31:38+00:00</updated>
+    <content type="text">Asynchronous image downloader with cache support as a UIImageView category</content>
+  </entry>
+</feed>

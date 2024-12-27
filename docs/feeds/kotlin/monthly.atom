@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/kotlin/monthly.atom</id>
+  <title>GitHub Trending - kotlin (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/kotlin/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:04:08+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DD3Boh/OuterTune#1735257848</id>
+    <title>https://github.com/DD3Boh/OuterTune</title>
+    <link href="https://github.com/DD3Boh/OuterTune" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">A Material 3 Music Player with YouTube Music support for Android. Forked from InnerTune</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maxrave-dev/SimpMusic#1735257848</id>
+    <title>https://github.com/maxrave-dev/SimpMusic</title>
+    <link href="https://github.com/maxrave-dev/SimpMusic" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">A simple music app using YouTube Music for backend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CCBlueX/LiquidBounce#1735257848</id>
+    <title>https://github.com/CCBlueX/LiquidBounce</title>
+    <link href="https://github.com/CCBlueX/LiquidBounce" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">A free mixin-based injection hacked client for Minecraft using the Fabric API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/d4rken-org/sdmaid-se#1735257848</id>
+    <title>https://github.com/d4rken-org/sdmaid-se</title>
+    <link href="https://github.com/d4rken-org/sdmaid-se" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">SD Maid 2/SE is Android's most thorough cleaning tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankidroid/Anki-Android#1735257848</id>
+    <title>https://github.com/ankidroid/Anki-Android</title>
+    <link href="https://github.com/ankidroid/Anki-Android" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/android/architecture-samples#1735257848</id>
+    <title>https://github.com/android/architecture-samples</title>
+    <link href="https://github.com/android/architecture-samples" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReVanced/revanced-patches#1735257848</id>
+    <title>https://github.com/ReVanced/revanced-patches</title>
+    <link href="https://github.com/ReVanced/revanced-patches" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">🧩 Patches for ReVanced</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tanujnotes/Olauncher#1735257848</id>
+    <title>https://github.com/tanujnotes/Olauncher</title>
+    <link href="https://github.com/tanujnotes/Olauncher" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JunkFood02/Seal#1735257848</id>
+    <title>https://github.com/JunkFood02/Seal</title>
+    <link href="https://github.com/JunkFood02/Seal" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fcitx5-android/fcitx5-android#1735257848</id>
+    <title>https://github.com/fcitx5-android/fcitx5-android</title>
+    <link href="https://github.com/fcitx5-android/fcitx5-android" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Fcitx5 input method framework and engines ported to Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/home-assistant/android#1735257848</id>
+    <title>https://github.com/home-assistant/android</title>
+    <link href="https://github.com/home-assistant/android" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">📱 Home Assistant Companion for Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yairm210/Unciv#1735257848</id>
+    <title>https://github.com/yairm210/Unciv</title>
+    <link href="https://github.com/yairm210/Unciv" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Open-source Android/Desktop remake of Civ V</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deniscerri/ytdlnis#1735257848</id>
+    <title>https://github.com/deniscerri/ytdlnis</title>
+    <link href="https://github.com/deniscerri/ytdlnis" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Android Video/Audio Downloader app using yt-dlp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JetBrains/compose-multiplatform#1735257848</id>
+    <title>https://github.com/JetBrains/compose-multiplatform</title>
+    <link href="https://github.com/JetBrains/compose-multiplatform" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MatsuriDayo/NekoBoxForAndroid#1735257848</id>
+    <title>https://github.com/MatsuriDayo/NekoBoxForAndroid</title>
+    <link href="https://github.com/MatsuriDayo/NekoBoxForAndroid" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">NekoBox for Android / sing-box / universal proxy toolchain for Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RikkaApps/Shizuku#1735257848</id>
+    <title>https://github.com/RikkaApps/Shizuku</title>
+    <link href="https://github.com/RikkaApps/Shizuku" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jellyfin/jellyfin-androidtv#1735257848</id>
+    <title>https://github.com/jellyfin/jellyfin-androidtv</title>
+    <link href="https://github.com/jellyfin/jellyfin-androidtv" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Android TV Client for Jellyfin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lizongying/my-tv-0#1735257848</id>
+    <title>https://github.com/lizongying/my-tv-0</title>
+    <link href="https://github.com/lizongying/my-tv-0" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">我的電視·〇 電視視頻播放軟件，可以自定義視頻源</content>
+  </entry>
+  <entry>
+    <id>https://github.com/z-huang/InnerTune#1735257848</id>
+    <title>https://github.com/z-huang/InnerTune</title>
+    <link href="https://github.com/z-huang/InnerTune" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">A Material 3 YouTube Music client for Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gedoor/legado#1735257848</id>
+    <title>https://github.com/gedoor/legado</title>
+    <link href="https://github.com/gedoor/legado" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amir1376/ab-download-manager#1735257848</id>
+    <title>https://github.com/amir1376/ab-download-manager</title>
+    <link href="https://github.com/amir1376/ab-download-manager" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">A Download Manager that speeds up your downloads</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-lists/chains#1735257848</id>
+    <title>https://github.com/ethereum-lists/chains</title>
+    <link href="https://github.com/ethereum-lists/chains" />
+    <updated>2024-12-27T00:04:08+00:00</updated>
+    <content type="text">provides metadata for chains</content>
+  </entry>
+</feed>

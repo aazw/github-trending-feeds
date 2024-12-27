@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vue/weekly.atom</id>
+  <title>GitHub Trending - vue (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vue/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:40:42+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mainsail-crew/mainsail#1735256442</id>
+    <title>https://github.com/mainsail-crew/mainsail</title>
+    <link href="https://github.com/mainsail-crew/mainsail" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bastienwirtz/homer#1735256442</id>
+    <title>https://github.com/bastienwirtz/homer</title>
+    <link href="https://github.com/bastienwirtz/homer" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">A very simple static homepage for your server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frappe/helpdesk#1735256442</id>
+    <title>https://github.com/frappe/helpdesk</title>
+    <link href="https://github.com/frappe/helpdesk" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">Modern, Streamlined, Free and Open Source Customer Service Software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jd-opensource/nutui#1735256442</id>
+    <title>https://github.com/jd-opensource/nutui</title>
+    <link href="https://github.com/jd-opensource/nutui" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/advplyr/audiobookshelf-app#1735256442</id>
+    <title>https://github.com/advplyr/audiobookshelf-app</title>
+    <link href="https://github.com/advplyr/audiobookshelf-app" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">Mobile application for Audiobookshelf</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LOG1997/log-lottery#1735256442</id>
+    <title>https://github.com/LOG1997/log-lottery</title>
+    <link href="https://github.com/LOG1997/log-lottery" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccbikai/Sink#1735256442</id>
+    <title>https://github.com/ccbikai/Sink</title>
+    <link href="https://github.com/ccbikai/Sink" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tiny-craft/tiny-rdm#1735256442</id>
+    <title>https://github.com/tiny-craft/tiny-rdm</title>
+    <link href="https://github.com/tiny-craft/tiny-rdm" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arco-design/arco-design-pro-vue#1735256442</id>
+    <title>https://github.com/arco-design/arco-design-pro-vue</title>
+    <link href="https://github.com/arco-design/arco-design-pro-vue" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PanJiaChen/vue-element-admin#1735256442</id>
+    <title>https://github.com/PanJiaChen/vue-element-admin</title>
+    <link href="https://github.com/PanJiaChen/vue-element-admin" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imsyy/home#1735256442</id>
+    <title>https://github.com/imsyy/home</title>
+    <link href="https://github.com/imsyy/home" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">个人主页，我的个人主页，个人主页源码，主页模板，homepage</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lissy93/dashy#1735256442</id>
+    <title>https://github.com/Lissy93/dashy</title>
+    <link href="https://github.com/Lissy93/dashy" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zyronon/douyin#1735256442</id>
+    <title>https://github.com/zyronon/douyin</title>
+    <link href="https://github.com/zyronon/douyin" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imsyy/SPlayer#1735256442</id>
+    <title>https://github.com/imsyy/SPlayer</title>
+    <link href="https://github.com/imsyy/SPlayer" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vbenjs/vue-vben-admin#1735256442</id>
+    <title>https://github.com/vbenjs/vue-vben-admin</title>
+    <link href="https://github.com/vbenjs/vue-vben-admin" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/luckjiawei/frpc-desktop#1735256442</id>
+    <title>https://github.com/luckjiawei/frpc-desktop</title>
+    <link href="https://github.com/luckjiawei/frpc-desktop" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AutomaApp/automa#1735256442</id>
+    <title>https://github.com/AutomaApp/automa</title>
+    <link href="https://github.com/AutomaApp/automa" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">A browser extension for automating your browser by connecting blocks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frappe/crm#1735256442</id>
+    <title>https://github.com/frappe/crm</title>
+    <link href="https://github.com/frappe/crm" />
+    <updated>2024-12-26T23:40:42+00:00</updated>
+    <content type="text">Fully featured, open source CRM</content>
+  </entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/io/weekly.atom</id>
+  <title>GitHub Trending - io (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/io/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:25:52+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ethereum/execution-apis#1735255552</id>
+    <title>https://github.com/ethereum/execution-apis</title>
+    <link href="https://github.com/ethereum/execution-apis" />
+    <updated>2024-12-26T23:25:52+00:00</updated>
+    <content type="text">Collection of APIs provided by Ethereum execution layer clients</content>
+  </entry>
+</feed>

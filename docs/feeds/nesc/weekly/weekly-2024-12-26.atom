@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nesc/weekly.atom</id>
+  <title>GitHub Trending - nesc (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nesc/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:30:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bdring/Grbl_Esp32#1735255843</id>
+    <title>https://github.com/bdring/Grbl_Esp32</title>
+    <link href="https://github.com/bdring/Grbl_Esp32" />
+    <updated>2024-12-26T23:30:43+00:00</updated>
+    <content type="text">A port of Grbl CNC Firmware for ESP32</content>
+  </entry>
+</feed>

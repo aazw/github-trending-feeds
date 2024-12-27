@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/monthly.atom</id>
+  <title>GitHub Trending - vim-script (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:17:16+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/kaarmu/typst.vim#1735258636</id>
+    <title>https://github.com/kaarmu/typst.vim</title>
+    <link href="https://github.com/kaarmu/typst.vim" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Vim plugin for Typst</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-endwise#1735258636</id>
+    <title>https://github.com/tpope/vim-endwise</title>
+    <link href="https://github.com/tpope/vim-endwise" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">endwise.vim: Wisely add</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1735258636</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1735258636</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1735258636</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tyru/open-browser.vim#1735258636</id>
+    <title>https://github.com/tyru/open-browser.vim</title>
+    <link href="https://github.com/tyru/open-browser.vim" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Open URI with your favorite browser from your most favorite editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrisbra/csv.vim#1735258636</id>
+    <title>https://github.com/chrisbra/csv.vim</title>
+    <link href="https://github.com/chrisbra/csv.vim" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">A Filetype plugin for csv files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-suda#1735258636</id>
+    <title>https://github.com/lambdalisue/vim-suda</title>
+    <link href="https://github.com/lambdalisue/vim-suda" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-completion#1735258636</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-completion</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-completion" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Database autocompletion powered by https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derekhe/msfs2020-map-enhancement#1735258636</id>
+    <title>https://github.com/derekhe/msfs2020-map-enhancement</title>
+    <link href="https://github.com/derekhe/msfs2020-map-enhancement" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">MSFS2020 Map Enhancement</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1735258636</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1735258636</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1735258636</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1735258636</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1735258636</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1735258636</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1735258636</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1735258636</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1735258636</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1735258636</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2024-12-27T00:17:16+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+</feed>

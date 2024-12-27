@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lean/monthly.atom</id>
+  <title>GitHub Trending - lean (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:04:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/leanprover-community/quote4#1735257867</id>
+    <title>https://github.com/leanprover-community/quote4</title>
+    <link href="https://github.com/leanprover-community/quote4" />
+    <updated>2024-12-27T00:04:27+00:00</updated>
+    <content type="text">Intuitive, type-safe expression quotations for Lean 4.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/batteries#1735257867</id>
+    <title>https://github.com/leanprover-community/batteries</title>
+    <link href="https://github.com/leanprover-community/batteries" />
+    <updated>2024-12-27T00:04:27+00:00</updated>
+    <content type="text">The "batteries included" extended library for the Lean programming language and theorem prover</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/aesop#1735257867</id>
+    <title>https://github.com/leanprover-community/aesop</title>
+    <link href="https://github.com/leanprover-community/aesop" />
+    <updated>2024-12-27T00:04:27+00:00</updated>
+    <content type="text">White-box automation for Lean 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/mathlib4#1735257867</id>
+    <title>https://github.com/leanprover-community/mathlib4</title>
+    <link href="https://github.com/leanprover-community/mathlib4" />
+    <updated>2024-12-27T00:04:27+00:00</updated>
+    <content type="text">The math library of Lean 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover/lean4#1735257867</id>
+    <title>https://github.com/leanprover/lean4</title>
+    <link href="https://github.com/leanprover/lean4" />
+    <updated>2024-12-27T00:04:27+00:00</updated>
+    <content type="text">Lean 4 programming language and theorem prover</content>
+  </entry>
+</feed>

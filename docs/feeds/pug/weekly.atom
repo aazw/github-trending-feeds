@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pug/weekly.atom</id>
+  <title>GitHub Trending - pug (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pug/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:34:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-freelancer#1735256050</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-freelancer</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-freelancer" />
+    <updated>2024-12-26T23:34:10+00:00</updated>
+    <content type="text">A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-clean-blog#1735256050</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-clean-blog</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-clean-blog" />
+    <updated>2024-12-26T23:34:10+00:00</updated>
+    <content type="text">A clean Bootstrap blog theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anders94/blockchain-demo#1735256050</id>
+    <title>https://github.com/anders94/blockchain-demo</title>
+    <link href="https://github.com/anders94/blockchain-demo" />
+    <updated>2024-12-26T23:34:10+00:00</updated>
+    <content type="text">A web-based demonstration of blockchain concepts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-resume#1735256050</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-resume</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-resume" />
+    <updated>2024-12-26T23:34:10+00:00</updated>
+    <content type="text">A Bootstrap 4 resume/CV theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nigelpoulton/TheK8sBook#1735256050</id>
+    <title>https://github.com/nigelpoulton/TheK8sBook</title>
+    <link href="https://github.com/nigelpoulton/TheK8sBook" />
+    <updated>2024-12-26T23:34:10+00:00</updated>
+    <content type="text">YAML files for use with The Kubernetes Book</content>
+  </entry>
+</feed>

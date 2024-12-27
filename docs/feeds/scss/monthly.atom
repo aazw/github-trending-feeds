@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scss/monthly.atom</id>
+  <title>GitHub Trending - scss (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scss/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:13:35+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/zerostaticthemes/jekyll-serif-theme#1735258415</id>
+    <title>https://github.com/zerostaticthemes/jekyll-serif-theme</title>
+    <link href="https://github.com/zerostaticthemes/jekyll-serif-theme" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">Serif is a multi page business theme for Jekyll.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pages-themes/hacker#1735258415</id>
+    <title>https://github.com/pages-themes/hacker</title>
+    <link href="https://github.com/pages-themes/hacker" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">Hacker is a Jekyll theme for GitHub Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vpnfast/vpnfast.github.io#1735258415</id>
+    <title>https://github.com/vpnfast/vpnfast.github.io</title>
+    <link href="https://github.com/vpnfast/vpnfast.github.io" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">2024翻墙科学上网指南，最新最好用的翻墙VPN推荐排行，持续关注SSR、V2ray代理、VPN、梯子等翻墙工具，中国访问ChatGPT使用AI方法。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conventional-commits/conventionalcommits.org#1735258415</id>
+    <title>https://github.com/conventional-commits/conventionalcommits.org</title>
+    <link href="https://github.com/conventional-commits/conventionalcommits.org" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">The conventional commits specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme#1735258415</id>
+    <title>https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme</title>
+    <link href="https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">A GTK theme based on the Gruvbox colour palette.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/discord#1735258415</id>
+    <title>https://github.com/catppuccin/discord</title>
+    <link href="https://github.com/catppuccin/discord" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">🎮 Soothing pastel theme for Discord</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andrewbanchich/forty-jekyll-theme#1735258415</id>
+    <title>https://github.com/andrewbanchich/forty-jekyll-theme</title>
+    <link href="https://github.com/andrewbanchich/forty-jekyll-theme" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">A Jekyll version of the "Forty" theme by HTML5 UP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstacruz/cheatsheets#1735258415</id>
+    <title>https://github.com/rstacruz/cheatsheets</title>
+    <link href="https://github.com/rstacruz/cheatsheets" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">Cheatsheets for web development - devhints.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vinceliuice/WhiteSur-gtk-theme#1735258415</id>
+    <title>https://github.com/vinceliuice/WhiteSur-gtk-theme</title>
+    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">MacOS like theme for all gtk based desktops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pages-themes/architect#1735258415</id>
+    <title>https://github.com/pages-themes/architect</title>
+    <link href="https://github.com/pages-themes/architect" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">Architect is a Jekyll theme for GitHub Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/minima#1735258415</id>
+    <title>https://github.com/jekyll/minima</title>
+    <link href="https://github.com/jekyll/minima" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">Minima is a one-size-fits-all Jekyll theme for writers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keyvanakbary/learning-notes#1735258415</id>
+    <title>https://github.com/keyvanakbary/learning-notes</title>
+    <link href="https://github.com/keyvanakbary/learning-notes" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">Notes on books I read, talks I watch, articles I study, and papers I love</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cobiwave/simplefolio#1735258415</id>
+    <title>https://github.com/cobiwave/simplefolio</title>
+    <link href="https://github.com/cobiwave/simplefolio" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">⚡️ A minimal portfolio template for Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/black7375/Firefox-UI-Fix#1735258415</id>
+    <title>https://github.com/black7375/Firefox-UI-Fix</title>
+    <link href="https://github.com/black7375/Firefox-UI-Fix" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">🦊 I respect proton UI and aim to improve it.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckduckgo/duckduckgo-help-pages#1735258415</id>
+    <title>https://github.com/duckduckgo/duckduckgo-help-pages</title>
+    <link href="https://github.com/duckduckgo/duckduckgo-help-pages" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">DuckDuckGo Help Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/just-the-docs/just-the-docs#1735258415</id>
+    <title>https://github.com/just-the-docs/just-the-docs</title>
+    <link href="https://github.com/just-the-docs/just-the-docs" />
+    <updated>2024-12-27T00:13:35+00:00</updated>
+    <content type="text">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</content>
+  </entry>
+</feed>

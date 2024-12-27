@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/weekly.atom</id>
+  <title>GitHub Trending - smarty (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:37:25+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudnative-pg/charts#1735256245</id>
+    <title>https://github.com/cloudnative-pg/charts</title>
+    <link href="https://github.com/cloudnative-pg/charts" />
+    <updated>2024-12-26T23:37:25+00:00</updated>
+    <content type="text">CloudNativePG Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/helm-charts#1735256245</id>
+    <title>https://github.com/VictoriaMetrics/helm-charts</title>
+    <link href="https://github.com/VictoriaMetrics/helm-charts" />
+    <updated>2024-12-26T23:37:25+00:00</updated>
+    <content type="text">Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truenas/charts#1735256245</id>
+    <title>https://github.com/truenas/charts</title>
+    <link href="https://github.com/truenas/charts" />
+    <updated>2024-12-26T23:37:25+00:00</updated>
+    <content type="text">TrueNAS SCALE Apps Catalogs &amp; Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plexinc/pms-docker#1735256245</id>
+    <title>https://github.com/plexinc/pms-docker</title>
+    <link href="https://github.com/plexinc/pms-docker" />
+    <updated>2024-12-26T23:37:25+00:00</updated>
+    <content type="text">Plex Media Server Docker repo, for all your PMS docker needs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1735256245</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2024-12-26T23:37:25+00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/charts#1735256245</id>
+    <title>https://github.com/bitnami/charts</title>
+    <link href="https://github.com/bitnami/charts" />
+    <updated>2024-12-26T23:37:25+00:00</updated>
+    <content type="text">Bitnami Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1735256245</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2024-12-26T23:37:25+00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

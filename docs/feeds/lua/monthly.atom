@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/monthly.atom</id>
+  <title>GitHub Trending - lua (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:05:13+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AstroNvim/astrocommunity#1735257913</id>
+    <title>https://github.com/AstroNvim/astrocommunity</title>
+    <link href="https://github.com/AstroNvim/astrocommunity" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">A community repository of common plugin specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rafamadriz/friendly-snippets#1735257913</id>
+    <title>https://github.com/rafamadriz/friendly-snippets</title>
+    <link href="https://github.com/rafamadriz/friendly-snippets" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Set of preconfigured snippets for different languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1735257913</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/noice.nvim#1735257913</id>
+    <title>https://github.com/folke/noice.nvim</title>
+    <link href="https://github.com/folke/noice.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AstroNvim/AstroNvim#1735257913</id>
+    <title>https://github.com/AstroNvim/AstroNvim</title>
+    <link href="https://github.com/AstroNvim/AstroNvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1735257913</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/which-key.nvim#1735257913</id>
+    <title>https://github.com/folke/which-key.nvim</title>
+    <link href="https://github.com/folke/which-key.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-telescope/telescope.nvim#1735257913</id>
+    <title>https://github.com/nvim-telescope/telescope.nvim</title>
+    <link href="https://github.com/nvim-telescope/telescope.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Find, Filter, Preview, Pick. All lua, all the time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/oil.nvim#1735257913</id>
+    <title>https://github.com/stevearc/oil.nvim</title>
+    <link href="https://github.com/stevearc/oil.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Neovim file explorer: edit your filesystem like a buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1735257913</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1735257913</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1735257913</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1735257913</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1735257913</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LuaLS/lua-language-server#1735257913</id>
+    <title>https://github.com/LuaLS/lua-language-server</title>
+    <link href="https://github.com/LuaLS/lua-language-server" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">A language server that offers Lua language support - programmed in Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kong/kong#1735257913</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1735257913</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1735257913</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1735257913</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2024-12-27T00:05:13+00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+</feed>

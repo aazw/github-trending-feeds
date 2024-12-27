@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/monthly.atom</id>
+  <title>GitHub Trending - coffeescript (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:56:13+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/adaltas/node-csv#1735257373</id>
+    <title>https://github.com/adaltas/node-csv</title>
+    <link href="https://github.com/adaltas/node-csv" />
+    <updated>2024-12-26T23:56:13+00:00</updated>
+    <content type="text">Full featured CSV parser with simple api and tested against large datasets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dropbox/zxcvbn#1735257373</id>
+    <title>https://github.com/dropbox/zxcvbn</title>
+    <link href="https://github.com/dropbox/zxcvbn" />
+    <updated>2024-12-26T23:56:13+00:00</updated>
+    <content type="text">Low-Budget Password Strength Estimation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lucassus/angular-coffee-seed#1735257373</id>
+    <title>https://github.com/lucassus/angular-coffee-seed</title>
+    <link href="https://github.com/lucassus/angular-coffee-seed" />
+    <updated>2024-12-26T23:56:13+00:00</updated>
+    <content type="text">AngularJS seed based on grunt JavaScript tasks runner and bower a package manager for the web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slackapi/hubot-slack#1735257373</id>
+    <title>https://github.com/slackapi/hubot-slack</title>
+    <link href="https://github.com/slackapi/hubot-slack" />
+    <updated>2024-12-26T23:56:13+00:00</updated>
+    <content type="text">Slack Developer Kit for Hubot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FelisCatus/SwitchyOmega#1735257373</id>
+    <title>https://github.com/FelisCatus/SwitchyOmega</title>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" />
+    <updated>2024-12-26T23:56:13+00:00</updated>
+    <content type="text">Manage and switch between multiple proxies quickly &amp; easily.</content>
+  </entry>
+</feed>

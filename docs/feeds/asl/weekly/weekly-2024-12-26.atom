@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/asl/weekly.atom</id>
+  <title>GitHub Trending - asl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:16:55+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dortania/Getting-Started-With-ACPI#1735255015</id>
+    <title>https://github.com/dortania/Getting-Started-With-ACPI</title>
+    <link href="https://github.com/dortania/Getting-Started-With-ACPI" />
+    <updated>2024-12-26T23:16:55+00:00</updated>
+    <content type="text">Repo for Getting Started With ACPI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/edk2-porting/edk2-msm#1735255015</id>
+    <title>https://github.com/edk2-porting/edk2-msm</title>
+    <link href="https://github.com/edk2-porting/edk2-msm" />
+    <updated>2024-12-26T23:16:55+00:00</updated>
+    <content type="text">Broken edk2 port for Qualcomm platforms xD</content>
+  </entry>
+</feed>

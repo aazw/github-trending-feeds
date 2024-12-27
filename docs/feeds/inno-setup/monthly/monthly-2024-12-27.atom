@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/inno-setup/monthly.atom</id>
+  <title>GitHub Trending - inno-setup (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/inno-setup/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:02:40+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/git-for-windows/build-extra#1735257760</id>
+    <title>https://github.com/git-for-windows/build-extra</title>
+    <link href="https://github.com/git-for-windows/build-extra" />
+    <updated>2024-12-27T00:02:40+00:00</updated>
+    <content type="text">Additional files and scripts to help build Git for Windows on MSYS2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker-archive/toolbox#1735257760</id>
+    <title>https://github.com/docker-archive/toolbox</title>
+    <link href="https://github.com/docker-archive/toolbox" />
+    <updated>2024-12-27T00:02:40+00:00</updated>
+    <content type="text">The Docker Toolbox</content>
+  </entry>
+</feed>

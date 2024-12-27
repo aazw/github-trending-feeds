@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/monthly.atom</id>
+  <title>GitHub Trending - ruby (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:13:03+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/zammad/zammad#1735258383</id>
+    <title>https://github.com/zammad/zammad</title>
+    <link href="https://github.com/zammad/zammad" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Zammad is a web based open source helpdesk/customer support system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wpscanteam/wpscan#1735258383</id>
+    <title>https://github.com/wpscanteam/wpscan</title>
+    <link href="https://github.com/wpscanteam/wpscan" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lobsters/lobsters#1735258383</id>
+    <title>https://github.com/lobsters/lobsters</title>
+    <link href="https://github.com/lobsters/lobsters" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Computing-focused community centered around link aggregation and discussion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheOdinProject/theodinproject#1735258383</id>
+    <title>https://github.com/TheOdinProject/theodinproject</title>
+    <link href="https://github.com/TheOdinProject/theodinproject" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Main Website for The Odin Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/datadog-api-client-ruby#1735258383</id>
+    <title>https://github.com/DataDog/datadog-api-client-ruby</title>
+    <link href="https://github.com/DataDog/datadog-api-client-ruby" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Ruby client for the Datadog API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/carrierwaveuploader/carrierwave#1735258383</id>
+    <title>https://github.com/carrierwaveuploader/carrierwave</title>
+    <link href="https://github.com/carrierwaveuploader/carrierwave" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mastodon/mastodon#1735258383</id>
+    <title>https://github.com/mastodon/mastodon</title>
+    <link href="https://github.com/mastodon/mastodon" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/debug#1735258383</id>
+    <title>https://github.com/ruby/debug</title>
+    <link href="https://github.com/ruby/debug" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Debugging functionality for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1735258383</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huginn/huginn#1735258383</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-core#1735258383</id>
+    <title>https://github.com/Homebrew/homebrew-core</title>
+    <link href="https://github.com/Homebrew/homebrew-core" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">🍻 Default formulae for the missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitlabhq/gitlabhq#1735258383</id>
+    <title>https://github.com/gitlabhq/gitlabhq</title>
+    <link href="https://github.com/gitlabhq/gitlabhq" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rails/rails#1735258383</id>
+    <title>https://github.com/rails/rails</title>
+    <link href="https://github.com/rails/rails" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Ruby on Rails</content>
+  </entry>
+  <entry>
+    <id>https://github.com/discourse/discourse#1735258383</id>
+    <title>https://github.com/discourse/discourse</title>
+    <link href="https://github.com/discourse/discourse" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">A platform for community discussion. Free, open, simple.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1735258383</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/brew#1735258383</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1735258383</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1735258383</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1735258383</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-linguist/linguist#1735258383</id>
+    <title>https://github.com/github-linguist/linguist</title>
+    <link href="https://github.com/github-linguist/linguist" />
+    <updated>2024-12-27T00:13:03+00:00</updated>
+    <content type="text">Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</content>
+  </entry>
+</feed>

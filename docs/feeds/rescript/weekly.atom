@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rescript/weekly.atom</id>
+  <title>GitHub Trending - rescript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:35:25+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples#1735256125</id>
+    <title>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples</title>
+    <link href="https://github.com/Xilinx/Vitis-HLS-Introductory-Examples" />
+    <updated>2024-12-26T23:35:25+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rescript-lang/rescript#1735256125</id>
+    <title>https://github.com/rescript-lang/rescript</title>
+    <link href="https://github.com/rescript-lang/rescript" />
+    <updated>2024-12-26T23:35:25+00:00</updated>
+    <content type="text">ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.</content>
+  </entry>
+</feed>

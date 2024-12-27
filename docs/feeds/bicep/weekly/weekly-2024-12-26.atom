@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bicep/weekly.atom</id>
+  <title>GitHub Trending - bicep (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:17:40+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/bicep-registry-modules#1735255060</id>
+    <title>https://github.com/Azure/bicep-registry-modules</title>
+    <link href="https://github.com/Azure/bicep-registry-modules" />
+    <updated>2024-12-26T23:17:40+00:00</updated>
+    <content type="text">Bicep registry modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-quickstart-templates#1735255060</id>
+    <title>https://github.com/Azure/azure-quickstart-templates</title>
+    <link href="https://github.com/Azure/azure-quickstart-templates" />
+    <updated>2024-12-26T23:17:40+00:00</updated>
+    <content type="text">Azure Quickstart Templates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SonarSource/sonar-scanning-examples#1735255060</id>
+    <title>https://github.com/SonarSource/sonar-scanning-examples</title>
+    <link href="https://github.com/SonarSource/sonar-scanning-examples" />
+    <updated>2024-12-26T23:17:40+00:00</updated>
+    <content type="text">Shows how to use the Scanners</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-copilot-resources/copilot-metrics-viewer#1735255060</id>
+    <title>https://github.com/github-copilot-resources/copilot-metrics-viewer</title>
+    <link href="https://github.com/github-copilot-resources/copilot-metrics-viewer" />
+    <updated>2024-12-26T23:17:40+00:00</updated>
+    <content type="text">Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)</content>
+  </entry>
+</feed>

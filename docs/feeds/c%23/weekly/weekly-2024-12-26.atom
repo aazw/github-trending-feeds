@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c%23/weekly.atom</id>
+  <title>GitHub Trending - c%23 (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c%23/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:18:17+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/srwi/EverythingToolbar#1735255097</id>
+    <title>https://github.com/srwi/EverythingToolbar</title>
+    <link href="https://github.com/srwi/EverythingToolbar" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Everything integration for the Windows taskbar.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/egametang/ET#1735255097</id>
+    <title>https://github.com/egametang/ET</title>
+    <link href="https://github.com/egametang/ET" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Unity3D Client And C# Server Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abpframework/abp#1735255097</id>
+    <title>https://github.com/abpframework/abp</title>
+    <link href="https://github.com/abpframework/abp" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bloxstraplabs/bloxstrap#1735255097</id>
+    <title>https://github.com/bloxstraplabs/bloxstrap</title>
+    <link href="https://github.com/bloxstraplabs/bloxstrap" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">An alternative bootstrapper for Roblox with a bunch of extra features.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AssetRipper/AssetRipper#1735255097</id>
+    <title>https://github.com/AssetRipper/AssetRipper</title>
+    <link href="https://github.com/AssetRipper/AssetRipper" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">GUI Application to work with engine assets, asset bundles, and serialized files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Sidekick-Poe/Sidekick#1735255097</id>
+    <title>https://github.com/Sidekick-Poe/Sidekick</title>
+    <link href="https://github.com/Sidekick-Poe/Sidekick" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jasontaylordev/CleanArchitecture#1735255097</id>
+    <title>https://github.com/jasontaylordev/CleanArchitecture</title>
+    <link href="https://github.com/jasontaylordev/CleanArchitecture" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Clean Architecture Solution Template for ASP.NET Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stride3d/stride#1735255097</id>
+    <title>https://github.com/stride3d/stride</title>
+    <link href="https://github.com/stride3d/stride" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Stride (formerly Xenko), a free and open-source cross-platform C# game engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tyrrrz/YoutubeExplode#1735255097</id>
+    <title>https://github.com/Tyrrrz/YoutubeExplode</title>
+    <link href="https://github.com/Tyrrrz/YoutubeExplode" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Abstraction layer over YouTube's internal API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Perfare/AssetStudio#1735255097</id>
+    <title>https://github.com/Perfare/AssetStudio</title>
+    <link href="https://github.com/Perfare/AssetStudio" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/files-community/Files#1735255097</id>
+    <title>https://github.com/files-community/Files</title>
+    <link href="https://github.com/files-community/Files" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">A modern file manager that helps users organize their files and folders.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YSGStudyHards/DotNetGuide#1735255097</id>
+    <title>https://github.com/YSGStudyHards/DotNetGuide</title>
+    <link href="https://github.com/YSGStudyHards/DotNetGuide" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Perfare/Il2CppDumper#1735255097</id>
+    <title>https://github.com/Perfare/Il2CppDumper</title>
+    <link href="https://github.com/Perfare/Il2CppDumper" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Unity il2cpp reverse engineer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadowsocks/shadowsocks-windows#1735255097</id>
+    <title>https://github.com/shadowsocks/shadowsocks-windows</title>
+    <link href="https://github.com/shadowsocks/shadowsocks-windows" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">A C# port of shadowsocks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jellyfin/jellyfin#1735255097</id>
+    <title>https://github.com/jellyfin/jellyfin</title>
+    <link href="https://github.com/jellyfin/jellyfin" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">The Free Software Media System - Server Backend &amp; API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/semantic-kernel#1735255097</id>
+    <title>https://github.com/microsoft/semantic-kernel</title>
+    <link href="https://github.com/microsoft/semantic-kernel" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Integrate cutting-edge LLM technology quickly and easily into your apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JustArchiNET/ArchiSteamFarm#1735255097</id>
+    <title>https://github.com/JustArchiNET/ArchiSteamFarm</title>
+    <link href="https://github.com/JustArchiNET/ArchiSteamFarm" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fullstackhero/dotnet-starter-kit#1735255097</id>
+    <title>https://github.com/fullstackhero/dotnet-starter-kit</title>
+    <link href="https://github.com/fullstackhero/dotnet-starter-kit" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BepInEx/BepInEx#1735255097</id>
+    <title>https://github.com/BepInEx/BepInEx</title>
+    <link href="https://github.com/BepInEx/BepInEx" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Unity / XNA game patcher and plugin framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MathewSachin/Captura#1735255097</id>
+    <title>https://github.com/MathewSachin/Captura</title>
+    <link href="https://github.com/MathewSachin/Captura" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/2dust/v2rayN#1735255097</id>
+    <title>https://github.com/2dust/v2rayN</title>
+    <link href="https://github.com/2dust/v2rayN" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">A GUI client for Windows and Linux, support Xray core and sing-box-core and others</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tyrrrz/YoutubeDownloader#1735255097</id>
+    <title>https://github.com/Tyrrrz/YoutubeDownloader</title>
+    <link href="https://github.com/Tyrrrz/YoutubeDownloader" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Downloads videos and playlists from YouTube</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PowerToys#1735255097</id>
+    <title>https://github.com/microsoft/PowerToys</title>
+    <link href="https://github.com/microsoft/PowerToys" />
+    <updated>2024-12-26T23:18:17+00:00</updated>
+    <content type="text">Windows system utilities to maximize productivity</content>
+  </entry>
+</feed>

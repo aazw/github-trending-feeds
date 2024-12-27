@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elm/monthly.atom</id>
+  <title>GitHub Trending - elm (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elm/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:58:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/eikek/docspell#1735257523</id>
+    <title>https://github.com/eikek/docspell</title>
+    <link href="https://github.com/eikek/docspell" />
+    <updated>2024-12-26T23:58:43+00:00</updated>
+    <content type="text">Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/azimuttapp/azimutt#1735257523</id>
+    <title>https://github.com/azimuttapp/azimutt</title>
+    <link href="https://github.com/azimuttapp/azimutt" />
+    <updated>2024-12-26T23:58:43+00:00</updated>
+    <content type="text">Explore, document and optimize any database</content>
+  </entry>
+</feed>

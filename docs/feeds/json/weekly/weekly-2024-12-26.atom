@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/json/weekly.atom</id>
+  <title>GitHub Trending - json (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/json/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:26:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/upptime/upptime#1735255603</id>
+    <title>https://github.com/upptime/upptime</title>
+    <link href="https://github.com/upptime/upptime" />
+    <updated>2024-12-26T23:26:43+00:00</updated>
+    <content type="text">⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/browser-compat-data#1735255603</id>
+    <title>https://github.com/mdn/browser-compat-data</title>
+    <link href="https://github.com/mdn/browser-compat-data" />
+    <updated>2024-12-26T23:26:43+00:00</updated>
+    <content type="text">This repository contains compatibility data for Web technologies as displayed on MDN</content>
+  </entry>
+</feed>

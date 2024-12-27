@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom</id>
+  <title>GitHub Trending - haskell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:24:49+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1735255489</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1735255489</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simplex-chat/simplexmq#1735255489</id>
+    <title>https://github.com/simplex-chat/simplexmq</title>
+    <link href="https://github.com/simplex-chat/simplexmq" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/cabal#1735255489</id>
+    <title>https://github.com/haskell/cabal</title>
+    <link href="https://github.com/haskell/cabal" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">Official upstream development repository for Cabal and cabal-install</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1735255489</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1735255489</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/b3nj5m1n/xdg-ninja#1735255489</id>
+    <title>https://github.com/b3nj5m1n/xdg-ninja</title>
+    <link href="https://github.com/b3nj5m1n/xdg-ninja" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">A shell script which checks your $HOME for unwanted files and directories.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1735255489</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/semantic#1735255489</id>
+    <title>https://github.com/github/semantic</title>
+    <link href="https://github.com/github/semantic" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">Parsing, analyzing, and comparing source code across many languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1735255489</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2024-12-26T23:24:49+00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+</feed>

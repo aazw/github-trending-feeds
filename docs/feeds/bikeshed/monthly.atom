@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bikeshed/monthly.atom</id>
+  <title>GitHub Trending - bikeshed (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:54:25+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/gpuweb/gpuweb#1735257265</id>
+    <title>https://github.com/gpuweb/gpuweb</title>
+    <link href="https://github.com/gpuweb/gpuweb" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text">Where the GPU for the Web work happens!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WebBluetoothCG/web-bluetooth#1735257265</id>
+    <title>https://github.com/WebBluetoothCG/web-bluetooth</title>
+    <link href="https://github.com/WebBluetoothCG/web-bluetooth" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text">Bluetooth support for the Web.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/turtledove#1735257265</id>
+    <title>https://github.com/WICG/turtledove</title>
+    <link href="https://github.com/WICG/turtledove" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text">TURTLEDOVE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/first-party-sets#1735257265</id>
+    <title>https://github.com/WICG/first-party-sets</title>
+    <link href="https://github.com/WICG/first-party-sets" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/csswg-drafts#1735257265</id>
+    <title>https://github.com/w3c/csswg-drafts</title>
+    <link href="https://github.com/w3c/csswg-drafts" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text">CSS Working Group Editor Drafts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/storage-buckets#1735257265</id>
+    <title>https://github.com/WICG/storage-buckets</title>
+    <link href="https://github.com/WICG/storage-buckets" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text">API proposal for managing multiple storage buckets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immersive-web/webxr#1735257265</id>
+    <title>https://github.com/immersive-web/webxr</title>
+    <link href="https://github.com/immersive-web/webxr" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text">Repository for the WebXR Device API Specification.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patcg-individual-drafts/topics#1735257265</id>
+    <title>https://github.com/patcg-individual-drafts/topics</title>
+    <link href="https://github.com/patcg-individual-drafts/topics" />
+    <updated>2024-12-26T23:54:25+00:00</updated>
+    <content type="text">The Topics API</content>
+  </entry>
+</feed>

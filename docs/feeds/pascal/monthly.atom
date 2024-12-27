@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pascal/monthly.atom</id>
+  <title>GitHub Trending - pascal (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pascal/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:09:31+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/peazip/PeaZip#1735258171</id>
+    <title>https://github.com/peazip/PeaZip</title>
+    <link href="https://github.com/peazip/PeaZip" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tarcode-apps/BatteryMode#1735258171</id>
+    <title>https://github.com/tarcode-apps/BatteryMode</title>
+    <link href="https://github.com/tarcode-apps/BatteryMode" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Windows Battery Indicator replacement</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FrankBijnen/ExifToolGui#1735258171</id>
+    <title>https://github.com/FrankBijnen/ExifToolGui</title>
+    <link href="https://github.com/FrankBijnen/ExifToolGui" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">A GUI for ExifTool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TES5Edit/TES5Edit#1735258171</id>
+    <title>https://github.com/TES5Edit/TES5Edit</title>
+    <link href="https://github.com/TES5Edit/TES5Edit" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pyscripter/pyscripter#1735258171</id>
+    <title>https://github.com/pyscripter/pyscripter</title>
+    <link href="https://github.com/pyscripter/pyscripter" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Pyscripter is a feature-rich but lightweight Python IDE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HeidiSQL/HeidiSQL#1735258171</id>
+    <title>https://github.com/HeidiSQL/HeidiSQL</title>
+    <link href="https://github.com/HeidiSQL/HeidiSQL" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HashLoad/horse#1735258171</id>
+    <title>https://github.com/HashLoad/horse</title>
+    <link href="https://github.com/HashLoad/horse" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Fast, opinionated, minimalist web framework for Delphi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/transmission-remote-gui/transgui#1735258171</id>
+    <title>https://github.com/transmission-remote-gui/transgui</title>
+    <link href="https://github.com/transmission-remote-gui/transgui" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nofeletru/UsbAsp-flash#1735258171</id>
+    <title>https://github.com/nofeletru/UsbAsp-flash</title>
+    <link href="https://github.com/nofeletru/UsbAsp-flash" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/viniciussanchez/RESTRequest4Delphi#1735258171</id>
+    <title>https://github.com/viniciussanchez/RESTRequest4Delphi</title>
+    <link href="https://github.com/viniciussanchez/RESTRequest4Delphi" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">API to consume REST services written in any programming language with support to Lazarus and Delphi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doublecmd/doublecmd#1735258171</id>
+    <title>https://github.com/doublecmd/doublecmd</title>
+    <link href="https://github.com/doublecmd/doublecmd" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Double Commander is a free cross platform open source file manager with two panels side by side.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nodemcu/nodemcu-flasher#1735258171</id>
+    <title>https://github.com/nodemcu/nodemcu-flasher</title>
+    <link href="https://github.com/nodemcu/nodemcu-flasher" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">A firmware Flash tool for nodemcu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrsoftware/issrc#1735258171</id>
+    <title>https://github.com/jrsoftware/issrc</title>
+    <link href="https://github.com/jrsoftware/issrc" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/UltraStar-Deluxe/USDX#1735258171</id>
+    <title>https://github.com/UltraStar-Deluxe/USDX</title>
+    <link href="https://github.com/UltraStar-Deluxe/USDX" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stascorp/rdpwrap#1735258171</id>
+    <title>https://github.com/stascorp/rdpwrap</title>
+    <link href="https://github.com/stascorp/rdpwrap" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">RDP Wrapper Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cheat-engine/cheat-engine#1735258171</id>
+    <title>https://github.com/cheat-engine/cheat-engine</title>
+    <link href="https://github.com/cheat-engine/cheat-engine" />
+    <updated>2024-12-27T00:09:31+00:00</updated>
+    <content type="text">Cheat Engine. A development environment focused on modding</content>
+  </entry>
+</feed>

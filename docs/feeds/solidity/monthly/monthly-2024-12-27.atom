@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/solidity/monthly.atom</id>
+  <title>GitHub Trending - solidity (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/solidity/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:14:25+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Arachnid/solidity-stringutils#1735258465</id>
+    <title>https://github.com/Arachnid/solidity-stringutils</title>
+    <link href="https://github.com/Arachnid/solidity-stringutils" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">Basic string utilities for Solidity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dapphub/ds-test#1735258465</id>
+    <title>https://github.com/dapphub/ds-test</title>
+    <link href="https://github.com/dapphub/ds-test" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">Assertions, equality checks and other test helpers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ourzora/zora-protocol#1735258465</id>
+    <title>https://github.com/ourzora/zora-protocol</title>
+    <link href="https://github.com/ourzora/zora-protocol" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">Monorepo for Zora Protocol (contracts &amp; sdks)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liquity/bold#1735258465</id>
+    <title>https://github.com/liquity/bold</title>
+    <link href="https://github.com/liquity/bold" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">Liquity v2 monorepo containing the contracts, subgraph and frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/l2beat/l2beat#1735258465</id>
+    <title>https://github.com/l2beat/l2beat</title>
+    <link href="https://github.com/l2beat/l2beat" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/permit2#1735258465</id>
+    <title>https://github.com/Uniswap/permit2</title>
+    <link href="https://github.com/Uniswap/permit2" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">🔑🔑🔑 next generation token approvals mechanism</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OffchainLabs/nitro-contracts#1735258465</id>
+    <title>https://github.com/OffchainLabs/nitro-contracts</title>
+    <link href="https://github.com/OffchainLabs/nitro-contracts" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AmazingAng/WTF-Solidity#1735258465</id>
+    <title>https://github.com/AmazingAng/WTF-Solidity</title>
+    <link href="https://github.com/AmazingAng/WTF-Solidity" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/ethernaut#1735258465</id>
+    <title>https://github.com/OpenZeppelin/ethernaut</title>
+    <link href="https://github.com/OpenZeppelin/ethernaut" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">Web3/Solidity based wargame</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/v2-periphery#1735258465</id>
+    <title>https://github.com/Uniswap/v2-periphery</title>
+    <link href="https://github.com/Uniswap/v2-periphery" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">🎚 Peripheral smart contracts for interacting with Uniswap V2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/v4-core#1735258465</id>
+    <title>https://github.com/Uniswap/v4-core</title>
+    <link href="https://github.com/Uniswap/v4-core" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/forge-std#1735258465</id>
+    <title>https://github.com/foundry-rs/forge-std</title>
+    <link href="https://github.com/foundry-rs/forge-std" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Layr-Labs/eigenlayer-contracts#1735258465</id>
+    <title>https://github.com/Layr-Labs/eigenlayer-contracts</title>
+    <link href="https://github.com/Layr-Labs/eigenlayer-contracts" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bnb-chain/BEPs#1735258465</id>
+    <title>https://github.com/bnb-chain/BEPs</title>
+    <link href="https://github.com/bnb-chain/BEPs" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">BNB Evolution Proposals</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/ERCs#1735258465</id>
+    <title>https://github.com/ethereum/ERCs</title>
+    <link href="https://github.com/ethereum/ERCs" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">The Ethereum Request for Comment repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1735258465</id>
+    <title>https://github.com/OpenZeppelin/openzeppelin-contracts</title>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
+    <updated>2024-12-27T00:14:25+00:00</updated>
+    <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
+  </entry>
+</feed>

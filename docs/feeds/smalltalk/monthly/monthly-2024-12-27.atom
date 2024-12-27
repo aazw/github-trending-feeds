@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smalltalk/monthly.atom</id>
+  <title>GitHub Trending - smalltalk (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:14:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/feenkcom/gtoolkit#1735258450</id>
+    <title>https://github.com/feenkcom/gtoolkit</title>
+    <link href="https://github.com/feenkcom/gtoolkit" />
+    <updated>2024-12-27T00:14:10+00:00</updated>
+    <content type="text">Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.</content>
+  </entry>
+</feed>

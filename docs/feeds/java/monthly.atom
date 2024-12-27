@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/monthly.atom</id>
+  <title>GitHub Trending - java (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:03:05+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alibaba/spring-cloud-alibaba#1735257785</id>
+    <title>https://github.com/alibaba/spring-cloud-alibaba</title>
+    <link href="https://github.com/alibaba/spring-cloud-alibaba" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/infinilabs/analysis-ik#1735257785</id>
+    <title>https://github.com/infinilabs/analysis-ik</title>
+    <link href="https://github.com/infinilabs/analysis-ik" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/dolphinscheduler#1735257785</id>
+    <title>https://github.com/apache/dolphinscheduler</title>
+    <link href="https://github.com/apache/dolphinscheduler" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/selenium#1735257785</id>
+    <title>https://github.com/SeleniumHQ/selenium</title>
+    <link href="https://github.com/SeleniumHQ/selenium" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">A browser automation framework and ecosystem.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kekingcn/kkFileView#1735257785</id>
+    <title>https://github.com/kekingcn/kkFileView</title>
+    <link href="https://github.com/kekingcn/kkFileView" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Universal File Online Preview Project based on Spring-Boot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openjdk/jdk#1735257785</id>
+    <title>https://github.com/openjdk/jdk</title>
+    <link href="https://github.com/openjdk/jdk" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">JDK main-line development https://openjdk.org/projects/jdk</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CarGuo/GSYVideoPlayer#1735257785</id>
+    <title>https://github.com/CarGuo/GSYVideoPlayer</title>
+    <link href="https://github.com/CarGuo/GSYVideoPlayer" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-boot#1735257785</id>
+    <title>https://github.com/spring-projects/spring-boot</title>
+    <link href="https://github.com/spring-projects/spring-boot" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuliskov/SmartTube#1735257785</id>
+    <title>https://github.com/yuliskov/SmartTube</title>
+    <link href="https://github.com/yuliskov/SmartTube" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">SmartTube - an advanced player for set-top boxes and tvs running Android OS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RikkaApps/Shizuku-API#1735257785</id>
+    <title>https://github.com/RikkaApps/Shizuku-API</title>
+    <link href="https://github.com/RikkaApps/Shizuku-API" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">The API and the developer guide for Shizuku and Sui.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DrKLO/Telegram#1735257785</id>
+    <title>https://github.com/DrKLO/Telegram</title>
+    <link href="https://github.com/DrKLO/Telegram" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Telegram for Android source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hkhcoder/vprofile-project#1735257785</id>
+    <title>https://github.com/hkhcoder/vprofile-project</title>
+    <link href="https://github.com/hkhcoder/vprofile-project" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/redisson/redisson#1735257785</id>
+    <title>https://github.com/redisson/redisson</title>
+    <link href="https://github.com/redisson/redisson" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Redisson - Valkey and Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StarRocks/starrocks#1735257785</id>
+    <title>https://github.com/StarRocks/starrocks</title>
+    <link href="https://github.com/StarRocks/starrocks" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeecgboot/JimuReport#1735257785</id>
+    <title>https://github.com/jeecgboot/JimuReport</title>
+    <link href="https://github.com/jeecgboot/JimuReport" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/flink-cdc#1735257785</id>
+    <title>https://github.com/apache/flink-cdc</title>
+    <link href="https://github.com/apache/flink-cdc" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Flink CDC is a streaming data integration tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/nacos#1735257785</id>
+    <title>https://github.com/alibaba/nacos</title>
+    <link href="https://github.com/alibaba/nacos" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/paimon#1735257785</id>
+    <title>https://github.com/apache/paimon</title>
+    <link href="https://github.com/apache/paimon" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaperMC/Paper#1735257785</id>
+    <title>https://github.com/PaperMC/Paper</title>
+    <link href="https://github.com/PaperMC/Paper" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microg/GmsCore#1735257785</id>
+    <title>https://github.com/microg/GmsCore</title>
+    <link href="https://github.com/microg/GmsCore" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">Free implementation of Play Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/648540858/wvp-GB28181-pro#1735257785</id>
+    <title>https://github.com/648540858/wvp-GB28181-pro</title>
+    <link href="https://github.com/648540858/wvp-GB28181-pro" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krahets/hello-algo#1735257785</id>
+    <title>https://github.com/krahets/hello-algo</title>
+    <link href="https://github.com/krahets/hello-algo" />
+    <updated>2024-12-27T00:03:05+00:00</updated>
+    <content type="text">《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</content>
+  </entry>
+</feed>

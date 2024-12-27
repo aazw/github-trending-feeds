@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mustache/weekly.atom</id>
+  <title>GitHub Trending - mustache (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mustache/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:30:21+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/fluent/helm-charts#1735255821</id>
+    <title>https://github.com/fluent/helm-charts</title>
+    <link href="https://github.com/fluent/helm-charts" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text">Helm Charts for Fluentd and Fluent Bit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kong/charts#1735255821</id>
+    <title>https://github.com/Kong/charts</title>
+    <link href="https://github.com/Kong/charts" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text">Helm charts for Kong</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubecost/cost-analyzer-helm-chart#1735255821</id>
+    <title>https://github.com/kubecost/cost-analyzer-helm-chart</title>
+    <link href="https://github.com/kubecost/cost-analyzer-helm-chart" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text">Kubecost helm chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RedHatTraining/DO288-apps#1735255821</id>
+    <title>https://github.com/RedHatTraining/DO288-apps</title>
+    <link href="https://github.com/RedHatTraining/DO288-apps" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/goharbor/harbor-helm#1735255821</id>
+    <title>https://github.com/goharbor/harbor-helm</title>
+    <link href="https://github.com/goharbor/harbor-helm" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text">The helm chart to deploy Harbor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swagger-api/swagger-codegen#1735255821</id>
+    <title>https://github.com/swagger-api/swagger-codegen</title>
+    <link href="https://github.com/swagger-api/swagger-codegen" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text">swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amzn/selling-partner-api-models#1735255821</id>
+    <title>https://github.com/amzn/selling-partner-api-models</title>
+    <link href="https://github.com/amzn/selling-partner-api-models" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text">This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/helm-charts#1735255821</id>
+    <title>https://github.com/temporalio/helm-charts</title>
+    <link href="https://github.com/temporalio/helm-charts" />
+    <updated>2024-12-26T23:30:21+00:00</updated>
+    <content type="text">Temporal Helm charts</content>
+  </entry>
+</feed>

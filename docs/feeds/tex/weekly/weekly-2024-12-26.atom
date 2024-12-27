@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tex/weekly.atom</id>
+  <title>GitHub Trending - tex (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tex/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:38:59+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mohuangrui/ucasthesis#1735256339</id>
+    <title>https://github.com/mohuangrui/ucasthesis</title>
+    <link href="https://github.com/mohuangrui/ucasthesis" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">LaTeX Thesis Template for the University of Chinese Academy of Sciences</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acl-org/acl-style-files#1735256339</id>
+    <title>https://github.com/acl-org/acl-style-files</title>
+    <link href="https://github.com/acl-org/acl-style-files" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">Official style files for papers submitted to venues of the Association for Computational Linguistics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lib-pku/libpku#1735256339</id>
+    <title>https://github.com/lib-pku/libpku</title>
+    <link href="https://github.com/lib-pku/libpku" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">贵校课程资料民间整理</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#1735256339</id>
+    <title>https://github.com/OWASP/www-project-top-10-for-large-language-model-applications</title>
+    <link href="https://github.com/OWASP/www-project-top-10-for-large-language-model-applications" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">OWASP Foundation Web Respository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sjtug/SJTUThesis#1735256339</id>
+    <title>https://github.com/sjtug/SJTUThesis</title>
+    <link href="https://github.com/sjtug/SJTUThesis" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terryum/awesome-deep-learning-papers#1735256339</id>
+    <title>https://github.com/terryum/awesome-deep-learning-papers</title>
+    <link href="https://github.com/terryum/awesome-deep-learning-papers" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">The most cited deep learning papers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sanjib-sen/WebLaTex#1735256339</id>
+    <title>https://github.com/sanjib-sen/WebLaTex</title>
+    <link href="https://github.com/sanjib-sen/WebLaTex" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar &amp; Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheNetAdmin/zjuthesis#1735256339</id>
+    <title>https://github.com/TheNetAdmin/zjuthesis</title>
+    <link href="https://github.com/TheNetAdmin/zjuthesis" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">Zhejiang University Graduation Thesis LaTeX Template</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaofengc/Awesome-Image-Quality-Assessment#1735256339</id>
+    <title>https://github.com/chaofengc/Awesome-Image-Quality-Assessment</title>
+    <link href="https://github.com/chaofengc/Awesome-Image-Quality-Assessment" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">A comprehensive collection of IQA papers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template#1735256339</id>
+    <title>https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template</title>
+    <link href="https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">LaTeX-template for russian Phd thesis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dart-lang/language#1735256339</id>
+    <title>https://github.com/dart-lang/language</title>
+    <link href="https://github.com/dart-lang/language" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">Design of the Dart language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv/riscv-isa-manual#1735256339</id>
+    <title>https://github.com/riscv/riscv-isa-manual</title>
+    <link href="https://github.com/riscv/riscv-isa-manual" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">RISC-V Instruction Set Manual</content>
+  </entry>
+  <entry>
+    <id>https://github.com/exacity/deeplearningbook-chinese#1735256339</id>
+    <title>https://github.com/exacity/deeplearningbook-chinese</title>
+    <link href="https://github.com/exacity/deeplearningbook-chinese" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">Deep Learning Book Chinese Translation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HarisIqbal88/PlotNeuralNet#1735256339</id>
+    <title>https://github.com/HarisIqbal88/PlotNeuralNet</title>
+    <link href="https://github.com/HarisIqbal88/PlotNeuralNet" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">Latex code for making neural networks diagrams</content>
+  </entry>
+  <entry>
+    <id>https://github.com/billryan/resume#1735256339</id>
+    <title>https://github.com/billryan/resume</title>
+    <link href="https://github.com/billryan/resume" />
+    <updated>2024-12-26T23:38:59+00:00</updated>
+    <content type="text">An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git</content>
+  </entry>
+</feed>

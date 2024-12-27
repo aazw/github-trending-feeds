@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/objective-c/monthly.atom</id>
+  <title>GitHub Trending - objective-c (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:08:21+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/google/gtm-session-fetcher#1735258101</id>
+    <title>https://github.com/google/gtm-session-fetcher</title>
+    <link href="https://github.com/google/gtm-session-fetcher" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">Google Toolbox for Mac - Session Fetcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/promises#1735258101</id>
+    <title>https://github.com/google/promises</title>
+    <link href="https://github.com/google/promises" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing-macos#1735258101</id>
+    <title>https://github.com/syncthing/syncthing-macos</title>
+    <link href="https://github.com/syncthing/syncthing-macos" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">Official frugal and native macOS Syncthing application bundle</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openid/AppAuth-iOS#1735258101</id>
+    <title>https://github.com/openid/AppAuth-iOS</title>
+    <link href="https://github.com/openid/AppAuth-iOS" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/onfido/onfido-ios-sdk#1735258101</id>
+    <title>https://github.com/onfido/onfido-ios-sdk</title>
+    <link href="https://github.com/onfido/onfido-ios-sdk" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/noah-nuebling/mac-mouse-fix#1735258101</id>
+    <title>https://github.com/noah-nuebling/mac-mouse-fix</title>
+    <link href="https://github.com/noah-nuebling/mac-mouse-fix" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sparkle-project/Sparkle#1735258101</id>
+    <title>https://github.com/sparkle-project/Sparkle</title>
+    <link href="https://github.com/sparkle-project/Sparkle" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">A software update framework for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adjust/ios_sdk#1735258101</id>
+    <title>https://github.com/adjust/ios_sdk</title>
+    <link href="https://github.com/adjust/ios_sdk" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">This is the iOS SDK of</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/GoogleSignIn-iOS#1735258101</id>
+    <title>https://github.com/google/GoogleSignIn-iOS</title>
+    <link href="https://github.com/google/GoogleSignIn-iOS" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">Enables iOS and macOS apps to sign in with Google.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keycastr/keycastr#1735258101</id>
+    <title>https://github.com/keycastr/keycastr</title>
+    <link href="https://github.com/keycastr/keycastr" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">KeyCastr, an open-source keystroke visualizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PojavLauncherTeam/PojavLauncher_iOS#1735258101</id>
+    <title>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</title>
+    <link href="https://github.com/PojavLauncherTeam/PojavLauncher_iOS" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for iOS/iPadOS platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/objective-see/LuLu#1735258101</id>
+    <title>https://github.com/objective-see/LuLu</title>
+    <link href="https://github.com/objective-see/LuLu" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">LuLu is the free macOS firewall</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Hammerspoon/hammerspoon#1735258101</id>
+    <title>https://github.com/Hammerspoon/hammerspoon</title>
+    <link href="https://github.com/Hammerspoon/hammerspoon" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">Staggeringly powerful macOS desktop automation with Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AFNetworking/AFNetworking#1735258101</id>
+    <title>https://github.com/AFNetworking/AFNetworking</title>
+    <link href="https://github.com/AFNetworking/AFNetworking" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">A delightful networking framework for iOS, macOS, watchOS, and tvOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/react-native-maps/react-native-maps#1735258101</id>
+    <title>https://github.com/react-native-maps/react-native-maps</title>
+    <link href="https://github.com/react-native-maps/react-native-maps" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">React Native Mapview component for iOS + Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tisfeng/Easydict#1735258101</id>
+    <title>https://github.com/tisfeng/Easydict</title>
+    <link href="https://github.com/tisfeng/Easydict" />
+    <updated>2024-12-27T00:08:21+00:00</updated>
+    <content type="text">一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</content>
+  </entry>
+</feed>

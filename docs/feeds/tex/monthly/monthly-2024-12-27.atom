@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tex/monthly.atom</id>
+  <title>GitHub Trending - tex (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tex/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:15:46+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/sjtug/SJTUThesis#1735258546</id>
+    <title>https://github.com/sjtug/SJTUThesis</title>
+    <link href="https://github.com/sjtug/SJTUThesis" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">上海交通大学 LaTeX 论文模板 | Shanghai Jiao Tong University LaTeX Thesis Template</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wandmalfarbe/pandoc-latex-template#1735258546</id>
+    <title>https://github.com/Wandmalfarbe/pandoc-latex-template</title>
+    <link href="https://github.com/Wandmalfarbe/pandoc-latex-template" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">A pandoc LaTeX template to convert markdown files to PDF or LaTeX.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terryum/awesome-deep-learning-papers#1735258546</id>
+    <title>https://github.com/terryum/awesome-deep-learning-papers</title>
+    <link href="https://github.com/terryum/awesome-deep-learning-papers" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">The most cited deep learning papers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AllenDowney/ThinkPython2#1735258546</id>
+    <title>https://github.com/AllenDowney/ThinkPython2</title>
+    <link href="https://github.com/AllenDowney/ThinkPython2" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hmemcpy/milewski-ctfp-pdf#1735258546</id>
+    <title>https://github.com/hmemcpy/milewski-ctfp-pdf</title>
+    <link href="https://github.com/hmemcpy/milewski-ctfp-pdf" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cplusplus/draft#1735258546</id>
+    <title>https://github.com/cplusplus/draft</title>
+    <link href="https://github.com/cplusplus/draft" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">C++ standards drafts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dart-lang/language#1735258546</id>
+    <title>https://github.com/dart-lang/language</title>
+    <link href="https://github.com/dart-lang/language" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">Design of the Dart language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lervag/vimtex#1735258546</id>
+    <title>https://github.com/lervag/vimtex</title>
+    <link href="https://github.com/lervag/vimtex" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dendibakh/perf-book#1735258546</id>
+    <title>https://github.com/dendibakh/perf-book</title>
+    <link href="https://github.com/dendibakh/perf-book" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">The book "Performance Analysis and Tuning on Modern CPU"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv/riscv-isa-manual#1735258546</id>
+    <title>https://github.com/riscv/riscv-isa-manual</title>
+    <link href="https://github.com/riscv/riscv-isa-manual" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">RISC-V Instruction Set Manual</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheNetAdmin/zjuthesis#1735258546</id>
+    <title>https://github.com/TheNetAdmin/zjuthesis</title>
+    <link href="https://github.com/TheNetAdmin/zjuthesis" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">Zhejiang University Graduation Thesis LaTeX Template</content>
+  </entry>
+  <entry>
+    <id>https://github.com/billryan/resume#1735258546</id>
+    <title>https://github.com/billryan/resume</title>
+    <link href="https://github.com/billryan/resume" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acl-org/acl-style-files#1735258546</id>
+    <title>https://github.com/acl-org/acl-style-files</title>
+    <link href="https://github.com/acl-org/acl-style-files" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">Official style files for papers submitted to venues of the Association for Computational Linguistics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tuhdo/os01#1735258546</id>
+    <title>https://github.com/tuhdo/os01</title>
+    <link href="https://github.com/tuhdo/os01" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">Bootstrap yourself to write an OS from scratch. A book for self-learner.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HarisIqbal88/PlotNeuralNet#1735258546</id>
+    <title>https://github.com/HarisIqbal88/PlotNeuralNet</title>
+    <link href="https://github.com/HarisIqbal88/PlotNeuralNet" />
+    <updated>2024-12-27T00:15:46+00:00</updated>
+    <content type="text">Latex code for making neural networks diagrams</content>
+  </entry>
+</feed>

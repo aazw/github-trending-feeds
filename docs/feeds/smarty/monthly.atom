@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/monthly.atom</id>
+  <title>GitHub Trending - smarty (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:14:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aenix-io/cozystack#1735258452</id>
+    <title>https://github.com/aenix-io/cozystack</title>
+    <link href="https://github.com/aenix-io/cozystack" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik-helm-chart#1735258452</id>
+    <title>https://github.com/traefik/traefik-helm-chart</title>
+    <link href="https://github.com/traefik/traefik-helm-chart" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">Traefik Proxy Helm Chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opensearch-project/helm-charts#1735258452</id>
+    <title>https://github.com/opensearch-project/helm-charts</title>
+    <link href="https://github.com/opensearch-project/helm-charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">☸️ A community repository for Helm Charts of OpenSearch Project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truenas/charts#1735258452</id>
+    <title>https://github.com/truenas/charts</title>
+    <link href="https://github.com/truenas/charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">TrueNAS SCALE Apps Catalogs &amp; Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/helm#1735258452</id>
+    <title>https://github.com/nextcloud/helm</title>
+    <link href="https://github.com/nextcloud/helm" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">A community maintained helm chart for deploying Nextcloud on Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k8s-monitoring-helm#1735258452</id>
+    <title>https://github.com/grafana/k8s-monitoring-helm</title>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1735258452</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1735258452</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1735258452</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/helm-charts#1735258452</id>
+    <title>https://github.com/VictoriaMetrics/helm-charts</title>
+    <link href="https://github.com/VictoriaMetrics/helm-charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/helm-charts#1735258452</id>
+    <title>https://github.com/grafana/helm-charts</title>
+    <link href="https://github.com/grafana/helm-charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-helm-charts#1735258452</id>
+    <title>https://github.com/open-telemetry/opentelemetry-helm-charts</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">OpenTelemetry Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plexinc/pms-docker#1735258452</id>
+    <title>https://github.com/plexinc/pms-docker</title>
+    <link href="https://github.com/plexinc/pms-docker" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">Plex Media Server Docker repo, for all your PMS docker needs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/charts#1735258452</id>
+    <title>https://github.com/bitnami/charts</title>
+    <link href="https://github.com/bitnami/charts" />
+    <updated>2024-12-27T00:14:12+00:00</updated>
+    <content type="text">Bitnami Helm Charts</content>
+  </entry>
+</feed>

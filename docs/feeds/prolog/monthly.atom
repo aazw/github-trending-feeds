@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/prolog/monthly.atom</id>
+  <title>GitHub Trending - prolog (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/prolog/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:10:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nasa-jpl/open-source-rover#1735258248</id>
+    <title>https://github.com/nasa-jpl/open-source-rover</title>
+    <link href="https://github.com/nasa-jpl/open-source-rover" />
+    <updated>2024-12-27T00:10:48+00:00</updated>
+    <content type="text">A build-it-yourself, 6-wheel rover based on the rovers on Mars!</content>
+  </entry>
+</feed>

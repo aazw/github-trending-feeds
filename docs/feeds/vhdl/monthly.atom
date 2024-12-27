@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vhdl/monthly.atom</id>
+  <title>GitHub Trending - vhdl (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vhdl/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:17:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ghdl/ghdl#1735258632</id>
+    <title>https://github.com/ghdl/ghdl</title>
+    <link href="https://github.com/ghdl/ghdl" />
+    <updated>2024-12-27T00:17:12+00:00</updated>
+    <content type="text">VHDL 2008/93/87 simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OSVVM/OSVVM#1735258632</id>
+    <title>https://github.com/OSVVM/OSVVM</title>
+    <link href="https://github.com/OSVVM/OSVVM" />
+    <updated>2024-12-27T00:17:12+00:00</updated>
+    <content type="text">OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slaclab/surf#1735258632</id>
+    <title>https://github.com/slaclab/surf</title>
+    <link href="https://github.com/slaclab/surf" />
+    <updated>2024-12-27T00:17:12+00:00</updated>
+    <content type="text">A huge VHDL library for FPGA development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-fpga#1735258632</id>
+    <title>https://github.com/aws/aws-fpga</title>
+    <link href="https://github.com/aws/aws-fpga" />
+    <updated>2024-12-27T00:17:12+00:00</updated>
+    <content type="text">Official repository of the AWS EC2 FPGA Hardware and Software Development Kit</content>
+  </entry>
+</feed>

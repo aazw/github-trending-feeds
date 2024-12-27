@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tsql/weekly.atom</id>
+  <title>GitHub Trending - tsql (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tsql/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:39:26+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/umbraco/UmbracoDocs#1735256366</id>
+    <title>https://github.com/umbraco/UmbracoDocs</title>
+    <link href="https://github.com/umbraco/UmbracoDocs" />
+    <updated>2024-12-26T23:39:26+00:00</updated>
+    <content type="text">The official Umbraco Documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dr5hn/countries-states-cities-database#1735256366</id>
+    <title>https://github.com/dr5hn/countries-states-cities-database</title>
+    <link href="https://github.com/dr5hn/countries-states-cities-database" />
+    <updated>2024-12-26T23:39:26+00:00</updated>
+    <content type="text">🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities</content>
+  </entry>
+</feed>

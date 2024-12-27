@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/blade/weekly.atom</id>
+  <title>GitHub Trending - blade (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/blade/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:17:49+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/livewire/flux#1735255069</id>
+    <title>https://github.com/livewire/flux</title>
+    <link href="https://github.com/livewire/flux" />
+    <updated>2024-12-26T23:17:49+00:00</updated>
+    <content type="text">The official Livewire UI component library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grocy/grocy#1735255069</id>
+    <title>https://github.com/grocy/grocy</title>
+    <link href="https://github.com/grocy/grocy" />
+    <updated>2024-12-26T23:17:49+00:00</updated>
+    <content type="text">ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/filamentphp/filamentphp.com#1735255069</id>
+    <title>https://github.com/filamentphp/filamentphp.com</title>
+    <link href="https://github.com/filamentphp/filamentphp.com" />
+    <updated>2024-12-26T23:17:49+00:00</updated>
+    <content type="text">Source code for the filamentphp.com website.</content>
+  </entry>
+</feed>

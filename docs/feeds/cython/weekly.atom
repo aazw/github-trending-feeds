@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cython/weekly.atom</id>
+  <title>GitHub Trending - cython (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cython/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:20:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MagicStack/uvloop#1735255227</id>
+    <title>https://github.com/MagicStack/uvloop</title>
+    <link href="https://github.com/MagicStack/uvloop" />
+    <updated>2024-12-26T23:20:27+00:00</updated>
+    <content type="text">Ultra fast asyncio event loop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TA-Lib/ta-lib-python#1735255227</id>
+    <title>https://github.com/TA-Lib/ta-lib-python</title>
+    <link href="https://github.com/TA-Lib/ta-lib-python" />
+    <updated>2024-12-26T23:20:27+00:00</updated>
+    <content type="text">Python wrapper for TA-Lib (http://ta-lib.org/).</content>
+  </entry>
+</feed>

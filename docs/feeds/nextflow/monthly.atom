@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nextflow/monthly.atom</id>
+  <title>GitHub Trending - nextflow (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:07:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nf-core/scdownstream#1735258052</id>
+    <title>https://github.com/nf-core/scdownstream</title>
+    <link href="https://github.com/nf-core/scdownstream" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">A single cell transcriptomics pipeline for QC, integration and making the data presentable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/fastquorum#1735258052</id>
+    <title>https://github.com/nf-core/fastquorum</title>
+    <link href="https://github.com/nf-core/fastquorum" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">Pipeline to produce consensus reads using unique molecular indexes/barcodes (UMIs)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/scrnaseq#1735258052</id>
+    <title>https://github.com/nf-core/scrnaseq</title>
+    <link href="https://github.com/nf-core/scrnaseq" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">A single-cell RNAseq pipeline for 10X genomics data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/oncoanalyser#1735258052</id>
+    <title>https://github.com/nf-core/oncoanalyser</title>
+    <link href="https://github.com/nf-core/oncoanalyser" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">A comprehensive cancer DNA/RNA analysis and reporting pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/nanoseq#1735258052</id>
+    <title>https://github.com/nf-core/nanoseq</title>
+    <link href="https://github.com/nf-core/nanoseq" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">Nanopore demultiplexing, QC and alignment pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/smrnaseq#1735258052</id>
+    <title>https://github.com/nf-core/smrnaseq</title>
+    <link href="https://github.com/nf-core/smrnaseq" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">A small-RNA sequencing analysis pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/methylseq#1735258052</id>
+    <title>https://github.com/nf-core/methylseq</title>
+    <link href="https://github.com/nf-core/methylseq" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/rnaseq#1735258052</id>
+    <title>https://github.com/nf-core/rnaseq</title>
+    <link href="https://github.com/nf-core/rnaseq" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/sarek#1735258052</id>
+    <title>https://github.com/nf-core/sarek</title>
+    <link href="https://github.com/nf-core/sarek" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/differentialabundance#1735258052</id>
+    <title>https://github.com/nf-core/differentialabundance</title>
+    <link href="https://github.com/nf-core/differentialabundance" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/modules#1735258052</id>
+    <title>https://github.com/nf-core/modules</title>
+    <link href="https://github.com/nf-core/modules" />
+    <updated>2024-12-27T00:07:32+00:00</updated>
+    <content type="text">Repository to host tool-specific module files for the Nextflow DSL2 community!</content>
+  </entry>
+</feed>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ejs/monthly.atom</id>
+  <title>GitHub Trending - ejs (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ejs/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:58:37+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/roninoss/create-expo-stack#1735257517</id>
+    <title>https://github.com/roninoss/create-expo-stack</title>
+    <link href="https://github.com/roninoss/create-expo-stack" />
+    <updated>2024-12-26T23:58:37+00:00</updated>
+    <content type="text">CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/betagouv/template-design-system-de-l-etat#1735257517</id>
+    <title>https://github.com/betagouv/template-design-system-de-l-etat</title>
+    <link href="https://github.com/betagouv/template-design-system-de-l-etat" />
+    <updated>2024-12-26T23:58:37+00:00</updated>
+    <content type="text">Démo du Design System de l'État (ressource non officielle)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/multi-container-app#1735257517</id>
+    <title>https://github.com/docker/multi-container-app</title>
+    <link href="https://github.com/docker/multi-container-app" />
+    <updated>2024-12-26T23:58:37+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Ovi/DummyJSON#1735257517</id>
+    <title>https://github.com/Ovi/DummyJSON</title>
+    <link href="https://github.com/Ovi/DummyJSON" />
+    <updated>2024-12-26T23:58:37+00:00</updated>
+    <content type="text">DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keikaavousi/fake-store-api#1735257517</id>
+    <title>https://github.com/keikaavousi/fake-store-api</title>
+    <link href="https://github.com/keikaavousi/fake-store-api" />
+    <updated>2024-12-26T23:58:37+00:00</updated>
+    <content type="text">FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Fechin/reference#1735257517</id>
+    <title>https://github.com/Fechin/reference</title>
+    <link href="https://github.com/Fechin/reference" />
+    <updated>2024-12-26T23:58:37+00:00</updated>
+    <content type="text">⭕ Share quick reference cheat sheet for developers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/haikus-for-codespaces#1735257517</id>
+    <title>https://github.com/github/haikus-for-codespaces</title>
+    <link href="https://github.com/github/haikus-for-codespaces" />
+    <updated>2024-12-26T23:58:37+00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>
