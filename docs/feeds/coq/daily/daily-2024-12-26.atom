@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/coq/daily.atom</id>
-  <title>GitHub Treanding - coq (daily)</title>
+  <title>GitHub Trending - coq (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/coq/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/coq/" rel="alternate" />
   <updated>2024-12-26T11:10:10+00:00</updated>

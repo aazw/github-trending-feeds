@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/runoff/daily.atom</id>
-  <title>GitHub Treanding - runoff (daily)</title>
+  <title>GitHub Trending - runoff (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/runoff/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/runoff/" rel="alternate" />
   <updated>2024-12-26T11:27:31+00:00</updated>

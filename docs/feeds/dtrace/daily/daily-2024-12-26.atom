@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/dtrace/daily.atom</id>
-  <title>GitHub Treanding - dtrace (daily)</title>
+  <title>GitHub Trending - dtrace (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/dtrace/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/dtrace/" rel="alternate" />
   <updated>2024-12-26T11:11:39+00:00</updated>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/asymptote/daily.atom</id>
-  <title>GitHub Treanding - asymptote (daily)</title>
+  <title>GitHub Trending - asymptote (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/asymptote/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/asymptote/" rel="alternate" />
   <updated>2024-12-26T11:07:25+00:00</updated>

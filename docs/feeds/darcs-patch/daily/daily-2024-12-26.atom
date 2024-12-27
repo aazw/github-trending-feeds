@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/darcs-patch/daily.atom</id>
-  <title>GitHub Treanding - darcs-patch (daily)</title>
+  <title>GitHub Trending - darcs-patch (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/darcs-patch/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/darcs-patch/" rel="alternate" />
   <updated>2024-12-26T11:11:03+00:00</updated>

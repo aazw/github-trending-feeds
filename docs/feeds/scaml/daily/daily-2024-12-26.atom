@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/scaml/daily.atom</id>
-  <title>GitHub Treanding - scaml (daily)</title>
+  <title>GitHub Trending - scaml (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/scaml/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/scaml/" rel="alternate" />
   <updated>2024-12-26T11:27:50+00:00</updated>

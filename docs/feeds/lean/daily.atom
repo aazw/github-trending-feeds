@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom</id>
-  <title>GitHub Treanding - lean (daily)</title>
+  <title>GitHub Trending - lean (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/" rel="alternate" />
   <updated>2024-12-26T11:18:22+00:00</updated>

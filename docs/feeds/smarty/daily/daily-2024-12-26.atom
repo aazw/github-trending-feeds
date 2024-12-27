@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom</id>
-  <title>GitHub Treanding - smarty (daily)</title>
+  <title>GitHub Trending - smarty (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/" rel="alternate" />
   <updated>2024-12-26T11:28:42+00:00</updated>

@@ -45,7 +45,7 @@ def main(language: str, date_range: str, output: str, atom_updated_date: str, ve
     appLogger.info(f"generated: url = {url}")
 
     # atom_title
-    atom_title = f"GitHub Treanding - {language} ({date_range})"
+    atom_title = f"GitHub Trending - {language} ({date_range})"
     appLogger.info(f"generated: atom_title = {atom_title}")
 
     # atom_author

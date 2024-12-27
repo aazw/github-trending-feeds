@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/graphql/daily.atom</id>
-  <title>GitHub Treanding - graphql (daily)</title>
+  <title>GitHub Trending - graphql (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/graphql/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/graphql/" rel="alternate" />
   <updated>2024-12-26T11:15:03+00:00</updated>

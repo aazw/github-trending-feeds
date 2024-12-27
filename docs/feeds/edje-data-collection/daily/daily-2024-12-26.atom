@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/edje-data-collection/daily.atom</id>
-  <title>GitHub Treanding - edje-data-collection (daily)</title>
+  <title>GitHub Trending - edje-data-collection (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/edje-data-collection/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/edje-data-collection/" rel="alternate" />
   <updated>2024-12-26T11:12:14+00:00</updated>

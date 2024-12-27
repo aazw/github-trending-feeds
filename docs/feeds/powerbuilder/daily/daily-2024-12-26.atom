@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/powerbuilder/daily.atom</id>
-  <title>GitHub Treanding - powerbuilder (daily)</title>
+  <title>GitHub Trending - powerbuilder (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/powerbuilder/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/powerbuilder/" rel="alternate" />
   <updated>2024-12-26T11:24:57+00:00</updated>

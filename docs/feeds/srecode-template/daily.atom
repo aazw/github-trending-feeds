@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/srecode-template/daily.atom</id>
-  <title>GitHub Treanding - srecode-template (daily)</title>
+  <title>GitHub Trending - srecode-template (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/srecode-template/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/srecode-template/" rel="alternate" />
   <updated>2024-12-26T11:29:15+00:00</updated>

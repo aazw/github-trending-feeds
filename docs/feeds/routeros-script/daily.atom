@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/routeros-script/daily.atom</id>
-  <title>GitHub Treanding - routeros-script (daily)</title>
+  <title>GitHub Trending - routeros-script (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/routeros-script/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/routeros-script/" rel="alternate" />
   <updated>2024-12-26T11:27:18+00:00</updated>

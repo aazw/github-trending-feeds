@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/oxygene/daily.atom</id>
-  <title>GitHub Treanding - oxygene (daily)</title>
+  <title>GitHub Trending - oxygene (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/oxygene/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/oxygene/" rel="alternate" />
   <updated>2024-12-26T11:23:36+00:00</updated>

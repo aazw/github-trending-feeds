@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/adobe-font-metrics/daily.atom</id>
-  <title>GitHub Treanding - adobe-font-metrics (daily)</title>
+  <title>GitHub Trending - adobe-font-metrics (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/adobe-font-metrics/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/adobe-font-metrics/" rel="alternate" />
   <updated>2024-12-26T11:06:27+00:00</updated>

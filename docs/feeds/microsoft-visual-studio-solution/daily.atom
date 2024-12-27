@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/microsoft-visual-studio-solution/daily.atom</id>
-  <title>GitHub Treanding - microsoft-visual-studio-solution (daily)</title>
+  <title>GitHub Trending - microsoft-visual-studio-solution (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/microsoft-visual-studio-solution/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/microsoft-visual-studio-solution/" rel="alternate" />
   <updated>2024-12-26T11:20:22+00:00</updated>

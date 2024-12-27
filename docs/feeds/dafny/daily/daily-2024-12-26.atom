@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/dafny/daily.atom</id>
-  <title>GitHub Treanding - dafny (daily)</title>
+  <title>GitHub Trending - dafny (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/dafny/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/dafny/" rel="alternate" />
   <updated>2024-12-26T11:11:01+00:00</updated>

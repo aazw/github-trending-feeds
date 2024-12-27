@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/unix-assembly/daily.atom</id>
-  <title>GitHub Treanding - unix-assembly (daily)</title>
+  <title>GitHub Trending - unix-assembly (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/unix-assembly/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/unix-assembly/" rel="alternate" />
   <updated>2024-12-26T11:31:19+00:00</updated>

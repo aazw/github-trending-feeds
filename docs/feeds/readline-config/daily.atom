@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/readline-config/daily.atom</id>
-  <title>GitHub Treanding - readline-config (daily)</title>
+  <title>GitHub Trending - readline-config (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/readline-config/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/readline-config/" rel="alternate" />
   <updated>2024-12-26T11:26:21+00:00</updated>

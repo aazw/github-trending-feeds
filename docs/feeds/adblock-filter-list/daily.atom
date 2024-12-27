@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom</id>
-  <title>GitHub Treanding - adblock-filter-list (daily)</title>
+  <title>GitHub Trending - adblock-filter-list (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/" rel="alternate" />
   <updated>2024-12-26T11:06:25+00:00</updated>

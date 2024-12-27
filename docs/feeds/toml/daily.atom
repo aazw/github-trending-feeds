@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/toml/daily.atom</id>
-  <title>GitHub Treanding - toml (daily)</title>
+  <title>GitHub Trending - toml (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/toml/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/toml/" rel="alternate" />
   <updated>2024-12-26T11:30:44+00:00</updated>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://aazw.github.io/github-trending-feeds/feeds/ecere-projects/daily.atom</id>
-  <title>GitHub Treanding - ecere-projects (daily)</title>
+  <title>GitHub Trending - ecere-projects (daily)</title>
   <link href="https://aazw.github.io/github-trending-feeds/feeds/ecere-projects/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/feeds/ecere-projects/" rel="alternate" />
   <updated>2024-12-26T11:12:00+00:00</updated>
