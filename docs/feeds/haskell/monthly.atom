@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/monthly.atom</id>
+  <title>GitHub Treanding - haskell (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:01:34+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/b3nj5m1n/xdg-ninja#1735257694</id>
+    <title>https://github.com/b3nj5m1n/xdg-ninja</title>
+    <link href="https://github.com/b3nj5m1n/xdg-ninja" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">A shell script which checks your $HOME for unwanted files and directories.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1735257694</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1735257694</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/semantic#1735257694</id>
+    <title>https://github.com/github/semantic</title>
+    <link href="https://github.com/github/semantic" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">Parsing, analyzing, and comparing source code across many languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1735257694</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1735257694</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1735257694</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1735257694</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2024-12-27T00:01:34+00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+</feed>

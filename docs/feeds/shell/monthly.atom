@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/monthly.atom</id>
+  <title>GitHub Treanding - shell (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:13:46+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DaoCloud/public-image-mirror#1735258426</id>
+    <title>https://github.com/DaoCloud/public-image-mirror</title>
+    <link href="https://github.com/DaoCloud/public-image-mirror" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ublue-os/bazzite#1735258426</id>
+    <title>https://github.com/ublue-os/bazzite</title>
+    <link href="https://github.com/ublue-os/bazzite" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1735258426</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenBMB/ChatDev#1735258426</id>
+    <title>https://github.com/OpenBMB/ChatDev</title>
+    <link href="https://github.com/OpenBMB/ChatDev" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1735258426</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1735258426</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itzg/docker-minecraft-server#1735258426</id>
+    <title>https://github.com/itzg/docker-minecraft-server</title>
+    <link href="https://github.com/itzg/docker-minecraft-server" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">Docker image that provides a Minecraft Server that will automatically download selected version at startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pystardust/ani-cli#1735258426</id>
+    <title>https://github.com/pystardust/ani-cli</title>
+    <link href="https://github.com/pystardust/ani-cli" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">A cli tool to browse and play anime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen2.5#1735258426</id>
+    <title>https://github.com/QwenLM/Qwen2.5</title>
+    <link href="https://github.com/QwenLM/Qwen2.5" />
+    <updated>2024-12-27T00:13:46+00:00</updated>
+    <content type="text">Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+</feed>

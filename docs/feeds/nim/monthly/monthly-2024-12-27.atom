@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nim/monthly.atom</id>
+  <title>GitHub Treanding - nim (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:07:36+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/status-im/nimbus-eth2#1735258056</id>
+    <title>https://github.com/status-im/nimbus-eth2</title>
+    <link href="https://github.com/status-im/nimbus-eth2" />
+    <updated>2024-12-27T00:07:36+00:00</updated>
+    <content type="text">Nim implementation of the Ethereum Beacon Chain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/atlas#1735258056</id>
+    <title>https://github.com/nim-lang/atlas</title>
+    <link href="https://github.com/nim-lang/atlas" />
+    <updated>2024-12-27T00:07:36+00:00</updated>
+    <content type="text">The Atlas Package cloner. It manages an isolated workspace that contains projects and dependencies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/nimble#1735258056</id>
+    <title>https://github.com/nim-lang/nimble</title>
+    <link href="https://github.com/nim-lang/nimble" />
+    <updated>2024-12-27T00:07:36+00:00</updated>
+    <content type="text">Package manager for the Nim programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/Nim#1735258056</id>
+    <title>https://github.com/nim-lang/Nim</title>
+    <link href="https://github.com/nim-lang/Nim" />
+    <updated>2024-12-27T00:07:36+00:00</updated>
+    <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
+  </entry>
+</feed>

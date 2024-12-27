@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dart/monthly.atom</id>
+  <title>GitHub Treanding - dart (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dart/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:57:22+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/lamarios/clipious#1735257442</id>
+    <title>https://github.com/lamarios/clipious</title>
+    <link href="https://github.com/lamarios/clipious" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">Invidious client for android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jonataslaw/getx#1735257442</id>
+    <title>https://github.com/jonataslaw/getx</title>
+    <link href="https://github.com/jonataslaw/getx" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/academind/flutter-complete-guide-course-resources#1735257442</id>
+    <title>https://github.com/academind/flutter-complete-guide-course-resources</title>
+    <link href="https://github.com/academind/flutter-complete-guide-course-resources" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">Course resources (code snapshots &amp; slides) for our complete Flutter &amp; Dart course (https://acad.link/flutter).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/miguelpruivo/flutter_file_picker#1735257442</id>
+    <title>https://github.com/miguelpruivo/flutter_file_picker</title>
+    <link href="https://github.com/miguelpruivo/flutter_file_picker" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">File picker plugin for Flutter, compatible with mobile (iOS &amp; Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gokadzev/Musify#1735257442</id>
+    <title>https://github.com/gokadzev/Musify</title>
+    <link href="https://github.com/gokadzev/Musify" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">Unlock the full potential of music: Stream effortlessly with one app!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anandnet/Harmony-Music#1735257442</id>
+    <title>https://github.com/anandnet/Harmony-Music</title>
+    <link href="https://github.com/anandnet/Harmony-Music" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">A cross platform App for streaming Music</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cake-tech/cake_wallet#1735257442</id>
+    <title>https://github.com/cake-tech/cake_wallet</title>
+    <link href="https://github.com/cake-tech/cake_wallet" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Notsfsssf/pixez-flutter#1735257442</id>
+    <title>https://github.com/Notsfsssf/pixez-flutter</title>
+    <link href="https://github.com/Notsfsssf/pixez-flutter" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hiddify/hiddify-app#1735257442</id>
+    <title>https://github.com/hiddify/hiddify-app</title>
+    <link href="https://github.com/hiddify/hiddify-app" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI#1735257442</id>
+    <title>https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI</title>
+    <link href="https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ente-io/ente#1735257442</id>
+    <title>https://github.com/ente-io/ente</title>
+    <link href="https://github.com/ente-io/ente" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">FOSS, End to End Encrypted alternative to Google Photos and Apple Photos</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jameskokoska/Cashew#1735257442</id>
+    <title>https://github.com/jameskokoska/Cashew</title>
+    <link href="https://github.com/jameskokoska/Cashew" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">💸 An app created to help users manage a budget and purchases</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chen08209/FlClash#1735257442</id>
+    <title>https://github.com/chen08209/FlClash</title>
+    <link href="https://github.com/chen08209/FlClash" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/guozhigq/pilipala#1735257442</id>
+    <title>https://github.com/guozhigq/pilipala</title>
+    <link href="https://github.com/guozhigq/pilipala" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaoyaocz/dart_simple_live#1735257442</id>
+    <title>https://github.com/xiaoyaocz/dart_simple_live</title>
+    <link href="https://github.com/xiaoyaocz/dart_simple_live" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">简简单单的看直播</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReVanced/revanced-manager#1735257442</id>
+    <title>https://github.com/ReVanced/revanced-manager</title>
+    <link href="https://github.com/ReVanced/revanced-manager" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">💊 Application to use ReVanced on Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flame-engine/flame#1735257442</id>
+    <title>https://github.com/flame-engine/flame</title>
+    <link href="https://github.com/flame-engine/flame" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">A Flutter based game engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ImranR98/Obtainium#1735257442</id>
+    <title>https://github.com/ImranR98/Obtainium</title>
+    <link href="https://github.com/ImranR98/Obtainium" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">Get Android app updates straight from the source.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flutter/samples#1735257442</id>
+    <title>https://github.com/flutter/samples</title>
+    <link href="https://github.com/flutter/samples" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">A collection of Flutter examples and demos</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KRTirtho/spotube#1735257442</id>
+    <title>https://github.com/KRTirtho/spotube</title>
+    <link href="https://github.com/KRTirtho/spotube" />
+    <updated>2024-12-26T23:57:22+00:00</updated>
+    <content type="text">🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop &amp; mobile!</content>
+  </entry>
+</feed>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/assembly/monthly.atom</id>
+  <title>GitHub Treanding - assembly (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/assembly/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:53:46+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SheerSt/pokewilds#1735257226</id>
+    <title>https://github.com/SheerSt/pokewilds</title>
+    <link href="https://github.com/SheerSt/pokewilds" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">PokeWilds - A Gen 2 Game/Engine using libGDX</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supranational/blst#1735257226</id>
+    <title>https://github.com/supranational/blst</title>
+    <link href="https://github.com/supranational/blst" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">Multilingual BLS12-381 signature library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pret/pokered#1735257226</id>
+    <title>https://github.com/pret/pokered</title>
+    <link href="https://github.com/pret/pokered" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">Disassembly of Pokémon Red/Blue</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitdump/BLHeli#1735257226</id>
+    <title>https://github.com/bitdump/BLHeli</title>
+    <link href="https://github.com/bitdump/BLHeli" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">BLHeli for brushless ESC firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JSsixtyfour/smashremix#1735257226</id>
+    <title>https://github.com/JSsixtyfour/smashremix</title>
+    <link href="https://github.com/JSsixtyfour/smashremix" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cirosantilli/x86-bare-metal-examples#1735257226</id>
+    <title>https://github.com/cirosantilli/x86-bare-metal-examples</title>
+    <link href="https://github.com/cirosantilli/x86-bare-metal-examples" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/hipBLASLt#1735257226</id>
+    <title>https://github.com/ROCm/hipBLASLt</title>
+    <link href="https://github.com/ROCm/hipBLASLt" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BLAKE3-team/BLAKE3#1735257226</id>
+    <title>https://github.com/BLAKE3-team/BLAKE3</title>
+    <link href="https://github.com/BLAKE3-team/BLAKE3" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">the official Rust and C implementations of the BLAKE3 cryptographic hash function</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pret/pokecrystal#1735257226</id>
+    <title>https://github.com/pret/pokecrystal</title>
+    <link href="https://github.com/pret/pokecrystal" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">Disassembly of Pokémon Crystal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hiteshchoudhary/open-source-contribution#1735257226</id>
+    <title>https://github.com/hiteshchoudhary/open-source-contribution</title>
+    <link href="https://github.com/hiteshchoudhary/open-source-contribution" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">A repo to contribute in open source via README only. A dream repo for open source beginner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pooler/cpuminer#1735257226</id>
+    <title>https://github.com/pooler/cpuminer</title>
+    <link href="https://github.com/pooler/cpuminer" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">CPU miner for Litecoin and Bitcoin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cva6#1735257226</id>
+    <title>https://github.com/openhwgroup/cva6</title>
+    <link href="https://github.com/openhwgroup/cva6" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytedance/sonic#1735257226</id>
+    <title>https://github.com/bytedance/sonic</title>
+    <link href="https://github.com/bytedance/sonic" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vxunderground/MalwareSourceCode#1735257226</id>
+    <title>https://github.com/vxunderground/MalwareSourceCode</title>
+    <link href="https://github.com/vxunderground/MalwareSourceCode" />
+    <updated>2024-12-26T23:53:46+00:00</updated>
+    <content type="text">Collection of malware source code for a variety of platforms in an array of different programming languages.</content>
+  </entry>
+</feed>

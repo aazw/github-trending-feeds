@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/monthly.atom</id>
+  <title>GitHub Treanding - gdscript (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:00:02+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mbrlabs/Lorien#1735257602</id>
+    <title>https://github.com/mbrlabs/Lorien</title>
+    <link href="https://github.com/mbrlabs/Lorien" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pablogila/TileMapDual#1735257602</id>
+    <title>https://github.com/pablogila/TileMapDual</title>
+    <link href="https://github.com/pablogila/TileMapDual" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">An automatic, real-time dual-grid tileset system for Godot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MewPurPur/GodSVG#1735257602</id>
+    <title>https://github.com/MewPurPur/GodSVG</title>
+    <link href="https://github.com/MewPurPur/GodSVG" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">A vector graphics application for structured SVG editing, available on all major desktop platforms. Currently in late alpha.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Maaack/Godot-Game-Template#1735257602</id>
+    <title>https://github.com/Maaack/Godot-Game-Template</title>
+    <link href="https://github.com/Maaack/Godot-Game-Template" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blackears/cyclopsLevelBuilder#1735257602</id>
+    <title>https://github.com/blackears/cyclopsLevelBuilder</title>
+    <link href="https://github.com/blackears/cyclopsLevelBuilder" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">A Godot plugin to let you block in levels inside the Godot editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitbrain/beehave#1735257602</id>
+    <title>https://github.com/bitbrain/beehave</title>
+    <link href="https://github.com/bitbrain/beehave" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">🐝 behavior tree AI for Godot Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RodZill4/material-maker#1735257602</id>
+    <title>https://github.com/RodZill4/material-maker</title>
+    <link href="https://github.com/RodZill4/material-maker" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">A procedural textures authoring and 3D model painting tool based on the Godot game engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitbrain/pandora#1735257602</id>
+    <title>https://github.com/bitbrain/pandora</title>
+    <link href="https://github.com/bitbrain/pandora" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot-demo-projects#1735257602</id>
+    <title>https://github.com/godotengine/godot-demo-projects</title>
+    <link href="https://github.com/godotengine/godot-demo-projects" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">Demonstration and Template Projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alexofp/BDCC#1735257602</id>
+    <title>https://github.com/Alexofp/BDCC</title>
+    <link href="https://github.com/Alexofp/BDCC" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Phazorknight/Cogito#1735257602</id>
+    <title>https://github.com/Phazorknight/Cogito</title>
+    <link href="https://github.com/Phazorknight/Cogito" />
+    <updated>2024-12-27T00:00:02+00:00</updated>
+    <content type="text">Immersive Sim Template Project for GODOT 4</content>
+  </entry>
+</feed>

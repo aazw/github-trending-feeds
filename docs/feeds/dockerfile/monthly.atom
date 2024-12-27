@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/monthly.atom</id>
+  <title>GitHub Treanding - dockerfile (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:57:50+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/sprintcube/docker-compose-lamp#1735257470</id>
+    <title>https://github.com/sprintcube/docker-compose-lamp</title>
+    <link href="https://github.com/sprintcube/docker-compose-lamp" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">A basic LAMP stack environment built using Docker Compose.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-qbittorrent#1735257470</id>
+    <title>https://github.com/linuxserver/docker-qbittorrent</title>
+    <link href="https://github.com/linuxserver/docker-qbittorrent" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/kagisearch/kagi-docs#1735257470</id>
+    <title>https://github.com/kagisearch/kagi-docs</title>
+    <link href="https://github.com/kagisearch/kagi-docs" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">Documentation for products made by Kagi Inc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sou6av/deploy-raganork#1735257470</id>
+    <title>https://github.com/sou6av/deploy-raganork</title>
+    <link href="https://github.com/sou6av/deploy-raganork" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/nodejs/docker-node#1735257470</id>
+    <title>https://github.com/nodejs/docker-node</title>
+    <link href="https://github.com/nodejs/docker-node" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitrixdock/bitrixdock#1735257470</id>
+    <title>https://github.com/bitrixdock/bitrixdock</title>
+    <link href="https://github.com/bitrixdock/bitrixdock" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">BitrixDock - это готовое Docker окружение для Bitrix CMS 🎯</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaywcjlove/reference#1735257470</id>
+    <title>https://github.com/jaywcjlove/reference</title>
+    <link href="https://github.com/jaywcjlove/reference" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">为开发人员分享快速参考备忘清单(速查表)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Anduin2017/HowToCook#1735257470</id>
+    <title>https://github.com/Anduin2017/HowToCook</title>
+    <link href="https://github.com/Anduin2017/HowToCook" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware#1735257470</id>
+    <title>https://github.com/autowarefoundation/autoware</title>
+    <link href="https://github.com/autowarefoundation/autoware" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock#1735257470</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1735257470</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">Docker images for .NET and the .NET Tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/symfony-docker#1735257470</id>
+    <title>https://github.com/dunglas/symfony-docker</title>
+    <link href="https://github.com/dunglas/symfony-docker" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1735257470</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub#1735257470</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goldbergyoni/nodebestpractices#1735257470</id>
+    <title>https://github.com/goldbergyoni/nodebestpractices</title>
+    <link href="https://github.com/goldbergyoni/nodebestpractices" />
+    <updated>2024-12-26T23:57:50+00:00</updated>
+    <content type="text">✅ The Node.js best practices list (July 2024)</content>
+  </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tsql/monthly.atom</id>
+  <title>GitHub Treanding - tsql (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tsql/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:16:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amachanic/sp_whoisactive#1735258571</id>
+    <title>https://github.com/amachanic/sp_whoisactive</title>
+    <link href="https://github.com/amachanic/sp_whoisactive" />
+    <updated>2024-12-27T00:16:11+00:00</updated>
+    <content type="text">sp_whoisactive</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dr5hn/countries-states-cities-database#1735258571</id>
+    <title>https://github.com/dr5hn/countries-states-cities-database</title>
+    <link href="https://github.com/dr5hn/countries-states-cities-database" />
+    <updated>2024-12-27T00:16:11+00:00</updated>
+    <content type="text">🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities</content>
+  </entry>
+</feed>

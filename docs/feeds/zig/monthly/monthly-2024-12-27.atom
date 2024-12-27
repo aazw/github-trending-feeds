@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/monthly.atom</id>
+  <title>GitHub Treanding - zig (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:19:04+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/blackboardsh/electrobun#1735258744</id>
+    <title>https://github.com/blackboardsh/electrobun</title>
+    <link href="https://github.com/blackboardsh/electrobun" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">Build ultra fast, tiny, and cross-platform desktop apps with Typescript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZigEmbeddedGroup/microzig#1735258744</id>
+    <title>https://github.com/ZigEmbeddedGroup/microzig</title>
+    <link href="https://github.com/ZigEmbeddedGroup/microzig" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">Unified abstraction layer and HAL for several microcontrollers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigtools/zls#1735258744</id>
+    <title>https://github.com/zigtools/zls</title>
+    <link href="https://github.com/zigtools/zls" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Not-Nik/raylib-zig#1735258744</id>
+    <title>https://github.com/Not-Nik/raylib-zig</title>
+    <link href="https://github.com/Not-Nik/raylib-zig" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tigerbeetle/tigerbeetle#1735258744</id>
+    <title>https://github.com/tigerbeetle/tigerbeetle</title>
+    <link href="https://github.com/tigerbeetle/tigerbeetle" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fairyglade/ly#1735258744</id>
+    <title>https://github.com/fairyglade/ly</title>
+    <link href="https://github.com/fairyglade/ly" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">display manager with console UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neurocyte/flow#1735258744</id>
+    <title>https://github.com/neurocyte/flow</title>
+    <link href="https://github.com/neurocyte/flow" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">Flow Control: a programmer's text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1735258744</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NilsIrl/dockerc#1735258744</id>
+    <title>https://github.com/NilsIrl/dockerc</title>
+    <link href="https://github.com/NilsIrl/dockerc" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">container image to single executable compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1735258744</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2024-12-27T00:19:04+00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gleam/monthly.atom</id>
+  <title>GitHub Treanding - gleam (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gleam/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:00:33+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/gleam-wisp/wisp#1735257633</id>
+    <title>https://github.com/gleam-wisp/wisp</title>
+    <link href="https://github.com/gleam-wisp/wisp" />
+    <updated>2024-12-27T00:00:33+00:00</updated>
+    <content type="text">🧚 A practical web framework for Gleam</content>
+  </entry>
+  <entry>
+    <id>https://github.com/giacomocavalieri/squirrel#1735257633</id>
+    <title>https://github.com/giacomocavalieri/squirrel</title>
+    <link href="https://github.com/giacomocavalieri/squirrel" />
+    <updated>2024-12-27T00:00:33+00:00</updated>
+    <content type="text">🐿️ Type safe SQL in Gleam</content>
+  </entry>
+</feed>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dm/monthly.atom</id>
+  <title>GitHub Treanding - dm (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dm/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:57:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cmss13-devs/cmss13#1735257463</id>
+    <title>https://github.com/cmss13-devs/cmss13</title>
+    <link href="https://github.com/cmss13-devs/cmss13" />
+    <updated>2024-12-26T23:57:43+00:00</updated>
+    <content type="text">Contains the code for CM-SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tgstation/tgstation#1735257463</id>
+    <title>https://github.com/tgstation/tgstation</title>
+    <link href="https://github.com/tgstation/tgstation" />
+    <updated>2024-12-26T23:57:43+00:00</updated>
+    <content type="text">The /tg/station branch of SS13.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Bubberstation/Bubberstation#1735257463</id>
+    <title>https://github.com/Bubberstation/Bubberstation</title>
+    <link href="https://github.com/Bubberstation/Bubberstation" />
+    <updated>2024-12-26T23:57:43+00:00</updated>
+    <content type="text">Bubberstation SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goonstation/goonstation#1735257463</id>
+    <title>https://github.com/goonstation/goonstation</title>
+    <link href="https://github.com/goonstation/goonstation" />
+    <updated>2024-12-26T23:57:43+00:00</updated>
+    <content type="text">Repository for the Goonstation branch of SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ParadiseSS13/Paradise#1735257463</id>
+    <title>https://github.com/ParadiseSS13/Paradise</title>
+    <link href="https://github.com/ParadiseSS13/Paradise" />
+    <updated>2024-12-26T23:57:43+00:00</updated>
+    <content type="text">Paradise Station's GitHub main repository.</content>
+  </entry>
+</feed>

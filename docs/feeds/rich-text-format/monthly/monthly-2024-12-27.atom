@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/monthly.atom</id>
+  <title>GitHub Treanding - rich-text-format (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:12:24+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/langchain-ai/opengpts#1735258344</id>
+    <title>https://github.com/langchain-ai/opengpts</title>
+    <link href="https://github.com/langchain-ai/opengpts" />
+    <updated>2024-12-27T00:12:24+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/foundation#1735258344</id>
+    <title>https://github.com/cncf/foundation</title>
+    <link href="https://github.com/cncf/foundation" />
+    <updated>2024-12-27T00:12:24+00:00</updated>
+    <content type="text">☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicehash/NiceHashMiner#1735258344</id>
+    <title>https://github.com/nicehash/NiceHashMiner</title>
+    <link href="https://github.com/nicehash/NiceHashMiner" />
+    <updated>2024-12-27T00:12:24+00:00</updated>
+    <content type="text">NiceHash Miner</content>
+  </entry>
+</feed>

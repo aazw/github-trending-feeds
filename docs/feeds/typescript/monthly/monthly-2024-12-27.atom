@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/typescript/monthly.atom</id>
+  <title>GitHub Treanding - typescript (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/typescript/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:16:28+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/langfuse/langfuse#1735258588</id>
+    <title>https://github.com/langfuse/langfuse</title>
+    <link href="https://github.com/langfuse/langfuse" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FlowiseAI/Flowise#1735258588</id>
+    <title>https://github.com/FlowiseAI/Flowise</title>
+    <link href="https://github.com/FlowiseAI/Flowise" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Drag &amp; drop UI to build your customized LLM flow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shardeum/shardeum#1735258588</id>
+    <title>https://github.com/shardeum/shardeum</title>
+    <link href="https://github.com/shardeum/shardeum" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Shardeum is an EVM based autoscaling blockchain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kamranahmedse/developer-roadmap#1735258588</id>
+    <title>https://github.com/kamranahmedse/developer-roadmap</title>
+    <link href="https://github.com/kamranahmedse/developer-roadmap" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Interactive roadmaps, guides and other educational content to help developers grow in their careers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/starter-workflows#1735258588</id>
+    <title>https://github.com/actions/starter-workflows</title>
+    <link href="https://github.com/actions/starter-workflows" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Accelerating new GitHub Actions workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/calcom/cal.com#1735258588</id>
+    <title>https://github.com/calcom/cal.com</title>
+    <link href="https://github.com/calcom/cal.com" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Scheduling infrastructure for absolutely everyone.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/docs#1735258588</id>
+    <title>https://github.com/github/docs</title>
+    <link href="https://github.com/github/docs" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">The open-source repo for docs.github.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n#1735258588</id>
+    <title>https://github.com/n8n-io/n8n</title>
+    <link href="https://github.com/n8n-io/n8n" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RocketChat/Rocket.Chat#1735258588</id>
+    <title>https://github.com/RocketChat/Rocket.Chat</title>
+    <link href="https://github.com/RocketChat/Rocket.Chat" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">The communications platform that puts data protection first.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cline/cline#1735258588</id>
+    <title>https://github.com/cline/cline</title>
+    <link href="https://github.com/cline/cline" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Eugeny/tabby#1735258588</id>
+    <title>https://github.com/Eugeny/tabby</title>
+    <link href="https://github.com/Eugeny/tabby" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">A terminal for a more modern age</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leerob/next-saas-starter#1735258588</id>
+    <title>https://github.com/leerob/next-saas-starter</title>
+    <link href="https://github.com/leerob/next-saas-starter" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/echarts#1735258588</id>
+    <title>https://github.com/apache/echarts</title>
+    <link href="https://github.com/apache/echarts" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Apache ECharts is a powerful, interactive charting and data visualization library for browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1735258588</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ant-design/x#1735258588</id>
+    <title>https://github.com/ant-design/x</title>
+    <link href="https://github.com/ant-design/x" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Craft AI-driven interfaces effortlessly 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Bin-Huang/chatbox#1735258588</id>
+    <title>https://github.com/Bin-Huang/chatbox</title>
+    <link href="https://github.com/Bin-Huang/chatbox" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify#1735258588</id>
+    <title>https://github.com/langgenius/dify</title>
+    <link href="https://github.com/langgenius/dify" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/multi-agent-orchestrator#1735258588</id>
+    <title>https://github.com/awslabs/multi-agent-orchestrator</title>
+    <link href="https://github.com/awslabs/multi-agent-orchestrator" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Flexible and powerful framework for managing multiple AI agents and handling complex conversations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/browserbase/stagehand#1735258588</id>
+    <title>https://github.com/browserbase/stagehand</title>
+    <link href="https://github.com/browserbase/stagehand" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">An AI web browsing framework focused on simplicity and extensibility.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lobehub/lobe-chat#1735258588</id>
+    <title>https://github.com/lobehub/lobe-chat</title>
+    <link href="https://github.com/lobehub/lobe-chat" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aidenybai/react-scan#1735258588</id>
+    <title>https://github.com/aidenybai/react-scan</title>
+    <link href="https://github.com/aidenybai/react-scan" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Scan for React performance issues and eliminate slow renders in your app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elizaOS/eliza#1735258588</id>
+    <title>https://github.com/elizaOS/eliza</title>
+    <link href="https://github.com/elizaOS/eliza" />
+    <updated>2024-12-27T00:16:28+00:00</updated>
+    <content type="text">Autonomous agents for everyone</content>
+  </entry>
+</feed>

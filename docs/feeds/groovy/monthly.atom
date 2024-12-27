@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/groovy/monthly.atom</id>
+  <title>GitHub Treanding - groovy (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:01:18+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdobeDocs/experience-manager-65.en#1735257678</id>
+    <title>https://github.com/AdobeDocs/experience-manager-65.en</title>
+    <link href="https://github.com/AdobeDocs/experience-manager-65.en" />
+    <updated>2024-12-27T00:01:18+00:00</updated>
+    <content type="text">This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SmartThingsCommunity/SmartThingsPublic#1735257678</id>
+    <title>https://github.com/SmartThingsCommunity/SmartThingsPublic</title>
+    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" />
+    <updated>2024-12-27T00:01:18+00:00</updated>
+    <content type="text">SmartThings open-source DeviceType Handlers and SmartApps code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextflow-io/nextflow#1735257678</id>
+    <title>https://github.com/nextflow-io/nextflow</title>
+    <link href="https://github.com/nextflow-io/nextflow" />
+    <updated>2024-12-27T00:01:18+00:00</updated>
+    <content type="text">A DSL for data-driven computational pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JetBrains/gradle-idea-ext-plugin#1735257678</id>
+    <title>https://github.com/JetBrains/gradle-idea-ext-plugin</title>
+    <link href="https://github.com/JetBrains/gradle-idea-ext-plugin" />
+    <updated>2024-12-27T00:01:18+00:00</updated>
+    <content type="text">Plugin to store IJ settings in gradle script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/pipeline-examples#1735257678</id>
+    <title>https://github.com/jenkinsci/pipeline-examples</title>
+    <link href="https://github.com/jenkinsci/pipeline-examples" />
+    <updated>2024-12-27T00:01:18+00:00</updated>
+    <content type="text">A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rundeck/rundeck#1735257678</id>
+    <title>https://github.com/rundeck/rundeck</title>
+    <link href="https://github.com/rundeck/rundeck" />
+    <updated>2024-12-27T00:01:18+00:00</updated>
+    <content type="text">Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gradle/gradle#1735257678</id>
+    <title>https://github.com/gradle/gradle</title>
+    <link href="https://github.com/gradle/gradle" />
+    <updated>2024-12-27T00:01:18+00:00</updated>
+    <content type="text">Adaptable, fast automation for all</content>
+  </entry>
+</feed>

@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/monthly.atom</id>
+  <title>GitHub Treanding - jupyter-notebook (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:03:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mistralai/cookbook#1735257828</id>
+    <title>https://github.com/mistralai/cookbook</title>
+    <link href="https://github.com/mistralai/cookbook" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera#1735257828</id>
+    <title>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</title>
+    <link href="https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Arize-ai/phoenix#1735257828</id>
+    <title>https://github.com/Arize-ai/phoenix</title>
+    <link href="https://github.com/Arize-ai/phoenix" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">AI Observability &amp; Evaluation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp#1735257828</id>
+    <title>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</title>
+    <link href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">Course Files for Complete Python 3 Bootcamp Course on Udemy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1735257828</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-cookbook#1735257828</id>
+    <title>https://github.com/datawhalechina/llm-cookbook</title>
+    <link href="https://github.com/datawhalechina/llm-cookbook" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tencent/HunyuanDiT#1735257828</id>
+    <title>https://github.com/Tencent/HunyuanDiT</title>
+    <link href="https://github.com/Tencent/HunyuanDiT" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CompVis/stable-diffusion#1735257828</id>
+    <title>https://github.com/CompVis/stable-diffusion</title>
+    <link href="https://github.com/CompVis/stable-diffusion" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">A latent text-to-image diffusion model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinGPT#1735257828</id>
+    <title>https://github.com/AI4Finance-Foundation/FinGPT</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinGPT" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/segment-anything#1735257828</id>
+    <title>https://github.com/facebookresearch/segment-anything</title>
+    <link href="https://github.com/facebookresearch/segment-anything" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1735257828</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1735257828</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1735257828</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/anthropic-cookbook#1735257828</id>
+    <title>https://github.com/anthropics/anthropic-cookbook</title>
+    <link href="https://github.com/anthropics/anthropic-cookbook" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ed-donner/llm_engineering#1735257828</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/prompt-eng-interactive-tutorial#1735257828</id>
+    <title>https://github.com/anthropics/prompt-eng-interactive-tutorial</title>
+    <link href="https://github.com/anthropics/prompt-eng-interactive-tutorial" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">Anthropic's Interactive Prompt Engineering Tutorial</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FoundationVision/VAR#1735257828</id>
+    <title>https://github.com/FoundationVision/VAR</title>
+    <link href="https://github.com/FoundationVision/VAR" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1735257828</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2024-12-27T00:03:48+00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+</feed>

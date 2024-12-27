@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/monthly.atom</id>
+  <title>GitHub Treanding - python (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:11:16+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abi/screenshot-to-code#1735258276</id>
+    <title>https://github.com/abi/screenshot-to-code</title>
+    <link href="https://github.com/abi/screenshot-to-code" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ytdl-org/youtube-dl#1735258276</id>
+    <title>https://github.com/ytdl-org/youtube-dl</title>
+    <link href="https://github.com/ytdl-org/youtube-dl" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Command-line program to download videos from YouTube.com and other video sites</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freqtrade/freqtrade#1735258276</id>
+    <title>https://github.com/freqtrade/freqtrade</title>
+    <link href="https://github.com/freqtrade/freqtrade" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Free, open source crypto trading bot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hummingbot/hummingbot#1735258276</id>
+    <title>https://github.com/hummingbot/hummingbot</title>
+    <link href="https://github.com/hummingbot/hummingbot" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Open source software that helps you create and deploy high-frequency crypto trading bots</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stanfordnlp/dspy#1735258276</id>
+    <title>https://github.com/stanfordnlp/dspy</title>
+    <link href="https://github.com/stanfordnlp/dspy" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">DSPy: The framework for programming—not prompting—language models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/comet-ml/opik#1735258276</id>
+    <title>https://github.com/comet-ml/opik</title>
+    <link href="https://github.com/comet-ml/opik" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Guovin/iptv-api#1735258276</id>
+    <title>https://github.com/Guovin/iptv-api</title>
+    <link href="https://github.com/Guovin/iptv-api" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">📺IPTV电视直播源更新工具『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DS4SD/docling#1735258276</id>
+    <title>https://github.com/DS4SD/docling</title>
+    <link href="https://github.com/DS4SD/docling" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Get your documents ready for gen AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TEN-framework/TEN-Agent#1735258276</id>
+    <title>https://github.com/TEN-framework/TEN-Agent</title>
+    <link href="https://github.com/TEN-framework/TEN-Agent" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">TEN Agent is a conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/donnemartin/system-design-primer#1735258276</id>
+    <title>https://github.com/donnemartin/system-design-primer</title>
+    <link href="https://github.com/donnemartin/system-design-primer" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/python-sdk#1735258276</id>
+    <title>https://github.com/modelcontextprotocol/python-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/python-sdk" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">The official Python SDK for Model Context Protocol servers and clients</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langflow-ai/langflow#1735258276</id>
+    <title>https://github.com/langflow-ai/langflow</title>
+    <link href="https://github.com/langflow-ai/langflow" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seleniumbase/SeleniumBase#1735258276</id>
+    <title>https://github.com/seleniumbase/SeleniumBase</title>
+    <link href="https://github.com/seleniumbase/SeleniumBase" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Python APIs for web automation, testing, and bypassing bot-detection.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fishaudio/fish-speech#1735258276</id>
+    <title>https://github.com/fishaudio/fish-speech</title>
+    <link href="https://github.com/fishaudio/fish-speech" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">SOTA Open Source TTS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Byaidu/PDFMathTranslate#1735258276</id>
+    <title>https://github.com/Byaidu/PDFMathTranslate</title>
+    <link href="https://github.com/Byaidu/PDFMathTranslate" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andrewyng/aisuite#1735258276</id>
+    <title>https://github.com/andrewyng/aisuite</title>
+    <link href="https://github.com/andrewyng/aisuite" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">Simple, unified interface to multiple Generative AI providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/myhhub/stock#1735258276</id>
+    <title>https://github.com/myhhub/stock</title>
+    <link href="https://github.com/myhhub/stock" />
+    <updated>2024-12-27T00:11:16+00:00</updated>
+    <content type="text">stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</content>
+  </entry>
+</feed>

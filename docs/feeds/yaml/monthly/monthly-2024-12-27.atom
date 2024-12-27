@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/yaml/monthly.atom</id>
+  <title>GitHub Treanding - yaml (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:18:46+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/kubeflow/manifests#1735258726</id>
+    <title>https://github.com/kubeflow/manifests</title>
+    <link href="https://github.com/kubeflow/manifests" />
+    <updated>2024-12-27T00:18:46+00:00</updated>
+    <content type="text">A repository for Kustomize manifests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3s-io/k3s-ansible#1735258726</id>
+    <title>https://github.com/k3s-io/k3s-ansible</title>
+    <link href="https://github.com/k3s-io/k3s-ansible" />
+    <updated>2024-12-27T00:18:46+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mustache/spec#1735258726</id>
+    <title>https://github.com/mustache/spec</title>
+    <link href="https://github.com/mustache/spec" />
+    <updated>2024-12-27T00:18:46+00:00</updated>
+    <content type="text">The Mustache spec.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hackclub/dns#1735258726</id>
+    <title>https://github.com/hackclub/dns</title>
+    <link href="https://github.com/hackclub/dns" />
+    <updated>2024-12-27T00:18:46+00:00</updated>
+    <content type="text">🕹 Manage Hack Club's DNS through a GitHub repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stashapp/CommunityScrapers#1735258726</id>
+    <title>https://github.com/stashapp/CommunityScrapers</title>
+    <link href="https://github.com/stashapp/CommunityScrapers" />
+    <updated>2024-12-27T00:18:46+00:00</updated>
+    <content type="text">This is a public repository containing scrapers created by the Stash Community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usnistgov/macos_security#1735258726</id>
+    <title>https://github.com/usnistgov/macos_security</title>
+    <link href="https://github.com/usnistgov/macos_security" />
+    <updated>2024-12-27T00:18:46+00:00</updated>
+    <content type="text">macOS Security Compliance Project</content>
+  </entry>
+</feed>

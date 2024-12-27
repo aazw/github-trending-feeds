@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/monthly.atom</id>
+  <title>GitHub Treanding - c++ (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:55:06+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tenstorrent/tt-metal#1735257306</id>
+    <title>https://github.com/tenstorrent/tt-metal</title>
+    <link href="https://github.com/tenstorrent/tt-metal" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/azerothcore/azerothcore-wotlk#1735257306</id>
+    <title>https://github.com/azerothcore/azerothcore-wotlk</title>
+    <link href="https://github.com/azerothcore/azerothcore-wotlk" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Complete Open Source and Modular solution for MMO</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/wallet-core#1735257306</id>
+    <title>https://github.com/trustwallet/wallet-core</title>
+    <link href="https://github.com/trustwallet/wallet-core" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Cross-platform, cross-blockchain wallet library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rhasspy/piper#1735257306</id>
+    <title>https://github.com/rhasspy/piper</title>
+    <link href="https://github.com/rhasspy/piper" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">A fast, local neural text to speech system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sogou/workflow#1735257306</id>
+    <title>https://github.com/sogou/workflow</title>
+    <link href="https://github.com/sogou/workflow" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">C++ Parallel Computing and Asynchronous Networking Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doitsujin/dxvk#1735257306</id>
+    <title>https://github.com/doitsujin/dxvk</title>
+    <link href="https://github.com/doitsujin/dxvk" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RPCS3/rpcs3#1735257306</id>
+    <title>https://github.com/RPCS3/rpcs3</title>
+    <link href="https://github.com/RPCS3/rpcs3" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">PlayStation 3 emulator and debugger</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ValveSoftware/Proton#1735257306</id>
+    <title>https://github.com/ValveSoftware/Proton</title>
+    <link href="https://github.com/ValveSoftware/Proton" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Compatibility tool for Steam Play based on Wine and additional components</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prusa3d/PrusaSlicer#1735257306</id>
+    <title>https://github.com/prusa3d/PrusaSlicer</title>
+    <link href="https://github.com/prusa3d/PrusaSlicer" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/whisper.cpp#1735257306</id>
+    <title>https://github.com/ggerganov/whisper.cpp</title>
+    <link href="https://github.com/ggerganov/whisper.cpp" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Port of OpenAI's Whisper model in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PCSX2/pcsx2#1735257306</id>
+    <title>https://github.com/PCSX2/pcsx2</title>
+    <link href="https://github.com/PCSX2/pcsx2" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">PCSX2 - The Playstation 2 Emulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LizardByte/Sunshine#1735257306</id>
+    <title>https://github.com/LizardByte/Sunshine</title>
+    <link href="https://github.com/LizardByte/Sunshine" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Self-hosted game stream host for Moonlight.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taichi-dev/taichi#1735257306</id>
+    <title>https://github.com/taichi-dev/taichi</title>
+    <link href="https://github.com/taichi-dev/taichi" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Productive, portable, and performant GPU programming in Python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZLMediaKit/ZLMediaKit#1735257306</id>
+    <title>https://github.com/ZLMediaKit/ZLMediaKit</title>
+    <link href="https://github.com/ZLMediaKit/ZLMediaKit" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11</content>
+  </entry>
+  <entry>
+    <id>https://github.com/topjohnwu/Magisk#1735257306</id>
+    <title>https://github.com/topjohnwu/Magisk</title>
+    <link href="https://github.com/topjohnwu/Magisk" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">The Magic Mask for Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/carla-simulator/carla#1735257306</id>
+    <title>https://github.com/carla-simulator/carla</title>
+    <link href="https://github.com/carla-simulator/carla" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Open-source simulator for autonomous driving research.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/notepad-plus-plus/notepad-plus-plus#1735257306</id>
+    <title>https://github.com/notepad-plus-plus/notepad-plus-plus</title>
+    <link href="https://github.com/notepad-plus-plus/notepad-plus-plus" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Notepad++ official repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/love2d/love#1735257306</id>
+    <title>https://github.com/love2d/love</title>
+    <link href="https://github.com/love2d/love" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">LÖVE is an awesome 2D game framework for Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Aircoookie/WLED#1735257306</id>
+    <title>https://github.com/Aircoookie/WLED</title>
+    <link href="https://github.com/Aircoookie/WLED" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dogecoin/dogecoin#1735257306</id>
+    <title>https://github.com/dogecoin/dogecoin</title>
+    <link href="https://github.com/dogecoin/dogecoin" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">very currency</content>
+  </entry>
+  <entry>
+    <id>https://github.com/official-stockfish/Stockfish#1735257306</id>
+    <title>https://github.com/official-stockfish/Stockfish</title>
+    <link href="https://github.com/official-stockfish/Stockfish" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">A free and strong UCI chess engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LadybirdBrowser/ladybird#1735257306</id>
+    <title>https://github.com/LadybirdBrowser/ladybird</title>
+    <link href="https://github.com/LadybirdBrowser/ladybird" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Truly independent web browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SoftFever/OrcaSlicer#1735257306</id>
+    <title>https://github.com/SoftFever/OrcaSlicer</title>
+    <link href="https://github.com/SoftFever/OrcaSlicer" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitcoin/bitcoin#1735257306</id>
+    <title>https://github.com/bitcoin/bitcoin</title>
+    <link href="https://github.com/bitcoin/bitcoin" />
+    <updated>2024-12-26T23:55:06+00:00</updated>
+    <content type="text">Bitcoin Core integration/staging tree</content>
+  </entry>
+</feed>

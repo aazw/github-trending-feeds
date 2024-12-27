@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/monthly.atom</id>
+  <title>GitHub Treanding - c (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:54:58+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BitMaker-hub/NerdMiner_v2#1735257298</id>
+    <title>https://github.com/BitMaker-hub/NerdMiner_v2</title>
+    <link href="https://github.com/BitMaker-hub/NerdMiner_v2" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Improved version of first ESP32 NerdMiner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DarkFlippers/unleashed-firmware#1735257298</id>
+    <title>https://github.com/DarkFlippers/unleashed-firmware</title>
+    <link href="https://github.com/DarkFlippers/unleashed-firmware" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Flipper Zero Unleashed Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RIOT-OS/RIOT#1735257298</id>
+    <title>https://github.com/RIOT-OS/RIOT</title>
+    <link href="https://github.com/RIOT-OS/RIOT" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">RIOT - The friendly OS for IoT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redcanaryco/atomic-red-team#1735257298</id>
+    <title>https://github.com/redcanaryco/atomic-red-team</title>
+    <link href="https://github.com/redcanaryco/atomic-red-team" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Small and highly portable detection tests based on MITRE's ATT&amp;CK.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HandBrake/HandBrake#1735257298</id>
+    <title>https://github.com/HandBrake/HandBrake</title>
+    <link href="https://github.com/HandBrake/HandBrake" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">HandBrake's main development repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/78/xiaozhi-esp32#1735257298</id>
+    <title>https://github.com/78/xiaozhi-esp32</title>
+    <link href="https://github.com/78/xiaozhi-esp32" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Build your own AI friend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pr3y/Bruce#1735257298</id>
+    <title>https://github.com/pr3y/Bruce</title>
+    <link href="https://github.com/pr3y/Bruce" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Predatory ESP32 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/UberGuidoZ/Flipper#1735257298</id>
+    <title>https://github.com/UberGuidoZ/Flipper</title>
+    <link href="https://github.com/UberGuidoZ/Flipper" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Playground (and dump) of stuff I make or modify for the Flipper Zero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/portapack-mayhem/mayhem-firmware#1735257298</id>
+    <title>https://github.com/portapack-mayhem/mayhem-firmware</title>
+    <link href="https://github.com/portapack-mayhem/mayhem-firmware" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Custom firmware for the HackRF+PortaPack H1/H2/H4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/floooh/sokol#1735257298</id>
+    <title>https://github.com/floooh/sokol</title>
+    <link href="https://github.com/floooh/sokol" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">minimal cross-platform standalone C headers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libsdl-org/SDL#1735257298</id>
+    <title>https://github.com/libsdl-org/SDL</title>
+    <link href="https://github.com/libsdl-org/SDL" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Simple Directmedia Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arendst/Tasmota#1735257298</id>
+    <title>https://github.com/arendst/Tasmota</title>
+    <link href="https://github.com/arendst/Tasmota" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-idf#1735257298</id>
+    <title>https://github.com/espressif/esp-idf</title>
+    <link href="https://github.com/espressif/esp-idf" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tursodatabase/libsql#1735257298</id>
+    <title>https://github.com/tursodatabase/libsql</title>
+    <link href="https://github.com/tursodatabase/libsql" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darktable-org/darktable#1735257298</id>
+    <title>https://github.com/darktable-org/darktable</title>
+    <link href="https://github.com/darktable-org/darktable" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">darktable is an open source photography workflow application and raw developer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmrig/xmrig#1735257298</id>
+    <title>https://github.com/xmrig/xmrig</title>
+    <link href="https://github.com/xmrig/xmrig" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kingToolbox/WindTerm#1735257298</id>
+    <title>https://github.com/kingToolbox/WindTerm</title>
+    <link href="https://github.com/kingToolbox/WindTerm" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raysan5/raylib#1735257298</id>
+    <title>https://github.com/raysan5/raylib</title>
+    <link href="https://github.com/raysan5/raylib" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">A simple and easy-to-use library to enjoy videogames programming</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/openwrt#1735257298</id>
+    <title>https://github.com/openwrt/openwrt</title>
+    <link href="https://github.com/openwrt/openwrt" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Genymobile/scrcpy#1735257298</id>
+    <title>https://github.com/Genymobile/scrcpy</title>
+    <link href="https://github.com/Genymobile/scrcpy" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">Display and control your Android device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lizongying/my-tv#1735257298</id>
+    <title>https://github.com/lizongying/my-tv</title>
+    <link href="https://github.com/lizongying/my-tv" />
+    <updated>2024-12-26T23:54:58+00:00</updated>
+    <content type="text">我的电视 电视直播软件，安装即可使用</content>
+  </entry>
+</feed>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/swift/monthly.atom</id>
+  <title>GitHub Treanding - swift (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:15:22+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/stripe/stripe-ios#1735258522</id>
+    <title>https://github.com/stripe/stripe-ios</title>
+    <link href="https://github.com/stripe/stripe-ios" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Stripe iOS SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PlayCover/PlayCover#1735258522</id>
+    <title>https://github.com/PlayCover/PlayCover</title>
+    <link href="https://github.com/PlayCover/PlayCover" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Community fork of PlayCover</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lihaoyun6/QuickRecorder#1735258522</id>
+    <title>https://github.com/lihaoyun6/QuickRecorder</title>
+    <link href="https://github.com/lihaoyun6/QuickRecorder" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninxsoft/Mist#1735258522</id>
+    <title>https://github.com/ninxsoft/Mist</title>
+    <link href="https://github.com/ninxsoft/Mist" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">A Mac utility that automatically downloads macOS Firmwares / Installers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RevenueCat/purchases-ios#1735258522</id>
+    <title>https://github.com/RevenueCat/purchases-ios</title>
+    <link href="https://github.com/RevenueCat/purchases-ios" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SwifterSwift/SwifterSwift#1735258522</id>
+    <title>https://github.com/SwifterSwift/SwifterSwift</title>
+    <link href="https://github.com/SwifterSwift/SwifterSwift" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">A handy collection of more than 500 native Swift extensions to boost your productivity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SnapKit/SnapKit#1735258522</id>
+    <title>https://github.com/SnapKit/SnapKit</title>
+    <link href="https://github.com/SnapKit/SnapKit" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">A Swift Autolayout DSL for iOS &amp; OS X</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airbnb/lottie-ios#1735258522</id>
+    <title>https://github.com/airbnb/lottie-ios</title>
+    <link href="https://github.com/airbnb/lottie-ios" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">An iOS library to natively render After Effects vector animations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-collections#1735258522</id>
+    <title>https://github.com/apple/swift-collections</title>
+    <link href="https://github.com/apple/swift-collections" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Commonly used data structures for Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/p0deje/Maccy#1735258522</id>
+    <title>https://github.com/p0deje/Maccy</title>
+    <link href="https://github.com/p0deje/Maccy" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Lightweight clipboard manager for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seemoo-lab/openhaystack#1735258522</id>
+    <title>https://github.com/seemoo-lab/openhaystack</title>
+    <link href="https://github.com/seemoo-lab/openhaystack" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Whisky-App/Whisky#1735258522</id>
+    <title>https://github.com/Whisky-App/Whisky</title>
+    <link href="https://github.com/Whisky-App/Whisky" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">A modern Wine wrapper for macOS built with SwiftUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/whoeevee/EeveeSpotify#1735258522</id>
+    <title>https://github.com/whoeevee/EeveeSpotify</title>
+    <link href="https://github.com/whoeevee/EeveeSpotify" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">A tweak to get Spotify Premium for free, just like Spotilife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AugustDev/enchanted#1735258522</id>
+    <title>https://github.com/AugustDev/enchanted</title>
+    <link href="https://github.com/AugustDev/enchanted" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jordanbaird/Ice#1735258522</id>
+    <title>https://github.com/jordanbaird/Ice</title>
+    <link href="https://github.com/jordanbaird/Ice" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Powerful menu bar manager for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/CopilotForXcode#1735258522</id>
+    <title>https://github.com/github/CopilotForXcode</title>
+    <link href="https://github.com/github/CopilotForXcode" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Xcode extension for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/utmapp/UTM#1735258522</id>
+    <title>https://github.com/utmapp/UTM</title>
+    <link href="https://github.com/utmapp/UTM" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Virtual machines for iOS and macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nikitabobko/AeroSpace#1735258522</id>
+    <title>https://github.com/nikitabobko/AeroSpace</title>
+    <link href="https://github.com/nikitabobko/AeroSpace" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">AeroSpace is an i3-like tiling window manager for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/exelban/stats#1735258522</id>
+    <title>https://github.com/exelban/stats</title>
+    <link href="https://github.com/exelban/stats" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">macOS system monitor in your menu bar</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alamofire/Alamofire#1735258522</id>
+    <title>https://github.com/Alamofire/Alamofire</title>
+    <link href="https://github.com/Alamofire/Alamofire" />
+    <updated>2024-12-27T00:15:22+00:00</updated>
+    <content type="text">Elegant HTTP Networking in Swift</content>
+  </entry>
+</feed>

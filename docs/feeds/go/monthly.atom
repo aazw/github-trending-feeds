@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom</id>
+  <title>GitHub Treanding - go (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:00:55+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/chaitin/SafeLine#1735257655</id>
+    <title>https://github.com/chaitin/SafeLine</title>
+    <link href="https://github.com/chaitin/SafeLine" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">serve as a reverse proxy to protect your web services from attacks and exploits.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1735257655</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wagoodman/dive#1735257655</id>
+    <title>https://github.com/wagoodman/dive</title>
+    <link href="https://github.com/wagoodman/dive" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">A tool for exploring each layer in a docker image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nezhahq/nezha#1735257655</id>
+    <title>https://github.com/nezhahq/nezha</title>
+    <link href="https://github.com/nezhahq/nezha" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Self-hosted, lightweight server and website monitoring and O&amp;M tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1735257655</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1735257655</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/publicsuffix/list#1735257655</id>
+    <title>https://github.com/publicsuffix/list</title>
+    <link href="https://github.com/publicsuffix/list" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">The Public Suffix List</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1735257655</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apernet/hysteria#1735257655</id>
+    <title>https://github.com/apernet/hysteria</title>
+    <link href="https://github.com/apernet/hysteria" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Hysteria is a powerful, lightning fast and censorship resistant proxy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terrastruct/d2#1735257655</id>
+    <title>https://github.com/terrastruct/d2</title>
+    <link href="https://github.com/terrastruct/d2" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">D2 is a modern diagram scripting language that turns text to diagrams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/frankenphp#1735257655</id>
+    <title>https://github.com/dunglas/frankenphp</title>
+    <link href="https://github.com/dunglas/frankenphp" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">🧟 The modern PHP app server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/daytonaio/daytona#1735257655</id>
+    <title>https://github.com/daytonaio/daytona</title>
+    <link href="https://github.com/daytonaio/daytona" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">The Open Source Dev Environment Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1735257655</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1735257655</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1735257655</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/assets#1735257655</id>
+    <title>https://github.com/trustwallet/assets</title>
+    <link href="https://github.com/trustwallet/assets" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1735257655</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1735257655</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1735257655</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1735257655</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1735257655</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IceWhaleTech/CasaOS#1735257655</id>
+    <title>https://github.com/IceWhaleTech/CasaOS</title>
+    <link href="https://github.com/IceWhaleTech/CasaOS" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1735257655</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2024-12-27T00:00:55+00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+</feed>

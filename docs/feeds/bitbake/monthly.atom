@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bitbake/monthly.atom</id>
+  <title>GitHub Treanding - bitbake (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:54:29+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nxp-imx/meta-imx#1735257269</id>
+    <title>https://github.com/nxp-imx/meta-imx</title>
+    <link href="https://github.com/nxp-imx/meta-imx" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">i.MX Yocto Project i.MX BSP Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/STMicroelectronics/meta-st-stm32mp#1735257269</id>
+    <title>https://github.com/STMicroelectronics/meta-st-stm32mp</title>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">meta-st-stm32mp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale#1735257269</id>
+    <title>https://github.com/Freescale/meta-freescale</title>
+    <link href="https://github.com/Freescale/meta-freescale" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Layer containing NXP hardware support metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1735257269</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mendersoftware/meta-mender#1735257269</id>
+    <title>https://github.com/mendersoftware/meta-mender</title>
+    <link href="https://github.com/mendersoftware/meta-mender" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Yocto Project meta layer for the Mender client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx#1735257269</id>
+    <title>https://github.com/Xilinx/meta-xilinx</title>
+    <link href="https://github.com/Xilinx/meta-xilinx" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Collection of Yocto Project layers to enable AMD Xilinx products</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-qt5/meta-qt5#1735257269</id>
+    <title>https://github.com/meta-qt5/meta-qt5</title>
+    <link href="https://github.com/meta-qt5/meta-qt5" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">QT5 layer for openembedded</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-flutter/meta-flutter#1735257269</id>
+    <title>https://github.com/meta-flutter/meta-flutter</title>
+    <link href="https://github.com/meta-flutter/meta-flutter" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Google Flutter for Yocto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1735257269</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1735257269</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale-3rdparty#1735257269</id>
+    <title>https://github.com/Freescale/meta-freescale-3rdparty</title>
+    <link href="https://github.com/Freescale/meta-freescale-3rdparty" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OE4T/meta-tegra#1735257269</id>
+    <title>https://github.com/OE4T/meta-tegra</title>
+    <link href="https://github.com/OE4T/meta-tegra" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OSSystems/meta-browser#1735257269</id>
+    <title>https://github.com/OSSystems/meta-browser</title>
+    <link href="https://github.com/OSSystems/meta-browser" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Web Browsers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx-tools#1735257269</id>
+    <title>https://github.com/Xilinx/meta-xilinx-tools</title>
+    <link href="https://github.com/Xilinx/meta-xilinx-tools" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Yocto Project layer enables AMD Xilinx tools related metadata for MicroBlaze, Zynq, ZynqMP and Versal devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbabic/meta-swupdate#1735257269</id>
+    <title>https://github.com/sbabic/meta-swupdate</title>
+    <link href="https://github.com/sbabic/meta-swupdate" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Yocto receipes to generate a swupdate rootfilesystem as initrd</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-clang#1735257269</id>
+    <title>https://github.com/kraj/meta-clang</title>
+    <link href="https://github.com/kraj/meta-clang" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros/meta-ros#1735257269</id>
+    <title>https://github.com/ros/meta-ros</title>
+    <link href="https://github.com/ros/meta-ros" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">OpenEmbedded Layers for ROS 1 and ROS 2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1735257269</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2024-12-26T23:54:29+00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+</feed>

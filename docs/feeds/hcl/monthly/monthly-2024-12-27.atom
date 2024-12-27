@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/monthly.atom</id>
+  <title>GitHub Treanding - hcl (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:01:39+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/hashicorp/hashicat-aws#1735257699</id>
+    <title>https://github.com/hashicorp/hashicat-aws</title>
+    <link href="https://github.com/hashicorp/hashicat-aws" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/eks-workshop-v2#1735257699</id>
+    <title>https://github.com/aws-samples/eks-workshop-v2</title>
+    <link href="https://github.com/aws-samples/eks-workshop-v2" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Hands-on labs for Amazon EKS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaloAltoNetworks/prisma-cloud-devsecops-workshop#1735257699</id>
+    <title>https://github.com/PaloAltoNetworks/prisma-cloud-devsecops-workshop</title>
+    <link href="https://github.com/PaloAltoNetworks/prisma-cloud-devsecops-workshop" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">DevSecOps with Prisma Cloud</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zealvora/terraform-beginner-to-advanced-resource#1735257699</id>
+    <title>https://github.com/zealvora/terraform-beginner-to-advanced-resource</title>
+    <link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1735257699</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1735257699</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techiescamp/devops-projects#1735257699</id>
+    <title>https://github.com/techiescamp/devops-projects</title>
+    <link href="https://github.com/techiescamp/devops-projects" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1735257699</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1735257699</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1735257699</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1735257699</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1735257699</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1735257699</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2024-12-27T00:01:39+00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+</feed>

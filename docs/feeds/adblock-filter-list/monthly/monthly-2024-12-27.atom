@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/monthly.atom</id>
+  <title>GitHub Treanding - adblock-filter-list (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:52:54+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardSDNSFilter#1735257174</id>
+    <title>https://github.com/AdguardTeam/AdGuardSDNSFilter</title>
+    <link href="https://github.com/AdguardTeam/AdGuardSDNSFilter" />
+    <updated>2024-12-26T23:52:54+00:00</updated>
+    <content type="text">AdGuard DNS filter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/easylist/easylist#1735257174</id>
+    <title>https://github.com/easylist/easylist</title>
+    <link href="https://github.com/easylist/easylist" />
+    <updated>2024-12-26T23:52:54+00:00</updated>
+    <content type="text">EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jerryn70/GoodbyeAds#1735257174</id>
+    <title>https://github.com/jerryn70/GoodbyeAds</title>
+    <link href="https://github.com/jerryn70/GoodbyeAds" />
+    <updated>2024-12-26T23:52:54+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdguardFilters#1735257174</id>
+    <title>https://github.com/AdguardTeam/AdguardFilters</title>
+    <link href="https://github.com/AdguardTeam/AdguardFilters" />
+    <updated>2024-12-26T23:52:54+00:00</updated>
+    <content type="text">AdGuard Content Blocking Filters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uBlockOrigin/uAssets#1735257174</id>
+    <title>https://github.com/uBlockOrigin/uAssets</title>
+    <link href="https://github.com/uBlockOrigin/uAssets" />
+    <updated>2024-12-26T23:52:54+00:00</updated>
+    <content type="text">Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.</content>
+  </entry>
+</feed>

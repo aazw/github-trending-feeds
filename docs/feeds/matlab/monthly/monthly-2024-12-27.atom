@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/matlab/monthly.atom</id>
+  <title>GitHub Treanding - matlab (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:05:50+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mahmoudnafifi/WB_sRGB#1735257950</id>
+    <title>https://github.com/mahmoudnafifi/WB_sRGB</title>
+    <link href="https://github.com/mahmoudnafifi/WB_sRGB" />
+    <updated>2024-12-27T00:05:50+00:00</updated>
+    <content type="text">White balance camera-rendered sRGB images (CVPR 2019) [Matlab &amp; Python]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TadasBaltrusaitis/OpenFace#1735257950</id>
+    <title>https://github.com/TadasBaltrusaitis/OpenFace</title>
+    <link href="https://github.com/TadasBaltrusaitis/OpenFace" />
+    <updated>2024-12-27T00:05:50+00:00</updated>
+    <content type="text">OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fieldtrip/fieldtrip#1735257950</id>
+    <title>https://github.com/fieldtrip/fieldtrip</title>
+    <link href="https://github.com/fieldtrip/fieldtrip" />
+    <updated>2024-12-27T00:05:50+00:00</updated>
+    <content type="text">The MATLAB toolbox for MEG, EEG and iEEG analysis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BIMK/PlatEMO#1735257950</id>
+    <title>https://github.com/BIMK/PlatEMO</title>
+    <link href="https://github.com/BIMK/PlatEMO" />
+    <updated>2024-12-27T00:05:50+00:00</updated>
+    <content type="text">Evolutionary multi-objective optimization platform</content>
+  </entry>
+</feed>

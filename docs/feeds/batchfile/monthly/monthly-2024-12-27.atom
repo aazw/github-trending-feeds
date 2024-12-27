@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/batchfile/monthly.atom</id>
+  <title>GitHub Treanding - batchfile (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/batchfile/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:54:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nodemcu/nodemcu-devkit#1735257252</id>
+    <title>https://github.com/nodemcu/nodemcu-devkit</title>
+    <link href="https://github.com/nodemcu/nodemcu-devkit" />
+    <updated>2024-12-26T23:54:12+00:00</updated>
+    <content type="text">A development kit for NodeMCU firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RockBlack-VPN/ip-address#1735257252</id>
+    <title>https://github.com/RockBlack-VPN/ip-address</title>
+    <link href="https://github.com/RockBlack-VPN/ip-address" />
+    <updated>2024-12-26T23:54:12+00:00</updated>
+    <content type="text">ip address - Youtube, Instagtam, Twitter, Netflix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mon5termatt/medicat_installer#1735257252</id>
+    <title>https://github.com/mon5termatt/medicat_installer</title>
+    <link href="https://github.com/mon5termatt/medicat_installer" />
+    <updated>2024-12-26T23:54:12+00:00</updated>
+    <content type="text">Medicat Installer Repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AveYo/MediaCreationTool.bat#1735257252</id>
+    <title>https://github.com/AveYo/MediaCreationTool.bat</title>
+    <link href="https://github.com/AveYo/MediaCreationTool.bat" />
+    <updated>2024-12-26T23:54:12+00:00</updated>
+    <content type="text">Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ionuttbara/windows-defender-remover#1735257252</id>
+    <title>https://github.com/ionuttbara/windows-defender-remover</title>
+    <link href="https://github.com/ionuttbara/windows-defender-remover" />
+    <updated>2024-12-26T23:54:12+00:00</updated>
+    <content type="text">A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis-windows/redis-windows#1735257252</id>
+    <title>https://github.com/redis-windows/redis-windows</title>
+    <link href="https://github.com/redis-windows/redis-windows" />
+    <updated>2024-12-26T23:54:12+00:00</updated>
+    <content type="text">Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaperMC/Folia#1735257252</id>
+    <title>https://github.com/PaperMC/Folia</title>
+    <link href="https://github.com/PaperMC/Folia" />
+    <updated>2024-12-26T23:54:12+00:00</updated>
+    <content type="text">Fork of Paper which adds regionised multithreading to the dedicated server.</content>
+  </entry>
+</feed>

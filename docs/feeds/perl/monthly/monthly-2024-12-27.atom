@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/perl/monthly.atom</id>
+  <title>GitHub Treanding - perl (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/perl/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:09:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tseemann/prokka#1735258181</id>
+    <title>https://github.com/tseemann/prokka</title>
+    <link href="https://github.com/tseemann/prokka" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">⚡ ♒ Rapid prokaryotic genome annotation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sullo/nikto#1735258181</id>
+    <title>https://github.com/sullo/nikto</title>
+    <link href="https://github.com/sullo/nikto" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">Nikto web server scanner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AlDanial/cloc#1735258181</id>
+    <title>https://github.com/AlDanial/cloc</title>
+    <link href="https://github.com/AlDanial/cloc" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glpi-project/glpi-agent#1735258181</id>
+    <title>https://github.com/glpi-project/glpi-agent</title>
+    <link href="https://github.com/glpi-project/glpi-agent" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">GLPI Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/holzschu/a-shell#1735258181</id>
+    <title>https://github.com/holzschu/a-shell</title>
+    <link href="https://github.com/holzschu/a-shell" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">A terminal for iOS, with multiple windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-iplayer/get_iplayer#1735258181</id>
+    <title>https://github.com/get-iplayer/get_iplayer</title>
+    <link href="https://github.com/get-iplayer/get_iplayer" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ddclient/ddclient#1735258181</id>
+    <title>https://github.com/ddclient/ddclient</title>
+    <link href="https://github.com/ddclient/ddclient" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenKore/openkore#1735258181</id>
+    <title>https://github.com/OpenKore/openkore</title>
+    <link href="https://github.com/OpenKore/openkore" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">A free/open source client and automation tool for Ragnarok Online</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LMS-Community/slimserver#1735258181</id>
+    <title>https://github.com/LMS-Community/slimserver</title>
+    <link href="https://github.com/LMS-Community/slimserver" />
+    <updated>2024-12-27T00:09:41+00:00</updated>
+    <content type="text">Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.</content>
+  </entry>
+</feed>

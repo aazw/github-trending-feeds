@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/1c-enterprise/monthly.atom</id>
+  <title>GitHub Treanding - 1c-enterprise (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/1c-enterprise/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-26T23:52:38+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Pr-Mex/vanessa-automation#1735257158</id>
+    <title>https://github.com/Pr-Mex/vanessa-automation</title>
+    <link href="https://github.com/Pr-Mex/vanessa-automation" />
+    <updated>2024-12-26T23:52:38+00:00</updated>
+    <content type="text">BDD в 1С</content>
+  </entry>
+</feed>

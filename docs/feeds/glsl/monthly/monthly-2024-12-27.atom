@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/glsl/monthly.atom</id>
+  <title>GitHub Treanding - glsl (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/glsl/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T00:00:39+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/patriciogonzalezvivo/lygia#1735257639</id>
+    <title>https://github.com/patriciogonzalezvivo/lygia</title>
+    <link href="https://github.com/patriciogonzalezvivo/lygia" />
+    <updated>2024-12-27T00:00:39+00:00</updated>
+    <content type="text">LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sixthsurge/photon#1735257639</id>
+    <title>https://github.com/sixthsurge/photon</title>
+    <link href="https://github.com/sixthsurge/photon" />
+    <updated>2024-12-27T00:00:39+00:00</updated>
+    <content type="text">A gameplay-focused shader pack for Minecraft</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Open4Es/Open4Es-Shader-Android#1735257639</id>
+    <title>https://github.com/Open4Es/Open4Es-Shader-Android</title>
+    <link href="https://github.com/Open4Es/Open4Es-Shader-Android" />
+    <updated>2024-12-27T00:00:39+00:00</updated>
+    <content type="text">This is a shader can running on Minecraft Java Edition For Phone project which uses GL4ES. This repository contains source code for Android platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patriciogonzalezvivo/thebookofshaders#1735257639</id>
+    <title>https://github.com/patriciogonzalezvivo/thebookofshaders</title>
+    <link href="https://github.com/patriciogonzalezvivo/thebookofshaders" />
+    <updated>2024-12-27T00:00:39+00:00</updated>
+    <content type="text">Step-by-step guide through the abstract and complex universe of Fragment Shaders.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SaschaWillems/Vulkan#1735257639</id>
+    <title>https://github.com/SaschaWillems/Vulkan</title>
+    <link href="https://github.com/SaschaWillems/Vulkan" />
+    <updated>2024-12-27T00:00:39+00:00</updated>
+    <content type="text">C++ examples for the Vulkan graphics API</content>
+  </entry>
+</feed>
