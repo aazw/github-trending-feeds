@@ -1,4 +1,5 @@
-FROM mcr.microsoft.com/devcontainers/python:1-3.12-bullseye
+# https://hub.docker.com/r/microsoft/devcontainers-python
+FROM mcr.microsoft.com/devcontainers/python:3
 
 RUN apt-get -y update
 RUN apt-get -y install \
