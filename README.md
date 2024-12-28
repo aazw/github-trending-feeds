@@ -1,47 +1,28 @@
 # github-trending-feeds
 
-GitHub Trendingのページをスクレイピングして、RSSリーダー(Inoreader等)で読み込めるATOMを提供する.
+GitHub Trendingのページをスクレイピングして、RSSリーダー(Inoreader等)で読み込める**ATOM**を提供する.
 
 * GitHub Trending: https://github.com/trending
 * GitHub Pages: https://aazw.github.io/github-trending-feeds/
 
 
-## Feed Format
+## Actions
 
-Feed: ウェブサイトやブログが提供する更新情報の配信フォーマットのこと
+GitHub Actionsで各言語のTrendingの最新情報を取得する.
 
-* RSS
-  * 1999年頃
-  * 非公式標準
-  * 複数のバージョンが存在
-    * 1.0、2.0ほか
-  * 現在の主流は RSS 2.0
-  * 開発元は元々Netscapeが関与したが、後に複数の団体が関連
-  * XMLベース
-  * シンプルな構造
-	* 基本的なメタデータを提供
-    * タイトル、リンク、説明
-	* 時間情報などのフィールドが限定されている
-* Atom
-  * 2003年
-  * IETFの公式標準(RFC 4287)
-    * https://www.ietf.org/rfc/rfc4287.txt
-    * https://tex2e.github.io/rfc-translater/html/rfc4287.html
-  * RSSの問題点(例えばバージョン管理の混乱)を解決するために設計
-  * 一貫した設計思想が特徴
-  * 2つの仕様がある
-    * Atom配信フォーマット (Atom Syndication Format)
-      * コンテンツを配信するためのフィードのフォーマットを規定
-      * XMLベース
-      * RSSよりも柔軟性が高く、データの表現力が豊富
-	    * 名前空間(namespace)の使用が標準化される
-      * ISO 8601形式のタイムスタンプ（日時）が標準で使用可能
-	    * エントリごとに一意のID(<id>タグ)が必須
-      * タグやリンクの記述に柔軟性があり、複数リンクをサポート
-    * Atom出版プロトコル (Atom Publishing Protocol)
-      * ウェブ上のコンテンツを編集するためのプロトコル
-      * Atom APIまたはAtomPPなどとも
-      * https://tex2e.github.io/rfc-translater/html/rfc5023.html
+* Daily
+  * 毎日 11:00 UTC
+    * 20:00 JST
+
+* Weekly
+  * 毎週月曜日 12:00 UTC
+    * 21:00 JST
+  * 12:00 UTCなのは、Dailyの分と処理が重ならないようにするため
+
+* Monthly
+  * 毎月1日 13:00 UTC
+    * 22:00 JST
+  * 13:00 UTCなのは、Dailyの分と、時にWeeklyの分とも処理が重ならないようにするため
 
 
 ## Use
