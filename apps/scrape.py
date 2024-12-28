@@ -73,6 +73,64 @@ def main(language: str, date_range: str, output: str, atom_updated_date: str, ve
         res = requests.get(url)
         res.raise_for_status()
 
+        # 以下はATOMのサンプルをChatGPTで生成したもの
+        # 
+        # <?xml version="1.0" encoding="utf-8"?>
+        # <feed xmlns="http://www.w3.org/2005/Atom">
+        #     <!-- 必須要素 -->
+        #     <title>Example Feed</title>
+        #     <id>http://example.org/feed</id>
+        #     <updated>2024-12-28T18:30:02Z</updated>
+        #     
+        #     <!-- オプション要素 -->
+        #     <subtitle>This is an example of an Atom feed with all elements.</subtitle>
+        #     <icon>http://example.org/icon.png</icon>
+        #     <logo>http://example.org/logo.png</logo>
+        #     <rights>Copyright 2024 Example Organization</rights>
+        #     <generator uri="http://example.org/generator" version="1.0">Example Generator</generator>
+        #     <link rel="self" href="http://example.org/feed" />
+        #     <link rel="alternate" href="http://example.org/" />
+        #     <author>
+        #         <name>John Doe</name>
+        #         <email>johndoe@example.org</email>
+        #         <uri>http://example.org/authors/johndoe</uri>
+        #     </author>
+        #     <contributor>
+        #         <name>Jane Smith</name>
+        #     </contributor>
+        #     
+        #     <!-- エントリ（記事） -->
+        #     <entry>
+        #         <!-- 必須要素 -->
+        #         <title>Example Entry</title>
+        #         <id>http://example.org/entry1</id>
+        #         <updated>2024-12-28T18:30:02Z</updated>
+        #         
+        #         <!-- オプション要素 -->
+        #         <summary>This is a summary of the example entry.</summary>
+        #         <content type="html">
+        #             <![CDATA[
+        #                 <p>This is the content of the example entry. It can include HTML.</p>
+        #             ]]>
+        #         </content>
+        #         <link rel="alternate" href="http://example.org/entry1" />
+        #         <author>
+        #             <name>John Doe</name>
+        #         </author>
+        #         <contributor>
+        #             <name>Jane Smith</name>
+        #         </contributor>
+        #         <category term="Technology" scheme="http://example.org/categories" label="Tech" />
+        #         <published>2024-12-27T12:00:00Z</published>
+        #         <rights>Copyright 2024 Example Organization</rights>
+        #         <source>
+        #             <id>http://example.org/source</id>
+        #             <title>Source Feed</title>
+        #             <updated>2024-12-28T12:00:00Z</updated>
+        #         </source>
+        #     </entry>
+        # </feed>
+
         # new feed
         ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
         ET.register_namespace('', ATOM_NAMESPACE)
@@ -89,6 +147,9 @@ def main(language: str, date_range: str, output: str, atom_updated_date: str, ve
 
         # link (alternate)
         ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": atom_advertise_alt_url, "rel": "alternate"})
+
+        # icon
+        ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}icon").text = "https://github.githubassets.com/favicons/favicon.svg"
 
         # updated
         ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(timespec="seconds")
