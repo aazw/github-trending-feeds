@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom</id>
+  <title>GitHub Trending - markdown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-29T11:19:55+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ppy/osu-wiki#1735471195</id>
+    <title>https://github.com/ppy/osu-wiki</title>
+    <link href="https://github.com/ppy/osu-wiki" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">home of the osu! wiki</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satoshilabs/slips#1735471195</id>
+    <title>https://github.com/satoshilabs/slips</title>
+    <link href="https://github.com/satoshilabs/slips" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">SatoshiLabs Improvement Proposals</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaywcjlove/linux-command#1735471195</id>
+    <title>https://github.com/jaywcjlove/linux-command</title>
+    <link href="https://github.com/jaywcjlove/linux-command" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/ethereum-org-website#1735471195</id>
+    <title>https://github.com/ethereum/ethereum-org-website</title>
+    <link href="https://github.com/ethereum/ethereum-org-website" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">Ethereum.org is a primary online resource for the Ethereum community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexandresanlim/Badges4-README.md-Profile#1735471195</id>
+    <title>https://github.com/alexandresanlim/Badges4-README.md-Profile</title>
+    <link href="https://github.com/alexandresanlim/Badges4-README.md-Profile" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">Improve your README.md profile with these amazing badges.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/docs#1735471195</id>
+    <title>https://github.com/docker/docs</title>
+    <link href="https://github.com/docker/docs" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">Source repo for Docker's Documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rfcs#1735471195</id>
+    <title>https://github.com/rust-lang/rfcs</title>
+    <link href="https://github.com/rust-lang/rfcs" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">RFCs for changes to Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/content#1735471195</id>
+    <title>https://github.com/mdn/content</title>
+    <link href="https://github.com/mdn/content" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">The content behind MDN Web Docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/drknzz/GitHub-Achievements#1735471195</id>
+    <title>https://github.com/drknzz/GitHub-Achievements</title>
+    <link href="https://github.com/drknzz/GitHub-Achievements" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">🔥 A Complete List of GitHub Profile Badges and Achievements 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-docs#1735471195</id>
+    <title>https://github.com/microsoft/vscode-docs</title>
+    <link href="https://github.com/microsoft/vscode-docs" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">Public documentation for Visual Studio Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Evavic44/portfolio-ideas#1735471195</id>
+    <title>https://github.com/Evavic44/portfolio-ideas</title>
+    <link href="https://github.com/Evavic44/portfolio-ideas" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tldr-pages/tldr#1735471195</id>
+    <title>https://github.com/tldr-pages/tldr</title>
+    <link href="https://github.com/tldr-pages/tldr" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">📚 Collaborative cheatsheets for console commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OAI/OpenAPI-Specification#1735471195</id>
+    <title>https://github.com/OAI/OpenAPI-Specification</title>
+    <link href="https://github.com/OAI/OpenAPI-Specification" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">The OpenAPI Specification Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codecrafters-io/build-your-own-x#1735471195</id>
+    <title>https://github.com/codecrafters-io/build-your-own-x</title>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" />
+    <updated>2024-12-29T11:19:55+00:00</updated>
+    <content type="text">Master programming by recreating your favorite technologies from scratch.</content>
+  </entry>
+</feed>
