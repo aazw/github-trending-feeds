@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/f%23/monthly.atom</id>
+  <title>GitHub Trending - f%23 (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/f%23/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T13:15:38+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dotnet/fsharp#1735737338</id>
+    <title>https://github.com/dotnet/fsharp</title>
+    <link href="https://github.com/dotnet/fsharp" />
+    <updated>2025-01-01T13:15:38+00:00</updated>
+    <content type="text">The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fsprojects/Paket#1735737338</id>
+    <title>https://github.com/fsprojects/Paket</title>
+    <link href="https://github.com/fsprojects/Paket" />
+    <updated>2025-01-01T13:15:38+00:00</updated>
+    <content type="text">A dependency manager for .NET with support for NuGet packages and Git repositories.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/artempyanykh/marksman#1735737338</id>
+    <title>https://github.com/artempyanykh/marksman</title>
+    <link href="https://github.com/artempyanykh/marksman" />
+    <updated>2025-01-01T13:15:38+00:00</updated>
+    <content type="text">Write Markdown with code assist and intelligence in the comfort of your favourite editor.</content>
+  </entry>
+</feed>
