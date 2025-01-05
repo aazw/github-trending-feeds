@@ -5,6 +5,7 @@ GitHub Trendingのページをスクレイピングして、RSSリーダー(Inor
 * GitHub Trending: https://github.com/trending
 * GitHub Pages: https://aazw.github.io/github-trending-feeds/
 
+このプロジェクトは2024/12/24にスタートした。
 
 ## Actions
 
