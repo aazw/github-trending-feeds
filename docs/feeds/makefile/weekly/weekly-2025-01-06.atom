@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/weekly.atom</id>
+  <title>GitHub Trending - makefile (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T12:20:00+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/jobbole/awesome-python-cn#1735561200</id>
+    <title>https://github.com/jobbole/awesome-python-cn</title>
+    <link href="https://github.com/jobbole/awesome-python-cn" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inpyjama/c-ninja-listings#1735561200</id>
+    <title>https://github.com/inpyjama/c-ninja-listings</title>
+    <link href="https://github.com/inpyjama/c-ninja-listings" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">Lower level assembly and C baremetal programming on RISC-V CPUs. Source code listings from the C-Ninja, in Pyjama! book.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WerWolv/Tesla-Menu#1735561200</id>
+    <title>https://github.com/WerWolv/Tesla-Menu</title>
+    <link href="https://github.com/WerWolv/Tesla-Menu" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">The Nintendo Switch overlay menu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foostan/crkbd#1735561200</id>
+    <title>https://github.com/foostan/crkbd</title>
+    <link href="https://github.com/foostan/crkbd" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1735561200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/guide#1735561200</id>
+    <title>https://github.com/uber-go/guide</title>
+    <link href="https://github.com/uber-go/guide" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">The Uber Go Style Guide.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/noobs#1735561200</id>
+    <title>https://github.com/raspberrypi/noobs</title>
+    <link href="https://github.com/raspberrypi/noobs" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LibreELEC/LibreELEC.tv#1735561200</id>
+    <title>https://github.com/LibreELEC/LibreELEC.tv</title>
+    <link href="https://github.com/LibreELEC/LibreELEC.tv" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">Just enough OS for KODI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/packages#1735561200</id>
+    <title>https://github.com/openwrt/packages</title>
+    <link href="https://github.com/openwrt/packages" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teaxyz/white-paper#1735561200</id>
+    <title>https://github.com/teaxyz/white-paper</title>
+    <link href="https://github.com/teaxyz/white-paper" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">how will the protocol work?</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepseek-ai/DeepSeek-LLM#1735561200</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
+    <updated>2024-12-30T12:20:00+00:00</updated>
+    <content type="text">DeepSeek LLM: Let there be answers</content>
+  </entry>
+</feed>
