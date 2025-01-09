@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-08T11:18:49+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/salesforce/LAVIS#1736335129</id>
+    <title>https://github.com/salesforce/LAVIS</title>
+    <link href="https://github.com/salesforce/LAVIS" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">LAVIS - A One-stop Library for Language-Vision Intelligence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/DeepLearningExamples#1736335129</id>
+    <title>https://github.com/NVIDIA/DeepLearningExamples</title>
+    <link href="https://github.com/NVIDIA/DeepLearningExamples" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/amazon-bedrock-samples#1736335129</id>
+    <title>https://github.com/aws-samples/amazon-bedrock-samples</title>
+    <link href="https://github.com/aws-samples/amazon-bedrock-samples" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Arize-ai/phoenix#1736335129</id>
+    <title>https://github.com/Arize-ai/phoenix</title>
+    <link href="https://github.com/Arize-ai/phoenix" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">AI Observability &amp; Evaluation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1736335129</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WongKinYiu/yolov7#1736335129</id>
+    <title>https://github.com/WongKinYiu/yolov7</title>
+    <link href="https://github.com/WongKinYiu/yolov7" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/easy-rl#1736335129</id>
+    <title>https://github.com/datawhalechina/easy-rl</title>
+    <link href="https://github.com/datawhalechina/easy-rl" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/CLIP#1736335129</id>
+    <title>https://github.com/openai/CLIP</title>
+    <link href="https://github.com/openai/CLIP" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/sam2#1736335129</id>
+    <title>https://github.com/facebookresearch/sam2</title>
+    <link href="https://github.com/facebookresearch/sam2" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/generative-ai-for-beginners#1736335129</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataExpert-io/data-engineer-handbook#1736335129</id>
+    <title>https://github.com/DataExpert-io/data-engineer-handbook</title>
+    <link href="https://github.com/DataExpert-io/data-engineer-handbook" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">This is a repo with links to everything you'd ever want to learn about data engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mlabonne/llm-course#1736335129</id>
+    <title>https://github.com/mlabonne/llm-course</title>
+    <link href="https://github.com/mlabonne/llm-course" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp#1736335129</id>
+    <title>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</title>
+    <link href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">Course Files for Complete Python 3 Bootcamp Course on Udemy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1736335129</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2025-01-08T11:18:49+00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+</feed>
