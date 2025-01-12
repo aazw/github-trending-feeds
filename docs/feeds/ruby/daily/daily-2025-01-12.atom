@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-11T11:28:08+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rails/webpacker#1736594888</id>
+    <title>https://github.com/rails/webpacker</title>
+    <link href="https://github.com/rails/webpacker" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Use Webpack to manage app-like JavaScript modules in Rails</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1736594888</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1736594888</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/brew#1736594888</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/puma/puma#1736594888</id>
+    <title>https://github.com/puma/puma</title>
+    <link href="https://github.com/puma/puma" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">A Ruby/Rack web server built for parallelism</content>
+  </entry>
+  <entry>
+    <id>https://github.com/department-of-veterans-affairs/vets-api#1736594888</id>
+    <title>https://github.com/department-of-veterans-affairs/vets-api</title>
+    <link href="https://github.com/department-of-veterans-affairs/vets-api" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">API powering VA.gov</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitlabhq/gitlabhq#1736594888</id>
+    <title>https://github.com/gitlabhq/gitlabhq</title>
+    <link href="https://github.com/gitlabhq/gitlabhq" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubygems/rubygems#1736594888</id>
+    <title>https://github.com/rubygems/rubygems</title>
+    <link href="https://github.com/rubygems/rubygems" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Library packaging and distribution for Ruby.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1736594888</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1736594888</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heartcombo/devise#1736594888</id>
+    <title>https://github.com/heartcombo/devise</title>
+    <link href="https://github.com/heartcombo/devise" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-rb#1736594888</id>
+    <title>https://github.com/DataDog/dd-trace-rb</title>
+    <link href="https://github.com/DataDog/dd-trace-rb" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Datadog Tracing Ruby Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mastodon/mastodon#1736594888</id>
+    <title>https://github.com/mastodon/mastodon</title>
+    <link href="https://github.com/mastodon/mastodon" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+  </entry>
+  <entry>
+    <id>https://github.com/varvet/pundit#1736594888</id>
+    <title>https://github.com/varvet/pundit</title>
+    <link href="https://github.com/varvet/pundit" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Minimal authorization through OO design and pure Ruby classes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vagrant#1736594888</id>
+    <title>https://github.com/hashicorp/vagrant</title>
+    <link href="https://github.com/hashicorp/vagrant" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Vagrant is a tool for building and distributing development environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Ceedling#1736594888</id>
+    <title>https://github.com/ThrowTheSwitch/Ceedling</title>
+    <link href="https://github.com/ThrowTheSwitch/Ceedling" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Ruby-based unit testing and build system for C projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/remote-jp/remote-in-japan#1736594888</id>
+    <title>https://github.com/remote-jp/remote-in-japan</title>
+    <link href="https://github.com/remote-jp/remote-in-japan" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Tech companies in Japan that hire remote workers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1736594888</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/kamal#1736594888</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">Deploy web apps anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1736594888</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-01-11T11:28:08+00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+</feed>
