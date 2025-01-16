@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:28:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1736940491</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lance#1736940491</id>
+    <title>https://github.com/lancedb/lance</title>
+    <link href="https://github.com/lancedb/lance" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..</content>
+  </entry>
+  <entry>
+    <id>https://github.com/surrealdb/surrealdb#1736940491</id>
+    <title>https://github.com/surrealdb/surrealdb</title>
+    <link href="https://github.com/surrealdb/surrealdb" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">A scalable, distributed, collaborative, document-graph database, for the realtime web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/extrawurst/gitui#1736940491</id>
+    <title>https://github.com/extrawurst/gitui</title>
+    <link href="https://github.com/extrawurst/gitui" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Blazing 💥 fast terminal-ui for git written in rust 🦀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1736940491</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/readysettech/readyset#1736940491</id>
+    <title>https://github.com/readysettech/readyset</title>
+    <link href="https://github.com/readysettech/readyset" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sarah-quinones/faer-rs#1736940491</id>
+    <title>https://github.com/sarah-quinones/faer-rs</title>
+    <link href="https://github.com/sarah-quinones/faer-rs" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Linear algebra foundation for the Rust programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WithSecureLabs/chainsaw#1736940491</id>
+    <title>https://github.com/WithSecureLabs/chainsaw</title>
+    <link href="https://github.com/WithSecureLabs/chainsaw" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Rapidly Search and Hunt through Windows Forensic Artefacts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mtkennerly/ludusavi#1736940491</id>
+    <title>https://github.com/mtkennerly/ludusavi</title>
+    <link href="https://github.com/mtkennerly/ludusavi" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Backup tool for PC game saves</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1736940491</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1736940491</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-rust#1736940491</id>
+    <title>https://github.com/open-telemetry/opentelemetry-rust</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-rust" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">The Rust OpenTelemetry implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow-rs#1736940491</id>
+    <title>https://github.com/apache/arrow-rs</title>
+    <link href="https://github.com/apache/arrow-rs" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Official Rust implementation of Apache Arrow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1736940491</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esp-rs/esp-hal#1736940491</id>
+    <title>https://github.com/esp-rs/esp-hal</title>
+    <link href="https://github.com/esp-rs/esp-hal" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">no_std Hardware Abstraction Layers for ESP32 microcontrollers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1736940491</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1736940491</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1736940491</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1736940491</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1736940491</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1736940491</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AppFlowy-IO/AppFlowy-Cloud#1736940491</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy-Cloud" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1736940491</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mufeedvh/code2prompt#1736940491</id>
+    <title>https://github.com/mufeedvh/code2prompt</title>
+    <link href="https://github.com/mufeedvh/code2prompt" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TabbyML/tabby#1736940491</id>
+    <title>https://github.com/TabbyML/tabby</title>
+    <link href="https://github.com/TabbyML/tabby" />
+    <updated>2025-01-15T11:28:11+00:00</updated>
+    <content type="text">Self-hosted AI coding assistant</content>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:28:06+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/endoflife-date/endoflife.date#1736940486</id>
+    <title>https://github.com/endoflife-date/endoflife.date</title>
+    <link href="https://github.com/endoflife-date/endoflife.date" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Informative site with EoL dates of everything</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-cask#1736940486</id>
+    <title>https://github.com/Homebrew/homebrew-cask</title>
+    <link href="https://github.com/Homebrew/homebrew-cask" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">🍻 A CLI workflow for the administration of macOS applications distributed as binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/department-of-veterans-affairs/vets-api#1736940486</id>
+    <title>https://github.com/department-of-veterans-affairs/vets-api</title>
+    <link href="https://github.com/department-of-veterans-affairs/vets-api" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">API powering VA.gov</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heartcombo/devise#1736940486</id>
+    <title>https://github.com/heartcombo/devise</title>
+    <link href="https://github.com/heartcombo/devise" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/activerecord-hackery/ransack#1736940486</id>
+    <title>https://github.com/activerecord-hackery/ransack</title>
+    <link href="https://github.com/activerecord-hackery/ransack" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Object-based searching.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidekiq/sidekiq#1736940486</id>
+    <title>https://github.com/sidekiq/sidekiq</title>
+    <link href="https://github.com/sidekiq/sidekiq" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Simple, efficient background processing for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chef/chef#1736940486</id>
+    <title>https://github.com/chef/chef</title>
+    <link href="https://github.com/chef/chef" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huginn/huginn#1736940486</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/kamal#1736940486</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Deploy web apps anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmuxinator/tmuxinator#1736940486</id>
+    <title>https://github.com/tmuxinator/tmuxinator</title>
+    <link href="https://github.com/tmuxinator/tmuxinator" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Manage complex tmux sessions easily</content>
+  </entry>
+  <entry>
+    <id>https://github.com/puma/puma#1736940486</id>
+    <title>https://github.com/puma/puma</title>
+    <link href="https://github.com/puma/puma" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">A Ruby/Rack web server built for parallelism</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docusealco/docuseal#1736940486</id>
+    <title>https://github.com/docusealco/docuseal</title>
+    <link href="https://github.com/docusealco/docuseal" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-core#1736940486</id>
+    <title>https://github.com/Homebrew/homebrew-core</title>
+    <link href="https://github.com/Homebrew/homebrew-core" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">🍻 Default formulae for the missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-rb#1736940486</id>
+    <title>https://github.com/DataDog/dd-trace-rb</title>
+    <link href="https://github.com/DataDog/dd-trace-rb" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Datadog Tracing Ruby Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1736940486</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ubicloud/ubicloud#1736940486</id>
+    <title>https://github.com/ubicloud/ubicloud</title>
+    <link href="https://github.com/ubicloud/ubicloud" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree#1736940486</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2025-01-15T11:28:06+00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+</feed>

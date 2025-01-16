@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fluent/daily.atom</id>
+  <title>GitHub Trending - fluent (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fluent/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:13:29+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/janeczku/calibre-web#1736939609</id>
+    <title>https://github.com/janeczku/calibre-web</title>
+    <link href="https://github.com/janeczku/calibre-web" />
+    <updated>2025-01-15T11:13:29+00:00</updated>
+    <content type="text">📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stephanrauh/ngx-extended-pdf-viewer#1736939609</id>
+    <title>https://github.com/stephanrauh/ngx-extended-pdf-viewer</title>
+    <link href="https://github.com/stephanrauh/ngx-extended-pdf-viewer" />
+    <updated>2025-01-15T11:13:29+00:00</updated>
+    <content type="text">A full-blown PDF viewer for Angular 16, 17, and beyond</content>
+  </entry>
+  <entry>
+    <id>https://github.com/an-anime-team/an-anime-game-launcher#1736939609</id>
+    <title>https://github.com/an-anime-team/an-anime-game-launcher</title>
+    <link href="https://github.com/an-anime-team/an-anime-game-launcher" />
+    <updated>2025-01-15T11:13:29+00:00</updated>
+    <content type="text">An Anime Game launcher for Linux with telemetry disabling</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mozilla/blurts-server#1736939609</id>
+    <title>https://github.com/mozilla/blurts-server</title>
+    <link href="https://github.com/mozilla/blurts-server" />
+    <updated>2025-01-15T11:13:29+00:00</updated>
+    <content type="text">Mozilla Monitor arms you with tools to keep your personal information safe. Find out what hackers already know about you and learn how to stay a step ahead of them.</content>
+  </entry>
+</feed>

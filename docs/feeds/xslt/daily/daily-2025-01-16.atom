@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom</id>
+  <title>GitHub Trending - xslt (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:34:06+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/itplr-kosit/xrechnung-visualization#1736940846</id>
+    <title>https://github.com/itplr-kosit/xrechnung-visualization</title>
+    <link href="https://github.com/itplr-kosit/xrechnung-visualization" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">XSL transformators for web and pdf rendering of German CIUS XRechnung or EN16931-1:2017 [MIRROR OF GitLab]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ConnectingEurope/eInvoicing-EN16931#1736940846</id>
+    <title>https://github.com/ConnectingEurope/eInvoicing-EN16931</title>
+    <link href="https://github.com/ConnectingEurope/eInvoicing-EN16931" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">Validation artefacts for the European eInvoicing standard EN 16931</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenSCAP/openscap#1736940846</id>
+    <title>https://github.com/OpenSCAP/openscap</title>
+    <link href="https://github.com/OpenSCAP/openscap" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">NIST Certified SCAP 1.2 toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZUGFeRD/quba-viewer#1736940846</id>
+    <title>https://github.com/ZUGFeRD/quba-viewer</title>
+    <link href="https://github.com/ZUGFeRD/quba-viewer" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">Quba is a viewer for electronic invoices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itplr-kosit/validator-configuration-xrechnung#1736940846</id>
+    <title>https://github.com/itplr-kosit/validator-configuration-xrechnung</title>
+    <link href="https://github.com/itplr-kosit/validator-configuration-xrechnung" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">Configuration for validating documents against the German XRechnung standard using the KoSIT validation tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZUGFeRD/mustangproject#1736940846</id>
+    <title>https://github.com/ZUGFeRD/mustangproject</title>
+    <link href="https://github.com/ZUGFeRD/mustangproject" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uri-templates/uritemplate-test#1736940846</id>
+    <title>https://github.com/uri-templates/uritemplate-test</title>
+    <link href="https://github.com/uri-templates/uritemplate-test" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">Tests for URI Template implementations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LOLBAS-Project/LOLBAS#1736940846</id>
+    <title>https://github.com/LOLBAS-Project/LOLBAS</title>
+    <link href="https://github.com/LOLBAS-Project/LOLBAS" />
+    <updated>2025-01-15T11:34:06+00:00</updated>
+    <content type="text">Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)</content>
+  </entry>
+</feed>

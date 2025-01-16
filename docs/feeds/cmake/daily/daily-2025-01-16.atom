@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:09:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/boostorg/cmake#1736939393</id>
+    <title>https://github.com/boostorg/cmake</title>
+    <link href="https://github.com/boostorg/cmake" />
+    <updated>2025-01-15T11:09:53+00:00</updated>
+    <content type="text">CMake support infrastructure Boost submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leetal/ios-cmake#1736939393</id>
+    <title>https://github.com/leetal/ios-cmake</title>
+    <link href="https://github.com/leetal/ios-cmake" />
+    <updated>2025-01-15T11:09:53+00:00</updated>
+    <content type="text">A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abdes/cryptopp-cmake#1736939393</id>
+    <title>https://github.com/abdes/cryptopp-cmake</title>
+    <link href="https://github.com/abdes/cryptopp-cmake" />
+    <updated>2025-01-15T11:09:53+00:00</updated>
+    <content type="text">A modern CMake build project for Crypto++ (https://github.com/weidai11/cryptopp).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1736939393</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-01-15T11:09:53+00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moveit/moveit_msgs#1736939393</id>
+    <title>https://github.com/moveit/moveit_msgs</title>
+    <link href="https://github.com/moveit/moveit_msgs" />
+    <updated>2025-01-15T11:09:53+00:00</updated>
+    <content type="text">ROS messages used by MoveIt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1736939393</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-01-15T11:09:53+00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1736939393</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-15T11:09:53+00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+</feed>

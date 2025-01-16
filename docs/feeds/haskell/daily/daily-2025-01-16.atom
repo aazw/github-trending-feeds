@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:15:51+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/carp-lang/Carp#1736939751</id>
+    <title>https://github.com/carp-lang/Carp</title>
+    <link href="https://github.com/carp-lang/Carp" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">A statically typed lisp, without a GC, for real-time applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquidhaskell#1736939751</id>
+    <title>https://github.com/ucsd-progsys/liquidhaskell</title>
+    <link href="https://github.com/ucsd-progsys/liquidhaskell" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">Liquid Types For Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1736939751</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1736939751</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1736939751</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1736939751</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1736939751</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/channable/icepeak#1736939751</id>
+    <title>https://github.com/channable/icepeak</title>
+    <link href="https://github.com/channable/icepeak" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">Icepeak is a fast JSON document store with push notification support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1736939751</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-01-15T11:15:51+00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+</feed>

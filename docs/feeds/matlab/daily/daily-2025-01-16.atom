@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom</id>
+  <title>GitHub Trending - matlab (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:20:25+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/fieldtrip/fieldtrip#1736940025</id>
+    <title>https://github.com/fieldtrip/fieldtrip</title>
+    <link href="https://github.com/fieldtrip/fieldtrip" />
+    <updated>2025-01-15T11:20:25+00:00</updated>
+    <content type="text">The MATLAB toolbox for MEG, EEG and iEEG analysis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TadasBaltrusaitis/OpenFace#1736940025</id>
+    <title>https://github.com/TadasBaltrusaitis/OpenFace</title>
+    <link href="https://github.com/TadasBaltrusaitis/OpenFace" />
+    <updated>2025-01-15T11:20:25+00:00</updated>
+    <content type="text">OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.</content>
+  </entry>
+</feed>

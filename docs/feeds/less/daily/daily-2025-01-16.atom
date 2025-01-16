@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/less/daily.atom</id>
+  <title>GitHub Trending - less (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/less/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:19:00+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Remix-Design/RemixIcon#1736939940</id>
+    <title>https://github.com/Remix-Design/RemixIcon</title>
+    <link href="https://github.com/Remix-Design/RemixIcon" />
+    <updated>2025-01-15T11:19:00+00:00</updated>
+    <content type="text">Open source neutral style icon system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentiny/tiny-vue#1736939940</id>
+    <title>https://github.com/opentiny/tiny-vue</title>
+    <link href="https://github.com/opentiny/tiny-vue" />
+    <updated>2025-01-15T11:19:00+00:00</updated>
+    <content type="text">TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/userstyles#1736939940</id>
+    <title>https://github.com/catppuccin/userstyles</title>
+    <link href="https://github.com/catppuccin/userstyles" />
+    <updated>2025-01-15T11:19:00+00:00</updated>
+    <content type="text">🖌 Soothing pastel userstyles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MadMaxChow/VLOOK#1736939940</id>
+    <title>https://github.com/MadMaxChow/VLOOK</title>
+    <link href="https://github.com/MadMaxChow/VLOOK" />
+    <updated>2025-01-15T11:19:00+00:00</updated>
+    <content type="text">VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。 VLOOK™ is an elegant and practical theme package × enhancement plugin for Typora/Markdown.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meteor/meteor-theme-hexo#1736939940</id>
+    <title>https://github.com/meteor/meteor-theme-hexo</title>
+    <link href="https://github.com/meteor/meteor-theme-hexo" />
+    <updated>2025-01-15T11:19:00+00:00</updated>
+    <content type="text">The framework we use for docs.</content>
+  </entry>
+</feed>

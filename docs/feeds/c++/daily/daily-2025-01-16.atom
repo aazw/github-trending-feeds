@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:08:50+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/google/benchmark#1736939330</id>
+    <title>https://github.com/google/benchmark</title>
+    <link href="https://github.com/google/benchmark" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">A microbenchmark support library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doctest/doctest#1736939330</id>
+    <title>https://github.com/doctest/doctest</title>
+    <link href="https://github.com/doctest/doctest" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">The fastest feature-rich C++11/14/17/20/23 single-header testing framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openscad/openscad#1736939330</id>
+    <title>https://github.com/openscad/openscad</title>
+    <link href="https://github.com/openscad/openscad" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">OpenSCAD - The Programmers Solid 3D CAD Modeller</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BehaviorTree/BehaviorTree.CPP#1736939330</id>
+    <title>https://github.com/BehaviorTree/BehaviorTree.CPP</title>
+    <link href="https://github.com/BehaviorTree/BehaviorTree.CPP" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">Behavior Trees Library in C++. Batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/randombit/botan#1736939330</id>
+    <title>https://github.com/randombit/botan</title>
+    <link href="https://github.com/randombit/botan" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">Cryptography Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lich0821/WeChatFerry#1736939330</id>
+    <title>https://github.com/lich0821/WeChatFerry</title>
+    <link href="https://github.com/lich0821/WeChatFerry" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Neargye/magic_enum#1736939330</id>
+    <title>https://github.com/Neargye/magic_enum</title>
+    <link href="https://github.com/Neargye/magic_enum" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electron/electron#1736939330</id>
+    <title>https://github.com/electron/electron</title>
+    <link href="https://github.com/electron/electron" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">Build cross-platform desktop apps with JavaScript, HTML, and CSS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catchorg/Catch2#1736939330</id>
+    <title>https://github.com/catchorg/Catch2</title>
+    <link href="https://github.com/catchorg/Catch2" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fmtlib/fmt#1736939330</id>
+    <title>https://github.com/fmtlib/fmt</title>
+    <link href="https://github.com/fmtlib/fmt" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">A modern formatting library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react-native#1736939330</id>
+    <title>https://github.com/facebook/react-native</title>
+    <link href="https://github.com/facebook/react-native" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">A framework for building native applications using React</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-navigation/navigation2#1736939330</id>
+    <title>https://github.com/ros-navigation/navigation2</title>
+    <link href="https://github.com/ros-navigation/navigation2" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">ROS 2 Navigation Framework and System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tencent/rapidjson#1736939330</id>
+    <title>https://github.com/Tencent/rapidjson</title>
+    <link href="https://github.com/Tencent/rapidjson" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">A fast JSON parser/generator for C++ with both SAX/DOM style API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/faiss#1736939330</id>
+    <title>https://github.com/facebookresearch/faiss</title>
+    <link href="https://github.com/facebookresearch/faiss" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">A library for efficient similarity search and clustering of dense vectors.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CMU-Perceptual-Computing-Lab/openpose#1736939330</id>
+    <title>https://github.com/CMU-Perceptual-Computing-Lab/openpose</title>
+    <link href="https://github.com/CMU-Perceptual-Computing-Lab/openpose" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/rocksdb#1736939330</id>
+    <title>https://github.com/facebook/rocksdb</title>
+    <link href="https://github.com/facebook/rocksdb" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">A library that provides an embeddable, persistent key-value store for fast storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nlohmann/json#1736939330</id>
+    <title>https://github.com/nlohmann/json</title>
+    <link href="https://github.com/nlohmann/json" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">JSON for Modern C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT#1736939330</id>
+    <title>https://github.com/NVIDIA/TensorRT</title>
+    <link href="https://github.com/NVIDIA/TensorRT" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k2-fsa/sherpa-onnx#1736939330</id>
+    <title>https://github.com/k2-fsa/sherpa-onnx</title>
+    <link href="https://github.com/k2-fsa/sherpa-onnx" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wazuh/wazuh#1736939330</id>
+    <title>https://github.com/wazuh/wazuh</title>
+    <link href="https://github.com/wazuh/wazuh" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oatpp/oatpp#1736939330</id>
+    <title>https://github.com/oatpp/oatpp</title>
+    <link href="https://github.com/oatpp/oatpp" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorflow/tensorflow#1736939330</id>
+    <title>https://github.com/tensorflow/tensorflow</title>
+    <link href="https://github.com/tensorflow/tensorflow" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">An Open Source Machine Learning Framework for Everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kevmo314/scuda#1736939330</id>
+    <title>https://github.com/kevmo314/scuda</title>
+    <link href="https://github.com/kevmo314/scuda" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ton-blockchain/ton#1736939330</id>
+    <title>https://github.com/ton-blockchain/ton</title>
+    <link href="https://github.com/ton-blockchain/ton" />
+    <updated>2025-01-15T11:08:50+00:00</updated>
+    <content type="text">Main TON monorepo</content>
+  </entry>
+</feed>

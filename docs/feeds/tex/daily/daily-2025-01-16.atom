@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tex/daily.atom</id>
+  <title>GitHub Trending - tex (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tex/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:30:56+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/liantze/AltaCV#1736940656</id>
+    <title>https://github.com/liantze/AltaCV</title>
+    <link href="https://github.com/liantze/AltaCV" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">Yet another alternative curriculum vitae/résumé class with LaTeX</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lervag/vimtex#1736940656</id>
+    <title>https://github.com/lervag/vimtex</title>
+    <link href="https://github.com/lervag/vimtex" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vdumoulin/conv_arithmetic#1736940656</id>
+    <title>https://github.com/vdumoulin/conv_arithmetic</title>
+    <link href="https://github.com/vdumoulin/conv_arithmetic" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">A technical report on convolution arithmetic in the context of deep learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dart-lang/language#1736940656</id>
+    <title>https://github.com/dart-lang/language</title>
+    <link href="https://github.com/dart-lang/language" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">Design of the Dart language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sb2nov/resume#1736940656</id>
+    <title>https://github.com/sb2nov/resume</title>
+    <link href="https://github.com/sb2nov/resume" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">Software developer resume in Latex</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysprog21/lkmpg#1736940656</id>
+    <title>https://github.com/sysprog21/lkmpg</title>
+    <link href="https://github.com/sysprog21/lkmpg" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libretro/docs#1736940656</id>
+    <title>https://github.com/libretro/docs</title>
+    <link href="https://github.com/libretro/docs" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">This is a repo of the RetroArch official document page.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aaronwangy/Data-Science-Cheatsheet#1736940656</id>
+    <title>https://github.com/aaronwangy/Data-Science-Cheatsheet</title>
+    <link href="https://github.com/aaronwangy/Data-Science-Cheatsheet" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/cheatsheets#1736940656</id>
+    <title>https://github.com/rstudio/cheatsheets</title>
+    <link href="https://github.com/rstudio/cheatsheets" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hmemcpy/milewski-ctfp-pdf#1736940656</id>
+    <title>https://github.com/hmemcpy/milewski-ctfp-pdf</title>
+    <link href="https://github.com/hmemcpy/milewski-ctfp-pdf" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/exacity/deeplearningbook-chinese#1736940656</id>
+    <title>https://github.com/exacity/deeplearningbook-chinese</title>
+    <link href="https://github.com/exacity/deeplearningbook-chinese" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">Deep Learning Book Chinese Translation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/latex3/latex2e#1736940656</id>
+    <title>https://github.com/latex3/latex2e</title>
+    <link href="https://github.com/latex3/latex2e" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">The LaTeX2e kernel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zhanwen/MathModel#1736940656</id>
+    <title>https://github.com/zhanwen/MathModel</title>
+    <link href="https://github.com/zhanwen/MathModel" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/posquit0/Awesome-CV#1736940656</id>
+    <title>https://github.com/posquit0/Awesome-CV</title>
+    <link href="https://github.com/posquit0/Awesome-CV" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">📄 Awesome CV is LaTeX template for your outstanding job application</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acl-org/acl-style-files#1736940656</id>
+    <title>https://github.com/acl-org/acl-style-files</title>
+    <link href="https://github.com/acl-org/acl-style-files" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">Official style files for papers submitted to venues of the Association for Computational Linguistics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv/riscv-isa-manual#1736940656</id>
+    <title>https://github.com/riscv/riscv-isa-manual</title>
+    <link href="https://github.com/riscv/riscv-isa-manual" />
+    <updated>2025-01-15T11:30:56+00:00</updated>
+    <content type="text">RISC-V Instruction Set Manual</content>
+  </entry>
+</feed>

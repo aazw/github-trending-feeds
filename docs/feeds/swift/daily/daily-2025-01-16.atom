@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom</id>
+  <title>GitHub Trending - swift (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:30:31+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SnapKit/SnapKit#1736940631</id>
+    <title>https://github.com/SnapKit/SnapKit</title>
+    <link href="https://github.com/SnapKit/SnapKit" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">A Swift Autolayout DSL for iOS &amp; OS X</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stripe/stripe-ios#1736940631</id>
+    <title>https://github.com/stripe/stripe-ios</title>
+    <link href="https://github.com/stripe/stripe-ios" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Stripe iOS SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexiscreuzot/SwiftyGif#1736940631</id>
+    <title>https://github.com/alexiscreuzot/SwiftyGif</title>
+    <link href="https://github.com/alexiscreuzot/SwiftyGif" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">High performance GIF engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Caldis/Mos#1736940631</id>
+    <title>https://github.com/Caldis/Mos</title>
+    <link href="https://github.com/Caldis/Mos" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-dependencies#1736940631</id>
+    <title>https://github.com/pointfreeco/swift-dependencies</title>
+    <link href="https://github.com/pointfreeco/swift-dependencies" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">A dependency management library inspired by SwiftUI's "environment."</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReactiveX/RxSwift#1736940631</id>
+    <title>https://github.com/ReactiveX/RxSwift</title>
+    <link href="https://github.com/ReactiveX/RxSwift" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Reactive Programming in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-snapshot-testing#1736940631</id>
+    <title>https://github.com/pointfreeco/swift-snapshot-testing</title>
+    <link href="https://github.com/pointfreeco/swift-snapshot-testing" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">📸 Delightful Swift snapshot testing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/daltoniam/Starscream#1736940631</id>
+    <title>https://github.com/daltoniam/Starscream</title>
+    <link href="https://github.com/daltoniam/Starscream" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Websockets in swift for iOS and OSX</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-composable-architecture#1736940631</id>
+    <title>https://github.com/pointfreeco/swift-composable-architecture</title>
+    <link href="https://github.com/pointfreeco/swift-composable-architecture" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Swinject/Swinject#1736940631</id>
+    <title>https://github.com/Swinject/Swinject</title>
+    <link href="https://github.com/Swinject/Swinject" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Dependency injection framework for Swift with iOS/macOS/Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift-syntax#1736940631</id>
+    <title>https://github.com/swiftlang/swift-syntax</title>
+    <link href="https://github.com/swiftlang/swift-syntax" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jordanbaird/Ice#1736940631</id>
+    <title>https://github.com/jordanbaird/Ice</title>
+    <link href="https://github.com/jordanbaird/Ice" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Powerful menu bar manager for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RevenueCat/purchases-ios#1736940631</id>
+    <title>https://github.com/RevenueCat/purchases-ios</title>
+    <link href="https://github.com/RevenueCat/purchases-ios" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-nio#1736940631</id>
+    <title>https://github.com/apple/swift-nio</title>
+    <link href="https://github.com/apple/swift-nio" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ejbills/DockDoor#1736940631</id>
+    <title>https://github.com/ejbills/DockDoor</title>
+    <link href="https://github.com/ejbills/DockDoor" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Window peeking for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hmlongco/Factory#1736940631</id>
+    <title>https://github.com/hmlongco/Factory</title>
+    <link href="https://github.com/hmlongco/Factory" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">A new approach to Container-Based Dependency Injection for Swift and SwiftUI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicklockwood/SwiftFormat#1736940631</id>
+    <title>https://github.com/nicklockwood/SwiftFormat</title>
+    <link href="https://github.com/nicklockwood/SwiftFormat" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">A command-line tool and Xcode Extension for formatting Swift code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mozilla-mobile/firefox-ios#1736940631</id>
+    <title>https://github.com/mozilla-mobile/firefox-ios</title>
+    <link href="https://github.com/mozilla-mobile/firefox-ios" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Firefox for iOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/facebook-ios-sdk#1736940631</id>
+    <title>https://github.com/facebook/facebook-ios-sdk</title>
+    <link href="https://github.com/facebook/facebook-ios-sdk" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChartsOrg/Charts#1736940631</id>
+    <title>https://github.com/ChartsOrg/Charts</title>
+    <link href="https://github.com/ChartsOrg/Charts" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alamofire/Alamofire#1736940631</id>
+    <title>https://github.com/Alamofire/Alamofire</title>
+    <link href="https://github.com/Alamofire/Alamofire" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">Elegant HTTP Networking in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stephencelis/SQLite.swift#1736940631</id>
+    <title>https://github.com/stephencelis/SQLite.swift</title>
+    <link href="https://github.com/stephencelis/SQLite.swift" />
+    <updated>2025-01-15T11:30:31+00:00</updated>
+    <content type="text">A type-safe, Swift-language layer over SQLite3.</content>
+  </entry>
+</feed>

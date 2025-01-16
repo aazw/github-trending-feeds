@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/al/daily.atom</id>
+  <title>GitHub Trending - al (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/al/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:06:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/microsoft/BCApps#1736939203</id>
+    <title>https://github.com/microsoft/BCApps</title>
+    <link href="https://github.com/microsoft/BCApps" />
+    <updated>2025-01-15T11:06:43+00:00</updated>
+    <content type="text">Repository for collaboration on Microsoft Dynamics 365 Business Central applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/ALAppExtensions#1736939203</id>
+    <title>https://github.com/microsoft/ALAppExtensions</title>
+    <link href="https://github.com/microsoft/ALAppExtensions" />
+    <updated>2025-01-15T11:06:43+00:00</updated>
+    <content type="text">Repository for collaboration on Microsoft AL application add-on and localization extensions for Microsoft Dynamics 365 Business Central.</content>
+  </entry>
+</feed>

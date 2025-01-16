@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/swig/daily.atom</id>
+  <title>GitHub Trending - swig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/swig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:30:34+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tpaviot/pythonocc-core#1736940634</id>
+    <title>https://github.com/tpaviot/pythonocc-core</title>
+    <link href="https://github.com/tpaviot/pythonocc-core" />
+    <updated>2025-01-15T11:30:34+00:00</updated>
+    <content type="text">Python package for 3D geometry CAD/BIM/CAM</content>
+  </entry>
+</feed>

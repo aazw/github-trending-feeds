@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom</id>
+  <title>GitHub Trending - coffeescript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:10:03+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/estools/esutils#1736939403</id>
+    <title>https://github.com/estools/esutils</title>
+    <link href="https://github.com/estools/esutils" />
+    <updated>2025-01-15T11:10:03+00:00</updated>
+    <content type="text">utility box for ECMAScript language tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FelisCatus/SwitchyOmega#1736939403</id>
+    <title>https://github.com/FelisCatus/SwitchyOmega</title>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" />
+    <updated>2025-01-15T11:10:03+00:00</updated>
+    <content type="text">No longer maintained, see pinned issues</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Leonidas-from-XIV/node-xml2js#1736939403</id>
+    <title>https://github.com/Leonidas-from-XIV/node-xml2js</title>
+    <link href="https://github.com/Leonidas-from-XIV/node-xml2js" />
+    <updated>2025-01-15T11:10:03+00:00</updated>
+    <content type="text">XML to JavaScript object converter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slackapi/hubot-slack#1736939403</id>
+    <title>https://github.com/slackapi/hubot-slack</title>
+    <link href="https://github.com/slackapi/hubot-slack" />
+    <updated>2025-01-15T11:10:03+00:00</updated>
+    <content type="text">Slack Developer Kit for Hubot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adaltas/node-csv#1736939403</id>
+    <title>https://github.com/adaltas/node-csv</title>
+    <link href="https://github.com/adaltas/node-csv" />
+    <updated>2025-01-15T11:10:03+00:00</updated>
+    <content type="text">Full featured CSV parser with simple api and tested against large datasets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lucassus/angular-coffee-seed#1736939403</id>
+    <title>https://github.com/lucassus/angular-coffee-seed</title>
+    <link href="https://github.com/lucassus/angular-coffee-seed" />
+    <updated>2025-01-15T11:10:03+00:00</updated>
+    <content type="text">AngularJS seed based on grunt JavaScript tasks runner and bower a package manager for the web</content>
+  </entry>
+</feed>

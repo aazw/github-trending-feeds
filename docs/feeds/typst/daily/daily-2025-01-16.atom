@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/typst/daily.atom</id>
+  <title>GitHub Trending - typst (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/typst/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:31:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/touying-typ/touying#1736940713</id>
+    <title>https://github.com/touying-typ/touying</title>
+    <link href="https://github.com/touying-typ/touying" />
+    <updated>2025-01-15T11:31:53+00:00</updated>
+    <content type="text">Touying is a powerful package for creating presentation slides in Typst.</content>
+  </entry>
+</feed>

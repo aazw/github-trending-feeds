@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/blade/daily.atom</id>
+  <title>GitHub Trending - blade (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/blade/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:08:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/lsky-org/lsky-pro#1736939295</id>
+    <title>https://github.com/lsky-org/lsky-pro</title>
+    <link href="https://github.com/lsky-org/lsky-pro" />
+    <updated>2025-01-15T11:08:15+00:00</updated>
+    <content type="text">☁️兰空图床(Lsky Pro) - Your photo album on the cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livewire/flux#1736939295</id>
+    <title>https://github.com/livewire/flux</title>
+    <link href="https://github.com/livewire/flux" />
+    <updated>2025-01-15T11:08:15+00:00</updated>
+    <content type="text">The official Livewire UI component library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krayin/laravel-crm#1736939295</id>
+    <title>https://github.com/krayin/laravel-crm</title>
+    <link href="https://github.com/krayin/laravel-crm" />
+    <updated>2025-01-15T11:08:15+00:00</updated>
+    <content type="text">Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.</content>
+  </entry>
+</feed>

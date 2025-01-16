@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scss/daily.atom</id>
+  <title>GitHub Trending - scss (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scss/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:28:35+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/keyvanakbary/learning-notes#1736940515</id>
+    <title>https://github.com/keyvanakbary/learning-notes</title>
+    <link href="https://github.com/keyvanakbary/learning-notes" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Notes on books I read, talks I watch, articles I study, and papers I love</content>
+  </entry>
+  <entry>
+    <id>https://github.com/theicfire/makefiletutorial#1736940515</id>
+    <title>https://github.com/theicfire/makefiletutorial</title>
+    <link href="https://github.com/theicfire/makefiletutorial" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Learn make by example</content>
+  </entry>
+  <entry>
+    <id>https://github.com/momentum-design/momentum-ui#1736940515</id>
+    <title>https://github.com/momentum-design/momentum-ui</title>
+    <link href="https://github.com/momentum-design/momentum-ui" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Momentum UI is a collection of UI libraries for implementing Momentum Design into web applications and websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emilbaehr/automatic-app-landing-page#1736940515</id>
+    <title>https://github.com/emilbaehr/automatic-app-landing-page</title>
+    <link href="https://github.com/emilbaehr/automatic-app-landing-page" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/minima#1736940515</id>
+    <title>https://github.com/jekyll/minima</title>
+    <link href="https://github.com/jekyll/minima" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Minima is a one-size-fits-all Jekyll theme for writers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thingsym/hugo-theme-techdoc#1736940515</id>
+    <title>https://github.com/thingsym/hugo-theme-techdoc</title>
+    <link href="https://github.com/thingsym/hugo-theme-techdoc" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">The Techdoc is a Hugo Theme for technical documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bencodezen/vue-enterprise-boilerplate#1736940515</id>
+    <title>https://github.com/bencodezen/vue-enterprise-boilerplate</title>
+    <link href="https://github.com/bencodezen/vue-enterprise-boilerplate" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/odoo/design-themes#1736940515</id>
+    <title>https://github.com/odoo/design-themes</title>
+    <link href="https://github.com/odoo/design-themes" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/oleeskild/digitalgarden#1736940515</id>
+    <title>https://github.com/oleeskild/digitalgarden</title>
+    <link href="https://github.com/oleeskild/digitalgarden" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/creativetimofficial/material-dashboard-angular2#1736940515</id>
+    <title>https://github.com/creativetimofficial/material-dashboard-angular2</title>
+    <link href="https://github.com/creativetimofficial/material-dashboard-angular2" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Material Dashboard Angular</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vinceliuice/WhiteSur-gtk-theme#1736940515</id>
+    <title>https://github.com/vinceliuice/WhiteSur-gtk-theme</title>
+    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">MacOS like theme for all gtk based desktops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstacruz/cheatsheets#1736940515</id>
+    <title>https://github.com/rstacruz/cheatsheets</title>
+    <link href="https://github.com/rstacruz/cheatsheets" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Cheatsheets for web development - devhints.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mpa139/allanlab#1736940515</id>
+    <title>https://github.com/mpa139/allanlab</title>
+    <link href="https://github.com/mpa139/allanlab" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Allan Lab website</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/discord#1736940515</id>
+    <title>https://github.com/catppuccin/discord</title>
+    <link href="https://github.com/catppuccin/discord" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">🎮 Soothing pastel theme for Discord</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sujaykundu777/devlopr-jekyll#1736940515</id>
+    <title>https://github.com/sujaykundu777/devlopr-jekyll</title>
+    <link href="https://github.com/sujaykundu777/devlopr-jekyll" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">(FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS 🚀 in minutes built for developers. (with CMS) ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maildev/maildev#1736940515</id>
+    <title>https://github.com/maildev/maildev</title>
+    <link href="https://github.com/maildev/maildev" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">📫 SMTP Server + Web Interface for viewing and testing emails during development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cobiwave/simplefolio#1736940515</id>
+    <title>https://github.com/cobiwave/simplefolio</title>
+    <link href="https://github.com/cobiwave/simplefolio" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">⚡️ A minimal portfolio template for Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ileriayo/markdown-badges#1736940515</id>
+    <title>https://github.com/Ileriayo/markdown-badges</title>
+    <link href="https://github.com/Ileriayo/markdown-badges" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">Badges for your personal developer branding, profile, and projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kitian616/jekyll-TeXt-theme#1736940515</id>
+    <title>https://github.com/kitian616/jekyll-TeXt-theme</title>
+    <link href="https://github.com/kitian616/jekyll-TeXt-theme" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uswds/uswds#1736940515</id>
+    <title>https://github.com/uswds/uswds</title>
+    <link href="https://github.com/uswds/uswds" />
+    <updated>2025-01-15T11:28:35+00:00</updated>
+    <content type="text">The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</content>
+  </entry>
+</feed>

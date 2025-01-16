@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vhdl/daily.atom</id>
+  <title>GitHub Trending - vhdl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vhdl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:32:30+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aws/aws-fpga#1736940750</id>
+    <title>https://github.com/aws/aws-fpga</title>
+    <link href="https://github.com/aws/aws-fpga" />
+    <updated>2025-01-15T11:32:30+00:00</updated>
+    <content type="text">Official repository of the AWS EC2 FPGA Hardware and Software Development Kit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghdl/ghdl#1736940750</id>
+    <title>https://github.com/ghdl/ghdl</title>
+    <link href="https://github.com/ghdl/ghdl" />
+    <updated>2025-01-15T11:32:30+00:00</updated>
+    <content type="text">VHDL 2008/93/87 simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Paebbels/JSON-for-VHDL#1736940750</id>
+    <title>https://github.com/Paebbels/JSON-for-VHDL</title>
+    <link href="https://github.com/Paebbels/JSON-for-VHDL" />
+    <updated>2025-01-15T11:32:30+00:00</updated>
+    <content type="text">A JSON library implemented in VHDL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OSVVM/OSVVM#1736940750</id>
+    <title>https://github.com/OSVVM/OSVVM</title>
+    <link href="https://github.com/OSVVM/OSVVM" />
+    <updated>2025-01-15T11:32:30+00:00</updated>
+    <content type="text">OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...</content>
+  </entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/digital-command-language/daily.atom</id>
+  <title>GitHub Trending - digital-command-language (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/digital-command-language/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:11:36+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/github/dmca#1736939496</id>
+    <title>https://github.com/github/dmca</title>
+    <link href="https://github.com/github/dmca" />
+    <updated>2025-01-15T11:11:36+00:00</updated>
+    <content type="text">Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at</content>
+  </entry>
+</feed>

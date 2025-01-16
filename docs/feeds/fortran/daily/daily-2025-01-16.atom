@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:13:40+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/earth-system-radiation/rte-rrtmgp#1736939620</id>
+    <title>https://github.com/earth-system-radiation/rte-rrtmgp</title>
+    <link href="https://github.com/earth-system-radiation/rte-rrtmgp" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MCSclimate/MCT#1736939620</id>
+    <title>https://github.com/MCSclimate/MCT</title>
+    <link href="https://github.com/MCSclimate/MCT" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Model Coupling Tookit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NGEET/fates#1736939620</id>
+    <title>https://github.com/NGEET/fates</title>
+    <link href="https://github.com/NGEET/fates" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/fckit#1736939620</id>
+    <title>https://github.com/ecmwf/fckit</title>
+    <link href="https://github.com/ecmwf/fckit" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">A Fortran toolkit for interoperating Fortran with C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grimme-lab/xtb#1736939620</id>
+    <title>https://github.com/grimme-lab/xtb</title>
+    <link href="https://github.com/grimme-lab/xtb" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Semiempirical Extended Tight-Binding Program Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1736939620</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1736939620</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cp2k/cp2k#1736939620</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1736939620</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1736939620</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/E3SM-Project/E3SM#1736939620</id>
+    <title>https://github.com/E3SM-Project/E3SM</title>
+    <link href="https://github.com/E3SM-Project/E3SM" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/gFTL#1736939620</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/gFTL</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/gFTL" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Software containers for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/fArgParse#1736939620</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/fArgParse</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/fArgParse" />
+    <updated>2025-01-15T11:13:40+00:00</updated>
+    <content type="text">Command line argument parsing for Fortran</content>
+  </entry>
+</feed>

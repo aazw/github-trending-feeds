@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/twig/daily.atom</id>
+  <title>GitHub Trending - twig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/twig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:31:37+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SallaApp/theme-raed#1736940697</id>
+    <title>https://github.com/SallaApp/theme-raed</title>
+    <link href="https://github.com/SallaApp/theme-raed" />
+    <updated>2025-01-15T11:31:37+00:00</updated>
+    <content type="text">A wide range of features to support your business...</content>
+  </entry>
+</feed>

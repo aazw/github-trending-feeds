@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/webassembly/daily.atom</id>
+  <title>GitHub Trending - webassembly (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/webassembly/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:33:04+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/WebAssembly/spec#1736940784</id>
+    <title>https://github.com/WebAssembly/spec</title>
+    <link href="https://github.com/WebAssembly/spec" />
+    <updated>2025-01-15T11:33:04+00:00</updated>
+    <content type="text">WebAssembly specification, reference interpreter, and test suite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AssemblyScript/assemblyscript#1736940784</id>
+    <title>https://github.com/AssemblyScript/assemblyscript</title>
+    <link href="https://github.com/AssemblyScript/assemblyscript" />
+    <updated>2025-01-15T11:33:04+00:00</updated>
+    <content type="text">A TypeScript-like language for WebAssembly.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WebAssembly/wasi-threads#1736940784</id>
+    <title>https://github.com/WebAssembly/wasi-threads</title>
+    <link href="https://github.com/WebAssembly/wasi-threads" />
+    <updated>2025-01-15T11:33:04+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/WebAssembly/binaryen#1736940784</id>
+    <title>https://github.com/WebAssembly/binaryen</title>
+    <link href="https://github.com/WebAssembly/binaryen" />
+    <updated>2025-01-15T11:33:04+00:00</updated>
+    <content type="text">Optimizer and compiler/toolchain library for WebAssembly</content>
+  </entry>
+</feed>

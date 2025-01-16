@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom</id>
+  <title>GitHub Trending - bitbake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:08:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OSSystems/meta-browser#1736939292</id>
+    <title>https://github.com/OSSystems/meta-browser</title>
+    <link href="https://github.com/OSSystems/meta-browser" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Web Browsers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wind-River/meta-secure-core#1736939292</id>
+    <title>https://github.com/Wind-River/meta-secure-core</title>
+    <link href="https://github.com/Wind-River/meta-secure-core" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/STMicroelectronics/meta-st-stm32mp#1736939292</id>
+    <title>https://github.com/STMicroelectronics/meta-st-stm32mp</title>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">meta-st-stm32mp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-openwrt#1736939292</id>
+    <title>https://github.com/kraj/meta-openwrt</title>
+    <link href="https://github.com/kraj/meta-openwrt" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">OE/Yocto metadata layer for OpenWRT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-petalinux#1736939292</id>
+    <title>https://github.com/Xilinx/meta-petalinux</title>
+    <link href="https://github.com/Xilinx/meta-petalinux" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">meta-petalinux distro layer supporting Xilinx Tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/balena-os/balena-jetson#1736939292</id>
+    <title>https://github.com/balena-os/balena-jetson</title>
+    <link href="https://github.com/balena-os/balena-jetson" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx#1736939292</id>
+    <title>https://github.com/Xilinx/meta-xilinx</title>
+    <link href="https://github.com/Xilinx/meta-xilinx" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">Collection of Yocto Project layers to enable AMD Xilinx products</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-clang#1736939292</id>
+    <title>https://github.com/kraj/meta-clang</title>
+    <link href="https://github.com/kraj/meta-clang" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale#1736939292</id>
+    <title>https://github.com/Freescale/meta-freescale</title>
+    <link href="https://github.com/Freescale/meta-freescale" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">Layer containing NXP hardware support metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx-tools#1736939292</id>
+    <title>https://github.com/Xilinx/meta-xilinx-tools</title>
+    <link href="https://github.com/Xilinx/meta-xilinx-tools" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">Yocto Project layer enables AMD Xilinx tools related metadata for MicroBlaze, Zynq, ZynqMP and Versal devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1736939292</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/meta-openembedded#1736939292</id>
+    <title>https://github.com/openembedded/meta-openembedded</title>
+    <link href="https://github.com/openembedded/meta-openembedded" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1736939292</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbabic/meta-swupdate#1736939292</id>
+    <title>https://github.com/sbabic/meta-swupdate</title>
+    <link href="https://github.com/sbabic/meta-swupdate" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">Yocto receipes to generate a swupdate rootfilesystem as initrd</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale-3rdparty#1736939292</id>
+    <title>https://github.com/Freescale/meta-freescale-3rdparty</title>
+    <link href="https://github.com/Freescale/meta-freescale-3rdparty" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OE4T/meta-tegra#1736939292</id>
+    <title>https://github.com/OE4T/meta-tegra</title>
+    <link href="https://github.com/OE4T/meta-tegra" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1736939292</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2025-01-15T11:08:12+00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+</feed>

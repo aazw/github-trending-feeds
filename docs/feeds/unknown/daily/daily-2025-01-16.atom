@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom</id>
+  <title>GitHub Trending - unknown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:32:01+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/getcursor/cursor#1736940721</id>
+    <title>https://github.com/getcursor/cursor</title>
+    <link href="https://github.com/getcursor/cursor" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">The AI Code Editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awesomedata/awesome-public-datasets#1736940721</id>
+    <title>https://github.com/awesomedata/awesome-public-datasets</title>
+    <link href="https://github.com/awesomedata/awesome-public-datasets" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">A topic-centric list of HQ open datasets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quozd/awesome-dotnet#1736940721</id>
+    <title>https://github.com/quozd/awesome-dotnet</title>
+    <link href="https://github.com/quozd/awesome-dotnet" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">A collection of awesome .NET libraries, tools, frameworks and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zhanymkanov/fastapi-best-practices#1736940721</id>
+    <title>https://github.com/zhanymkanov/fastapi-best-practices</title>
+    <link href="https://github.com/zhanymkanov/fastapi-best-practices" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">FastAPI Best Practices and Conventions we used at our startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/himahuja/Research-Internships-for-Undergraduates#1736940721</id>
+    <title>https://github.com/himahuja/Research-Internships-for-Undergraduates</title>
+    <link href="https://github.com/himahuja/Research-Internships-for-Undergraduates" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">List of Research Internships for Undergraduate Students</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Developer-Y/cs-video-courses#1736940721</id>
+    <title>https://github.com/Developer-Y/cs-video-courses</title>
+    <link href="https://github.com/Developer-Y/cs-video-courses" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">List of Computer Science courses with video lectures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/gitignore#1736940721</id>
+    <title>https://github.com/github/gitignore</title>
+    <link href="https://github.com/github/gitignore" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">A collection of useful .gitignore templates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emmabostian/developer-portfolios#1736940721</id>
+    <title>https://github.com/emmabostian/developer-portfolios</title>
+    <link href="https://github.com/emmabostian/developer-portfolios" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">A list of developer portfolios for your inspiration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steven2358/awesome-generative-ai#1736940721</id>
+    <title>https://github.com/steven2358/awesome-generative-ai</title>
+    <link href="https://github.com/steven2358/awesome-generative-ai" />
+    <updated>2025-01-15T11:32:01+00:00</updated>
+    <content type="text">A curated list of modern Generative Artificial Intelligence projects and services</content>
+  </entry>
+</feed>

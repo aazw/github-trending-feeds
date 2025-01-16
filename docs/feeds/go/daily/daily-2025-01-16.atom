@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:15:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FiloSottile/age#1736939707</id>
+    <title>https://github.com/FiloSottile/age</title>
+    <link href="https://github.com/FiloSottile/age" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1736939707</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/datadog-agent#1736939707</id>
+    <title>https://github.com/DataDog/datadog-agent</title>
+    <link href="https://github.com/DataDog/datadog-agent" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Main repository for Datadog Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openimsdk/open-im-server#1736939707</id>
+    <title>https://github.com/openimsdk/open-im-server</title>
+    <link href="https://github.com/openimsdk/open-im-server" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">IM Chat ChatGPT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/answer#1736939707</id>
+    <title>https://github.com/apache/answer</title>
+    <link href="https://github.com/apache/answer" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">A Q&amp;A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volcano-sh/volcano#1736939707</id>
+    <title>https://github.com/volcano-sh/volcano</title>
+    <link href="https://github.com/volcano-sh/volcano" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">A Cloud Native Batch System (Project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-go#1736939707</id>
+    <title>https://github.com/openai/openai-go</title>
+    <link href="https://github.com/openai/openai-go" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">The official Go library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/nerdctl#1736939707</id>
+    <title>https://github.com/containerd/nerdctl</title>
+    <link href="https://github.com/containerd/nerdctl" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/buildkit#1736939707</id>
+    <title>https://github.com/moby/buildkit</title>
+    <link href="https://github.com/moby/buildkit" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1736939707</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1736939707</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kedacore/keda#1736939707</id>
+    <title>https://github.com/kedacore/keda</title>
+    <link href="https://github.com/kedacore/keda" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/nomad#1736939707</id>
+    <title>https://github.com/hashicorp/nomad</title>
+    <link href="https://github.com/hashicorp/nomad" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1736939707</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1736939707</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/avelino/awesome-go#1736939707</id>
+    <title>https://github.com/avelino/awesome-go</title>
+    <link href="https://github.com/avelino/awesome-go" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">A curated list of awesome Go frameworks, libraries and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ariga/atlas#1736939707</id>
+    <title>https://github.com/ariga/atlas</title>
+    <link href="https://github.com/ariga/atlas" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Manage your database schema as code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gofiber/fiber#1736939707</id>
+    <title>https://github.com/gofiber/fiber</title>
+    <link href="https://github.com/gofiber/fiber" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">⚡️ Express inspired web framework written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1736939707</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techschool/simplebank#1736939707</id>
+    <title>https://github.com/techschool/simplebank</title>
+    <link href="https://github.com/techschool/simplebank" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Backend master class: build a simple bank service in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1736939707</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1736939707</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/expr-lang/expr#1736939707</id>
+    <title>https://github.com/expr-lang/expr</title>
+    <link href="https://github.com/expr-lang/expr" />
+    <updated>2025-01-15T11:15:07+00:00</updated>
+    <content type="text">Expression language and expression evaluation for Go</content>
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dm/daily.atom</id>
+  <title>GitHub Trending - dm (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dm/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:11:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Monkestation/Monkestation2.0#1736939503</id>
+    <title>https://github.com/Monkestation/Monkestation2.0</title>
+    <link href="https://github.com/Monkestation/Monkestation2.0" />
+    <updated>2025-01-15T11:11:43+00:00</updated>
+    <content type="text">A monkestation rebase to TG code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ParadiseSS13/Paradise#1736939503</id>
+    <title>https://github.com/ParadiseSS13/Paradise</title>
+    <link href="https://github.com/ParadiseSS13/Paradise" />
+    <updated>2025-01-15T11:11:43+00:00</updated>
+    <content type="text">Paradise Station's GitHub main repository.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goonstation/goonstation#1736939503</id>
+    <title>https://github.com/goonstation/goonstation</title>
+    <link href="https://github.com/goonstation/goonstation" />
+    <updated>2025-01-15T11:11:43+00:00</updated>
+    <content type="text">Repository for the Goonstation branch of SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Bubberstation/Bubberstation#1736939503</id>
+    <title>https://github.com/Bubberstation/Bubberstation</title>
+    <link href="https://github.com/Bubberstation/Bubberstation" />
+    <updated>2025-01-15T11:11:43+00:00</updated>
+    <content type="text">Bubberstation SS13</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tgstation/tgstation#1736939503</id>
+    <title>https://github.com/tgstation/tgstation</title>
+    <link href="https://github.com/tgstation/tgstation" />
+    <updated>2025-01-15T11:11:43+00:00</updated>
+    <content type="text">The /tg/station branch of SS13.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cmss13-devs/cmss13#1736939503</id>
+    <title>https://github.com/cmss13-devs/cmss13</title>
+    <link href="https://github.com/cmss13-devs/cmss13" />
+    <updated>2025-01-15T11:11:43+00:00</updated>
+    <content type="text">Contains the code for CM-SS13</content>
+  </entry>
+</feed>

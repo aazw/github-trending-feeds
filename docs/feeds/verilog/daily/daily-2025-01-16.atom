@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom</id>
+  <title>GitHub Trending - verilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:32:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pulp-platform/cheshire#1736940747</id>
+    <title>https://github.com/pulp-platform/cheshire</title>
+    <link href="https://github.com/pulp-platform/cheshire" />
+    <updated>2025-01-15T11:32:27+00:00</updated>
+    <content type="text">A minimal Linux-capable 64-bit RISC-V SoC built around CVA6</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexforencich/verilog-ethernet#1736940747</id>
+    <title>https://github.com/alexforencich/verilog-ethernet</title>
+    <link href="https://github.com/alexforencich/verilog-ethernet" />
+    <updated>2025-01-15T11:32:27+00:00</updated>
+    <content type="text">Verilog Ethernet components for FPGA implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YosysHQ/picorv32#1736940747</id>
+    <title>https://github.com/YosysHQ/picorv32</title>
+    <link href="https://github.com/YosysHQ/picorv32" />
+    <updated>2025-01-15T11:32:27+00:00</updated>
+    <content type="text">PicoRV32 - A Size-Optimized RISC-V CPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexforencich/verilog-pcie#1736940747</id>
+    <title>https://github.com/alexforencich/verilog-pcie</title>
+    <link href="https://github.com/alexforencich/verilog-pcie" />
+    <updated>2025-01-15T11:32:27+00:00</updated>
+    <content type="text">Verilog PCI express components</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EttusResearch/uhd#1736940747</id>
+    <title>https://github.com/EttusResearch/uhd</title>
+    <link href="https://github.com/EttusResearch/uhd" />
+    <updated>2025-01-15T11:32:27+00:00</updated>
+    <content type="text">The USRP™ Hardware Driver Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/analogdevicesinc/hdl#1736940747</id>
+    <title>https://github.com/analogdevicesinc/hdl</title>
+    <link href="https://github.com/analogdevicesinc/hdl" />
+    <updated>2025-01-15T11:32:27+00:00</updated>
+    <content type="text">HDL libraries and projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/The-OpenROAD-Project/OpenROAD#1736940747</id>
+    <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
+    <updated>2025-01-15T11:32:27+00:00</updated>
+    <content type="text">OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</content>
+  </entry>
+</feed>

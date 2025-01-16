@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom</id>
+  <title>GitHub Trending - php (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:24:43+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/openemr/openemr#1736940283</id>
+    <title>https://github.com/openemr/openemr</title>
+    <link href="https://github.com/openemr/openemr" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">The most popular open source electronic health records and medical practice management solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phpstan/phpstan-src#1736940283</id>
+    <title>https://github.com/phpstan/phpstan-src</title>
+    <link href="https://github.com/phpstan/phpstan-src" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">PHPStan's source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoftgraph/msgraph-sdk-php#1736940283</id>
+    <title>https://github.com/microsoftgraph/msgraph-sdk-php</title>
+    <link href="https://github.com/microsoftgraph/msgraph-sdk-php" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">Microsoft Graph Library for PHP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pimcore/pimcore#1736940283</id>
+    <title>https://github.com/pimcore/pimcore</title>
+    <link href="https://github.com/pimcore/pimcore" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">Core Framework for the Open Source Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PrestaShop/PrestaShop#1736940283</id>
+    <title>https://github.com/PrestaShop/PrestaShop</title>
+    <link href="https://github.com/PrestaShop/PrestaShop" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">PrestaShop is the universal open-source software platform to build your e-commerce solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/all-in-one#1736940283</id>
+    <title>https://github.com/nextcloud/all-in-one</title>
+    <link href="https://github.com/nextcloud/all-in-one" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencart/opencart#1736940283</id>
+    <title>https://github.com/opencart/opencart</title>
+    <link href="https://github.com/opencart/opencart" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-php#1736940283</id>
+    <title>https://github.com/DataDog/dd-trace-php</title>
+    <link href="https://github.com/DataDog/dd-trace-php" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">Datadog PHP Clients</content>
+  </entry>
+  <entry>
+    <id>https://github.com/assimon/dujiaoka#1736940283</id>
+    <title>https://github.com/assimon/dujiaoka</title>
+    <link href="https://github.com/assimon/dujiaoka" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/librenms/librenms#1736940283</id>
+    <title>https://github.com/librenms/librenms</title>
+    <link href="https://github.com/librenms/librenms" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">Community-based GPL-licensed network monitoring system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/larastan/larastan#1736940283</id>
+    <title>https://github.com/larastan/larastan</title>
+    <link href="https://github.com/larastan/larastan" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">⚗️ Adds code analysis to Laravel improving developer productivity and code quality.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laravel/laravel#1736940283</id>
+    <title>https://github.com/laravel/laravel</title>
+    <link href="https://github.com/laravel/laravel" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/snipe/snipe-it#1736940283</id>
+    <title>https://github.com/snipe/snipe-it</title>
+    <link href="https://github.com/snipe/snipe-it" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">A free open source IT asset/license management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/woocommerce/woocommerce#1736940283</id>
+    <title>https://github.com/woocommerce/woocommerce</title>
+    <link href="https://github.com/woocommerce/woocommerce" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phpstan/phpstan#1736940283</id>
+    <title>https://github.com/phpstan/phpstan</title>
+    <link href="https://github.com/phpstan/phpstan" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">PHP Static Analysis Tool - discover bugs in your code without running it!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony#1736940283</id>
+    <title>https://github.com/symfony/symfony</title>
+    <link href="https://github.com/symfony/symfony" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">The Symfony PHP framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dompdf/dompdf#1736940283</id>
+    <title>https://github.com/dompdf/dompdf</title>
+    <link href="https://github.com/dompdf/dompdf" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">HTML to PDF converter for PHP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laravel/framework#1736940283</id>
+    <title>https://github.com/laravel/framework</title>
+    <link href="https://github.com/laravel/framework" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">The Laravel Framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bagisto/bagisto#1736940283</id>
+    <title>https://github.com/bagisto/bagisto</title>
+    <link href="https://github.com/bagisto/bagisto" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">Free and open source laravel eCommerce platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BookStackApp/BookStack#1736940283</id>
+    <title>https://github.com/BookStackApp/BookStack</title>
+    <link href="https://github.com/BookStackApp/BookStack" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">A platform to create documentation/wiki content built with PHP &amp; Laravel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pixelfed/pixelfed#1736940283</id>
+    <title>https://github.com/pixelfed/pixelfed</title>
+    <link href="https://github.com/pixelfed/pixelfed" />
+    <updated>2025-01-15T11:24:43+00:00</updated>
+    <content type="text">Photo Sharing. For Everyone.</content>
+  </entry>
+</feed>

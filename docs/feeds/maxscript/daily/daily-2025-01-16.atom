@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/maxscript/daily.atom</id>
+  <title>GitHub Trending - maxscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/maxscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:20:33+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+</feed>

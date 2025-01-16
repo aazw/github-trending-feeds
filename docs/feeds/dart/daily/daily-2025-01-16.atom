@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dart/daily.atom</id>
+  <title>GitHub Trending - dart (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dart/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:11:20+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Solido/awesome-flutter#1736939480</id>
+    <title>https://github.com/Solido/awesome-flutter</title>
+    <link href="https://github.com/Solido/awesome-flutter" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MaikuB/flutter_local_notifications#1736939480</id>
+    <title>https://github.com/MaikuB/flutter_local_notifications</title>
+    <link href="https://github.com/MaikuB/flutter_local_notifications" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A Flutter plugin for displaying local notifications on Android, iOS, macOS and Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RevenueCat/purchases-flutter#1736939480</id>
+    <title>https://github.com/RevenueCat/purchases-flutter</title>
+    <link href="https://github.com/RevenueCat/purchases-flutter" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">Flutter plugin for in-app purchases and subscriptions. Supports iOS, macOS and Android.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chulwoo-park/timelines#1736939480</id>
+    <title>https://github.com/chulwoo-park/timelines</title>
+    <link href="https://github.com/chulwoo-park/timelines" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A powerful &amp; easy to use timeline package for Flutter! 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/3003h/Eros-FE#1736939480</id>
+    <title>https://github.com/3003h/Eros-FE</title>
+    <link href="https://github.com/3003h/Eros-FE" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">An e-hentai/exhentai app make on flutter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sass/dart-sass#1736939480</id>
+    <title>https://github.com/sass/dart-sass</title>
+    <link href="https://github.com/sass/dart-sass" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">The reference implementation of Sass, written in Dart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pichillilorenzo/flutter_inappwebview#1736939480</id>
+    <title>https://github.com/pichillilorenzo/flutter_inappwebview</title>
+    <link href="https://github.com/pichillilorenzo/flutter_inappwebview" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaoyaocz/flutter_dmzj#1736939480</id>
+    <title>https://github.com/xiaoyaocz/flutter_dmzj</title>
+    <link href="https://github.com/xiaoyaocz/flutter_dmzj" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">动漫之家第三方Flutter客户端</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleaflet/flutter_map#1736939480</id>
+    <title>https://github.com/fleaflet/flutter_map</title>
+    <link href="https://github.com/fleaflet/flutter_map" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A versatile mapping package for Flutter. Simple and easy to learn, yet completely customizable and configurable, it's the best choice for mapping in your Flutter app.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluttercommunity/plus_plugins#1736939480</id>
+    <title>https://github.com/fluttercommunity/plus_plugins</title>
+    <link href="https://github.com/fluttercommunity/plus_plugins" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">Flutter Community Plus Plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KaringX/karing#1736939480</id>
+    <title>https://github.com/KaringX/karing</title>
+    <link href="https://github.com/KaringX/karing" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">Simple &amp; Powerful proxy utility, Support routing rules for clash/sing-box</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shorebirdtech/shorebird#1736939480</id>
+    <title>https://github.com/shorebirdtech/shorebird</title>
+    <link href="https://github.com/shorebirdtech/shorebird" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">Code Push for Flutter and other tools for Flutter businesses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flutter/packages#1736939480</id>
+    <title>https://github.com/flutter/packages</title>
+    <link href="https://github.com/flutter/packages" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A collection of useful packages maintained by the Flutter team</content>
+  </entry>
+  <entry>
+    <id>https://github.com/media-kit/media-kit#1736939480</id>
+    <title>https://github.com/media-kit/media-kit</title>
+    <link href="https://github.com/media-kit/media-kit" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A cross-platform video player &amp; audio player for Flutter &amp; Dart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/nuvigator#1736939480</id>
+    <title>https://github.com/nubank/nuvigator</title>
+    <link href="https://github.com/nubank/nuvigator" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A powerful routing abstraction over Flutter Navigator, with nested Navigator and Deeplinks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rrousselGit/riverpod#1736939480</id>
+    <title>https://github.com/rrousselGit/riverpod</title>
+    <link href="https://github.com/rrousselGit/riverpod" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A reactive caching and data-binding framework. Riverpod makes working with asynchronous code a breeze.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firebase/flutterfire#1736939480</id>
+    <title>https://github.com/firebase/flutterfire</title>
+    <link href="https://github.com/firebase/flutterfire" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">🔥 A collection of Firebase plugins for Flutter apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imaNNeo/fl_chart#1736939480</id>
+    <title>https://github.com/imaNNeo/fl_chart</title>
+    <link href="https://github.com/imaNNeo/fl_chart" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaoyaocz/dart_simple_live#1736939480</id>
+    <title>https://github.com/xiaoyaocz/dart_simple_live</title>
+    <link href="https://github.com/xiaoyaocz/dart_simple_live" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">简简单单的看直播</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GopeedLab/gopeed#1736939480</id>
+    <title>https://github.com/GopeedLab/gopeed</title>
+    <link href="https://github.com/GopeedLab/gopeed" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">A modern download manager that supports all platforms. Built with Golang and Flutter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flutter/flutter#1736939480</id>
+    <title>https://github.com/flutter/flutter</title>
+    <link href="https://github.com/flutter/flutter" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">Flutter makes it easy and fast to build beautiful apps for mobile and beyond</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AppFlowy-IO/AppFlowy#1736939480</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy" />
+    <updated>2025-01-15T11:11:20+00:00</updated>
+    <content type="text">Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</content>
+  </entry>
+</feed>

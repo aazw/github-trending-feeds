@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/html/daily.atom</id>
+  <title>GitHub Trending - html (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/html/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:16:13+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tpn/pdfs#1736939773</id>
+    <title>https://github.com/tpn/pdfs</title>
+    <link href="https://github.com/tpn/pdfs" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/whatwg/html#1736939773</id>
+    <title>https://github.com/whatwg/html</title>
+    <link href="https://github.com/whatwg/html" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">HTML Standard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alshedivat/al-folio#1736939773</id>
+    <title>https://github.com/alshedivat/al-folio</title>
+    <link href="https://github.com/alshedivat/al-folio" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">A beautiful, simple, clean, and responsive Jekyll theme for academics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fengdu78/deeplearning_ai_books#1736939773</id>
+    <title>https://github.com/fengdu78/deeplearning_ai_books</title>
+    <link href="https://github.com/fengdu78/deeplearning_ai_books" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tobychui/zoraxy#1736939773</id>
+    <title>https://github.com/tobychui/zoraxy</title>
+    <link href="https://github.com/tobychui/zoraxy" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tabler/tabler#1736939773</id>
+    <title>https://github.com/tabler/tabler</title>
+    <link href="https://github.com/tabler/tabler" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rfordatascience/tidytuesday#1736939773</id>
+    <title>https://github.com/rfordatascience/tidytuesday</title>
+    <link href="https://github.com/rfordatascience/tidytuesday" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Official repo for the #tidytuesday project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wdndev/llm_interview_note#1736939773</id>
+    <title>https://github.com/wdndev/llm_interview_note</title>
+    <link href="https://github.com/wdndev/llm_interview_note" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brave/brave-core#1736939773</id>
+    <title>https://github.com/brave/brave-core</title>
+    <link href="https://github.com/brave/brave-core" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/learning-area#1736939773</id>
+    <title>https://github.com/mdn/learning-area</title>
+    <link href="https://github.com/mdn/learning-area" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">GitHub repo for the MDN Learning Area.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/htmlstreamofficial/preline#1736939773</id>
+    <title>https://github.com/htmlstreamofficial/preline</title>
+    <link href="https://github.com/htmlstreamofficial/preline" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apna-college/Delta#1736939773</id>
+    <title>https://github.com/apna-college/Delta</title>
+    <link href="https://github.com/apna-college/Delta" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/gustavoguanabara/html-css#1736939773</id>
+    <title>https://github.com/gustavoguanabara/html-css</title>
+    <link href="https://github.com/gustavoguanabara/html-css" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Curso de HTML5 e CSS3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adityatelange/hugo-PaperMod#1736939773</id>
+    <title>https://github.com/adityatelange/hugo-PaperMod</title>
+    <link href="https://github.com/adityatelange/hugo-PaperMod" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">A fast, clean, responsive Hugo theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/BotBuilder-Samples#1736939773</id>
+    <title>https://github.com/microsoft/BotBuilder-Samples</title>
+    <link href="https://github.com/microsoft/BotBuilder-Samples" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript/TypeScript, and Python to help you get started with the Bot Framework SDK!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phil-opp/blog_os#1736939773</id>
+    <title>https://github.com/phil-opp/blog_os</title>
+    <link href="https://github.com/phil-opp/blog_os" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">Writing an OS in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opulo-inc/lumenpnp#1736939773</id>
+    <title>https://github.com/opulo-inc/lumenpnp</title>
+    <link href="https://github.com/opulo-inc/lumenpnp" />
+    <updated>2025-01-15T11:16:13+00:00</updated>
+    <content type="text">The LumenPnP is an open source pick and place machine.</content>
+  </entry>
+</feed>

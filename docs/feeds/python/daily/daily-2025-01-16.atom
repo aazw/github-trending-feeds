@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:26:18+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/openai/whisper#1736940378</id>
+    <title>https://github.com/openai/whisper</title>
+    <link href="https://github.com/openai/whisper" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">Robust Speech Recognition via Large-Scale Weak Supervision</content>
+  </entry>
+  <entry>
+    <id>https://github.com/public-apis/public-apis#1736940378</id>
+    <title>https://github.com/public-apis/public-apis</title>
+    <link href="https://github.com/public-apis/public-apis" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">A collective list of free APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenBMB/MiniCPM-o#1736940378</id>
+    <title>https://github.com/OpenBMB/MiniCPM-o</title>
+    <link href="https://github.com/OpenBMB/MiniCPM-o" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shubhamsaboo/awesome-llm-apps#1736940378</id>
+    <title>https://github.com/Shubhamsaboo/awesome-llm-apps</title>
+    <link href="https://github.com/Shubhamsaboo/awesome-llm-apps" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/run-llama/llama_index#1736940378</id>
+    <title>https://github.com/run-llama/llama_index</title>
+    <link href="https://github.com/run-llama/llama_index" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">LlamaIndex is the leading framework for building LLM-powered agents over your data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagster-io/dagster#1736940378</id>
+    <title>https://github.com/dagster-io/dagster</title>
+    <link href="https://github.com/dagster-io/dagster" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">An orchestration platform for the development, production, and observation of data assets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackfrued/Python-100-Days#1736940378</id>
+    <title>https://github.com/jackfrued/Python-100-Days</title>
+    <link href="https://github.com/jackfrued/Python-100-Days" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">Python - 100天从新手到大师</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqlfluff/sqlfluff#1736940378</id>
+    <title>https://github.com/sqlfluff/sqlfluff</title>
+    <link href="https://github.com/sqlfluff/sqlfluff" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yt-dlp/yt-dlp#1736940378</id>
+    <title>https://github.com/yt-dlp/yt-dlp</title>
+    <link href="https://github.com/yt-dlp/yt-dlp" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">A feature-rich command-line audio/video downloader</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PrefectHQ/prefect#1736940378</id>
+    <title>https://github.com/PrefectHQ/prefect</title>
+    <link href="https://github.com/PrefectHQ/prefect" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/autogen#1736940378</id>
+    <title>https://github.com/microsoft/autogen</title>
+    <link href="https://github.com/microsoft/autogen" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KoljaB/RealtimeSTT#1736940378</id>
+    <title>https://github.com/KoljaB/RealtimeSTT</title>
+    <link href="https://github.com/KoljaB/RealtimeSTT" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVlabs/Sana#1736940378</id>
+    <title>https://github.com/NVlabs/Sana</title>
+    <link href="https://github.com/NVlabs/Sana" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dnhkng/GlaDOS#1736940378</id>
+    <title>https://github.com/dnhkng/GlaDOS</title>
+    <link href="https://github.com/dnhkng/GlaDOS" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FujiwaraChoki/MoneyPrinterV2#1736940378</id>
+    <title>https://github.com/FujiwaraChoki/MoneyPrinterV2</title>
+    <link href="https://github.com/FujiwaraChoki/MoneyPrinterV2" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">Automate the process of making money online.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo#1736940378</id>
+    <title>https://github.com/harry0703/MoneyPrinterTurbo</title>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JoshuaC215/agent-service-toolkit#1736940378</id>
+    <title>https://github.com/JoshuaC215/agent-service-toolkit</title>
+    <link href="https://github.com/JoshuaC215/agent-service-toolkit" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nautechsystems/nautilus_trader#1736940378</id>
+    <title>https://github.com/nautechsystems/nautilus_trader</title>
+    <link href="https://github.com/nautechsystems/nautilus_trader" />
+    <updated>2025-01-15T11:26:18+00:00</updated>
+    <content type="text">A high-performance algorithmic trading platform and event-driven backtester</content>
+  </entry>
+</feed>

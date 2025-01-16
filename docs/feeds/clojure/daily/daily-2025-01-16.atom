@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom</id>
+  <title>GitHub Trending - clojure (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:09:45+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tonsky/FiraCode#1736939385</id>
+    <title>https://github.com/tonsky/FiraCode</title>
+    <link href="https://github.com/tonsky/FiraCode" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">Free monospaced font with programming ligatures</content>
+  </entry>
+  <entry>
+    <id>https://github.com/penpot/penpot#1736939385</id>
+    <title>https://github.com/penpot/penpot</title>
+    <link href="https://github.com/penpot/penpot" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instantdb/instant#1736939385</id>
+    <title>https://github.com/instantdb/instant</title>
+    <link href="https://github.com/instantdb/instant" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cognitect-labs/test-runner#1736939385</id>
+    <title>https://github.com/cognitect-labs/test-runner</title>
+    <link href="https://github.com/cognitect-labs/test-runner" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">A test runner for clojure.test</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/workspaces#1736939385</id>
+    <title>https://github.com/nubank/workspaces</title>
+    <link href="https://github.com/nubank/workspaces" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">Live development environment for Clojurescript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/state-flow#1736939385</id>
+    <title>https://github.com/nubank/state-flow</title>
+    <link href="https://github.com/nubank/state-flow" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">Integration testing framework using a state monad in the backend for building and composing flows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/clj-github#1736939385</id>
+    <title>https://github.com/nubank/clj-github</title>
+    <link href="https://github.com/nubank/clj-github" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">A Clojure library for interacting with the github developer API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/matcher-combinators#1736939385</id>
+    <title>https://github.com/nubank/matcher-combinators</title>
+    <link href="https://github.com/nubank/matcher-combinators" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">Library for creating matcher combinator to compare nested data structures</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/k8s-api#1736939385</id>
+    <title>https://github.com/nubank/k8s-api</title>
+    <link href="https://github.com/nubank/k8s-api" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">Kubernetes client, data driven</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metabase/metabase#1736939385</id>
+    <title>https://github.com/metabase/metabase</title>
+    <link href="https://github.com/metabase/metabase" />
+    <updated>2025-01-15T11:09:45+00:00</updated>
+    <content type="text">The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋</content>
+  </entry>
+</feed>

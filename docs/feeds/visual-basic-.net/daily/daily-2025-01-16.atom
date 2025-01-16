@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/visual-basic-.net/daily.atom</id>
+  <title>GitHub Trending - visual-basic-.net (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/visual-basic-.net/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:32:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/VBA-tools/VBA-JSON#1736940761</id>
+    <title>https://github.com/VBA-tools/VBA-JSON</title>
+    <link href="https://github.com/VBA-tools/VBA-JSON" />
+    <updated>2025-01-15T11:32:41+00:00</updated>
+    <content type="text">JSON conversion and parsing for VBA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts#1736940761</id>
+    <title>https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts</title>
+    <link href="https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts" />
+    <updated>2025-01-15T11:32:41+00:00</updated>
+    <content type="text">A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators. If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository</content>
+  </entry>
+</feed>

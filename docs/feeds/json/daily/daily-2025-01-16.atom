@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/json/daily.atom</id>
+  <title>GitHub Trending - json (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/json/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:17:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/microsoft/Application-Insights-Workbooks#1736939877</id>
+    <title>https://github.com/microsoft/Application-Insights-Workbooks</title>
+    <link href="https://github.com/microsoft/Application-Insights-Workbooks" />
+    <updated>2025-01-15T11:17:57+00:00</updated>
+    <content type="text">Templates for Azure Monitor Workbooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/upptime/upptime#1736939877</id>
+    <title>https://github.com/upptime/upptime</title>
+    <link href="https://github.com/upptime/upptime" />
+    <updated>2025-01-15T11:17:57+00:00</updated>
+    <content type="text">⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/browser-compat-data#1736939877</id>
+    <title>https://github.com/mdn/browser-compat-data</title>
+    <link href="https://github.com/mdn/browser-compat-data" />
+    <updated>2025-01-15T11:17:57+00:00</updated>
+    <content type="text">This repository contains compatibility data for Web technologies as displayed on MDN</content>
+  </entry>
+</feed>

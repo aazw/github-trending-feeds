@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pug/daily.atom</id>
+  <title>GitHub Trending - pug (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pug/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:26:01+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-sb-admin#1736940361</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-sb-admin</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-sb-admin" />
+    <updated>2025-01-15T11:26:01+00:00</updated>
+    <content type="text">A free, open source, Bootstrap admin theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nigelpoulton/TheK8sBook#1736940361</id>
+    <title>https://github.com/nigelpoulton/TheK8sBook</title>
+    <link href="https://github.com/nigelpoulton/TheK8sBook" />
+    <updated>2025-01-15T11:26:01+00:00</updated>
+    <content type="text">YAML files for use with The Kubernetes Book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/actions-workflow-samples#1736940361</id>
+    <title>https://github.com/Azure/actions-workflow-samples</title>
+    <link href="https://github.com/Azure/actions-workflow-samples" />
+    <updated>2025-01-15T11:26:01+00:00</updated>
+    <content type="text">Help developers to easily get started with GitHub Action workflows to deploy to Azure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-landing-page#1736940361</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-landing-page</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-landing-page" />
+    <updated>2025-01-15T11:26:01+00:00</updated>
+    <content type="text">A responsive, Bootstrap landing page template created by Start Bootstrap</content>
+  </entry>
+</feed>

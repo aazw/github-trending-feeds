@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom</id>
+  <title>GitHub Trending - css (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:10:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/lipis/flag-icons#1736939441</id>
+    <title>https://github.com/lipis/flag-icons</title>
+    <link href="https://github.com/lipis/flag-icons" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/byquangthanh/valentine.github.io#1736939441</id>
+    <title>https://github.com/byquangthanh/valentine.github.io</title>
+    <link href="https://github.com/byquangthanh/valentine.github.io" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">Will you be my valentine project for my girlfriend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PacktPublishing/Django-5-By-Example#1736939441</id>
+    <title>https://github.com/PacktPublishing/Django-5-By-Example</title>
+    <link href="https://github.com/PacktPublishing/Django-5-By-Example" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">Django 5 By Example (5th Edition) published by Packt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AnubisNekhet/AnuPpuccin#1736939441</id>
+    <title>https://github.com/AnubisNekhet/AnuPpuccin</title>
+    <link href="https://github.com/AnubisNekhet/AnuPpuccin" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">Personal theme for Obsidian</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spicetify/spicetify-themes#1736939441</id>
+    <title>https://github.com/spicetify/spicetify-themes</title>
+    <link href="https://github.com/spicetify/spicetify-themes" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli</content>
+  </entry>
+  <entry>
+    <id>https://github.com/isocpp/CppCoreGuidelines#1736939441</id>
+    <title>https://github.com/isocpp/CppCoreGuidelines</title>
+    <link href="https://github.com/isocpp/CppCoreGuidelines" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WebStackPage/WebStackPage.github.io#1736939441</id>
+    <title>https://github.com/WebStackPage/WebStackPage.github.io</title>
+    <link href="https://github.com/WebStackPage/WebStackPage.github.io" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">❤️静态响应式网址导航网站 - webstack.cc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jd-opensource/micro-app#1736939441</id>
+    <title>https://github.com/jd-opensource/micro-app</title>
+    <link href="https://github.com/jd-opensource/micro-app" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ayusharma/birthday#1736939441</id>
+    <title>https://github.com/ayusharma/birthday</title>
+    <link href="https://github.com/ayusharma/birthday" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">A Happy Birthday animation design in CSS3, HTML5</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primefaces/primereact#1736939441</id>
+    <title>https://github.com/primefaces/primereact</title>
+    <link href="https://github.com/primefaces/primereact" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">The Most Complete React UI Component Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bradtraversy/50projects50days#1736939441</id>
+    <title>https://github.com/bradtraversy/50projects50days</title>
+    <link href="https://github.com/bradtraversy/50projects50days" />
+    <updated>2025-01-15T11:10:41+00:00</updated>
+    <content type="text">50+ mini web projects using HTML, CSS &amp; JS</content>
+  </entry>
+</feed>

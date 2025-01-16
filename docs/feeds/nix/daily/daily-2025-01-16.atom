@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:22:31+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1736940151</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1736940151</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixos-hardware#1736940151</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/impermanence#1736940151</id>
+    <title>https://github.com/nix-community/impermanence</title>
+    <link href="https://github.com/nix-community/impermanence" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danth/stylix#1736940151</id>
+    <title>https://github.com/danth/stylix</title>
+    <link href="https://github.com/danth/stylix" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">System-wide colorscheming and typography for NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixOS-WSL#1736940151</id>
+    <title>https://github.com/nix-community/NixOS-WSL</title>
+    <link href="https://github.com/nix-community/NixOS-WSL" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">NixOS on WSL(2) [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixos-generators#1736940151</id>
+    <title>https://github.com/nix-community/nixos-generators</title>
+    <link href="https://github.com/nix-community/nixos-generators" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">Collection of image builders [maintainer=@Lassulus]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1736940151</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cachix/devenv#1736940151</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/nixos-config#1736940151</id>
+    <title>https://github.com/mitchellh/nixos-config</title>
+    <link href="https://github.com/mitchellh/nixos-config" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">My NixOS configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LnL7/nix-darwin#1736940151</id>
+    <title>https://github.com/LnL7/nix-darwin</title>
+    <link href="https://github.com/LnL7/nix-darwin" />
+    <updated>2025-01-15T11:22:31+00:00</updated>
+    <content type="text">nix modules for darwin</content>
+  </entry>
+</feed>

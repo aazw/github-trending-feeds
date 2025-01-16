@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom</id>
+  <title>GitHub Trending - tcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:30:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rdbende/Sun-Valley-ttk-theme#1736940644</id>
+    <title>https://github.com/rdbende/Sun-Valley-ttk-theme</title>
+    <link href="https://github.com/rdbende/Sun-Valley-ttk-theme" />
+    <updated>2025-01-15T11:30:44+00:00</updated>
+    <content type="text">A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/macports/macports-base#1736940644</id>
+    <title>https://github.com/macports/macports-base</title>
+    <link href="https://github.com/macports/macports-base" />
+    <updated>2025-01-15T11:30:44+00:00</updated>
+    <content type="text">The MacPorts command-line client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/device-tree-xlnx#1736940644</id>
+    <title>https://github.com/Xilinx/device-tree-xlnx</title>
+    <link href="https://github.com/Xilinx/device-tree-xlnx" />
+    <updated>2025-01-15T11:30:44+00:00</updated>
+    <content type="text">Linux device tree generator for the Xilinx SDK (Vivado &gt; 2014.1)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Digilent/digilent-xdc#1736940644</id>
+    <title>https://github.com/Digilent/digilent-xdc</title>
+    <link href="https://github.com/Digilent/digilent-xdc" />
+    <updated>2025-01-15T11:30:44+00:00</updated>
+    <content type="text">A collection of Master XDC files for Digilent FPGA and Zynq boards.</content>
+  </entry>
+</feed>

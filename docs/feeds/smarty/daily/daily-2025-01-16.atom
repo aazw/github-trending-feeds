@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom</id>
+  <title>GitHub Trending - smarty (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:29:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1736940555</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1736940555</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/helm#1736940555</id>
+    <title>https://github.com/nextcloud/helm</title>
+    <link href="https://github.com/nextcloud/helm" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">A community maintained helm chart for deploying Nextcloud on Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/guerzon/vaultwarden#1736940555</id>
+    <title>https://github.com/guerzon/vaultwarden</title>
+    <link href="https://github.com/guerzon/vaultwarden" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1736940555</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1736940555</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k8s-monitoring-helm#1736940555</id>
+    <title>https://github.com/grafana/k8s-monitoring-helm</title>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/charts#1736940555</id>
+    <title>https://github.com/cloudnative-pg/charts</title>
+    <link href="https://github.com/cloudnative-pg/charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">CloudNativePG Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SonarSource/helm-chart-sonarqube#1736940555</id>
+    <title>https://github.com/SonarSource/helm-chart-sonarqube</title>
+    <link href="https://github.com/SonarSource/helm-chart-sonarqube" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/helm-charts#1736940555</id>
+    <title>https://github.com/VictoriaMetrics/helm-charts</title>
+    <link href="https://github.com/VictoriaMetrics/helm-charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opensearch-project/helm-charts#1736940555</id>
+    <title>https://github.com/opensearch-project/helm-charts</title>
+    <link href="https://github.com/opensearch-project/helm-charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">☸️ A community repository for Helm Charts of OpenSearch Project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-helm-charts#1736940555</id>
+    <title>https://github.com/open-telemetry/opentelemetry-helm-charts</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">OpenTelemetry Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik-helm-chart#1736940555</id>
+    <title>https://github.com/traefik/traefik-helm-chart</title>
+    <link href="https://github.com/traefik/traefik-helm-chart" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">Traefik Proxy Helm Chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rancher/charts#1736940555</id>
+    <title>https://github.com/rancher/charts</title>
+    <link href="https://github.com/rancher/charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">Github based Helm Chart Index Repository providing charts crafted for Rancher Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/charts#1736940555</id>
+    <title>https://github.com/bitnami/charts</title>
+    <link href="https://github.com/bitnami/charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text">Bitnami Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/helm-charts#1736940555</id>
+    <title>https://github.com/grafana/helm-charts</title>
+    <link href="https://github.com/grafana/helm-charts" />
+    <updated>2025-01-15T11:29:15+00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

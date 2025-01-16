@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/autoit/daily.atom</id>
+  <title>GitHub Trending - autoit (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/autoit/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:07:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Bioruebe/UniExtract2#1736939261</id>
+    <title>https://github.com/Bioruebe/UniExtract2</title>
+    <link href="https://github.com/Bioruebe/UniExtract2" />
+    <updated>2025-01-15T11:07:41+00:00</updated>
+    <content type="text">Universal Extractor 2 is a tool to extract files from any type of archive or installer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SegoCode/AutoWall#1736939261</id>
+    <title>https://github.com/SegoCode/AutoWall</title>
+    <link href="https://github.com/SegoCode/AutoWall" />
+    <updated>2025-01-15T11:07:41+00:00</updated>
+    <content type="text">🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcmaehl/WhyNotWin11#1736939261</id>
+    <title>https://github.com/rcmaehl/WhyNotWin11</title>
+    <link href="https://github.com/rcmaehl/WhyNotWin11" />
+    <updated>2025-01-15T11:07:41+00:00</updated>
+    <content type="text">Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!</content>
+  </entry>
+</feed>

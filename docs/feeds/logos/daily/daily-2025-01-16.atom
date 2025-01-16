@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/logos/daily.atom</id>
+  <title>GitHub Trending - logos (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/logos/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:19:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dayanch96/YTLite#1736939972</id>
+    <title>https://github.com/dayanch96/YTLite</title>
+    <link href="https://github.com/dayanch96/YTLite" />
+    <updated>2025-01-15T11:19:32+00:00</updated>
+    <content type="text">A flexible enhancer for YouTube on iOS</content>
+  </entry>
+</feed>

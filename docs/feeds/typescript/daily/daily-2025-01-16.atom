@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/typescript/daily.atom</id>
+  <title>GitHub Trending - typescript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/typescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-15T11:31:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/grafana/grafana#1736940704</id>
+    <title>https://github.com/grafana/grafana</title>
+    <link href="https://github.com/grafana/grafana" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kamranahmedse/developer-roadmap#1736940704</id>
+    <title>https://github.com/kamranahmedse/developer-roadmap</title>
+    <link href="https://github.com/kamranahmedse/developer-roadmap" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Interactive roadmaps, guides and other educational content to help developers grow in their careers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mattermost-community/focalboard#1736940704</id>
+    <title>https://github.com/mattermost-community/focalboard</title>
+    <link href="https://github.com/mattermost-community/focalboard" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n#1736940704</id>
+    <title>https://github.com/n8n-io/n8n</title>
+    <link href="https://github.com/n8n-io/n8n" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/continuedev/continue#1736940704</id>
+    <title>https://github.com/continuedev/continue</title>
+    <link href="https://github.com/continuedev/continue" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains</content>
+  </entry>
+  <entry>
+    <id>https://github.com/th-ch/youtube-music#1736940704</id>
+    <title>https://github.com/th-ch/youtube-music</title>
+    <link href="https://github.com/th-ch/youtube-music" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/expo/expo#1736940704</id>
+    <title>https://github.com/expo/expo</title>
+    <link href="https://github.com/expo/expo" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/react-native-skia#1736940704</id>
+    <title>https://github.com/Shopify/react-native-skia</title>
+    <link href="https://github.com/Shopify/react-native-skia" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">High-performance React Native Graphics using Skia</content>
+  </entry>
+  <entry>
+    <id>https://github.com/webstudio-is/webstudio#1736940704</id>
+    <title>https://github.com/webstudio-is/webstudio</title>
+    <link href="https://github.com/webstudio-is/webstudio" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RealKai42/qwerty-learner#1736940704</id>
+    <title>https://github.com/RealKai42/qwerty-learner</title>
+    <link href="https://github.com/RealKai42/qwerty-learner" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gristlabs/grist-core#1736940704</id>
+    <title>https://github.com/gristlabs/grist-core</title>
+    <link href="https://github.com/gristlabs/grist-core" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Grist is the evolution of spreadsheets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raycast/extensions#1736940704</id>
+    <title>https://github.com/raycast/extensions</title>
+    <link href="https://github.com/raycast/extensions" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Everything you need to extend Raycast.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ItzCrazyKns/Perplexica#1736940704</id>
+    <title>https://github.com/ItzCrazyKns/Perplexica</title>
+    <link href="https://github.com/ItzCrazyKns/Perplexica" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode#1736940704</id>
+    <title>https://github.com/microsoft/vscode</title>
+    <link href="https://github.com/microsoft/vscode" />
+    <updated>2025-01-15T11:31:44+00:00</updated>
+    <content type="text">Visual Studio Code</content>
+  </entry>
+</feed>
