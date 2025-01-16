@@ -18,7 +18,7 @@ while read language; do
     python apps/scrape.py \
       --language          "${language}" \
       --period            "weekly" \
-      --atom-updated-date "$(date -I)T00:00:00"
+      --atom-updated-date "$(date -I)T00:00:00" \
       --output            "./docs/feeds/${language}/weekly.atom"
     set -e
 
