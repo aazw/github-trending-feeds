@@ -5,57 +5,57 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/astro/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:07:30+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/moeyua/astro-theme-typography#1736939250</id>
-    <title>https://github.com/moeyua/astro-theme-typography</title>
-    <link href="https://github.com/moeyua/astro-theme-typography" />
-    <updated>2025-01-15T11:07:30+00:00</updated>
-    <content type="text">Rediscover the beauty of typography.</content>
+    <id>https://github.com/zeon-studio/astroplate#1736985600</id>
+    <title>https://github.com/zeon-studio/astroplate</title>
+    <link href="https://github.com/zeon-studio/astroplate" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Astroplate is a free starter template built with Astro, TailwindCSS &amp; TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!</content>
   </entry>
   <entry>
-    <id>https://github.com/chrismwilliams/astro-theme-cactus#1736939250</id>
-    <title>https://github.com/chrismwilliams/astro-theme-cactus</title>
-    <link href="https://github.com/chrismwilliams/astro-theme-cactus" />
-    <updated>2025-01-15T11:07:30+00:00</updated>
-    <content type="text">A simple Astro theme. Use it to create your blog or website.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Lissy93/awesome-privacy#1736939250</id>
-    <title>https://github.com/Lissy93/awesome-privacy</title>
-    <link href="https://github.com/Lissy93/awesome-privacy" />
-    <updated>2025-01-15T11:07:30+00:00</updated>
-    <content type="text">🦄 A curated list of privacy &amp; security-focused software and services</content>
-  </entry>
-  <entry>
-    <id>https://github.com/saicaca/fuwari#1736939250</id>
-    <title>https://github.com/saicaca/fuwari</title>
-    <link href="https://github.com/saicaca/fuwari" />
-    <updated>2025-01-15T11:07:30+00:00</updated>
-    <content type="text">✨A static blog template built with Astro.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/danielcgilibert/blog-template#1736939250</id>
-    <title>https://github.com/danielcgilibert/blog-template</title>
-    <link href="https://github.com/danielcgilibert/blog-template" />
-    <updated>2025-01-15T11:07:30+00:00</updated>
-    <content type="text">📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/onwidget/astrowind#1736939250</id>
+    <id>https://github.com/onwidget/astrowind#1736985600</id>
     <title>https://github.com/onwidget/astrowind</title>
     <link href="https://github.com/onwidget/astrowind" />
-    <updated>2025-01-15T11:07:30+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.</content>
   </entry>
   <entry>
-    <id>https://github.com/ColorlibHQ/AdminLTE#1736939250</id>
+    <id>https://github.com/satnaing/astro-paper#1736985600</id>
+    <title>https://github.com/satnaing/astro-paper</title>
+    <link href="https://github.com/satnaing/astro-paper" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A minimal, accessible and SEO-friendly Astro blog theme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrismwilliams/astro-theme-cactus#1736985600</id>
+    <title>https://github.com/chrismwilliams/astro-theme-cactus</title>
+    <link href="https://github.com/chrismwilliams/astro-theme-cactus" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A simple Astro theme. Use it to create your blog or website.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Keycapsss/awesome-mechanical-keyboard#1736985600</id>
+    <title>https://github.com/Keycapsss/awesome-mechanical-keyboard</title>
+    <link href="https://github.com/Keycapsss/awesome-mechanical-keyboard" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">⌨️ A curated list of Open Source Mechanical Keyboard resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lissy93/awesome-privacy#1736985600</id>
+    <title>https://github.com/Lissy93/awesome-privacy</title>
+    <link href="https://github.com/Lissy93/awesome-privacy" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🦄 A curated list of privacy &amp; security-focused software and services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ColorlibHQ/AdminLTE#1736985600</id>
     <title>https://github.com/ColorlibHQ/AdminLTE</title>
     <link href="https://github.com/ColorlibHQ/AdminLTE" />
-    <updated>2025-01-15T11:07:30+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">AdminLTE - Free admin dashboard template based on Bootstrap 5</content>
   </entry>
 </feed>

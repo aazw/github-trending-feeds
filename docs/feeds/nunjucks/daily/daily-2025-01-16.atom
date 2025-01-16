@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nunjucks/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:22:52+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/11ty/11ty-website#1736940172</id>
-    <title>https://github.com/11ty/11ty-website</title>
-    <link href="https://github.com/11ty/11ty-website" />
-    <updated>2025-01-15T11:22:52+00:00</updated>
-    <content type="text">Documentation site for the Eleventy static site generator.</content>
+    <id>https://github.com/h5bp/Front-end-Developer-Interview-Questions#1736985600</id>
+    <title>https://github.com/h5bp/Front-end-Developer-Interview-Questions</title>
+    <link href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.</content>
   </entry>
 </feed>

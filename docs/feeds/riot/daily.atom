@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/riot/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:27:37+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Joxit/docker-registry-ui#1736940457</id>
+    <id>https://github.com/Joxit/docker-registry-ui#1736985600</id>
     <title>https://github.com/Joxit/docker-registry-ui</title>
     <link href="https://github.com/Joxit/docker-registry-ui" />
-    <updated>2025-01-15T11:27:37+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The simplest and most complete UI for your private registry</content>
   </entry>
 </feed>

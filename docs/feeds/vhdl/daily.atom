@@ -5,36 +5,43 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/vhdl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:32:30+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/aws/aws-fpga#1736940750</id>
+    <id>https://github.com/aws/aws-fpga#1736985600</id>
     <title>https://github.com/aws/aws-fpga</title>
     <link href="https://github.com/aws/aws-fpga" />
-    <updated>2025-01-15T11:32:30+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Official repository of the AWS EC2 FPGA Hardware and Software Development Kit</content>
   </entry>
   <entry>
-    <id>https://github.com/ghdl/ghdl#1736940750</id>
-    <title>https://github.com/ghdl/ghdl</title>
-    <link href="https://github.com/ghdl/ghdl" />
-    <updated>2025-01-15T11:32:30+00:00</updated>
-    <content type="text">VHDL 2008/93/87 simulator</content>
+    <id>https://github.com/stnolting/neorv32#1736985600</id>
+    <title>https://github.com/stnolting/neorv32</title>
+    <link href="https://github.com/stnolting/neorv32" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.</content>
   </entry>
   <entry>
-    <id>https://github.com/Paebbels/JSON-for-VHDL#1736940750</id>
-    <title>https://github.com/Paebbels/JSON-for-VHDL</title>
-    <link href="https://github.com/Paebbels/JSON-for-VHDL" />
-    <updated>2025-01-15T11:32:30+00:00</updated>
-    <content type="text">A JSON library implemented in VHDL.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OSVVM/OSVVM#1736940750</id>
+    <id>https://github.com/OSVVM/OSVVM#1736985600</id>
     <title>https://github.com/OSVVM/OSVVM</title>
     <link href="https://github.com/OSVVM/OSVVM" />
-    <updated>2025-01-15T11:32:30+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slaclab/surf#1736985600</id>
+    <title>https://github.com/slaclab/surf</title>
+    <link href="https://github.com/slaclab/surf" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A huge VHDL library for FPGA development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghdl/ghdl#1736985600</id>
+    <title>https://github.com/ghdl/ghdl</title>
+    <link href="https://github.com/ghdl/ghdl" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">VHDL 2008/93/87 simulator</content>
   </entry>
 </feed>

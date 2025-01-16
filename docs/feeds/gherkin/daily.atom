@@ -5,22 +5,8 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:14:32+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/keygen-sh/keygen-api#1736939672</id>
-    <title>https://github.com/keygen-sh/keygen-api</title>
-    <link href="https://github.com/keygen-sh/keygen-api" />
-    <updated>2025-01-15T11:14:32+00:00</updated>
-    <content type="text">Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/serverlessworkflow/specification#1736939672</id>
-    <title>https://github.com/serverlessworkflow/specification</title>
-    <link href="https://github.com/serverlessworkflow/specification" />
-    <updated>2025-01-15T11:14:32+00:00</updated>
-    <content type="text">Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.</content>
-  </entry>
 </feed>

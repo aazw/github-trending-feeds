@@ -5,15 +5,8 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/papyrus/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:24:20+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/SkyrimLL/SkLLmods#1736940260</id>
-    <title>https://github.com/SkyrimLL/SkLLmods</title>
-    <link href="https://github.com/SkyrimLL/SkLLmods" />
-    <updated>2025-01-15T11:24:20+00:00</updated>
-    <content type="text">[Obsolete] Legacy repo for Personal compilation of Skyrim mods created for LL.</content>
-  </entry>
 </feed>

@@ -5,127 +5,127 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/html/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:16:13+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/tpn/pdfs#1736939773</id>
-    <title>https://github.com/tpn/pdfs</title>
-    <link href="https://github.com/tpn/pdfs" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)</content>
+    <id>https://github.com/OWASP/Top10#1736985600</id>
+    <title>https://github.com/OWASP/Top10</title>
+    <link href="https://github.com/OWASP/Top10" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Official OWASP Top 10 Document Repository</content>
   </entry>
   <entry>
-    <id>https://github.com/whatwg/html#1736939773</id>
-    <title>https://github.com/whatwg/html</title>
-    <link href="https://github.com/whatwg/html" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">HTML Standard</content>
-  </entry>
-  <entry>
-    <id>https://github.com/alshedivat/al-folio#1736939773</id>
-    <title>https://github.com/alshedivat/al-folio</title>
-    <link href="https://github.com/alshedivat/al-folio" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">A beautiful, simple, clean, and responsive Jekyll theme for academics</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fengdu78/deeplearning_ai_books#1736939773</id>
-    <title>https://github.com/fengdu78/deeplearning_ai_books</title>
-    <link href="https://github.com/fengdu78/deeplearning_ai_books" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tobychui/zoraxy#1736939773</id>
-    <title>https://github.com/tobychui/zoraxy</title>
-    <link href="https://github.com/tobychui/zoraxy" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tabler/tabler#1736939773</id>
-    <title>https://github.com/tabler/tabler</title>
-    <link href="https://github.com/tabler/tabler" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rfordatascience/tidytuesday#1736939773</id>
-    <title>https://github.com/rfordatascience/tidytuesday</title>
-    <link href="https://github.com/rfordatascience/tidytuesday" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">Official repo for the #tidytuesday project</content>
-  </entry>
-  <entry>
-    <id>https://github.com/wdndev/llm_interview_note#1736939773</id>
-    <title>https://github.com/wdndev/llm_interview_note</title>
-    <link href="https://github.com/wdndev/llm_interview_note" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题</content>
-  </entry>
-  <entry>
-    <id>https://github.com/brave/brave-core#1736939773</id>
-    <title>https://github.com/brave/brave-core</title>
-    <link href="https://github.com/brave/brave-core" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mdn/learning-area#1736939773</id>
-    <title>https://github.com/mdn/learning-area</title>
-    <link href="https://github.com/mdn/learning-area" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">GitHub repo for the MDN Learning Area.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/htmlstreamofficial/preline#1736939773</id>
-    <title>https://github.com/htmlstreamofficial/preline</title>
-    <link href="https://github.com/htmlstreamofficial/preline" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apna-college/Delta#1736939773</id>
-    <title>https://github.com/apna-college/Delta</title>
-    <link href="https://github.com/apna-college/Delta" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/gustavoguanabara/html-css#1736939773</id>
-    <title>https://github.com/gustavoguanabara/html-css</title>
-    <link href="https://github.com/gustavoguanabara/html-css" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">Curso de HTML5 e CSS3</content>
-  </entry>
-  <entry>
-    <id>https://github.com/adityatelange/hugo-PaperMod#1736939773</id>
-    <title>https://github.com/adityatelange/hugo-PaperMod</title>
-    <link href="https://github.com/adityatelange/hugo-PaperMod" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">A fast, clean, responsive Hugo theme.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/BotBuilder-Samples#1736939773</id>
+    <id>https://github.com/microsoft/BotBuilder-Samples#1736985600</id>
     <title>https://github.com/microsoft/BotBuilder-Samples</title>
     <link href="https://github.com/microsoft/BotBuilder-Samples" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript/TypeScript, and Python to help you get started with the Bot Framework SDK!</content>
   </entry>
   <entry>
-    <id>https://github.com/phil-opp/blog_os#1736939773</id>
-    <title>https://github.com/phil-opp/blog_os</title>
-    <link href="https://github.com/phil-opp/blog_os" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">Writing an OS in Rust</content>
+    <id>https://github.com/web-platform-tests/wpt#1736985600</id>
+    <title>https://github.com/web-platform-tests/wpt</title>
+    <link href="https://github.com/web-platform-tests/wpt" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Test suites for Web platform specs — including WHATWG, W3C, and others</content>
   </entry>
   <entry>
-    <id>https://github.com/opulo-inc/lumenpnp#1736939773</id>
-    <title>https://github.com/opulo-inc/lumenpnp</title>
-    <link href="https://github.com/opulo-inc/lumenpnp" />
-    <updated>2025-01-15T11:16:13+00:00</updated>
-    <content type="text">The LumenPnP is an open source pick and place machine.</content>
+    <id>https://github.com/jpanther/congo#1736985600</id>
+    <title>https://github.com/jpanther/congo</title>
+    <link href="https://github.com/jpanther/congo" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A powerful, lightweight theme for Hugo built with Tailwind CSS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alpinejs/alpine#1736985600</id>
+    <title>https://github.com/alpinejs/alpine</title>
+    <link href="https://github.com/alpinejs/alpine" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A rugged, minimal framework for composing JavaScript behavior in your markup.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DefectDojo/django-DefectDojo#1736985600</id>
+    <title>https://github.com/DefectDojo/django-DefectDojo</title>
+    <link href="https://github.com/DefectDojo/django-DefectDojo" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">DevSecOps, ASPM, Vulnerability Management. All on one platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brave/brave-core#1736985600</id>
+    <title>https://github.com/brave/brave-core</title>
+    <link href="https://github.com/brave/brave-core" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vasturiano/3d-force-graph#1736985600</id>
+    <title>https://github.com/vasturiano/3d-force-graph</title>
+    <link href="https://github.com/vasturiano/3d-force-graph" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">3D force-directed graph component using ThreeJS/WebGL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/website#1736985600</id>
+    <title>https://github.com/kubernetes/website</title>
+    <link href="https://github.com/kubernetes/website" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Kubernetes website and documentation repo:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EbookFoundation/free-programming-books#1736985600</id>
+    <title>https://github.com/EbookFoundation/free-programming-books</title>
+    <link href="https://github.com/EbookFoundation/free-programming-books" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">📚 Freely available programming books</content>
+  </entry>
+  <entry>
+    <id>https://github.com/f/awesome-chatgpt-prompts#1736985600</id>
+    <title>https://github.com/f/awesome-chatgpt-prompts</title>
+    <link href="https://github.com/f/awesome-chatgpt-prompts" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/home-assistant/home-assistant.io#1736985600</id>
+    <title>https://github.com/home-assistant/home-assistant.io</title>
+    <link href="https://github.com/home-assistant/home-assistant.io" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">📘 Home Assistant User documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/square/retrofit#1736985600</id>
+    <title>https://github.com/square/retrofit</title>
+    <link href="https://github.com/square/retrofit" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A type-safe HTTP client for Android and the JVM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OCA/purchase-workflow#1736985600</id>
+    <title>https://github.com/OCA/purchase-workflow</title>
+    <link href="https://github.com/OCA/purchase-workflow" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Odoo Purchases, Workflow and Organization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/learning-area#1736985600</id>
+    <title>https://github.com/mdn/learning-area</title>
+    <link href="https://github.com/mdn/learning-area" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">GitHub repo for the MDN Learning Area.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Born2Root/Fast-Font#1736985600</id>
+    <title>https://github.com/Born2Root/Fast-Font</title>
+    <link href="https://github.com/Born2Root/Fast-Font" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gustavoguanabara/html-css#1736985600</id>
+    <title>https://github.com/gustavoguanabara/html-css</title>
+    <link href="https://github.com/gustavoguanabara/html-css" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Curso de HTML5 e CSS3</content>
   </entry>
 </feed>

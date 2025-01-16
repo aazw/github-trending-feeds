@@ -5,29 +5,43 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/vala/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:32:12+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/phw/peek#1736940732</id>
-    <title>https://github.com/phw/peek</title>
-    <link href="https://github.com/phw/peek" />
-    <updated>2025-01-15T11:32:12+00:00</updated>
-    <content type="text">Simple animated GIF screen recorder with an easy to use interface</content>
+    <id>https://github.com/teejee2008/timeshift#1736985600</id>
+    <title>https://github.com/teejee2008/timeshift</title>
+    <link href="https://github.com/teejee2008/timeshift" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</content>
   </entry>
   <entry>
-    <id>https://github.com/Aylur/astal#1736940732</id>
+    <id>https://github.com/Aylur/astal#1736985600</id>
     <title>https://github.com/Aylur/astal</title>
     <link href="https://github.com/Aylur/astal" />
-    <updated>2025-01-15T11:32:12+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Building blocks for creating custom desktop shells</content>
   </entry>
   <entry>
-    <id>https://github.com/teejee2008/timeshift#1736940732</id>
-    <title>https://github.com/teejee2008/timeshift</title>
-    <link href="https://github.com/teejee2008/timeshift" />
-    <updated>2025-01-15T11:32:12+00:00</updated>
-    <content type="text">System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</content>
+    <id>https://github.com/ErikReider/SwayNotificationCenter#1736985600</id>
+    <title>https://github.com/ErikReider/SwayNotificationCenter</title>
+    <link href="https://github.com/ErikReider/SwayNotificationCenter" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A simple GTK based notification daemon for SwayWM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phw/peek#1736985600</id>
+    <title>https://github.com/phw/peek</title>
+    <link href="https://github.com/phw/peek" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Simple animated GIF screen recorder with an easy to use interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alainm23/planify#1736985600</id>
+    <title>https://github.com/alainm23/planify</title>
+    <link href="https://github.com/alainm23/planify" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Task manager with Todoist &amp; Nextcloud support designed for GNOME</content>
   </entry>
 </feed>

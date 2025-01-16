@@ -5,141 +5,155 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:25:32+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/microsoft/ARI#1736940332</id>
-    <title>https://github.com/microsoft/ARI</title>
-    <link href="https://github.com/microsoft/ARI" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort</content>
-  </entry>
-  <entry>
-    <id>https://github.com/janikvonrotz/awesome-powershell#1736940332</id>
-    <title>https://github.com/janikvonrotz/awesome-powershell</title>
-    <link href="https://github.com/janikvonrotz/awesome-powershell" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">A curated list of delightful PowerShell modules and resources</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/AL#1736940332</id>
-    <title>https://github.com/microsoft/AL</title>
-    <link href="https://github.com/microsoft/AL" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/Microsoft365DSC#1736940332</id>
+    <id>https://github.com/microsoft/Microsoft365DSC#1736985600</id>
     <title>https://github.com/microsoft/Microsoft365DSC</title>
     <link href="https://github.com/microsoft/Microsoft365DSC" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Manages, configures, extracts and monitors Microsoft 365 tenant configurations</content>
   </entry>
   <entry>
-    <id>https://github.com/CrowdStrike/falcon-scripts#1736940332</id>
-    <title>https://github.com/CrowdStrike/falcon-scripts</title>
-    <link href="https://github.com/CrowdStrike/falcon-scripts" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">Scripts to streamline the deployment and use of the CrowdStrike Falcon sensor</content>
+    <id>https://github.com/microsoftgraph/powershell-intune-samples#1736985600</id>
+    <title>https://github.com/microsoftgraph/powershell-intune-samples</title>
+    <link href="https://github.com/microsoftgraph/powershell-intune-samples" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/winget-pkgs#1736940332</id>
-    <title>https://github.com/microsoft/winget-pkgs</title>
-    <link href="https://github.com/microsoft/winget-pkgs" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">The Microsoft community Windows Package Manager manifest repository</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SpecterOps/BloodHound-Legacy#1736940332</id>
-    <title>https://github.com/SpecterOps/BloodHound-Legacy</title>
-    <link href="https://github.com/SpecterOps/BloodHound-Legacy" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">Six Degrees of Domain Admin</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Azure/Enterprise-Scale#1736940332</id>
-    <title>https://github.com/Azure/Enterprise-Scale</title>
-    <link href="https://github.com/Azure/Enterprise-Scale" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hak5/usbrubberducky-payloads#1736940332</id>
-    <title>https://github.com/hak5/usbrubberducky-payloads</title>
-    <link href="https://github.com/hak5/usbrubberducky-payloads" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">The Official USB Rubber Ducky Payload Repository</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ScoopInstaller/Scoop#1736940332</id>
-    <title>https://github.com/ScoopInstaller/Scoop</title>
-    <link href="https://github.com/ScoopInstaller/Scoop" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">A command-line installer for Windows.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mandiant/flare-vm#1736940332</id>
+    <id>https://github.com/mandiant/flare-vm#1736985600</id>
     <title>https://github.com/mandiant/flare-vm</title>
     <link href="https://github.com/mandiant/flare-vm" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoftgraph/microsoft-graph-docs-contrib#1736940332</id>
-    <title>https://github.com/microsoftgraph/microsoft-graph-docs-contrib</title>
-    <link href="https://github.com/microsoftgraph/microsoft-graph-docs-contrib" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">Documentation for the Microsoft Graph REST API</content>
+    <id>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB#1736985600</id>
+    <title>https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB</title>
+    <link href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.</content>
   </entry>
   <entry>
-    <id>https://github.com/MicrosoftDocs/PowerShell-Docs#1736940332</id>
-    <title>https://github.com/MicrosoftDocs/PowerShell-Docs</title>
-    <link href="https://github.com/MicrosoftDocs/PowerShell-Docs" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">The official PowerShell documentation sources</content>
+    <id>https://github.com/cisagov/ScubaGear#1736985600</id>
+    <title>https://github.com/cisagov/ScubaGear</title>
+    <link href="https://github.com/cisagov/ScubaGear" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Automation to assess the state of your M365 tenant against CISA's baselines</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/core#1736940332</id>
-    <title>https://github.com/dotnet/core</title>
-    <link href="https://github.com/dotnet/core" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">.NET news, announcements, release notes, and more!</content>
+    <id>https://github.com/CrowdStrike/psfalcon#1736985600</id>
+    <title>https://github.com/CrowdStrike/psfalcon</title>
+    <link href="https://github.com/CrowdStrike/psfalcon" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">PowerShell for CrowdStrike's OAuth2 APIs</content>
   </entry>
   <entry>
-    <id>https://github.com/Micke-K/IntuneManagement#1736940332</id>
-    <title>https://github.com/Micke-K/IntuneManagement</title>
-    <link href="https://github.com/Micke-K/IntuneManagement" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.</content>
+    <id>https://github.com/microsoft/navcontainerhelper#1736985600</id>
+    <title>https://github.com/microsoft/navcontainerhelper</title>
+    <link href="https://github.com/microsoft/navcontainerhelper" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker.</content>
   </entry>
   <entry>
-    <id>https://github.com/Sycnex/Windows10Debloater#1736940332</id>
-    <title>https://github.com/Sycnex/Windows10Debloater</title>
-    <link href="https://github.com/Sycnex/Windows10Debloater" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
-    <content type="text">Script to remove Windows 10 bloatware.</content>
+    <id>https://github.com/Azure/Azure-Functions#1736985600</id>
+    <title>https://github.com/Azure/Azure-Functions</title>
+    <link href="https://github.com/Azure/Azure-Functions" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/Raphire/Win11Debloat#1736940332</id>
+    <id>https://github.com/CrowdStrike/falcon-scripts#1736985600</id>
+    <title>https://github.com/CrowdStrike/falcon-scripts</title>
+    <link href="https://github.com/CrowdStrike/falcon-scripts" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Scripts to streamline the deployment and use of the CrowdStrike Falcon sensor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/azure-files-samples#1736985600</id>
+    <title>https://github.com/Azure-Samples/azure-files-samples</title>
+    <link href="https://github.com/Azure-Samples/azure-files-samples" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">This repository contains supporting code (PowerShell modules/scripts, ARM templates, etc.) for deploying, configuring, and using Azure Files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/Enterprise-Scale#1736985600</id>
+    <title>https://github.com/Azure/Enterprise-Scale</title>
+    <link href="https://github.com/Azure/Enterprise-Scale" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Main#1736985600</id>
+    <title>https://github.com/ScoopInstaller/Main</title>
+    <link href="https://github.com/ScoopInstaller/Main" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">📦 The default bucket for Scoop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpecterOps/BloodHound-Legacy#1736985600</id>
+    <title>https://github.com/SpecterOps/BloodHound-Legacy</title>
+    <link href="https://github.com/SpecterOps/BloodHound-Legacy" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Six Degrees of Domain Admin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Scoop#1736985600</id>
+    <title>https://github.com/ScoopInstaller/Scoop</title>
+    <link href="https://github.com/ScoopInstaller/Scoop" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A command-line installer for Windows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Raphire/Win11Debloat#1736985600</id>
     <title>https://github.com/Raphire/Win11Debloat</title>
     <link href="https://github.com/Raphire/Win11Debloat" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.</content>
   </entry>
   <entry>
-    <id>https://github.com/actions/runner-images#1736940332</id>
+    <id>https://github.com/dartraiden/NVIDIA-patcher#1736985600</id>
+    <title>https://github.com/dartraiden/NVIDIA-patcher</title>
+    <link href="https://github.com/dartraiden/NVIDIA-patcher" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Adds 3D acceleration support for P106-090 / P106-100 / P104-100 / P104-101 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP and RTX 3080 Ti 20GB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/core#1736985600</id>
+    <title>https://github.com/dotnet/core</title>
+    <link href="https://github.com/dotnet/core" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">.NET news, announcements, release notes, and more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/ARI#1736985600</id>
+    <title>https://github.com/microsoft/ARI</title>
+    <link href="https://github.com/microsoft/ARI" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/runner-images#1736985600</id>
     <title>https://github.com/actions/runner-images</title>
     <link href="https://github.com/actions/runner-images" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">GitHub Actions runner images</content>
   </entry>
   <entry>
-    <id>https://github.com/ChrisTitusTech/winutil#1736940332</id>
+    <id>https://github.com/ChrisTitusTech/winutil#1736985600</id>
     <title>https://github.com/ChrisTitusTech/winutil</title>
     <link href="https://github.com/ChrisTitusTech/winutil" />
-    <updated>2025-01-15T11:25:32+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/winget-pkgs#1736985600</id>
+    <title>https://github.com/microsoft/winget-pkgs</title>
+    <link href="https://github.com/microsoft/winget-pkgs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Microsoft community Windows Package Manager manifest repository</content>
   </entry>
 </feed>

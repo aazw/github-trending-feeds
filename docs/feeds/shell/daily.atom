@@ -5,127 +5,162 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:28:46+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/d3/d3#1736940526</id>
-    <title>https://github.com/d3/d3</title>
-    <link href="https://github.com/d3/d3" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">Bring data to life with SVG, Canvas and HTML. 📊📈🎉</content>
+    <id>https://github.com/pyenv/pyenv-virtualenv#1736985600</id>
+    <title>https://github.com/pyenv/pyenv-virtualenv</title>
+    <link href="https://github.com/pyenv/pyenv-virtualenv" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)</content>
   </entry>
   <entry>
-    <id>https://github.com/appleboy/ssh-action#1736940526</id>
-    <title>https://github.com/appleboy/ssh-action</title>
-    <link href="https://github.com/appleboy/ssh-action" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">GitHub Actions for executing remote ssh commands.</content>
+    <id>https://github.com/awslabs/git-secrets#1736985600</id>
+    <title>https://github.com/awslabs/git-secrets</title>
+    <link href="https://github.com/awslabs/git-secrets" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Prevents you from committing secrets and credentials into git repositories</content>
   </entry>
   <entry>
-    <id>https://github.com/kaldi-asr/kaldi#1736940526</id>
+    <id>https://github.com/JamesTurland/JimsGarage#1736985600</id>
+    <title>https://github.com/JamesTurland/JimsGarage</title>
+    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Homelab Goodies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kron4ek/Conty#1736985600</id>
+    <title>https://github.com/Kron4ek/Conty</title>
+    <link href="https://github.com/Kron4ek/Conty" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Easy to use unprivileged Linux container packed into a single portable executable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kaldi-asr/kaldi#1736985600</id>
     <title>https://github.com/kaldi-asr/kaldi</title>
     <link href="https://github.com/kaldi-asr/kaldi" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">kaldi-asr/kaldi is the official location of the Kaldi project.</content>
   </entry>
   <entry>
-    <id>https://github.com/frankiejun/serv00-play#1736940526</id>
-    <title>https://github.com/frankiejun/serv00-play</title>
-    <link href="https://github.com/frankiejun/serv00-play" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">serv00 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针 等, 自动化部署、批量保号、进程防杀、消息推送</content>
+    <id>https://github.com/getsentry/self-hosted#1736985600</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
   </entry>
   <entry>
-    <id>https://github.com/zabbix/zabbix-docker#1736940526</id>
-    <title>https://github.com/zabbix/zabbix-docker</title>
-    <link href="https://github.com/zabbix/zabbix-docker" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">Official Zabbix Dockerfiles</content>
+    <id>https://github.com/YanG-1989/m3u#1736985600</id>
+    <title>https://github.com/YanG-1989/m3u</title>
+    <link href="https://github.com/YanG-1989/m3u" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">直播源</content>
   </entry>
   <entry>
-    <id>https://github.com/SeleniumHQ/docker-selenium#1736940526</id>
-    <title>https://github.com/SeleniumHQ/docker-selenium</title>
-    <link href="https://github.com/SeleniumHQ/docker-selenium" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tfutils/tfenv#1736940526</id>
-    <title>https://github.com/tfutils/tfenv</title>
-    <link href="https://github.com/tfutils/tfenv" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">Terraform version manager</content>
-  </entry>
-  <entry>
-    <id>https://github.com/youngyangyang04/leetcode-master#1736940526</id>
-    <title>https://github.com/youngyangyang04/leetcode-master</title>
-    <link href="https://github.com/youngyangyang04/leetcode-master" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
-  </entry>
-  <entry>
-    <id>https://github.com/acmesh-official/acme.sh#1736940526</id>
-    <title>https://github.com/acmesh-official/acme.sh</title>
-    <link href="https://github.com/acmesh-official/acme.sh" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
-  </entry>
-  <entry>
-    <id>https://github.com/antonbabenko/pre-commit-terraform#1736940526</id>
+    <id>https://github.com/antonbabenko/pre-commit-terraform#1736985600</id>
     <title>https://github.com/antonbabenko/pre-commit-terraform</title>
     <link href="https://github.com/antonbabenko/pre-commit-terraform" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">pre-commit git hooks to take care of Terraform configurations 🇺🇦</content>
   </entry>
   <entry>
-    <id>https://github.com/QwenLM/Qwen2.5#1736940526</id>
-    <title>https://github.com/QwenLM/Qwen2.5</title>
-    <link href="https://github.com/QwenLM/Qwen2.5" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+    <id>https://github.com/openshift/release#1736985600</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
   </entry>
   <entry>
-    <id>https://github.com/dockur/windows#1736940526</id>
-    <title>https://github.com/dockur/windows</title>
-    <link href="https://github.com/dockur/windows" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">Windows inside a Docker container.</content>
+    <id>https://github.com/rbenv/rbenv#1736985600</id>
+    <title>https://github.com/rbenv/rbenv</title>
+    <link href="https://github.com/rbenv/rbenv" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Manage your app's Ruby environment</content>
   </entry>
   <entry>
-    <id>https://github.com/mylinuxforwork/dotfiles#1736940526</id>
-    <title>https://github.com/mylinuxforwork/dotfiles</title>
-    <link href="https://github.com/mylinuxforwork/dotfiles" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ohmyzsh/ohmyzsh#1736940526</id>
-    <title>https://github.com/ohmyzsh/ohmyzsh</title>
-    <link href="https://github.com/ohmyzsh/ohmyzsh" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bitnami/containers#1736940526</id>
+    <id>https://github.com/bitnami/containers#1736985600</id>
     <title>https://github.com/bitnami/containers</title>
     <link href="https://github.com/bitnami/containers" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Bitnami container images</content>
   </entry>
   <entry>
-    <id>https://github.com/nvm-sh/nvm#1736940526</id>
+    <id>https://github.com/appleboy/ssh-action#1736985600</id>
+    <title>https://github.com/appleboy/ssh-action</title>
+    <link href="https://github.com/appleboy/ssh-action" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">GitHub Actions for executing remote ssh commands.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1736985600</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1736985600</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicolaka/netshoot#1736985600</id>
+    <title>https://github.com/nicolaka/netshoot</title>
+    <link href="https://github.com/nicolaka/netshoot" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">a Docker + Kubernetes network trouble-shooting swiss-army container</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenv/jenv#1736985600</id>
+    <title>https://github.com/jenv/jenv</title>
+    <link href="https://github.com/jenv/jenv" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Manage your Java environment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1736985600</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1736985600</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1736985600</id>
     <title>https://github.com/nvm-sh/nvm</title>
     <link href="https://github.com/nvm-sh/nvm" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
   </entry>
   <entry>
-    <id>https://github.com/termux/termux-packages#1736940526</id>
-    <title>https://github.com/termux/termux-packages</title>
-    <link href="https://github.com/termux/termux-packages" />
-    <updated>2025-01-15T11:28:46+00:00</updated>
-    <content type="text">A package build system for Termux.</content>
+    <id>https://github.com/bats-core/bats-core#1736985600</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm#1736985600</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1736985600</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation</content>
   </entry>
 </feed>

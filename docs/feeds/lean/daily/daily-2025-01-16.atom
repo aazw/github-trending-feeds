@@ -5,50 +5,36 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:18:58+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/leanprover-community/ProofWidgets4#1736939938</id>
-    <title>https://github.com/leanprover-community/ProofWidgets4</title>
-    <link href="https://github.com/leanprover-community/ProofWidgets4" />
-    <updated>2025-01-15T11:18:58+00:00</updated>
-    <content type="text">Helper toolkit for creating your own Lean 4 UserWidgets</content>
-  </entry>
-  <entry>
-    <id>https://github.com/leanprover-community/quote4#1736939938</id>
-    <title>https://github.com/leanprover-community/quote4</title>
-    <link href="https://github.com/leanprover-community/quote4" />
-    <updated>2025-01-15T11:18:58+00:00</updated>
-    <content type="text">Intuitive, type-safe expression quotations for Lean 4.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/leanprover-community/aesop#1736939938</id>
+    <id>https://github.com/leanprover-community/aesop#1736985600</id>
     <title>https://github.com/leanprover-community/aesop</title>
     <link href="https://github.com/leanprover-community/aesop" />
-    <updated>2025-01-15T11:18:58+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">White-box automation for Lean 4</content>
   </entry>
   <entry>
-    <id>https://github.com/leanprover-community/batteries#1736939938</id>
+    <id>https://github.com/leanprover-community/batteries#1736985600</id>
     <title>https://github.com/leanprover-community/batteries</title>
     <link href="https://github.com/leanprover-community/batteries" />
-    <updated>2025-01-15T11:18:58+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The "batteries included" extended library for the Lean programming language and theorem prover</content>
   </entry>
   <entry>
-    <id>https://github.com/leanprover-community/mathlib4#1736939938</id>
-    <title>https://github.com/leanprover-community/mathlib4</title>
-    <link href="https://github.com/leanprover-community/mathlib4" />
-    <updated>2025-01-15T11:18:58+00:00</updated>
-    <content type="text">The math library of Lean 4</content>
-  </entry>
-  <entry>
-    <id>https://github.com/leanprover/lean4#1736939938</id>
+    <id>https://github.com/leanprover/lean4#1736985600</id>
     <title>https://github.com/leanprover/lean4</title>
     <link href="https://github.com/leanprover/lean4" />
-    <updated>2025-01-15T11:18:58+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Lean 4 programming language and theorem prover</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/mathlib4#1736985600</id>
+    <title>https://github.com/leanprover-community/mathlib4</title>
+    <link href="https://github.com/leanprover-community/mathlib4" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The math library of Lean 4</content>
   </entry>
 </feed>

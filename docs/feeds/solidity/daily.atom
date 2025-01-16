@@ -5,106 +5,85 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/solidity/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:29:28+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/PaulRBerg/prb-math#1736940568</id>
+    <id>https://github.com/base-org/contracts#1736985600</id>
+    <title>https://github.com/base-org/contracts</title>
+    <link href="https://github.com/base-org/contracts" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/permit2#1736985600</id>
+    <title>https://github.com/Uniswap/permit2</title>
+    <link href="https://github.com/Uniswap/permit2" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🔑🔑🔑 next generation token approvals mechanism</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectawakening/world-chain-contracts#1736985600</id>
+    <title>https://github.com/projectawakening/world-chain-contracts</title>
+    <link href="https://github.com/projectawakening/world-chain-contracts" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/forge-std#1736985600</id>
+    <title>https://github.com/foundry-rs/forge-std</title>
+    <link href="https://github.com/foundry-rs/forge-std" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaulRBerg/prb-math#1736985600</id>
     <title>https://github.com/PaulRBerg/prb-math</title>
     <link href="https://github.com/PaulRBerg/prb-math" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Solidity library for advanced fixed-point math</content>
   </entry>
   <entry>
-    <id>https://github.com/Uniswap/v2-periphery#1736940568</id>
-    <title>https://github.com/Uniswap/v2-periphery</title>
-    <link href="https://github.com/Uniswap/v2-periphery" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">🎚 Peripheral smart contracts for interacting with Uniswap V2</content>
+    <id>https://github.com/l2beat/l2beat#1736985600</id>
+    <title>https://github.com/l2beat/l2beat</title>
+    <link href="https://github.com/l2beat/l2beat" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.</content>
   </entry>
   <entry>
-    <id>https://github.com/matter-labs/era-contracts#1736940568</id>
-    <title>https://github.com/matter-labs/era-contracts</title>
-    <link href="https://github.com/matter-labs/era-contracts" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">Smart Contract Submodule For zkSync Era</content>
+    <id>https://github.com/semgrep/semgrep-rules#1736985600</id>
+    <title>https://github.com/semgrep/semgrep-rules</title>
+    <link href="https://github.com/semgrep/semgrep-rules" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Semgrep rules registry</content>
   </entry>
   <entry>
-    <id>https://github.com/dmfxyz/murky#1736940568</id>
-    <title>https://github.com/dmfxyz/murky</title>
-    <link href="https://github.com/dmfxyz/murky" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">Merkle Proof Generator and Validator in Solidity</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bgd-labs/aave-helpers#1736940568</id>
-    <title>https://github.com/bgd-labs/aave-helpers</title>
-    <link href="https://github.com/bgd-labs/aave-helpers" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/morpho-org/morpho-blue#1736940568</id>
-    <title>https://github.com/morpho-org/morpho-blue</title>
-    <link href="https://github.com/morpho-org/morpho-blue" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">Morpho Blue Protocol</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AmazingAng/WTF-Solidity#1736940568</id>
-    <title>https://github.com/AmazingAng/WTF-Solidity</title>
-    <link href="https://github.com/AmazingAng/WTF-Solidity" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Arachnid/solidity-stringutils#1736940568</id>
-    <title>https://github.com/Arachnid/solidity-stringutils</title>
-    <link href="https://github.com/Arachnid/solidity-stringutils" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">Basic string utilities for Solidity</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dapphub/ds-test#1736940568</id>
+    <id>https://github.com/dapphub/ds-test#1736985600</id>
     <title>https://github.com/dapphub/ds-test</title>
     <link href="https://github.com/dapphub/ds-test" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Assertions, equality checks and other test helpers</content>
   </entry>
   <entry>
-    <id>https://github.com/Layr-Labs/eigenlayer-contracts#1736940568</id>
-    <title>https://github.com/Layr-Labs/eigenlayer-contracts</title>
-    <link href="https://github.com/Layr-Labs/eigenlayer-contracts" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/ethereum/ERCs#1736940568</id>
-    <title>https://github.com/ethereum/ERCs</title>
-    <link href="https://github.com/ethereum/ERCs" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">The Ethereum Request for Comment repository</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Vectorized/solady#1736940568</id>
-    <title>https://github.com/Vectorized/solady</title>
-    <link href="https://github.com/Vectorized/solady" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
-    <content type="text">Optimized Solidity snippets.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/transmissions11/solmate#1736940568</id>
+    <id>https://github.com/transmissions11/solmate#1736985600</id>
     <title>https://github.com/transmissions11/solmate</title>
     <link href="https://github.com/transmissions11/solmate" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Modern, opinionated, and gas optimized building blocks for smart contract development.</content>
   </entry>
   <entry>
-    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1736940568</id>
+    <id>https://github.com/Vectorized/solady#1736985600</id>
+    <title>https://github.com/Vectorized/solady</title>
+    <link href="https://github.com/Vectorized/solady" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Optimized Solidity snippets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1736985600</id>
     <title>https://github.com/OpenZeppelin/openzeppelin-contracts</title>
     <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
-    <updated>2025-01-15T11:29:28+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
   </entry>
 </feed>

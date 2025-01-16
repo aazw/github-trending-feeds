@@ -5,127 +5,113 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/vue/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:32:48+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/frappe/frappe-ui#1736940768</id>
-    <title>https://github.com/frappe/frappe-ui</title>
-    <link href="https://github.com/frappe/frappe-ui" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A set of components and utilities for rapid UI development</content>
-  </entry>
-  <entry>
-    <id>https://github.com/varletjs/varlet#1736940768</id>
-    <title>https://github.com/varletjs/varlet</title>
-    <link href="https://github.com/varletjs/varlet" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AutomaApp/automa#1736940768</id>
-    <title>https://github.com/AutomaApp/automa</title>
-    <link href="https://github.com/AutomaApp/automa" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A browser extension for automating your browser by connecting blocks</content>
-  </entry>
-  <entry>
-    <id>https://github.com/chaitin/xray#1736940768</id>
-    <title>https://github.com/chaitin/xray</title>
-    <link href="https://github.com/chaitin/xray" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档</content>
-  </entry>
-  <entry>
-    <id>https://github.com/imsyy/home#1736940768</id>
-    <title>https://github.com/imsyy/home</title>
-    <link href="https://github.com/imsyy/home" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">个人主页，我的个人主页，个人主页源码，主页模板，homepage</content>
-  </entry>
-  <entry>
-    <id>https://github.com/opentiny/tiny-engine#1736940768</id>
-    <title>https://github.com/opentiny/tiny-engine</title>
-    <link href="https://github.com/opentiny/tiny-engine" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台</content>
-  </entry>
-  <entry>
-    <id>https://github.com/un-pany/v3-admin-vite#1736940768</id>
-    <title>https://github.com/un-pany/v3-admin-vite</title>
-    <link href="https://github.com/un-pany/v3-admin-vite" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">☀️ A crafted admin template「vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板」</content>
-  </entry>
-  <entry>
-    <id>https://github.com/LOG1997/log-lottery#1736940768</id>
-    <title>https://github.com/LOG1997/log-lottery</title>
-    <link href="https://github.com/LOG1997/log-lottery" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nuxt/ui#1736940768</id>
-    <title>https://github.com/nuxt/ui</title>
-    <link href="https://github.com/nuxt/ui" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vueComponent/ant-design-vue#1736940768</id>
-    <title>https://github.com/vueComponent/ant-design-vue</title>
-    <link href="https://github.com/vueComponent/ant-design-vue" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ElemeFE/element#1736940768</id>
-    <title>https://github.com/ElemeFE/element</title>
-    <link href="https://github.com/ElemeFE/element" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A Vue.js 2.0 UI Toolkit for Web</content>
-  </entry>
-  <entry>
-    <id>https://github.com/primefaces/primevue#1736940768</id>
-    <title>https://github.com/primefaces/primevue</title>
-    <link href="https://github.com/primefaces/primevue" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">Next Generation Vue UI Component Library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elk-zone/elk#1736940768</id>
-    <title>https://github.com/elk-zone/elk</title>
-    <link href="https://github.com/elk-zone/elk" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A nimble Mastodon web client</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hslr-s/sun-panel#1736940768</id>
-    <title>https://github.com/hslr-s/sun-panel</title>
-    <link href="https://github.com/hslr-s/sun-panel" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vbenjs/vue-vben-admin#1736940768</id>
-    <title>https://github.com/vbenjs/vue-vben-admin</title>
-    <link href="https://github.com/vbenjs/vue-vben-admin" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
-    <content type="text">A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/unovue/shadcn-vue#1736940768</id>
+    <id>https://github.com/unovue/shadcn-vue#1736985600</id>
     <title>https://github.com/unovue/shadcn-vue</title>
     <link href="https://github.com/unovue/shadcn-vue" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Vue port of shadcn-ui</content>
   </entry>
   <entry>
-    <id>https://github.com/luckjiawei/frpc-desktop#1736940768</id>
+    <id>https://github.com/ucraft-com/POS-Awesome#1736985600</id>
+    <title>https://github.com/ucraft-com/POS-Awesome</title>
+    <link href="https://github.com/ucraft-com/POS-Awesome" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">POS Awesome is an open-source Point of Sale for Erpnext using Vue.js and Vuetify</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nuxt/ui#1736985600</id>
+    <title>https://github.com/nuxt/ui</title>
+    <link href="https://github.com/nuxt/ui" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lin-xin/vue-manage-system#1736985600</id>
+    <title>https://github.com/lin-xin/vue-manage-system</title>
+    <link href="https://github.com/lin-xin/vue-manage-system" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Vue3、Element Plus、typescript后台管理系统</content>
+  </entry>
+  <entry>
+    <id>https://github.com/umodoc/editor#1736985600</id>
+    <title>https://github.com/umodoc/editor</title>
+    <link href="https://github.com/umodoc/editor" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Umo Editor is an open-source document editor, based on Vue3 and Tiptap.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ElemeFE/element#1736985600</id>
+    <title>https://github.com/ElemeFE/element</title>
+    <link href="https://github.com/ElemeFE/element" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A Vue.js 2.0 UI Toolkit for Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JustArchiNET/ASF-ui#1736985600</id>
+    <title>https://github.com/JustArchiNET/ASF-ui</title>
+    <link href="https://github.com/JustArchiNET/ASF-ui" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The official web interface for ASF</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aigcbilibili/aigcbilibili#1736985600</id>
+    <title>https://github.com/aigcbilibili/aigcbilibili</title>
+    <link href="https://github.com/aigcbilibili/aigcbilibili" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">仿bilibili前后端实现</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xugaoyi/vuepress-theme-vdoing#1736985600</id>
+    <title>https://github.com/xugaoyi/vuepress-theme-vdoing</title>
+    <link href="https://github.com/xugaoyi/vuepress-theme-vdoing" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🚀一款简洁高效的VuePress知识管理&amp;博客(blog)主题</content>
+  </entry>
+  <entry>
+    <id>https://github.com/luckjiawei/frpc-desktop#1736985600</id>
     <title>https://github.com/luckjiawei/frpc-desktop</title>
     <link href="https://github.com/luckjiawei/frpc-desktop" />
-    <updated>2025-01-15T11:32:48+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VueTorrent/VueTorrent#1736985600</id>
+    <title>https://github.com/VueTorrent/VueTorrent</title>
+    <link href="https://github.com/VueTorrent/VueTorrent" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The sleekest looking WEBUI for qBittorrent made with Vuejs!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vbenjs/vue-vben-admin#1736985600</id>
+    <title>https://github.com/vbenjs/vue-vben-admin</title>
+    <link href="https://github.com/vbenjs/vue-vben-admin" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vueComponent/ant-design-vue#1736985600</id>
+    <title>https://github.com/vueComponent/ant-design-vue</title>
+    <link href="https://github.com/vueComponent/ant-design-vue" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yangzongzhuan/RuoYi-Vue3#1736985600</id>
+    <title>https://github.com/yangzongzhuan/RuoYi-Vue3</title>
+    <link href="https://github.com/yangzongzhuan/RuoYi-Vue3" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primefaces/primevue#1736985600</id>
+    <title>https://github.com/primefaces/primevue</title>
+    <link href="https://github.com/primefaces/primevue" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Next Generation Vue UI Component Library</content>
   </entry>
 </feed>

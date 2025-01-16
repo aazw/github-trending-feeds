@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rpm-spec/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:28:04+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/microsoft/azurelinux#1736940484</id>
+    <id>https://github.com/microsoft/azurelinux#1736985600</id>
     <title>https://github.com/microsoft/azurelinux</title>
     <link href="https://github.com/microsoft/azurelinux" />
-    <updated>2025-01-15T11:28:04+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Linux OS for Azure 1P services and edge appliances</content>
   </entry>
 </feed>

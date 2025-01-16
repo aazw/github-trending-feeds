@@ -5,22 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/svg/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:30:24+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/n3r4zzurr0/svg-spinners#1736940624</id>
+    <id>https://github.com/n3r4zzurr0/svg-spinners#1736985600</id>
     <title>https://github.com/n3r4zzurr0/svg-spinners</title>
     <link href="https://github.com/n3r4zzurr0/svg-spinners" />
-    <updated>2025-01-15T11:30:24+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A collection of 24 x 24 dp SVG spinners! (CSS &amp; SMIL)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tandpfun/skill-icons#1736940624</id>
-    <title>https://github.com/tandpfun/skill-icons</title>
-    <link href="https://github.com/tandpfun/skill-icons" />
-    <updated>2025-01-15T11:30:24+00:00</updated>
-    <content type="text">Showcase your skills on your Github readme or resumé with ease ✨</content>
   </entry>
 </feed>

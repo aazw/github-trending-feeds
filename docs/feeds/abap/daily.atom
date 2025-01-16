@@ -5,36 +5,36 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/abap/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:06:23+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/abapGit/abapGit#1736939183</id>
-    <title>https://github.com/abapGit/abapGit</title>
-    <link href="https://github.com/abapGit/abapGit" />
-    <updated>2025-01-15T11:06:23+00:00</updated>
-    <content type="text">Git client for ABAP</content>
-  </entry>
-  <entry>
-    <id>https://github.com/abap2xlsx/abap2xlsx#1736939183</id>
+    <id>https://github.com/abap2xlsx/abap2xlsx#1736985600</id>
     <title>https://github.com/abap2xlsx/abap2xlsx</title>
     <link href="https://github.com/abap2xlsx/abap2xlsx" />
-    <updated>2025-01-15T11:06:23+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Generate your professional Excel spreadsheet from ABAP</content>
   </entry>
   <entry>
-    <id>https://github.com/SAP/code-pal-for-abap#1736939183</id>
+    <id>https://github.com/SAP-samples/abap-platform-rap-workshops#1736985600</id>
+    <title>https://github.com/SAP-samples/abap-platform-rap-workshops</title>
+    <link href="https://github.com/SAP-samples/abap-platform-rap-workshops" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SAP/code-pal-for-abap#1736985600</id>
     <title>https://github.com/SAP/code-pal-for-abap</title>
     <link href="https://github.com/SAP/code-pal-for-abap" />
-    <updated>2025-01-15T11:06:23+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">code pal for ABAP is a highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.</content>
   </entry>
   <entry>
-    <id>https://github.com/SAP-samples/abap-platform-rap-workshops#1736939183</id>
-    <title>https://github.com/SAP-samples/abap-platform-rap-workshops</title>
-    <link href="https://github.com/SAP-samples/abap-platform-rap-workshops" />
-    <updated>2025-01-15T11:06:23+00:00</updated>
-    <content type="text">This repository contains materials for workshops about the ABAP RESTful Application Programming Model (RAP).</content>
+    <id>https://github.com/abapGit/abapGit#1736985600</id>
+    <title>https://github.com/abapGit/abapGit</title>
+    <link href="https://github.com/abapGit/abapGit" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Git client for ABAP</content>
   </entry>
 </feed>

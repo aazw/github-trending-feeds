@@ -5,134 +5,134 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:34:32+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/blackboardsh/electrobun#1736940872</id>
-    <title>https://github.com/blackboardsh/electrobun</title>
-    <link href="https://github.com/blackboardsh/electrobun" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Build ultra fast, tiny, and cross-platform desktop apps with Typescript.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hexops/mach#1736940872</id>
-    <title>https://github.com/hexops/mach</title>
-    <link href="https://github.com/hexops/mach" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">zig game engine &amp; graphics toolkit</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NilsIrl/dockerc#1736940872</id>
-    <title>https://github.com/NilsIrl/dockerc</title>
-    <link href="https://github.com/NilsIrl/dockerc" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">container image to single executable compiler</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zigtools/zls#1736940872</id>
-    <title>https://github.com/zigtools/zls</title>
-    <link href="https://github.com/zigtools/zls" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
-  </entry>
-  <entry>
-    <id>https://github.com/oven-sh/bun#1736940872</id>
-    <title>https://github.com/oven-sh/bun</title>
-    <link href="https://github.com/oven-sh/bun" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
-  </entry>
-  <entry>
-    <id>https://github.com/neurocyte/flow#1736940872</id>
-    <title>https://github.com/neurocyte/flow</title>
-    <link href="https://github.com/neurocyte/flow" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Flow Control: a programmer's text editor</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tigerbeetle/tigerbeetle#1736940872</id>
-    <title>https://github.com/tigerbeetle/tigerbeetle</title>
-    <link href="https://github.com/tigerbeetle/tigerbeetle" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/marler8997/zigup#1736940872</id>
-    <title>https://github.com/marler8997/zigup</title>
-    <link href="https://github.com/marler8997/zigup" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Download and manage zig compilers.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zml/zml#1736940872</id>
-    <title>https://github.com/zml/zml</title>
-    <link href="https://github.com/zml/zml" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pedropark99/zig-book#1736940872</id>
-    <title>https://github.com/pedropark99/zig-book</title>
-    <link href="https://github.com/pedropark99/zig-book" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">An open, technical and introductory book for the Zig programming language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ZigEmbeddedGroup/microzig#1736940872</id>
-    <title>https://github.com/ZigEmbeddedGroup/microzig</title>
-    <link href="https://github.com/ZigEmbeddedGroup/microzig" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Unified abstraction layer and HAL for several microcontrollers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/spiraldb/ziggy-pydust#1736940872</id>
-    <title>https://github.com/spiraldb/ziggy-pydust</title>
-    <link href="https://github.com/spiraldb/ziggy-pydust" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">A toolkit for building Python extensions in Zig.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zig-gamedev/zig-gamedev#1736940872</id>
-    <title>https://github.com/zig-gamedev/zig-gamedev</title>
-    <link href="https://github.com/zig-gamedev/zig-gamedev" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Dev repo for @zig-gamedev libs and sample applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/webui-dev/zig-webui#1736940872</id>
-    <title>https://github.com/webui-dev/zig-webui</title>
-    <link href="https://github.com/webui-dev/zig-webui" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Use any web browser or WebView as GUI, with Zig in the backend and modern web technologies in the frontend, all in a lightweight portable library.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fairyglade/ly#1736940872</id>
-    <title>https://github.com/fairyglade/ly</title>
-    <link href="https://github.com/fairyglade/ly" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">display manager with console UI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/foxnne/pixi#1736940872</id>
-    <title>https://github.com/foxnne/pixi</title>
-    <link href="https://github.com/foxnne/pixi" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
-    <content type="text">Pixel art editor made with Zig.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rockorager/libvaxis#1736940872</id>
+    <id>https://github.com/rockorager/libvaxis#1736985600</id>
     <title>https://github.com/rockorager/libvaxis</title>
     <link href="https://github.com/rockorager/libvaxis" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">a modern tui library written in zig</content>
   </entry>
   <entry>
-    <id>https://github.com/ziglang/zig#1736940872</id>
+    <id>https://github.com/ziglang/zig#1736985600</id>
     <title>https://github.com/ziglang/zig</title>
     <link href="https://github.com/ziglang/zig" />
-    <updated>2025-01-15T11:34:32+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/capy-ui/capy#1736985600</id>
+    <title>https://github.com/capy-ui/capy</title>
+    <link href="https://github.com/capy-ui/capy" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">💻Build one codebase and get native UI on Windows, Linux and Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/david-vanderson/dvui#1736985600</id>
+    <title>https://github.com/david-vanderson/dvui</title>
+    <link href="https://github.com/david-vanderson/dvui" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/tigerbeetle/tigerbeetle#1736985600</id>
+    <title>https://github.com/tigerbeetle/tigerbeetle</title>
+    <link href="https://github.com/tigerbeetle/tigerbeetle" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fairyglade/ly#1736985600</id>
+    <title>https://github.com/fairyglade/ly</title>
+    <link href="https://github.com/fairyglade/ly" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">display manager with console UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristoff-it/zine#1736985600</id>
+    <title>https://github.com/kristoff-it/zine</title>
+    <link href="https://github.com/kristoff-it/zine" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Fast, Scalable, Flexible Static Site Generator (SSG)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/webui-dev/zig-webui#1736985600</id>
+    <title>https://github.com/webui-dev/zig-webui</title>
+    <link href="https://github.com/webui-dev/zig-webui" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Use any web browser or WebView as GUI, with Zig in the backend and modern web technologies in the frontend, all in a lightweight portable library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1736985600</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexops/mach#1736985600</id>
+    <title>https://github.com/hexops/mach</title>
+    <link href="https://github.com/hexops/mach" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">zig game engine &amp; graphics toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedropark99/zig-book#1736985600</id>
+    <title>https://github.com/pedropark99/zig-book</title>
+    <link href="https://github.com/pedropark99/zig-book" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">An open, technical and introductory book for the Zig programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/marler8997/zigup#1736985600</id>
+    <title>https://github.com/marler8997/zigup</title>
+    <link href="https://github.com/marler8997/zigup" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Download and manage zig compilers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZigEmbeddedGroup/microzig#1736985600</id>
+    <title>https://github.com/ZigEmbeddedGroup/microzig</title>
+    <link href="https://github.com/ZigEmbeddedGroup/microzig" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Unified abstraction layer and HAL for several microcontrollers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mookums/zzz#1736985600</id>
+    <title>https://github.com/mookums/zzz</title>
+    <link href="https://github.com/mookums/zzz" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A framework for writing performant and reliable networked services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/libxev#1736985600</id>
+    <title>https://github.com/mitchellh/libxev</title>
+    <link href="https://github.com/mitchellh/libxev" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spiraldb/ziggy-pydust#1736985600</id>
+    <title>https://github.com/spiraldb/ziggy-pydust</title>
+    <link href="https://github.com/spiraldb/ziggy-pydust" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A toolkit for building Python extensions in Zig.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neurocyte/flow#1736985600</id>
+    <title>https://github.com/neurocyte/flow</title>
+    <link href="https://github.com/neurocyte/flow" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Flow Control: a programmer's text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zml/zml#1736985600</id>
+    <title>https://github.com/zml/zml</title>
+    <link href="https://github.com/zml/zml" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</content>
   </entry>
 </feed>

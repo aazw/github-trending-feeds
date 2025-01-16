@@ -5,50 +5,29 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/ejs/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:12:39+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Fechin/reference#1736939559</id>
-    <title>https://github.com/Fechin/reference</title>
-    <link href="https://github.com/Fechin/reference" />
-    <updated>2025-01-15T11:12:39+00:00</updated>
-    <content type="text">⭕ Share quick reference cheat sheet for developers.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/roninoss/create-expo-stack#1736939559</id>
-    <title>https://github.com/roninoss/create-expo-stack</title>
-    <link href="https://github.com/roninoss/create-expo-stack" />
-    <updated>2025-01-15T11:12:39+00:00</updated>
-    <content type="text">CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/github/haikus-for-codespaces#1736939559</id>
-    <title>https://github.com/github/haikus-for-codespaces</title>
-    <link href="https://github.com/github/haikus-for-codespaces" />
-    <updated>2025-01-15T11:12:39+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/keikaavousi/fake-store-api#1736939559</id>
+    <id>https://github.com/keikaavousi/fake-store-api#1736985600</id>
     <title>https://github.com/keikaavousi/fake-store-api</title>
     <link href="https://github.com/keikaavousi/fake-store-api" />
-    <updated>2025-01-15T11:12:39+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data</content>
   </entry>
   <entry>
-    <id>https://github.com/LondheShubham153/node-todo-cicd#1736939559</id>
-    <title>https://github.com/LondheShubham153/node-todo-cicd</title>
-    <link href="https://github.com/LondheShubham153/node-todo-cicd" />
-    <updated>2025-01-15T11:12:39+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/roninoss/create-expo-stack#1736985600</id>
+    <title>https://github.com/roninoss/create-expo-stack</title>
+    <link href="https://github.com/roninoss/create-expo-stack" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.</content>
   </entry>
   <entry>
-    <id>https://github.com/Ovi/DummyJSON#1736939559</id>
+    <id>https://github.com/Ovi/DummyJSON#1736985600</id>
     <title>https://github.com/Ovi/DummyJSON</title>
     <link href="https://github.com/Ovi/DummyJSON" />
-    <updated>2025-01-15T11:12:39+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.</content>
   </entry>
 </feed>

@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/mojo/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:21:16+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/modularml/mojo#1736940076</id>
+    <id>https://github.com/modularml/mojo#1736985600</id>
     <title>https://github.com/modularml/mojo</title>
     <link href="https://github.com/modularml/mojo" />
-    <updated>2025-01-15T11:21:16+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The Mojo Programming Language</content>
   </entry>
 </feed>

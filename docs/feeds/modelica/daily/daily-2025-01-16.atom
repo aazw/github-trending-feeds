@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/modelica/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:21:07+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/OpenModelica/OpenModelica#1736940067</id>
+    <id>https://github.com/OpenModelica/OpenModelica#1736985600</id>
     <title>https://github.com/OpenModelica/OpenModelica</title>
     <link href="https://github.com/OpenModelica/OpenModelica" />
-    <updated>2025-01-15T11:21:07+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.</content>
   </entry>
 </feed>

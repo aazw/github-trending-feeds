@@ -5,99 +5,134 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:18:13+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/OpenBMB/MiniCPM#1736939893</id>
-    <title>https://github.com/OpenBMB/MiniCPM</title>
-    <link href="https://github.com/OpenBMB/MiniCPM" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.</content>
+    <id>https://github.com/rasbt/machine-learning-book#1736985600</id>
+    <title>https://github.com/rasbt/machine-learning-book</title>
+    <link href="https://github.com/rasbt/machine-learning-book" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Code Repository for Machine Learning with PyTorch and Scikit-Learn</content>
   </entry>
   <entry>
-    <id>https://github.com/IDEA-Research/Grounded-SAM-2#1736939893</id>
-    <title>https://github.com/IDEA-Research/Grounded-SAM-2</title>
-    <link href="https://github.com/IDEA-Research/Grounded-SAM-2" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2</content>
+    <id>https://github.com/Project-MONAI/tutorials#1736985600</id>
+    <title>https://github.com/Project-MONAI/tutorials</title>
+    <link href="https://github.com/Project-MONAI/tutorials" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">MONAI Tutorials</content>
   </entry>
   <entry>
-    <id>https://github.com/aws/amazon-sagemaker-examples#1736939893</id>
-    <title>https://github.com/aws/amazon-sagemaker-examples</title>
-    <link href="https://github.com/aws/amazon-sagemaker-examples" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.</content>
+    <id>https://github.com/Arize-ai/phoenix#1736985600</id>
+    <title>https://github.com/Arize-ai/phoenix</title>
+    <link href="https://github.com/Arize-ai/phoenix" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">AI Observability &amp; Evaluation</content>
   </entry>
   <entry>
-    <id>https://github.com/dusty-nv/jetson-containers#1736939893</id>
-    <title>https://github.com/dusty-nv/jetson-containers</title>
-    <link href="https://github.com/dusty-nv/jetson-containers" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">Machine Learning Containers for NVIDIA Jetson and JetPack-L4T</content>
+    <id>https://github.com/langchain-ai/langchain#1736985600</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
   </entry>
   <entry>
-    <id>https://github.com/openai/CLIP#1736939893</id>
-    <title>https://github.com/openai/CLIP</title>
-    <link href="https://github.com/openai/CLIP" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image</content>
+    <id>https://github.com/microsoft/OmniParser#1736985600</id>
+    <title>https://github.com/microsoft/OmniParser</title>
+    <link href="https://github.com/microsoft/OmniParser" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A simple screen parsing tool towards pure vision based GUI agent</content>
   </entry>
   <entry>
-    <id>https://github.com/google-gemini/cookbook#1736939893</id>
+    <id>https://github.com/pycaret/pycaret#1736985600</id>
+    <title>https://github.com/pycaret/pycaret</title>
+    <link href="https://github.com/pycaret/pycaret" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">An open-source, low-code machine learning library in Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/notebooks#1736985600</id>
+    <title>https://github.com/huggingface/notebooks</title>
+    <link href="https://github.com/huggingface/notebooks" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Notebooks using the Hugging Face libraries 🤗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FoundationVision/VAR#1736985600</id>
+    <title>https://github.com/FoundationVision/VAR</title>
+    <link href="https://github.com/FoundationVision/VAR" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">[NeurIPS 2024 Best Paper][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1736985600</id>
     <title>https://github.com/google-gemini/cookbook</title>
     <link href="https://github.com/google-gemini/cookbook" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Examples and guides for using the Gemini API</content>
   </entry>
   <entry>
-    <id>https://github.com/aws-samples/amazon-bedrock-samples#1736939893</id>
-    <title>https://github.com/aws-samples/amazon-bedrock-samples</title>
-    <link href="https://github.com/aws-samples/amazon-bedrock-samples" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models</content>
+    <id>https://github.com/alirezadir/Machine-Learning-Interviews#1736985600</id>
+    <title>https://github.com/alirezadir/Machine-Learning-Interviews</title>
+    <link href="https://github.com/alirezadir/Machine-Learning-Interviews" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">This repo is meant to serve as a guide for Machine Learning/AI technical interviews.</content>
   </entry>
   <entry>
-    <id>https://github.com/langchain-ai/langchain-academy#1736939893</id>
-    <title>https://github.com/langchain-ai/langchain-academy</title>
-    <link href="https://github.com/langchain-ai/langchain-academy" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text" />
+    <id>https://github.com/google-research/google-research#1736985600</id>
+    <title>https://github.com/google-research/google-research</title>
+    <link href="https://github.com/google-research/google-research" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Google Research</content>
   </entry>
   <entry>
-    <id>https://github.com/wesm/pydata-book#1736939893</id>
-    <title>https://github.com/wesm/pydata-book</title>
-    <link href="https://github.com/wesm/pydata-book" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media</content>
+    <id>https://github.com/ageron/handson-ml3#1736985600</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
   </entry>
   <entry>
-    <id>https://github.com/datawhalechina/llm-universe#1736939893</id>
-    <title>https://github.com/datawhalechina/llm-universe</title>
-    <link href="https://github.com/datawhalechina/llm-universe" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</content>
+    <id>https://github.com/meta-llama/llama-cookbook#1736985600</id>
+    <title>https://github.com/meta-llama/llama-cookbook</title>
+    <link href="https://github.com/meta-llama/llama-cookbook" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services</content>
   </entry>
   <entry>
-    <id>https://github.com/embeddings-benchmark/mteb#1736939893</id>
-    <title>https://github.com/embeddings-benchmark/mteb</title>
-    <link href="https://github.com/embeddings-benchmark/mteb" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">MTEB: Massive Text Embedding Benchmark</content>
+    <id>https://github.com/x4nth055/pythoncode-tutorials#1736985600</id>
+    <title>https://github.com/x4nth055/pythoncode-tutorials</title>
+    <link href="https://github.com/x4nth055/pythoncode-tutorials" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Python Code Tutorials</content>
   </entry>
   <entry>
-    <id>https://github.com/facebookresearch/dinov2#1736939893</id>
-    <title>https://github.com/facebookresearch/dinov2</title>
-    <link href="https://github.com/facebookresearch/dinov2" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">PyTorch code and models for the DINOv2 self-supervised learning method.</content>
+    <id>https://github.com/OpenBMB/MiniCPM#1736985600</id>
+    <title>https://github.com/OpenBMB/MiniCPM</title>
+    <link href="https://github.com/OpenBMB/MiniCPM" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/OmniParser#1736939893</id>
-    <title>https://github.com/microsoft/OmniParser</title>
-    <link href="https://github.com/microsoft/OmniParser" />
-    <updated>2025-01-15T11:18:13+00:00</updated>
-    <content type="text">A simple screen parsing tool towards pure vision based GUI agent</content>
+    <id>https://github.com/Azure-Samples/AI-Gateway#1736985600</id>
+    <title>https://github.com/Azure-Samples/AI-Gateway</title>
+    <link href="https://github.com/Azure-Samples/AI-Gateway" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/seamless_communication#1736985600</id>
+    <title>https://github.com/facebookresearch/seamless_communication</title>
+    <link href="https://github.com/facebookresearch/seamless_communication" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Foundational Models for State-of-the-Art Speech and Text Translation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1736985600</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
   </entry>
 </feed>

@@ -5,127 +5,120 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:11:49+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/compose-spec/compose-spec#1736939509</id>
-    <title>https://github.com/compose-spec/compose-spec</title>
-    <link href="https://github.com/compose-spec/compose-spec" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">The Compose specification</content>
+    <id>https://github.com/exaco/laravel-octane-dockerfile#1736985600</id>
+    <title>https://github.com/exaco/laravel-octane-dockerfile</title>
+    <link href="https://github.com/exaco/laravel-octane-dockerfile" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.</content>
   </entry>
   <entry>
-    <id>https://github.com/jaywcjlove/reference#1736939509</id>
-    <title>https://github.com/jaywcjlove/reference</title>
-    <link href="https://github.com/jaywcjlove/reference" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">为开发人员分享快速参考备忘清单(速查表)</content>
+    <id>https://github.com/MicrosoftDocs/windows-powershell-docs#1736985600</id>
+    <title>https://github.com/MicrosoftDocs/windows-powershell-docs</title>
+    <link href="https://github.com/MicrosoftDocs/windows-powershell-docs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/mssql-docker#1736939509</id>
-    <title>https://github.com/microsoft/mssql-docker</title>
-    <link href="https://github.com/microsoft/mssql-docker" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Official Microsoft repository for SQL Server in Docker resources</content>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/uv-docker-example#1736939509</id>
-    <title>https://github.com/astral-sh/uv-docker-example</title>
-    <link href="https://github.com/astral-sh/uv-docker-example" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">An example of using uv in Docker images</content>
-  </entry>
-  <entry>
-    <id>https://github.com/haxqer/confluence#1736939509</id>
-    <title>https://github.com/haxqer/confluence</title>
-    <link href="https://github.com/haxqer/confluence" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">The simplest docker file of Confluence. Support v8.9.8(latest) v9.2.0(latest) and v8.5.18(lts)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/laradock/laradock#1736939509</id>
-    <title>https://github.com/laradock/laradock</title>
-    <link href="https://github.com/laradock/laradock" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Full PHP development environment for Docker.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/vscode-remote-release#1736939509</id>
-    <title>https://github.com/microsoft/vscode-remote-release</title>
-    <link href="https://github.com/microsoft/vscode-remote-release" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/linuxserver/docker-webtop#1736939509</id>
-    <title>https://github.com/linuxserver/docker-webtop</title>
-    <link href="https://github.com/linuxserver/docker-webtop" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nodejs/docker-node#1736939509</id>
+    <id>https://github.com/nodejs/docker-node#1736985600</id>
     <title>https://github.com/nodejs/docker-node</title>
     <link href="https://github.com/nodejs/docker-node" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
   </entry>
   <entry>
-    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1736939509</id>
-    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
-    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+    <id>https://github.com/astral-sh/uv-docker-example#1736985600</id>
+    <title>https://github.com/astral-sh/uv-docker-example</title>
+    <link href="https://github.com/astral-sh/uv-docker-example" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">An example of using uv in Docker images</content>
   </entry>
   <entry>
-    <id>https://github.com/oxsecurity/megalinter#1736939509</id>
-    <title>https://github.com/oxsecurity/megalinter</title>
-    <link href="https://github.com/oxsecurity/megalinter" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+    <id>https://github.com/microsoft/dotnet-framework-docker#1736985600</id>
+    <title>https://github.com/microsoft/dotnet-framework-docker</title>
+    <link href="https://github.com/microsoft/dotnet-framework-docker" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The repo for the official docker images for .NET Framework on Windows Server Core.</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/dotnet-docker#1736939509</id>
-    <title>https://github.com/dotnet/dotnet-docker</title>
-    <link href="https://github.com/dotnet/dotnet-docker" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Docker images for .NET and the .NET Tools.</content>
+    <id>https://github.com/docker-library/tomcat#1736985600</id>
+    <title>https://github.com/docker-library/tomcat</title>
+    <link href="https://github.com/docker-library/tomcat" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Docker Official Image packaging for Apache Tomcat</content>
   </entry>
   <entry>
-    <id>https://github.com/OWASP/wstg#1736939509</id>
+    <id>https://github.com/bufbuild/plugins#1736985600</id>
+    <title>https://github.com/bufbuild/plugins</title>
+    <link href="https://github.com/bufbuild/plugins" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Remote Protobuf plugins available on the BSR</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1736985600</id>
     <title>https://github.com/OWASP/wstg</title>
     <link href="https://github.com/OWASP/wstg" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
   </entry>
   <entry>
-    <id>https://github.com/goldbergyoni/nodebestpractices#1736939509</id>
-    <title>https://github.com/goldbergyoni/nodebestpractices</title>
-    <link href="https://github.com/goldbergyoni/nodebestpractices" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">✅ The Node.js best practices list (July 2024)</content>
+    <id>https://github.com/odoo/docker#1736985600</id>
+    <title>https://github.com/odoo/docker</title>
+    <link href="https://github.com/odoo/docker" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/autowarefoundation/autoware#1736939509</id>
+    <id>https://github.com/compose-spec/compose-spec#1736985600</id>
+    <title>https://github.com/compose-spec/compose-spec</title>
+    <link href="https://github.com/compose-spec/compose-spec" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Compose specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxsecurity/megalinter#1736985600</id>
+    <title>https://github.com/oxsecurity/megalinter</title>
+    <link href="https://github.com/oxsecurity/megalinter" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell-Docker#1736985600</id>
+    <title>https://github.com/PowerShell/PowerShell-Docker</title>
+    <link href="https://github.com/PowerShell/PowerShell-Docker" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Repository for building PowerShell Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-remote-release#1736985600</id>
+    <title>https://github.com/microsoft/vscode-remote-release</title>
+    <link href="https://github.com/microsoft/vscode-remote-release" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1736985600</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1736985600</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Docker images for .NET and the .NET Tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware#1736985600</id>
     <title>https://github.com/autowarefoundation/autoware</title>
     <link href="https://github.com/autowarefoundation/autoware" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
-  </entry>
-  <entry>
-    <id>https://github.com/linuxserver/docker-swag#1736939509</id>
-    <title>https://github.com/linuxserver/docker-swag</title>
-    <link href="https://github.com/linuxserver/docker-swag" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vulhub/vulhub#1736939509</id>
-    <title>https://github.com/vulhub/vulhub</title>
-    <link href="https://github.com/vulhub/vulhub" />
-    <updated>2025-01-15T11:11:49+00:00</updated>
-    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
   </entry>
 </feed>

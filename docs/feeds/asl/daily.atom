@@ -5,15 +5,8 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:07:19+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/edk2-porting/edk2-msm#1736939239</id>
-    <title>https://github.com/edk2-porting/edk2-msm</title>
-    <link href="https://github.com/edk2-porting/edk2-msm" />
-    <updated>2025-01-15T11:07:19+00:00</updated>
-    <content type="text">Broken edk2 port for Qualcomm platforms xD</content>
-  </entry>
 </feed>

@@ -5,155 +5,141 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:24:43+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/openemr/openemr#1736940283</id>
-    <title>https://github.com/openemr/openemr</title>
-    <link href="https://github.com/openemr/openemr" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">The most popular open source electronic health records and medical practice management solution.</content>
+    <id>https://github.com/barryvdh/laravel-debugbar#1736985600</id>
+    <title>https://github.com/barryvdh/laravel-debugbar</title>
+    <link href="https://github.com/barryvdh/laravel-debugbar" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Debugbar for Laravel (Integrates PHP Debug Bar)</content>
   </entry>
   <entry>
-    <id>https://github.com/phpstan/phpstan-src#1736940283</id>
-    <title>https://github.com/phpstan/phpstan-src</title>
-    <link href="https://github.com/phpstan/phpstan-src" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">PHPStan's source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository.</content>
+    <id>https://github.com/Sylius/Sylius#1736985600</id>
+    <title>https://github.com/Sylius/Sylius</title>
+    <link href="https://github.com/Sylius/Sylius" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Open Source eCommerce Framework on Symfony</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoftgraph/msgraph-sdk-php#1736940283</id>
-    <title>https://github.com/microsoftgraph/msgraph-sdk-php</title>
-    <link href="https://github.com/microsoftgraph/msgraph-sdk-php" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">Microsoft Graph Library for PHP.</content>
+    <id>https://github.com/predis/predis#1736985600</id>
+    <title>https://github.com/predis/predis</title>
+    <link href="https://github.com/predis/predis" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A flexible and feature-complete Redis/Valkey client for PHP.</content>
   </entry>
   <entry>
-    <id>https://github.com/pimcore/pimcore#1736940283</id>
-    <title>https://github.com/pimcore/pimcore</title>
-    <link href="https://github.com/pimcore/pimcore" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">Core Framework for the Open Source Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce)</content>
+    <id>https://github.com/shopware/shopware#1736985600</id>
+    <title>https://github.com/shopware/shopware</title>
+    <link href="https://github.com/shopware/shopware" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions</content>
   </entry>
   <entry>
-    <id>https://github.com/PrestaShop/PrestaShop#1736940283</id>
-    <title>https://github.com/PrestaShop/PrestaShop</title>
-    <link href="https://github.com/PrestaShop/PrestaShop" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">PrestaShop is the universal open-source software platform to build your e-commerce solution.</content>
+    <id>https://github.com/twigphp/Twig#1736985600</id>
+    <title>https://github.com/twigphp/Twig</title>
+    <link href="https://github.com/twigphp/Twig" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Twig, the flexible, fast, and secure template language for PHP</content>
   </entry>
   <entry>
-    <id>https://github.com/nextcloud/all-in-one#1736940283</id>
-    <title>https://github.com/nextcloud/all-in-one</title>
-    <link href="https://github.com/nextcloud/all-in-one" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.</content>
+    <id>https://github.com/roundcube/roundcubemail#1736985600</id>
+    <title>https://github.com/roundcube/roundcubemail</title>
+    <link href="https://github.com/roundcube/roundcubemail" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Roundcube Webmail suite</content>
   </entry>
   <entry>
-    <id>https://github.com/opencart/opencart#1736940283</id>
-    <title>https://github.com/opencart/opencart</title>
-    <link href="https://github.com/opencart/opencart" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.</content>
+    <id>https://github.com/MISP/MISP#1736985600</id>
+    <title>https://github.com/MISP/MISP</title>
+    <link href="https://github.com/MISP/MISP" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">MISP (core software) - Open Source Threat Intelligence and Sharing Platform</content>
   </entry>
   <entry>
-    <id>https://github.com/DataDog/dd-trace-php#1736940283</id>
-    <title>https://github.com/DataDog/dd-trace-php</title>
-    <link href="https://github.com/DataDog/dd-trace-php" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">Datadog PHP Clients</content>
-  </entry>
-  <entry>
-    <id>https://github.com/assimon/dujiaoka#1736940283</id>
-    <title>https://github.com/assimon/dujiaoka</title>
-    <link href="https://github.com/assimon/dujiaoka" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉</content>
-  </entry>
-  <entry>
-    <id>https://github.com/librenms/librenms#1736940283</id>
-    <title>https://github.com/librenms/librenms</title>
-    <link href="https://github.com/librenms/librenms" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">Community-based GPL-licensed network monitoring system</content>
-  </entry>
-  <entry>
-    <id>https://github.com/larastan/larastan#1736940283</id>
-    <title>https://github.com/larastan/larastan</title>
-    <link href="https://github.com/larastan/larastan" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">⚗️ Adds code analysis to Laravel improving developer productivity and code quality.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/laravel/laravel#1736940283</id>
-    <title>https://github.com/laravel/laravel</title>
-    <link href="https://github.com/laravel/laravel" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/snipe/snipe-it#1736940283</id>
-    <title>https://github.com/snipe/snipe-it</title>
-    <link href="https://github.com/snipe/snipe-it" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">A free open source IT asset/license management system</content>
-  </entry>
-  <entry>
-    <id>https://github.com/woocommerce/woocommerce#1736940283</id>
-    <title>https://github.com/woocommerce/woocommerce</title>
-    <link href="https://github.com/woocommerce/woocommerce" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/phpstan/phpstan#1736940283</id>
-    <title>https://github.com/phpstan/phpstan</title>
-    <link href="https://github.com/phpstan/phpstan" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">PHP Static Analysis Tool - discover bugs in your code without running it!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/symfony/symfony#1736940283</id>
+    <id>https://github.com/symfony/symfony#1736985600</id>
     <title>https://github.com/symfony/symfony</title>
     <link href="https://github.com/symfony/symfony" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The Symfony PHP framework</content>
   </entry>
   <entry>
-    <id>https://github.com/dompdf/dompdf#1736940283</id>
+    <id>https://github.com/dr5hn/countries-states-cities-database#1736985600</id>
+    <title>https://github.com/dr5hn/countries-states-cities-database</title>
+    <link href="https://github.com/dr5hn/countries-states-cities-database" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities</content>
+  </entry>
+  <entry>
+    <id>https://github.com/barryvdh/laravel-dompdf#1736985600</id>
+    <title>https://github.com/barryvdh/laravel-dompdf</title>
+    <link href="https://github.com/barryvdh/laravel-dompdf" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A DOMPDF Wrapper for Laravel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pimcore/pimcore#1736985600</id>
+    <title>https://github.com/pimcore/pimcore</title>
+    <link href="https://github.com/pimcore/pimcore" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Core Framework for the Open Source Data &amp; Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS &amp; Digital Commerce)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matomo-org/matomo#1736985600</id>
+    <title>https://github.com/matomo-org/matomo</title>
+    <link href="https://github.com/matomo-org/matomo" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites &amp; apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1. And we love Pull Requests!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dompdf/dompdf#1736985600</id>
     <title>https://github.com/dompdf/dompdf</title>
     <link href="https://github.com/dompdf/dompdf" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">HTML to PDF converter for PHP</content>
   </entry>
   <entry>
-    <id>https://github.com/laravel/framework#1736940283</id>
-    <title>https://github.com/laravel/framework</title>
-    <link href="https://github.com/laravel/framework" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">The Laravel Framework.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bagisto/bagisto#1736940283</id>
+    <id>https://github.com/bagisto/bagisto#1736985600</id>
     <title>https://github.com/bagisto/bagisto</title>
     <link href="https://github.com/bagisto/bagisto" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Free and open source laravel eCommerce platform</content>
   </entry>
   <entry>
-    <id>https://github.com/BookStackApp/BookStack#1736940283</id>
-    <title>https://github.com/BookStackApp/BookStack</title>
-    <link href="https://github.com/BookStackApp/BookStack" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
-    <content type="text">A platform to create documentation/wiki content built with PHP &amp; Laravel</content>
+    <id>https://github.com/nextcloud/server#1736985600</id>
+    <title>https://github.com/nextcloud/server</title>
+    <link href="https://github.com/nextcloud/server" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">☁️ Nextcloud server, a safe home for all your data</content>
   </entry>
   <entry>
-    <id>https://github.com/pixelfed/pixelfed#1736940283</id>
+    <id>https://github.com/laravel/framework#1736985600</id>
+    <title>https://github.com/laravel/framework</title>
+    <link href="https://github.com/laravel/framework" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Laravel Framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/woocommerce/woocommerce#1736985600</id>
+    <title>https://github.com/woocommerce/woocommerce</title>
+    <link href="https://github.com/woocommerce/woocommerce" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magento/magento2#1736985600</id>
+    <title>https://github.com/magento/magento2</title>
+    <link href="https://github.com/magento/magento2" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pixelfed/pixelfed#1736985600</id>
     <title>https://github.com/pixelfed/pixelfed</title>
     <link href="https://github.com/pixelfed/pixelfed" />
-    <updated>2025-01-15T11:24:43+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Photo Sharing. For Everyone.</content>
   </entry>
 </feed>

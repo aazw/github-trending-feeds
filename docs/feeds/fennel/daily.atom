@@ -5,8 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/fennel/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:13:16+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/Olical/conjure#1736985600</id>
+    <title>https://github.com/Olical/conjure</title>
+    <link href="https://github.com/Olical/conjure" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)</content>
+  </entry>
 </feed>

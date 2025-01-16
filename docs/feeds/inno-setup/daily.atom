@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/inno-setup/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:16:57+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/git-for-windows/build-extra#1736939817</id>
+    <id>https://github.com/git-for-windows/build-extra#1736985600</id>
     <title>https://github.com/git-for-windows/build-extra</title>
     <link href="https://github.com/git-for-windows/build-extra" />
-    <updated>2025-01-15T11:16:57+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Additional files and scripts to help build Git for Windows on MSYS2.</content>
   </entry>
 </feed>

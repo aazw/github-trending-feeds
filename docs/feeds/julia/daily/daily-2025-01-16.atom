@@ -5,36 +5,36 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:18:10+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/fonsp/Pluto.jl#1736939890</id>
+    <id>https://github.com/fonsp/Pluto.jl#1736985600</id>
     <title>https://github.com/fonsp/Pluto.jl</title>
     <link href="https://github.com/fonsp/Pluto.jl" />
-    <updated>2025-01-15T11:18:10+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">🎈 Simple reactive notebooks for Julia</content>
   </entry>
   <entry>
-    <id>https://github.com/CliMA/ClimaAtmos.jl#1736939890</id>
-    <title>https://github.com/CliMA/ClimaAtmos.jl</title>
-    <link href="https://github.com/CliMA/ClimaAtmos.jl" />
-    <updated>2025-01-15T11:18:10+00:00</updated>
-    <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
+    <id>https://github.com/MakieOrg/Makie.jl#1736985600</id>
+    <title>https://github.com/MakieOrg/Makie.jl</title>
+    <link href="https://github.com/MakieOrg/Makie.jl" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Interactive data visualizations and plotting in Julia</content>
   </entry>
   <entry>
-    <id>https://github.com/JuliaRegistries/General#1736939890</id>
+    <id>https://github.com/JuliaRegistries/General#1736985600</id>
     <title>https://github.com/JuliaRegistries/General</title>
     <link href="https://github.com/JuliaRegistries/General" />
-    <updated>2025-01-15T11:18:10+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The official registry of general Julia packages</content>
   </entry>
   <entry>
-    <id>https://github.com/JuliaLang/julia#1736939890</id>
+    <id>https://github.com/JuliaLang/julia#1736985600</id>
     <title>https://github.com/JuliaLang/julia</title>
     <link href="https://github.com/JuliaLang/julia" />
-    <updated>2025-01-15T11:18:10+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The Julia Programming Language</content>
   </entry>
 </feed>

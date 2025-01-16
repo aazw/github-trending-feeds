@@ -5,22 +5,22 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/typespec/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:31:49+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Azure/autorest#1736940709</id>
+    <id>https://github.com/Azure/autorest#1736985600</id>
     <title>https://github.com/Azure/autorest</title>
     <link href="https://github.com/Azure/autorest" />
-    <updated>2025-01-15T11:31:49+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python</content>
   </entry>
   <entry>
-    <id>https://github.com/Azure/azure-rest-api-specs#1736940709</id>
+    <id>https://github.com/Azure/azure-rest-api-specs#1736985600</id>
     <title>https://github.com/Azure/azure-rest-api-specs</title>
     <link href="https://github.com/Azure/azure-rest-api-specs" />
-    <updated>2025-01-15T11:31:49+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The source for REST API specifications for Microsoft Azure.</content>
   </entry>
 </feed>

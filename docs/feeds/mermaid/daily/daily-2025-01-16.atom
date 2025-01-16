@@ -5,22 +5,29 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/mermaid/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:20:43+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/MicrosoftDocs/power-platform#1736940043</id>
+    <id>https://github.com/MicrosoftDocs/power-automate-docs#1736985600</id>
+    <title>https://github.com/MicrosoftDocs/power-automate-docs</title>
+    <link href="https://github.com/MicrosoftDocs/power-automate-docs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/power-platform#1736985600</id>
     <title>https://github.com/MicrosoftDocs/power-platform</title>
     <link href="https://github.com/MicrosoftDocs/power-platform" />
-    <updated>2025-01-15T11:20:43+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Documentation for Microsoft Power Platform</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/EntityFramework.Docs#1736940043</id>
+    <id>https://github.com/dotnet/EntityFramework.Docs#1736985600</id>
     <title>https://github.com/dotnet/EntityFramework.Docs</title>
     <link href="https://github.com/dotnet/EntityFramework.Docs" />
-    <updated>2025-01-15T11:20:43+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Documentation for Entity Framework Core and Entity Framework 6</content>
   </entry>
 </feed>

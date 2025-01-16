@@ -5,15 +5,8 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/renderscript/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:27:21+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/mTvare6/hello-world.rs#1736940441</id>
-    <title>https://github.com/mTvare6/hello-world.rs</title>
-    <link href="https://github.com/mTvare6/hello-world.rs" />
-    <updated>2025-01-15T11:27:21+00:00</updated>
-    <content type="text">🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀</content>
-  </entry>
 </feed>

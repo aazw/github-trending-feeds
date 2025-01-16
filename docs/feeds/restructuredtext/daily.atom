@@ -5,29 +5,29 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/restructuredtext/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:27:25+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/godotengine/godot-docs#1736940445</id>
-    <title>https://github.com/godotengine/godot-docs</title>
-    <link href="https://github.com/godotengine/godot-docs" />
-    <updated>2025-01-15T11:27:25+00:00</updated>
-    <content type="text">Godot Engine official documentation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/odoo/documentation#1736940445</id>
+    <id>https://github.com/odoo/documentation#1736985600</id>
     <title>https://github.com/odoo/documentation</title>
     <link href="https://github.com/odoo/documentation" />
-    <updated>2025-01-15T11:27:25+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Odoo documentation sources</content>
   </entry>
   <entry>
-    <id>https://github.com/python/peps#1736940445</id>
+    <id>https://github.com/godotengine/godot-docs#1736985600</id>
+    <title>https://github.com/godotengine/godot-docs</title>
+    <link href="https://github.com/godotengine/godot-docs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Godot Engine official documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/python/peps#1736985600</id>
     <title>https://github.com/python/peps</title>
     <link href="https://github.com/python/peps" />
-    <updated>2025-01-15T11:27:25+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Python Enhancement Proposals</content>
   </entry>
 </feed>

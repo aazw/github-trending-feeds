@@ -5,43 +5,36 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c++/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:23:16+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/KhronosGroup/MoltenVK#1736940196</id>
-    <title>https://github.com/KhronosGroup/MoltenVK</title>
-    <link href="https://github.com/KhronosGroup/MoltenVK" />
-    <updated>2025-01-15T11:23:16+00:00</updated>
-    <content type="text">MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</content>
+    <id>https://github.com/pocketsvg/PocketSVG#1736985600</id>
+    <title>https://github.com/pocketsvg/PocketSVG</title>
+    <link href="https://github.com/pocketsvg/PocketSVG" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
   </entry>
   <entry>
-    <id>https://github.com/gree/unity-webview#1736940196</id>
-    <title>https://github.com/gree/unity-webview</title>
-    <link href="https://github.com/gree/unity-webview" />
-    <updated>2025-01-15T11:23:16+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/zoontek/react-native-permissions#1736940196</id>
+    <id>https://github.com/zoontek/react-native-permissions#1736985600</id>
     <title>https://github.com/zoontek/react-native-permissions</title>
     <link href="https://github.com/zoontek/react-native-permissions" />
-    <updated>2025-01-15T11:23:16+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">An unified permissions API for React Native on iOS, Android and Windows.</content>
   </entry>
   <entry>
-    <id>https://github.com/facebookarchive/pop#1736940196</id>
+    <id>https://github.com/facebookarchive/pop#1736985600</id>
     <title>https://github.com/facebookarchive/pop</title>
     <link href="https://github.com/facebookarchive/pop" />
-    <updated>2025-01-15T11:23:16+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">An extensible iOS and OS X animation library, useful for physics-based interactions.</content>
   </entry>
   <entry>
-    <id>https://github.com/pocketsvg/PocketSVG#1736940196</id>
-    <title>https://github.com/pocketsvg/PocketSVG</title>
-    <link href="https://github.com/pocketsvg/PocketSVG" />
-    <updated>2025-01-15T11:23:16+00:00</updated>
-    <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
+    <id>https://github.com/gree/unity-webview#1736985600</id>
+    <title>https://github.com/gree/unity-webview</title>
+    <link href="https://github.com/gree/unity-webview" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
   </entry>
 </feed>

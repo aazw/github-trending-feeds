@@ -5,8 +5,36 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:22:25+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/status-im/nimbus-eth2#1736985600</id>
+    <title>https://github.com/status-im/nimbus-eth2</title>
+    <link href="https://github.com/status-im/nimbus-eth2" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Nim implementation of the Ethereum Beacon Chain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zedeus/nitter#1736985600</id>
+    <title>https://github.com/zedeus/nitter</title>
+    <link href="https://github.com/zedeus/nitter" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Alternative Twitter front-end</content>
+  </entry>
+  <entry>
+    <id>https://github.com/waku-org/nwaku#1736985600</id>
+    <title>https://github.com/waku-org/nwaku</title>
+    <link href="https://github.com/waku-org/nwaku" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Waku node and protocol.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/Nim#1736985600</id>
+    <title>https://github.com/nim-lang/Nim</title>
+    <link href="https://github.com/nim-lang/Nim" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
+  </entry>
 </feed>

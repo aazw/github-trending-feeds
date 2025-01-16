@@ -5,29 +5,22 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/llvm/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:19:30+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/intel/llvm#1736939970</id>
-    <title>https://github.com/intel/llvm</title>
-    <link href="https://github.com/intel/llvm" />
-    <updated>2025-01-15T11:19:30+00:00</updated>
-    <content type="text">Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</content>
+    <id>https://github.com/KhronosGroup/SPIRV-LLVM-Translator#1736985600</id>
+    <title>https://github.com/KhronosGroup/SPIRV-LLVM-Translator</title>
+    <link href="https://github.com/KhronosGroup/SPIRV-LLVM-Translator" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A tool and a library for bi-directional translation between SPIR-V and LLVM IR</content>
   </entry>
   <entry>
-    <id>https://github.com/llvm/clangir#1736939970</id>
-    <title>https://github.com/llvm/clangir</title>
-    <link href="https://github.com/llvm/clangir" />
-    <updated>2025-01-15T11:19:30+00:00</updated>
-    <content type="text">A new (MLIR based) high-level IR for clang.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/llvm/llvm-project#1736939970</id>
+    <id>https://github.com/llvm/llvm-project#1736985600</id>
     <title>https://github.com/llvm/llvm-project</title>
     <link href="https://github.com/llvm/llvm-project" />
-    <updated>2025-01-15T11:19:30+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</content>
   </entry>
 </feed>

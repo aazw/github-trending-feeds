@@ -5,99 +5,99 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/assembly/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:07:27+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/0xAX/asm#1736939247</id>
+    <id>https://github.com/pret/pokecrystal#1736985600</id>
+    <title>https://github.com/pret/pokecrystal</title>
+    <link href="https://github.com/pret/pokecrystal" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Disassembly of Pokémon Crystal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xAX/asm#1736985600</id>
     <title>https://github.com/0xAX/asm</title>
     <link href="https://github.com/0xAX/asm" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Learning assembly for Linux x86_64</content>
   </entry>
   <entry>
-    <id>https://github.com/giaf/blasfeo#1736939247</id>
-    <title>https://github.com/giaf/blasfeo</title>
-    <link href="https://github.com/giaf/blasfeo" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">Basic linear algebra subroutines for embedded optimization</content>
+    <id>https://github.com/espressif/esp-dl#1736985600</id>
+    <title>https://github.com/espressif/esp-dl</title>
+    <link href="https://github.com/espressif/esp-dl" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Espressif deep-learning library for AIoT applications</content>
   </entry>
   <entry>
-    <id>https://github.com/bytedance/sonic#1736939247</id>
-    <title>https://github.com/bytedance/sonic</title>
-    <link href="https://github.com/bytedance/sonic" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
+    <id>https://github.com/leachim6/hello-world#1736985600</id>
+    <title>https://github.com/leachim6/hello-world</title>
+    <link href="https://github.com/leachim6/hello-world" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!</content>
   </entry>
   <entry>
-    <id>https://github.com/riscvarchive/riscv-v-spec#1736939247</id>
-    <title>https://github.com/riscvarchive/riscv-v-spec</title>
-    <link href="https://github.com/riscvarchive/riscv-v-spec" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">Working draft of the proposed RISC-V V vector extension</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ROCm/hipBLASLt#1736939247</id>
-    <title>https://github.com/ROCm/hipBLASLt</title>
-    <link href="https://github.com/ROCm/hipBLASLt" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/riscv-non-isa/riscv-arch-test#1736939247</id>
-    <title>https://github.com/riscv-non-isa/riscv-arch-test</title>
-    <link href="https://github.com/riscv-non-isa/riscv-arch-test" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/boostorg/context#1736939247</id>
-    <title>https://github.com/boostorg/context</title>
-    <link href="https://github.com/boostorg/context" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/BLAKE3-team/BLAKE3#1736939247</id>
+    <id>https://github.com/BLAKE3-team/BLAKE3#1736985600</id>
     <title>https://github.com/BLAKE3-team/BLAKE3</title>
     <link href="https://github.com/BLAKE3-team/BLAKE3" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">the official Rust and C implementations of the BLAKE3 cryptographic hash function</content>
   </entry>
   <entry>
-    <id>https://github.com/supranational/blst#1736939247</id>
-    <title>https://github.com/supranational/blst</title>
-    <link href="https://github.com/supranational/blst" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">Multilingual BLS12-381 signature library</content>
+    <id>https://github.com/riscvarchive/riscv-v-spec#1736985600</id>
+    <title>https://github.com/riscvarchive/riscv-v-spec</title>
+    <link href="https://github.com/riscvarchive/riscv-v-spec" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Working draft of the proposed RISC-V V vector extension</content>
   </entry>
   <entry>
-    <id>https://github.com/apple/swift-crypto#1736939247</id>
-    <title>https://github.com/apple/swift-crypto</title>
-    <link href="https://github.com/apple/swift-crypto" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openhwgroup/cva6#1736939247</id>
-    <title>https://github.com/openhwgroup/cva6</title>
-    <link href="https://github.com/openhwgroup/cva6" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux</content>
-  </entry>
-  <entry>
-    <id>https://github.com/briansmith/ring#1736939247</id>
+    <id>https://github.com/briansmith/ring#1736985600</id>
     <title>https://github.com/briansmith/ring</title>
     <link href="https://github.com/briansmith/ring" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Safe, fast, small crypto using Rust</content>
   </entry>
   <entry>
-    <id>https://github.com/vxunderground/MalwareSourceCode#1736939247</id>
-    <title>https://github.com/vxunderground/MalwareSourceCode</title>
-    <link href="https://github.com/vxunderground/MalwareSourceCode" />
-    <updated>2025-01-15T11:07:27+00:00</updated>
-    <content type="text">Collection of malware source code for a variety of platforms in an array of different programming languages.</content>
+    <id>https://github.com/below/HelloSilicon#1736985600</id>
+    <title>https://github.com/below/HelloSilicon</title>
+    <link href="https://github.com/below/HelloSilicon" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">An introduction to ARM64 assembly on Apple Silicon Macs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cemu-project/cemu_graphic_packs#1736985600</id>
+    <title>https://github.com/cemu-project/cemu_graphic_packs</title>
+    <link href="https://github.com/cemu-project/cemu_graphic_packs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Community Graphic Packs for Cemu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-crypto#1736985600</id>
+    <title>https://github.com/apple/swift-crypto</title>
+    <link href="https://github.com/apple/swift-crypto" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/hipBLASLt#1736985600</id>
+    <title>https://github.com/ROCm/hipBLASLt</title>
+    <link href="https://github.com/ROCm/hipBLASLt" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cva6#1736985600</id>
+    <title>https://github.com/openhwgroup/cva6</title>
+    <link href="https://github.com/openhwgroup/cva6" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytedance/sonic#1736985600</id>
+    <title>https://github.com/bytedance/sonic</title>
+    <link href="https://github.com/bytedance/sonic" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
   </entry>
 </feed>

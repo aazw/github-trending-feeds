@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nesc/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:22:10+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dgunning/edgartools#1736940130</id>
-    <title>https://github.com/dgunning/edgartools</title>
-    <link href="https://github.com/dgunning/edgartools" />
-    <updated>2025-01-15T11:22:10+00:00</updated>
-    <content type="text">Navigate SEC Edgar data in Python</content>
+    <id>https://github.com/bdring/Grbl_Esp32#1736985600</id>
+    <title>https://github.com/bdring/Grbl_Esp32</title>
+    <link href="https://github.com/bdring/Grbl_Esp32" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A port of Grbl CNC Firmware for ESP32</content>
   </entry>
 </feed>

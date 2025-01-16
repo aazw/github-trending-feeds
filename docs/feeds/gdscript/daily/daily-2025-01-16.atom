@@ -5,71 +5,64 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:14:06+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Phazorknight/Cogito#1736939646</id>
-    <title>https://github.com/Phazorknight/Cogito</title>
-    <link href="https://github.com/Phazorknight/Cogito" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
-    <content type="text">Immersive Sim Template Project for GODOT 4</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pablogila/TileMapDual#1736939646</id>
+    <id>https://github.com/pablogila/TileMapDual#1736985600</id>
     <title>https://github.com/pablogila/TileMapDual</title>
     <link href="https://github.com/pablogila/TileMapDual" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">An automatic, real-time dual-grid tileset system for Godot</content>
   </entry>
   <entry>
-    <id>https://github.com/Maaack/Godot-Game-Template#1736939646</id>
+    <id>https://github.com/Phazorknight/Cogito#1736985600</id>
+    <title>https://github.com/Phazorknight/Cogito</title>
+    <link href="https://github.com/Phazorknight/Cogito" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Immersive Sim Template Project for GODOT 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Maaack/Godot-Game-Template#1736985600</id>
     <title>https://github.com/Maaack/Godot-Game-Template</title>
     <link href="https://github.com/Maaack/Godot-Game-Template" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.</content>
   </entry>
   <entry>
-    <id>https://github.com/RodZill4/material-maker#1736939646</id>
+    <id>https://github.com/RodZill4/material-maker#1736985600</id>
     <title>https://github.com/RodZill4/material-maker</title>
     <link href="https://github.com/RodZill4/material-maker" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A procedural textures authoring and 3D model painting tool based on the Godot game engine</content>
   </entry>
   <entry>
-    <id>https://github.com/dialogic-godot/dialogic#1736939646</id>
+    <id>https://github.com/Orama-Interactive/Pixelorama#1736985600</id>
+    <title>https://github.com/Orama-Interactive/Pixelorama</title>
+    <link href="https://github.com/Orama-Interactive/Pixelorama" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dialogic-godot/dialogic#1736985600</id>
     <title>https://github.com/dialogic-godot/dialogic</title>
     <link href="https://github.com/dialogic-godot/dialogic" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</content>
   </entry>
   <entry>
-    <id>https://github.com/git-learning-game/oh-my-git#1736939646</id>
-    <title>https://github.com/git-learning-game/oh-my-git</title>
-    <link href="https://github.com/git-learning-game/oh-my-git" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
-    <content type="text">An interactive Git learning game!</content>
+    <id>https://github.com/cherriesandmochi/gdmaim#1736985600</id>
+    <title>https://github.com/cherriesandmochi/gdmaim</title>
+    <link href="https://github.com/cherriesandmochi/gdmaim" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">GDMaim is a GDScript obfuscation plugin for the Godot Engine.</content>
   </entry>
   <entry>
-    <id>https://github.com/godotengine/godot-demo-projects#1736939646</id>
-    <title>https://github.com/godotengine/godot-demo-projects</title>
-    <link href="https://github.com/godotengine/godot-demo-projects" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
-    <content type="text">Demonstration and Template Projects</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nathanhoad/godot_dialogue_manager#1736939646</id>
+    <id>https://github.com/nathanhoad/godot_dialogue_manager#1736985600</id>
     <title>https://github.com/nathanhoad/godot_dialogue_manager</title>
     <link href="https://github.com/nathanhoad/godot_dialogue_manager" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A powerful nonlinear dialogue system for Godot</content>
-  </entry>
-  <entry>
-    <id>https://github.com/don-tnowe/godot-resources-as-sheets-plugin#1736939646</id>
-    <title>https://github.com/don-tnowe/godot-resources-as-sheets-plugin</title>
-    <link href="https://github.com/don-tnowe/godot-resources-as-sheets-plugin" />
-    <updated>2025-01-15T11:14:06+00:00</updated>
-    <content type="text">I needed to edit many Resource files, so figured someone would too.</content>
   </entry>
 </feed>

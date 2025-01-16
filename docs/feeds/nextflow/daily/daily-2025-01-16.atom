@@ -5,36 +5,29 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:22:20+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/nf-core/configs#1736940140</id>
-    <title>https://github.com/nf-core/configs</title>
-    <link href="https://github.com/nf-core/configs" />
-    <updated>2025-01-15T11:22:20+00:00</updated>
-    <content type="text">Config files used to define parameters specific to compute environments at different Institutions</content>
+    <id>https://github.com/nf-core/sarek#1736985600</id>
+    <title>https://github.com/nf-core/sarek</title>
+    <link href="https://github.com/nf-core/sarek" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
   </entry>
   <entry>
-    <id>https://github.com/nf-core/rnaseq#1736940140</id>
+    <id>https://github.com/nf-core/rnaseq#1736985600</id>
     <title>https://github.com/nf-core/rnaseq</title>
     <link href="https://github.com/nf-core/rnaseq" />
-    <updated>2025-01-15T11:22:20+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
   </entry>
   <entry>
-    <id>https://github.com/nf-core/modules#1736940140</id>
+    <id>https://github.com/nf-core/modules#1736985600</id>
     <title>https://github.com/nf-core/modules</title>
     <link href="https://github.com/nf-core/modules" />
-    <updated>2025-01-15T11:22:20+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Repository to host tool-specific module files for the Nextflow DSL2 community!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nf-core/sarek#1736940140</id>
-    <title>https://github.com/nf-core/sarek</title>
-    <link href="https://github.com/nf-core/sarek" />
-    <updated>2025-01-15T11:22:20+00:00</updated>
-    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
   </entry>
 </feed>

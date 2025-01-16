@@ -5,43 +5,50 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:08:08+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/w3c/webappsec-permissions-policy#1736939288</id>
-    <title>https://github.com/w3c/webappsec-permissions-policy</title>
-    <link href="https://github.com/w3c/webappsec-permissions-policy" />
-    <updated>2025-01-15T11:08:08+00:00</updated>
-    <content type="text">A mechanism to selectively enable and disable browser features and APIs</content>
+    <id>https://github.com/WebBluetoothCG/web-bluetooth#1736985600</id>
+    <title>https://github.com/WebBluetoothCG/web-bluetooth</title>
+    <link href="https://github.com/WebBluetoothCG/web-bluetooth" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Bluetooth support for the Web.</content>
   </entry>
   <entry>
-    <id>https://github.com/WICG/turtledove#1736939288</id>
-    <title>https://github.com/WICG/turtledove</title>
-    <link href="https://github.com/WICG/turtledove" />
-    <updated>2025-01-15T11:08:08+00:00</updated>
-    <content type="text">TURTLEDOVE</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gpuweb/gpuweb#1736939288</id>
-    <title>https://github.com/gpuweb/gpuweb</title>
-    <link href="https://github.com/gpuweb/gpuweb" />
-    <updated>2025-01-15T11:08:08+00:00</updated>
-    <content type="text">Where the GPU for the Web work happens!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/WICG/attribution-reporting-api#1736939288</id>
+    <id>https://github.com/WICG/attribution-reporting-api#1736985600</id>
     <title>https://github.com/WICG/attribution-reporting-api</title>
     <link href="https://github.com/WICG/attribution-reporting-api" />
-    <updated>2025-01-15T11:08:08+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Attribution Reporting API</content>
   </entry>
   <entry>
-    <id>https://github.com/w3c/csswg-drafts#1736939288</id>
+    <id>https://github.com/gpuweb/gpuweb#1736985600</id>
+    <title>https://github.com/gpuweb/gpuweb</title>
+    <link href="https://github.com/gpuweb/gpuweb" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Where the GPU for the Web work happens!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/webappsec-permissions-policy#1736985600</id>
+    <title>https://github.com/w3c/webappsec-permissions-policy</title>
+    <link href="https://github.com/w3c/webappsec-permissions-policy" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A mechanism to selectively enable and disable browser features and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/csswg-drafts#1736985600</id>
     <title>https://github.com/w3c/csswg-drafts</title>
     <link href="https://github.com/w3c/csswg-drafts" />
-    <updated>2025-01-15T11:08:08+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">CSS Working Group Editor Drafts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/turtledove#1736985600</id>
+    <title>https://github.com/WICG/turtledove</title>
+    <link href="https://github.com/WICG/turtledove" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">TURTLEDOVE</content>
   </entry>
 </feed>

@@ -5,57 +5,50 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:30:37+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pulp-platform/axi#1736940637</id>
-    <title>https://github.com/pulp-platform/axi</title>
-    <link href="https://github.com/pulp-platform/axi" />
-    <updated>2025-01-15T11:30:37+00:00</updated>
-    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+    <id>https://github.com/openhwgroup/cvfpu#1736985600</id>
+    <title>https://github.com/openhwgroup/cvfpu</title>
+    <link href="https://github.com/openhwgroup/cvfpu" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.</content>
   </entry>
   <entry>
-    <id>https://github.com/adam-maj/tiny-gpu#1736940637</id>
-    <title>https://github.com/adam-maj/tiny-gpu</title>
-    <link href="https://github.com/adam-maj/tiny-gpu" />
-    <updated>2025-01-15T11:30:37+00:00</updated>
-    <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
-  </entry>
-  <entry>
-    <id>https://github.com/chipsalliance/caliptra-rtl#1736940637</id>
-    <title>https://github.com/chipsalliance/caliptra-rtl</title>
-    <link href="https://github.com/chipsalliance/caliptra-rtl" />
-    <updated>2025-01-15T11:30:37+00:00</updated>
-    <content type="text">HW Design Collateral for Caliptra RoT IP</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pulp-platform/riscv-dbg#1736940637</id>
-    <title>https://github.com/pulp-platform/riscv-dbg</title>
-    <link href="https://github.com/pulp-platform/riscv-dbg" />
-    <updated>2025-01-15T11:30:37+00:00</updated>
-    <content type="text">RISC-V Debug Support for our PULP RISC-V Cores</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pulp-platform/common_cells#1736940637</id>
+    <id>https://github.com/pulp-platform/common_cells#1736985600</id>
     <title>https://github.com/pulp-platform/common_cells</title>
     <link href="https://github.com/pulp-platform/common_cells" />
-    <updated>2025-01-15T11:30:37+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Common SystemVerilog components</content>
   </entry>
   <entry>
-    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1736940637</id>
+    <id>https://github.com/pulp-platform/axi#1736985600</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/riscv-dbg#1736985600</id>
+    <title>https://github.com/pulp-platform/riscv-dbg</title>
+    <link href="https://github.com/pulp-platform/riscv-dbg" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">RISC-V Debug Support for our PULP RISC-V Cores</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1736985600</id>
     <title>https://github.com/chipsalliance/Cores-VeeR-EL2</title>
     <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" />
-    <updated>2025-01-15T11:30:37+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">VeeR EL2 Core</content>
   </entry>
   <entry>
-    <id>https://github.com/lowRISC/opentitan#1736940637</id>
+    <id>https://github.com/lowRISC/opentitan#1736985600</id>
     <title>https://github.com/lowRISC/opentitan</title>
     <link href="https://github.com/lowRISC/opentitan" />
-    <updated>2025-01-15T11:30:37+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">OpenTitan: Open source silicon root of trust</content>
   </entry>
 </feed>

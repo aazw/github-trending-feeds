@@ -5,85 +5,22 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-14T11:18:33+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/ppy/osu-wiki#1736853513</id>
-    <title>https://github.com/ppy/osu-wiki</title>
-    <link href="https://github.com/ppy/osu-wiki" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">home of the osu! wiki</content>
+    <id>https://github.com/microsoft/vscode-docs#1736985600</id>
+    <title>https://github.com/microsoft/vscode-docs</title>
+    <link href="https://github.com/microsoft/vscode-docs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Public documentation for Visual Studio Code</content>
   </entry>
   <entry>
-    <id>https://github.com/KaiserY/trpl-zh-cn#1736853513</id>
-    <title>https://github.com/KaiserY/trpl-zh-cn</title>
-    <link href="https://github.com/KaiserY/trpl-zh-cn" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">Rust 程序设计语言（2021 edition）</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Kotlin/KEEP#1736853513</id>
-    <title>https://github.com/Kotlin/KEEP</title>
-    <link href="https://github.com/Kotlin/KEEP" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">Kotlin Evolution and Enhancement Process</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rust-lang/rfcs#1736853513</id>
-    <title>https://github.com/rust-lang/rfcs</title>
-    <link href="https://github.com/rust-lang/rfcs" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">RFCs for changes to Rust</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SAP/styleguides#1736853513</id>
-    <title>https://github.com/SAP/styleguides</title>
-    <link href="https://github.com/SAP/styleguides" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">This repository provides SAP style guides for coding and coding-related topics.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mdn/content#1736853513</id>
-    <title>https://github.com/mdn/content</title>
-    <link href="https://github.com/mdn/content" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">The content behind MDN Web Docs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ethereum/ethereum-org-website#1736853513</id>
-    <title>https://github.com/ethereum/ethereum-org-website</title>
-    <link href="https://github.com/ethereum/ethereum-org-website" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">Ethereum.org is a primary online resource for the Ethereum community.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/labuladong/fucking-algorithm#1736853513</id>
-    <title>https://github.com/labuladong/fucking-algorithm</title>
-    <link href="https://github.com/labuladong/fucking-algorithm" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tldr-pages/tldr#1736853513</id>
-    <title>https://github.com/tldr-pages/tldr</title>
-    <link href="https://github.com/tldr-pages/tldr" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">📚 Collaborative cheatsheets for console commands</content>
-  </entry>
-  <entry>
-    <id>https://github.com/swiftlang/swift-evolution#1736853513</id>
-    <title>https://github.com/swiftlang/swift-evolution</title>
-    <link href="https://github.com/swiftlang/swift-evolution" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
-    <content type="text">This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OAI/OpenAPI-Specification#1736853513</id>
+    <id>https://github.com/OAI/OpenAPI-Specification#1736985600</id>
     <title>https://github.com/OAI/OpenAPI-Specification</title>
     <link href="https://github.com/OAI/OpenAPI-Specification" />
-    <updated>2025-01-14T11:18:33+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The OpenAPI Specification Repository</content>
   </entry>
 </feed>

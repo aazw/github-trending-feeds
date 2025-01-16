@@ -5,8 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:29:13+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/j-brant/SmaCC#1736985600</id>
+    <title>https://github.com/j-brant/SmaCC</title>
+    <link href="https://github.com/j-brant/SmaCC" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
+  </entry>
 </feed>

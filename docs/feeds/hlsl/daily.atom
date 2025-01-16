@@ -5,22 +5,22 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/hlsl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:16:01+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Blinue/Magpie#1736939761</id>
+    <id>https://github.com/Blinue/Magpie#1736985600</id>
     <title>https://github.com/Blinue/Magpie</title>
     <link href="https://github.com/Blinue/Magpie" />
-    <updated>2025-01-15T11:16:01+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">An all-purpose window upscaler for Windows 10/11.</content>
   </entry>
   <entry>
-    <id>https://github.com/JamesCJ60/Universal-x86-Tuning-Utility#1736939761</id>
-    <title>https://github.com/JamesCJ60/Universal-x86-Tuning-Utility</title>
-    <link href="https://github.com/JamesCJ60/Universal-x86-Tuning-Utility" />
-    <updated>2025-01-15T11:16:01+00:00</updated>
-    <content type="text">Unlock the full potential of your Intel/AMD based device.</content>
+    <id>https://github.com/JimmyCushnie/Noisy-Nodes#1736985600</id>
+    <title>https://github.com/JimmyCushnie/Noisy-Nodes</title>
+    <link href="https://github.com/JimmyCushnie/Noisy-Nodes" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Adds various noise generation nodes to Unity Shader Graph, including 3D noise nodes.</content>
   </entry>
 </feed>

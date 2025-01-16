@@ -5,22 +5,29 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:27:23+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/juspay/hyperswitch-control-center#1736940443</id>
-    <title>https://github.com/juspay/hyperswitch-control-center</title>
-    <link href="https://github.com/juspay/hyperswitch-control-center" />
-    <updated>2025-01-15T11:27:23+00:00</updated>
-    <content type="text">Open sourced control center for managing Hyperswitch - an open sourced payment switch.</content>
+    <id>https://github.com/rescript-lang/rescript#1736985600</id>
+    <title>https://github.com/rescript-lang/rescript</title>
+    <link href="https://github.com/rescript-lang/rescript" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.</content>
   </entry>
   <entry>
-    <id>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples#1736940443</id>
+    <id>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples#1736985600</id>
     <title>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples</title>
     <link href="https://github.com/Xilinx/Vitis-HLS-Introductory-Examples" />
-    <updated>2025-01-15T11:27:23+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch-control-center#1736985600</id>
+    <title>https://github.com/juspay/hyperswitch-control-center</title>
+    <link href="https://github.com/juspay/hyperswitch-control-center" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Open sourced control center for managing Hyperswitch - an open sourced payment switch.</content>
   </entry>
 </feed>

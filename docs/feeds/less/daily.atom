@@ -5,43 +5,36 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/less/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:19:00+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Remix-Design/RemixIcon#1736939940</id>
-    <title>https://github.com/Remix-Design/RemixIcon</title>
-    <link href="https://github.com/Remix-Design/RemixIcon" />
-    <updated>2025-01-15T11:19:00+00:00</updated>
-    <content type="text">Open source neutral style icon system</content>
-  </entry>
-  <entry>
-    <id>https://github.com/opentiny/tiny-vue#1736939940</id>
-    <title>https://github.com/opentiny/tiny-vue</title>
-    <link href="https://github.com/opentiny/tiny-vue" />
-    <updated>2025-01-15T11:19:00+00:00</updated>
-    <content type="text">TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/catppuccin/userstyles#1736939940</id>
-    <title>https://github.com/catppuccin/userstyles</title>
-    <link href="https://github.com/catppuccin/userstyles" />
-    <updated>2025-01-15T11:19:00+00:00</updated>
-    <content type="text">🖌 Soothing pastel userstyles</content>
-  </entry>
-  <entry>
-    <id>https://github.com/MadMaxChow/VLOOK#1736939940</id>
+    <id>https://github.com/MadMaxChow/VLOOK#1736985600</id>
     <title>https://github.com/MadMaxChow/VLOOK</title>
     <link href="https://github.com/MadMaxChow/VLOOK" />
-    <updated>2025-01-15T11:19:00+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。 VLOOK™ is an elegant and practical theme package × enhancement plugin for Typora/Markdown.</content>
   </entry>
   <entry>
-    <id>https://github.com/meteor/meteor-theme-hexo#1736939940</id>
+    <id>https://github.com/meteor/meteor-theme-hexo#1736985600</id>
     <title>https://github.com/meteor/meteor-theme-hexo</title>
     <link href="https://github.com/meteor/meteor-theme-hexo" />
-    <updated>2025-01-15T11:19:00+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The framework we use for docs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jerrykuku/luci-theme-argon#1736985600</id>
+    <title>https://github.com/jerrykuku/luci-theme-argon</title>
+    <link href="https://github.com/jerrykuku/luci-theme-argon" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Remix-Design/RemixIcon#1736985600</id>
+    <title>https://github.com/Remix-Design/RemixIcon</title>
+    <link href="https://github.com/Remix-Design/RemixIcon" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Open source neutral style icon system</content>
   </entry>
 </feed>

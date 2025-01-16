@@ -5,8 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/agda/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:06:36+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/agda/agda-stdlib#1736985600</id>
+    <title>https://github.com/agda/agda-stdlib</title>
+    <link href="https://github.com/agda/agda-stdlib" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Agda standard library</content>
+  </entry>
 </feed>

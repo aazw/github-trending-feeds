@@ -5,8 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/max/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:20:29+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/mandiant/capa-testfiles#1736985600</id>
+    <title>https://github.com/mandiant/capa-testfiles</title>
+    <link href="https://github.com/mandiant/capa-testfiles" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Data to test capa's code and rules.</content>
+  </entry>
 </feed>

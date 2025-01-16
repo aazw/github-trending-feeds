@@ -5,127 +5,141 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:12:42+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/elixir-ecto/ecto#1736939562</id>
-    <title>https://github.com/elixir-ecto/ecto</title>
-    <link href="https://github.com/elixir-ecto/ecto" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">A toolkit for data mapping and language integrated query.</content>
+    <id>https://github.com/OffchainLabs/blockscout#1736985600</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/liveview-native/live_view_native#1736939562</id>
-    <title>https://github.com/liveview-native/live_view_native</title>
-    <link href="https://github.com/liveview-native/live_view_native" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">A framework for building native applications with Phoenix LiveView</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elixir-grpc/grpc#1736939562</id>
-    <title>https://github.com/elixir-grpc/grpc</title>
-    <link href="https://github.com/elixir-grpc/grpc" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">An Elixir implementation of gRPC</content>
-  </entry>
-  <entry>
-    <id>https://github.com/BlakeWilliams/Elixir-Slack#1736939562</id>
-    <title>https://github.com/BlakeWilliams/Elixir-Slack</title>
-    <link href="https://github.com/BlakeWilliams/Elixir-Slack" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Slack real time messaging and web API client in Elixir</content>
-  </entry>
-  <entry>
-    <id>https://github.com/thmsmlr/instructor_ex#1736939562</id>
-    <title>https://github.com/thmsmlr/instructor_ex</title>
-    <link href="https://github.com/thmsmlr/instructor_ex" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Structured outputs for LLMs in Elixir</content>
-  </entry>
-  <entry>
-    <id>https://github.com/duffelhq/paginator#1736939562</id>
-    <title>https://github.com/duffelhq/paginator</title>
-    <link href="https://github.com/duffelhq/paginator" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Cursor-based pagination for Elixir Ecto</content>
-  </entry>
-  <entry>
-    <id>https://github.com/phoenixframework/phoenix_live_view#1736939562</id>
-    <title>https://github.com/phoenixframework/phoenix_live_view</title>
-    <link href="https://github.com/phoenixframework/phoenix_live_view" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aesmail/kaffy#1736939562</id>
-    <title>https://github.com/aesmail/kaffy</title>
-    <link href="https://github.com/aesmail/kaffy" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Powerfully simple admin package for phoenix applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/teslamate-org/teslamate#1736939562</id>
-    <title>https://github.com/teslamate-org/teslamate</title>
-    <link href="https://github.com/teslamate-org/teslamate" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
-  </entry>
-  <entry>
-    <id>https://github.com/blockscout/blockscout#1736939562</id>
-    <title>https://github.com/blockscout/blockscout</title>
-    <link href="https://github.com/blockscout/blockscout" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bluzky/salad_ui#1736939562</id>
-    <title>https://github.com/bluzky/salad_ui</title>
-    <link href="https://github.com/bluzky/salad_ui" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elixir-lang/elixir#1736939562</id>
-    <title>https://github.com/elixir-lang/elixir</title>
-    <link href="https://github.com/elixir-lang/elixir" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/electric-sql/electric#1736939562</id>
-    <title>https://github.com/electric-sql/electric</title>
-    <link href="https://github.com/electric-sql/electric" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/phoenixframework/phoenix#1736939562</id>
+    <id>https://github.com/phoenixframework/phoenix#1736985600</id>
     <title>https://github.com/phoenixframework/phoenix</title>
     <link href="https://github.com/phoenixframework/phoenix" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Peace of mind from prototype to production</content>
   </entry>
   <entry>
-    <id>https://github.com/ash-project/ash#1736939562</id>
-    <title>https://github.com/ash-project/ash</title>
-    <link href="https://github.com/ash-project/ash" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+    <id>https://github.com/firezone/firezone#1736985600</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
   </entry>
   <entry>
-    <id>https://github.com/anoma/anoma#1736939562</id>
-    <title>https://github.com/anoma/anoma</title>
-    <link href="https://github.com/anoma/anoma" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
-    <content type="text">Reference implementation of Anoma</content>
+    <id>https://github.com/duffelhq/paginator#1736985600</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
   </entry>
   <entry>
-    <id>https://github.com/plausible/analytics#1736939562</id>
+    <id>https://github.com/nerves-project/nerves_examples#1736985600</id>
+    <title>https://github.com/nerves-project/nerves_examples</title>
+    <link href="https://github.com/nerves-project/nerves_examples" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Small example programs using Nerves</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bartblast/hologram#1736985600</id>
+    <title>https://github.com/bartblast/hologram</title>
+    <link href="https://github.com/bartblast/hologram" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Full stack isomorphic Elixir web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1736985600</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitwalker/libcluster#1736985600</id>
+    <title>https://github.com/bitwalker/libcluster</title>
+    <link href="https://github.com/bitwalker/libcluster" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Automatic cluster formation/healing for Elixir applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1736985600</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/woutdp/live_svelte#1736985600</id>
+    <title>https://github.com/woutdp/live_svelte</title>
+    <link href="https://github.com/woutdp/live_svelte" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Svelte inside Phoenix LiveView with seamless end-to-end reactivity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1736985600</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1736985600</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-grpc/grpc#1736985600</id>
+    <title>https://github.com/elixir-grpc/grpc</title>
+    <link href="https://github.com/elixir-grpc/grpc" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">An Elixir implementation of gRPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liveview-native/live_view_native#1736985600</id>
+    <title>https://github.com/liveview-native/live_view_native</title>
+    <link href="https://github.com/liveview-native/live_view_native" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A framework for building native applications with Phoenix LiveView</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixirs/faker#1736985600</id>
+    <title>https://github.com/elixirs/faker</title>
+    <link href="https://github.com/elixirs/faker" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Faker is a pure Elixir library for generating fake data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1736985600</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1736985600</id>
     <title>https://github.com/plausible/analytics</title>
     <link href="https://github.com/plausible/analytics" />
-    <updated>2025-01-15T11:12:42+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-protobuf/protobuf#1736985600</id>
+    <title>https://github.com/elixir-protobuf/protobuf</title>
+    <link href="https://github.com/elixir-protobuf/protobuf" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A pure Elixir implementation of Google Protobuf.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1736985600</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
   </entry>
 </feed>

@@ -5,15 +5,8 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/holyc/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:16:06+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/Zeal-Operating-System/ZealOS#1736939766</id>
-    <title>https://github.com/Zeal-Operating-System/ZealOS</title>
-    <link href="https://github.com/Zeal-Operating-System/ZealOS" />
-    <updated>2025-01-15T11:16:06+00:00</updated>
-    <content type="text">The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.</content>
-  </entry>
 </feed>

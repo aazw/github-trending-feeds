@@ -5,36 +5,29 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/glsl/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:14:50+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/sixthsurge/photon#1736939690</id>
+    <id>https://github.com/KhronosGroup/SPIRV-Cross#1736985600</id>
+    <title>https://github.com/KhronosGroup/SPIRV-Cross</title>
+    <link href="https://github.com/KhronosGroup/SPIRV-Cross" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sixthsurge/photon#1736985600</id>
     <title>https://github.com/sixthsurge/photon</title>
     <link href="https://github.com/sixthsurge/photon" />
-    <updated>2025-01-15T11:14:50+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A gameplay-focused shader pack for Minecraft</content>
   </entry>
   <entry>
-    <id>https://github.com/mthcht/awesome-lists#1736939690</id>
-    <title>https://github.com/mthcht/awesome-lists</title>
-    <link href="https://github.com/mthcht/awesome-lists" />
-    <updated>2025-01-15T11:14:50+00:00</updated>
-    <content type="text">Awesome Security lists for SOC/CERT/CTI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/patriciogonzalezvivo/thebookofshaders#1736939690</id>
-    <title>https://github.com/patriciogonzalezvivo/thebookofshaders</title>
-    <link href="https://github.com/patriciogonzalezvivo/thebookofshaders" />
-    <updated>2025-01-15T11:14:50+00:00</updated>
-    <content type="text">Step-by-step guide through the abstract and complex universe of Fragment Shaders.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SaschaWillems/Vulkan#1736939690</id>
+    <id>https://github.com/SaschaWillems/Vulkan#1736985600</id>
     <title>https://github.com/SaschaWillems/Vulkan</title>
     <link href="https://github.com/SaschaWillems/Vulkan" />
-    <updated>2025-01-15T11:14:50+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">C++ examples for the Vulkan graphics API</content>
   </entry>
 </feed>

@@ -5,15 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/antlr/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:06:59+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/antlr/grammars-v4#1736939219</id>
+    <id>https://github.com/antlr/grammars-v4#1736985600</id>
     <title>https://github.com/antlr/grammars-v4</title>
     <link href="https://github.com/antlr/grammars-v4" />
-    <updated>2025-01-15T11:06:59+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Grammars written for ANTLR v4; expectation that the grammars are free of actions.</content>
   </entry>
 </feed>

@@ -5,43 +5,43 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/open-policy-agent/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:23:41+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/open-policy-agent/gatekeeper-library#1736940221</id>
-    <title>https://github.com/open-policy-agent/gatekeeper-library</title>
-    <link href="https://github.com/open-policy-agent/gatekeeper-library" />
-    <updated>2025-01-15T11:23:41+00:00</updated>
-    <content type="text">📚 The OPA Gatekeeper policy library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aquasecurity/trivy-checks#1736940221</id>
-    <title>https://github.com/aquasecurity/trivy-checks</title>
-    <link href="https://github.com/aquasecurity/trivy-checks" />
-    <updated>2025-01-15T11:23:41+00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/Checkmarx/kics#1736940221</id>
+    <id>https://github.com/Checkmarx/kics#1736985600</id>
     <title>https://github.com/Checkmarx/kics</title>
     <link href="https://github.com/Checkmarx/kics" />
-    <updated>2025-01-15T11:23:41+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.</content>
   </entry>
   <entry>
-    <id>https://github.com/Azure/azure-policy#1736940221</id>
+    <id>https://github.com/aquasecurity/trivy-checks#1736985600</id>
+    <title>https://github.com/aquasecurity/trivy-checks</title>
+    <link href="https://github.com/aquasecurity/trivy-checks" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/open-policy-agent/gatekeeper-library#1736985600</id>
+    <title>https://github.com/open-policy-agent/gatekeeper-library</title>
+    <link href="https://github.com/open-policy-agent/gatekeeper-library" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">📚 The OPA Gatekeeper policy library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-policy#1736985600</id>
     <title>https://github.com/Azure/azure-policy</title>
     <link href="https://github.com/Azure/azure-policy" />
-    <updated>2025-01-15T11:23:41+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Repository for Azure Resource Policy built-in definitions and samples</content>
   </entry>
   <entry>
-    <id>https://github.com/open-telemetry/semantic-conventions#1736940221</id>
+    <id>https://github.com/open-telemetry/semantic-conventions#1736985600</id>
     <title>https://github.com/open-telemetry/semantic-conventions</title>
     <link href="https://github.com/open-telemetry/semantic-conventions" />
-    <updated>2025-01-15T11:23:41+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Defines standards for generating consistent, accessible telemetry across a variety of domains</content>
   </entry>
 </feed>

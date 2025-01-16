@@ -5,29 +5,22 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/crystal/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:10:30+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/crystal-lang/crystal#1736939430</id>
-    <title>https://github.com/crystal-lang/crystal</title>
-    <link href="https://github.com/crystal-lang/crystal" />
-    <updated>2025-01-15T11:10:30+00:00</updated>
-    <content type="text">The Crystal Programming Language</content>
+    <id>https://github.com/iv-org/invidious#1736985600</id>
+    <title>https://github.com/iv-org/invidious</title>
+    <link href="https://github.com/iv-org/invidious" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Invidious is an alternative front-end to YouTube</content>
   </entry>
   <entry>
-    <id>https://github.com/crystal-ameba/ameba#1736939430</id>
-    <title>https://github.com/crystal-ameba/ameba</title>
-    <link href="https://github.com/crystal-ameba/ameba" />
-    <updated>2025-01-15T11:10:30+00:00</updated>
-    <content type="text">A static code analysis tool for Crystal</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vitobotta/hetzner-k3s#1736939430</id>
+    <id>https://github.com/vitobotta/hetzner-k3s#1736985600</id>
     <title>https://github.com/vitobotta/hetzner-k3s</title>
     <link href="https://github.com/vitobotta/hetzner-k3s" />
-    <updated>2025-01-15T11:10:30+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.</content>
   </entry>
 </feed>

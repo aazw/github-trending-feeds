@@ -5,22 +5,15 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/qml/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:26:27+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/catsout/wallpaper-engine-kde-plugin#1736940387</id>
-    <title>https://github.com/catsout/wallpaper-engine-kde-plugin</title>
-    <link href="https://github.com/catsout/wallpaper-engine-kde-plugin" />
-    <updated>2025-01-15T11:26:27+00:00</updated>
-    <content type="text">A kde wallpaper plugin integrating wallpaper engine</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Swordfish90/cool-retro-term#1736940387</id>
+    <id>https://github.com/Swordfish90/cool-retro-term#1736985600</id>
     <title>https://github.com/Swordfish90/cool-retro-term</title>
     <link href="https://github.com/Swordfish90/cool-retro-term" />
-    <updated>2025-01-15T11:26:27+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A good looking terminal emulator which mimics the old cathode display...</content>
   </entry>
 </feed>

@@ -5,43 +5,43 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/jsonnet/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:18:06+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/grafana/jsonnet-libs#1736939886</id>
-    <title>https://github.com/grafana/jsonnet-libs</title>
-    <link href="https://github.com/grafana/jsonnet-libs" />
-    <updated>2025-01-15T11:18:06+00:00</updated>
-    <content type="text">Grafana Labs' Jsonnet libraries</content>
-  </entry>
-  <entry>
-    <id>https://github.com/argoproj/argocd-example-apps#1736939886</id>
-    <title>https://github.com/argoproj/argocd-example-apps</title>
-    <link href="https://github.com/argoproj/argocd-example-apps" />
-    <updated>2025-01-15T11:18:06+00:00</updated>
-    <content type="text">Example Apps to Demonstrate Argo CD</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kubernetes-monitoring/kubernetes-mixin#1736939886</id>
+    <id>https://github.com/kubernetes-monitoring/kubernetes-mixin#1736985600</id>
     <title>https://github.com/kubernetes-monitoring/kubernetes-mixin</title>
     <link href="https://github.com/kubernetes-monitoring/kubernetes-mixin" />
-    <updated>2025-01-15T11:18:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A set of Grafana dashboards and Prometheus alerts for Kubernetes.</content>
   </entry>
   <entry>
-    <id>https://github.com/grafana/grafonnet-lib#1736939886</id>
+    <id>https://github.com/argoproj/argocd-example-apps#1736985600</id>
+    <title>https://github.com/argoproj/argocd-example-apps</title>
+    <link href="https://github.com/argoproj/argocd-example-apps" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Example Apps to Demonstrate Argo CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/jsonnet-libs#1736985600</id>
+    <title>https://github.com/grafana/jsonnet-libs</title>
+    <link href="https://github.com/grafana/jsonnet-libs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Grafana Labs' Jsonnet libraries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/grafonnet-lib#1736985600</id>
     <title>https://github.com/grafana/grafonnet-lib</title>
     <link href="https://github.com/grafana/grafonnet-lib" />
-    <updated>2025-01-15T11:18:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Jsonnet library for generating Grafana dashboard files.</content>
   </entry>
   <entry>
-    <id>https://github.com/prometheus-operator/kube-prometheus#1736939886</id>
+    <id>https://github.com/prometheus-operator/kube-prometheus#1736985600</id>
     <title>https://github.com/prometheus-operator/kube-prometheus</title>
     <link href="https://github.com/prometheus-operator/kube-prometheus" />
-    <updated>2025-01-15T11:18:06+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Use Prometheus to monitor Kubernetes and applications running on Kubernetes</content>
   </entry>
 </feed>

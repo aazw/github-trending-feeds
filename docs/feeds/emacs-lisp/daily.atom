@@ -5,85 +5,127 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:12:50+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/magit/magit#1736939570</id>
-    <title>https://github.com/magit/magit</title>
-    <link href="https://github.com/magit/magit" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+    <id>https://github.com/magit/transient#1736985600</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Transient commands</content>
   </entry>
   <entry>
-    <id>https://github.com/copilot-emacs/copilot.el#1736939570</id>
-    <title>https://github.com/copilot-emacs/copilot.el</title>
-    <link href="https://github.com/copilot-emacs/copilot.el" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+    <id>https://github.com/immerrr/lua-mode#1736985600</id>
+    <title>https://github.com/immerrr/lua-mode</title>
+    <link href="https://github.com/immerrr/lua-mode" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Emacs major mode for editing Lua</content>
   </entry>
   <entry>
-    <id>https://github.com/emacs-mirror/emacs#1736939570</id>
-    <title>https://github.com/emacs-mirror/emacs</title>
-    <link href="https://github.com/emacs-mirror/emacs" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">Mirror of GNU Emacs</content>
+    <id>https://github.com/magnars/dash.el#1736985600</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/universal-ctags/citre#1736939570</id>
-    <title>https://github.com/universal-ctags/citre</title>
-    <link href="https://github.com/universal-ctags/citre" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">A superior code reading &amp; auto-completion tool with pluggable backends.</content>
+    <id>https://github.com/radian-software/straight.el#1736985600</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
   </entry>
   <entry>
-    <id>https://github.com/emacs-lsp/lsp-mode#1736939570</id>
+    <id>https://github.com/emacs-dashboard/emacs-dashboard#1736985600</id>
+    <title>https://github.com/emacs-dashboard/emacs-dashboard</title>
+    <link href="https://github.com/emacs-dashboard/emacs-dashboard" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">An extensible emacs dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1736985600</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-ivy#1736985600</id>
+    <title>https://github.com/emacs-lsp/lsp-ivy</title>
+    <link href="https://github.com/emacs-lsp/lsp-ivy" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">lsp-mode ❤️ ivy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kickingvegas/casual#1736985600</id>
+    <title>https://github.com/kickingvegas/casual</title>
+    <link href="https://github.com/kickingvegas/casual" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1736985600</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1736985600</id>
     <title>https://github.com/emacs-lsp/lsp-mode</title>
     <link href="https://github.com/emacs-lsp/lsp-mode" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Emacs client/library for the Language Server Protocol</content>
   </entry>
   <entry>
-    <id>https://github.com/karthink/gptel#1736939570</id>
+    <id>https://github.com/karthink/gptel#1736985600</id>
     <title>https://github.com/karthink/gptel</title>
     <link href="https://github.com/karthink/gptel" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">A simple LLM client for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/joaotavora/eglot#1736939570</id>
-    <title>https://github.com/joaotavora/eglot</title>
-    <link href="https://github.com/joaotavora/eglot" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">A client for Language Server Protocol servers</content>
+    <id>https://github.com/joaotavora/yasnippet#1736985600</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/s-kostyaev/ellama#1736939570</id>
-    <title>https://github.com/s-kostyaev/ellama</title>
-    <link href="https://github.com/s-kostyaev/ellama" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">Ellama is a tool for interacting with large language models from Emacs.</content>
+    <id>https://github.com/justbur/emacs-which-key#1736985600</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
   </entry>
   <entry>
-    <id>https://github.com/melpa/melpa#1736939570</id>
-    <title>https://github.com/melpa/melpa</title>
-    <link href="https://github.com/melpa/melpa" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+    <id>https://github.com/abo-abo/swiper#1736985600</id>
+    <title>https://github.com/abo-abo/swiper</title>
+    <link href="https://github.com/abo-abo/swiper" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</content>
   </entry>
   <entry>
-    <id>https://github.com/syl20bnr/spacemacs#1736939570</id>
-    <title>https://github.com/syl20bnr/spacemacs</title>
-    <link href="https://github.com/syl20bnr/spacemacs" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
-    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+    <id>https://github.com/editorconfig/editorconfig-emacs#1736985600</id>
+    <title>https://github.com/editorconfig/editorconfig-emacs</title>
+    <link href="https://github.com/editorconfig/editorconfig-emacs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/doomemacs/doomemacs#1736939570</id>
+    <id>https://github.com/zkry/yaml.el#1736985600</id>
+    <title>https://github.com/zkry/yaml.el</title>
+    <link href="https://github.com/zkry/yaml.el" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">YAML parser in Elisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1736985600</id>
     <title>https://github.com/doomemacs/doomemacs</title>
     <link href="https://github.com/doomemacs/doomemacs" />
-    <updated>2025-01-15T11:12:50+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">An Emacs framework for the stubborn martian hacker</content>
   </entry>
 </feed>

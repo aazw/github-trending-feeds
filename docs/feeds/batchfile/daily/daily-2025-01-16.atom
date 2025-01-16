@@ -5,106 +5,71 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/batchfile/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:07:53+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/RockBlack-VPN/ip-address#1736939273</id>
-    <title>https://github.com/RockBlack-VPN/ip-address</title>
-    <link href="https://github.com/RockBlack-VPN/ip-address" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">ip address - Youtube, Instagtam, Twitter, Netflix</content>
+    <id>https://github.com/realpython/python-guide#1736985600</id>
+    <title>https://github.com/realpython/python-guide</title>
+    <link href="https://github.com/realpython/python-guide" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Python best practices guidebook, written for humans.</content>
   </entry>
   <entry>
-    <id>https://github.com/redis-windows/redis-windows#1736939273</id>
-    <title>https://github.com/redis-windows/redis-windows</title>
-    <link href="https://github.com/redis-windows/redis-windows" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows</content>
-  </entry>
-  <entry>
-    <id>https://github.com/DiligentGraphics/DiligentEngine#1736939273</id>
-    <title>https://github.com/DiligentGraphics/DiligentEngine</title>
-    <link href="https://github.com/DiligentGraphics/DiligentEngine" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">A modern cross-platform low-level graphics library and rendering framework</content>
-  </entry>
-  <entry>
-    <id>https://github.com/TheBATeam/Batch-WI-FI-Brute-Forcer#1736939273</id>
-    <title>https://github.com/TheBATeam/Batch-WI-FI-Brute-Forcer</title>
-    <link href="https://github.com/TheBATeam/Batch-WI-FI-Brute-Forcer" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">This project is based upon the trick that, how to hack WI-FI with CMD. The main purpose behind, creating wifi hacking tool with cmd tool is to make everyone aware that how easy it is to break a simple password. And, motivate them to keep some complex passwords – to keep them protected against it.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/CesiumGS/3d-tiles#1736939273</id>
-    <title>https://github.com/CesiumGS/3d-tiles</title>
-    <link href="https://github.com/CesiumGS/3d-tiles" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">Specification for streaming massive heterogeneous 3D geospatial datasets 🌎</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ionuttbara/windows-defender-remover#1736939273</id>
-    <title>https://github.com/ionuttbara/windows-defender-remover</title>
-    <link href="https://github.com/ionuttbara/windows-defender-remover" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AveYo/MediaCreationTool.bat#1736939273</id>
-    <title>https://github.com/AveYo/MediaCreationTool.bat</title>
-    <link href="https://github.com/AveYo/MediaCreationTool.bat" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kellwinr/galaxybook_mask#1736939273</id>
+    <id>https://github.com/kellwinr/galaxybook_mask#1736985600</id>
     <title>https://github.com/kellwinr/galaxybook_mask</title>
     <link href="https://github.com/kellwinr/galaxybook_mask" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">This script will allow you to mimic your windows pc as a Galaxy Book laptop, this is usually used to bypass Samsung Notes</content>
   </entry>
   <entry>
-    <id>https://github.com/npocmaka/batch.scripts#1736939273</id>
-    <title>https://github.com/npocmaka/batch.scripts</title>
-    <link href="https://github.com/npocmaka/batch.scripts" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">batch script utils and examples by npocmaka -</content>
+    <id>https://github.com/pal1000/mesa-dist-win#1736985600</id>
+    <title>https://github.com/pal1000/mesa-dist-win</title>
+    <link href="https://github.com/pal1000/mesa-dist-win" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Pre-built Mesa3D drivers for Windows</content>
   </entry>
   <entry>
-    <id>https://github.com/PaperMC/Folia#1736939273</id>
-    <title>https://github.com/PaperMC/Folia</title>
-    <link href="https://github.com/PaperMC/Folia" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
-    <content type="text">Fork of Paper which adds regionised multithreading to the dedicated server.</content>
+    <id>https://github.com/CesiumGS/3d-tiles#1736985600</id>
+    <title>https://github.com/CesiumGS/3d-tiles</title>
+    <link href="https://github.com/CesiumGS/3d-tiles" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Specification for streaming massive heterogeneous 3D geospatial datasets 🌎</content>
   </entry>
   <entry>
-    <id>https://github.com/vim/vim-win32-installer#1736939273</id>
+    <id>https://github.com/vim/vim-win32-installer#1736985600</id>
     <title>https://github.com/vim/vim-win32-installer</title>
     <link href="https://github.com/vim/vim-win32-installer" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Vim Win32 Installer</content>
   </entry>
   <entry>
-    <id>https://github.com/Systems-Modeling/SysML-v2-Release#1736939273</id>
+    <id>https://github.com/AveYo/MediaCreationTool.bat#1736985600</id>
+    <title>https://github.com/AveYo/MediaCreationTool.bat</title>
+    <link href="https://github.com/AveYo/MediaCreationTool.bat" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Systems-Modeling/SysML-v2-Release#1736985600</id>
     <title>https://github.com/Systems-Modeling/SysML-v2-Release</title>
     <link href="https://github.com/Systems-Modeling/SysML-v2-Release" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">The latest incremental release of SysML v2. Start here.</content>
   </entry>
   <entry>
-    <id>https://github.com/enhorse/java-interview#1736939273</id>
+    <id>https://github.com/enhorse/java-interview#1736985600</id>
     <title>https://github.com/enhorse/java-interview</title>
     <link href="https://github.com/enhorse/java-interview" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text">Вопросы и ответы к интервью Java разработчика</content>
   </entry>
   <entry>
-    <id>https://github.com/Flowseal/zapret-discord-youtube#1736939273</id>
+    <id>https://github.com/Flowseal/zapret-discord-youtube#1736985600</id>
     <title>https://github.com/Flowseal/zapret-discord-youtube</title>
     <link href="https://github.com/Flowseal/zapret-discord-youtube" />
-    <updated>2025-01-15T11:07:53+00:00</updated>
+    <updated>2025-01-16T00:00:00</updated>
     <content type="text" />
   </entry>
 </feed>

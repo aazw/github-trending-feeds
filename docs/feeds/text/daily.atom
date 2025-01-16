@@ -5,22 +5,8 @@
   <link href="https://aazw.github.io/github-trending-feeds/feeds/text/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-15T11:31:03+00:00</updated>
+  <updated>2025-01-16T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/DSPBluePrints/FactoryBluePrints#1736940663</id>
-    <title>https://github.com/DSPBluePrints/FactoryBluePrints</title>
-    <link href="https://github.com/DSPBluePrints/FactoryBluePrints" />
-    <updated>2025-01-15T11:31:03+00:00</updated>
-    <content type="text">游戏戴森球计划的**工厂**蓝图仓库</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hagezi/dns-blocklists#1736940663</id>
-    <title>https://github.com/hagezi/dns-blocklists</title>
-    <link href="https://github.com/hagezi/dns-blocklists" />
-    <updated>2025-01-15T11:31:03+00:00</updated>
-    <content type="text">DNS-Blocklists: For a better internet - keep the internet clean!</content>
-  </entry>
 </feed>
