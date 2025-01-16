@@ -14,14 +14,14 @@ while read language; do
   # urls.txtで各行冒頭『#』でコメントアウトできるようにした
   if [[ ! $language =~ ^# ]]; then
 
-    set +e
+    # set +e
     python apps/scrape.py \
       --language           "${language}" \
       --period             "daily" \
-      --atom-updated-date "$(date -I)T00:00:00"
+      --atom-updated-date "$(date -I)T00:00:00" \
       --output            "./docs/feeds/${language}/daily.atom"
-    set -e
+    # set -e
 
-     sleep 1 # 1s 
+    sleep 1 # 1s 
   fi
 done < ./urls.txt
