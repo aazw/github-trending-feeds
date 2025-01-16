@@ -26,26 +26,26 @@ appLogger.addHandler(handler)
 
 @click.command()
 @click.option('--language',          type=str,                                                               required=True,                    help="")
-@click.option('--date_range',        type=click.Choice(['daily', 'weekly', 'monthly'], case_sensitive=True), required=True,                    help="")
+@click.option('--period',            type=click.Choice(['daily', 'weekly', 'monthly'], case_sensitive=True), required=True,                    help="")
 @click.option('--output',            type=str,                                                               required=False,                   help="")
-@click.option("--atom_updated_date", type=str,                                                               required=False,                   help="")
+@click.option("--atom-updated-date", type=str,                                                               required=False,                   help="")
 @click.option("--verbose",           is_flag=True,                                                           default=False, show_default=True, help="")
-def main(language: str, date_range: str, output: str, atom_updated_date: str, verbose: bool):
-    appLogger.info(f"command-line argument: language = {language}")
-    appLogger.info(f"command-line argument: date_range = {date_range}")
-    appLogger.info(f"command-line argument: output = {output}")
-    appLogger.info(f"command-line argument: atom_updated_date = {atom_updated_date}")
-    appLogger.info(f"command-line argument: verbose = {verbose}")
+def main(language: str, period: str, output: str, atom_updated_date: str, verbose: bool):
+    appLogger.info(f"command-line argument: --language = {language}")
+    appLogger.info(f"command-line argument: --period = {period}")
+    appLogger.info(f"command-line argument: --output = {output}")
+    appLogger.info(f"command-line argument: --atom-updated-date = {atom_updated_date}")
+    appLogger.info(f"command-line argument: --verbose = {verbose}")
 
     if verbose:
         appLogger.setLevel(logging.DEBUG)
 
     # url
-    url = f"https://github.com/trending/{language}?since={date_range}"
+    url = f"https://github.com/trending/{language}?since={period}"
     appLogger.info(f"generated: url = {url}")
 
     # atom_title
-    atom_title = f"GitHub Trending - {language} ({date_range})"
+    atom_title = f"GitHub Trending - {language} ({period})"
     appLogger.info(f"generated: atom_title = {atom_title}")
 
     # atom_author
@@ -53,7 +53,7 @@ def main(language: str, date_range: str, output: str, atom_updated_date: str, ve
     appLogger.info(f"generated: atom_author = {atom_author}")
 
     # atom_advertise_url
-    atom_advertise_url = f"https://aazw.github.io/github-trending-feeds/feeds/{language}/{date_range}.atom"
+    atom_advertise_url = f"https://aazw.github.io/github-trending-feeds/feeds/{language}/{period}.atom"
     appLogger.info(f"generated: atom_advertise_url = {atom_advertise_url}")
 
     # atom_advertise_alt_url
