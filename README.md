@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```bash
 python apps/scrape.py 
       --language   go \
-      --date_range daily \
+      --period daily \
       --output     ./daily.atom
 ```
 
@@ -46,7 +46,7 @@ Usage: scrape.py [OPTIONS]
 
 Options:
   --language TEXT                 [required]
-  --date_range [daily|weekly|monthly]
+  --period [daily|weekly|monthly]
                                   [required]
   --output TEXT
   --atom_updated_date TEXT

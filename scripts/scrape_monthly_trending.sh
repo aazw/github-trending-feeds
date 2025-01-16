@@ -16,9 +16,10 @@ while read language; do
 
     set +e
     python apps/scrape.py \
-      --language   "${language}" \
-      --date_range "monthly" \
-      --output     "./docs/feeds/${language}/monthly.atom"
+      --language          "${language}" \
+      --period            "monthly" \
+      --atom-updated-date "$(date -I)T00:00:00"
+      --output            "./docs/feeds/${language}/monthly.atom"
     set -e
 
      sleep 1 # 1s 
