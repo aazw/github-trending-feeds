@@ -1,0 +1,12 @@
+{
+    // Python
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.formatOnSave": true
+    },
+    "python.analysis.extraPaths": ["/venv/lib/python3.11/site-packages/"],
+  
+    // Back Formatter
+    "black-formatter.args": ["--line-length=200"]
+  }
+  
