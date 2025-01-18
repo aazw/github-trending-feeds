@@ -14,6 +14,7 @@ while read language; do
   # urls.txtで各行冒頭『#』でコメントアウトできるようにした
   if [[ ! $language =~ ^# ]]; then
 
+    # 一時的なエラーなどで取得が失敗すると、後続の取得まで全部できなくなるので、ここだけset -eを解除
     set +e
     python apps/scrape.py \
       --language          "${language}" \

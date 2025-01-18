@@ -40,7 +40,7 @@ python apps/scrape.py
 ```
 
 ```bash
- $ python apps/scrape.py --help
+$ python apps/scrape.py --help
 2024-12-26 14:20:01,055 - /workspaces/github-trending-feeds/apps/scrape.py:176 - INFO - start app
 Usage: scrape.py [OPTIONS]
 
@@ -54,3 +54,24 @@ Options:
   --help                          Show this message and exit.
 2024-12-26 14:20:01,056 - /workspaces/github-trending-feeds/apps/scrape.py:194 - INFO - app finished
 ```
+
+```bash
+$ python apps/scrape.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
+```
+
+## Return Code / Exit Status
+
+* -1 ... Unknown Error
+* 0 ... 正常終了
+* 1 ... ConnectionError
+* 2 ... HTTPError
+* 3 ... タイムアウト系 (Timeout, ConnectTimeout, ReadTimeout)
+* 4 ... InvalidURL
+* 5 ... TooManyRedirects
+* 11 ... ステータスコード 400系
+* 12 ... ステータスコード 500系
+* 13 ... ステータスコード 400系、500系以外
+* 21 ... FileNotFoundError
+* 22 ... IsADirectoryError
+* 23 ... PermissionError
+* 24 ... OSError
