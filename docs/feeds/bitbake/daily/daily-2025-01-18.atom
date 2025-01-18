@@ -10,109 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/STMicroelectronics/meta-st-stm32mp#1737158400</id>
-    <title>https://github.com/STMicroelectronics/meta-st-stm32mp</title>
-    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">meta-st-stm32mp</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rust-embedded/meta-rust-bin#1737158400</id>
-    <title>https://github.com/rust-embedded/meta-rust-bin</title>
-    <link href="https://github.com/rust-embedded/meta-rust-bin" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
-  </entry>
-  <entry>
-    <id>https://github.com/balena-os/balena-jetson#1737158400</id>
-    <title>https://github.com/balena-os/balena-jetson</title>
-    <link href="https://github.com/balena-os/balena-jetson" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/kraj/meta-clang#1737158400</id>
-    <title>https://github.com/kraj/meta-clang</title>
-    <link href="https://github.com/kraj/meta-clang" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sbabic/meta-swupdate#1737158400</id>
-    <title>https://github.com/sbabic/meta-swupdate</title>
-    <link href="https://github.com/sbabic/meta-swupdate" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Yocto receipes to generate a swupdate rootfilesystem as initrd</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OSSystems/meta-browser#1737158400</id>
-    <title>https://github.com/OSSystems/meta-browser</title>
-    <link href="https://github.com/OSSystems/meta-browser" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenEmbedded/Yocto BSP layer for Web Browsers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/meta-qt5/meta-qt5#1737158400</id>
-    <title>https://github.com/meta-qt5/meta-qt5</title>
-    <link href="https://github.com/meta-qt5/meta-qt5" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">QT5 layer for openembedded</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Freescale/meta-freescale#1737158400</id>
-    <title>https://github.com/Freescale/meta-freescale</title>
-    <link href="https://github.com/Freescale/meta-freescale" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Layer containing NXP hardware support metadata</content>
-  </entry>
-  <entry>
-    <id>https://github.com/meta-rust/meta-rust#1737158400</id>
-    <title>https://github.com/meta-rust/meta-rust</title>
-    <link href="https://github.com/meta-rust/meta-rust" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Freescale/meta-freescale-3rdparty#1737158400</id>
-    <title>https://github.com/Freescale/meta-freescale-3rdparty</title>
-    <link href="https://github.com/Freescale/meta-freescale-3rdparty" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Wind-River/meta-secure-core#1737158400</id>
-    <title>https://github.com/Wind-River/meta-secure-core</title>
-    <link href="https://github.com/Wind-River/meta-secure-core" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/rauc/meta-rauc#1737158400</id>
-    <title>https://github.com/rauc/meta-rauc</title>
-    <link href="https://github.com/rauc/meta-rauc" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openembedded/openembedded-core#1737158400</id>
-    <title>https://github.com/openembedded/openembedded-core</title>
-    <link href="https://github.com/openembedded/openembedded-core" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nxp-imx/meta-imx#1737158400</id>
-    <title>https://github.com/nxp-imx/meta-imx</title>
-    <link href="https://github.com/nxp-imx/meta-imx" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">i.MX Yocto Project i.MX BSP Layer</content>
-  </entry>
-  <entry>
     <id>https://github.com/openembedded/meta-openembedded#1737158400</id>
     <title>https://github.com/openembedded/meta-openembedded</title>
     <link href="https://github.com/openembedded/meta-openembedded" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1737158400</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
   </entry>
   <entry>
     <id>https://github.com/OE4T/meta-tegra#1737158400</id>
@@ -122,10 +31,87 @@
     <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
   </entry>
   <entry>
-    <id>https://github.com/openbmc/openbmc#1737158400</id>
-    <title>https://github.com/openbmc/openbmc</title>
-    <link href="https://github.com/openbmc/openbmc" />
+    <id>https://github.com/meta-rust/meta-rust#1737158400</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenBMC Distribution</content>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1737158400</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/STMicroelectronics/meta-st-stm32mp#1737158400</id>
+    <title>https://github.com/STMicroelectronics/meta-st-stm32mp</title>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">meta-st-stm32mp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale#1737158400</id>
+    <title>https://github.com/Freescale/meta-freescale</title>
+    <link href="https://github.com/Freescale/meta-freescale" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Layer containing NXP hardware support metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale-3rdparty#1737158400</id>
+    <title>https://github.com/Freescale/meta-freescale-3rdparty</title>
+    <link href="https://github.com/Freescale/meta-freescale-3rdparty" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1737158400</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-qt5/meta-qt5#1737158400</id>
+    <title>https://github.com/meta-qt5/meta-qt5</title>
+    <link href="https://github.com/meta-qt5/meta-qt5" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">QT5 layer for openembedded</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rauc/meta-rauc#1737158400</id>
+    <title>https://github.com/rauc/meta-rauc</title>
+    <link href="https://github.com/rauc/meta-rauc" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OSSystems/meta-browser#1737158400</id>
+    <title>https://github.com/OSSystems/meta-browser</title>
+    <link href="https://github.com/OSSystems/meta-browser" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Web Browsers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nxp-imx/meta-imx#1737158400</id>
+    <title>https://github.com/nxp-imx/meta-imx</title>
+    <link href="https://github.com/nxp-imx/meta-imx" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">i.MX Yocto Project i.MX BSP Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbabic/meta-swupdate#1737158400</id>
+    <title>https://github.com/sbabic/meta-swupdate</title>
+    <link href="https://github.com/sbabic/meta-swupdate" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Yocto receipes to generate a swupdate rootfilesystem as initrd</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx#1737158400</id>
+    <title>https://github.com/Xilinx/meta-xilinx</title>
+    <link href="https://github.com/Xilinx/meta-xilinx" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Collection of Yocto Project layers to enable AMD Xilinx products</content>
   </entry>
 </feed>

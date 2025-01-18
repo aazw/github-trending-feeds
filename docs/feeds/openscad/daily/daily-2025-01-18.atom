@@ -30,4 +30,11 @@
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA</content>
   </entry>
+  <entry>
+    <id>https://github.com/jazwa/rackstack#1737158400</id>
+    <title>https://github.com/jazwa/rackstack</title>
+    <link href="https://github.com/jazwa/rackstack" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A modular 3d-printable mini rack system.</content>
+  </entry>
 </feed>

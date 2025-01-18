@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/ophub/amlogic-s9xxx-armbian#1737158400</id>
+    <title>https://github.com/ophub/amlogic-s9xxx-armbian</title>
+    <link href="https://github.com/ophub/amlogic-s9xxx-armbian" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</content>
+  </entry>
+  <entry>
     <id>https://github.com/sidpalas/devops-directive-docker-course#1737158400</id>
     <title>https://github.com/sidpalas/devops-directive-docker-course</title>
     <link href="https://github.com/sidpalas/devops-directive-docker-course" />
@@ -22,13 +29,6 @@
     <link href="https://github.com/nodenv/node-build" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Install NodeJS versions</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ophub/amlogic-s9xxx-armbian#1737158400</id>
-    <title>https://github.com/ophub/amlogic-s9xxx-armbian</title>
-    <link href="https://github.com/ophub/amlogic-s9xxx-armbian" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</content>
   </entry>
   <entry>
     <id>https://github.com/pyenv/pyenv#1737158400</id>

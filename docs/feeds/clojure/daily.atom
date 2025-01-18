@@ -10,25 +10,39 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/nubank/workspaces#1737158400</id>
-    <title>https://github.com/nubank/workspaces</title>
-    <link href="https://github.com/nubank/workspaces" />
+    <id>https://github.com/metabase/metabase#1737158400</id>
+    <title>https://github.com/metabase/metabase</title>
+    <link href="https://github.com/metabase/metabase" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Live development environment for Clojurescript</content>
+    <content type="text">The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋</content>
   </entry>
   <entry>
-    <id>https://github.com/nubank/matcher-combinators#1737158400</id>
-    <title>https://github.com/nubank/matcher-combinators</title>
-    <link href="https://github.com/nubank/matcher-combinators" />
+    <id>https://github.com/penpot/penpot#1737158400</id>
+    <title>https://github.com/penpot/penpot</title>
+    <link href="https://github.com/penpot/penpot" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Library for creating matcher combinator to compare nested data structures</content>
+    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
   </entry>
   <entry>
-    <id>https://github.com/nubank/state-flow#1737158400</id>
-    <title>https://github.com/nubank/state-flow</title>
-    <link href="https://github.com/nubank/state-flow" />
+    <id>https://github.com/cognitect-labs/test-runner#1737158400</id>
+    <title>https://github.com/cognitect-labs/test-runner</title>
+    <link href="https://github.com/cognitect-labs/test-runner" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Integration testing framework using a state monad in the backend for building and composing flows</content>
+    <content type="text">A test runner for clojure.test</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instantdb/instant#1737158400</id>
+    <title>https://github.com/instantdb/instant</title>
+    <link href="https://github.com/instantdb/instant" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/logseq/logseq#1737158400</id>
+    <title>https://github.com/logseq/logseq</title>
+    <link href="https://github.com/logseq/logseq" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</content>
   </entry>
   <entry>
     <id>https://github.com/status-im/status-mobile#1737158400</id>
@@ -45,34 +59,6 @@
     <content type="text">Kubernetes client, data driven</content>
   </entry>
   <entry>
-    <id>https://github.com/weavejester/compojure#1737158400</id>
-    <title>https://github.com/weavejester/compojure</title>
-    <link href="https://github.com/weavejester/compojure" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A concise routing library for Ring/Clojure</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cognitect-labs/test-runner#1737158400</id>
-    <title>https://github.com/cognitect-labs/test-runner</title>
-    <link href="https://github.com/cognitect-labs/test-runner" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A test runner for clojure.test</content>
-  </entry>
-  <entry>
-    <id>https://github.com/clj-kondo/clj-kondo#1737158400</id>
-    <title>https://github.com/clj-kondo/clj-kondo</title>
-    <link href="https://github.com/clj-kondo/clj-kondo" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Static analyzer and linter for Clojure code that sparks joy</content>
-  </entry>
-  <entry>
-    <id>https://github.com/penpot/penpot#1737158400</id>
-    <title>https://github.com/penpot/penpot</title>
-    <link href="https://github.com/penpot/penpot" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
-  </entry>
-  <entry>
     <id>https://github.com/tonsky/FiraCode#1737158400</id>
     <title>https://github.com/tonsky/FiraCode</title>
     <link href="https://github.com/tonsky/FiraCode" />
@@ -80,17 +66,24 @@
     <content type="text">Free monospaced font with programming ligatures</content>
   </entry>
   <entry>
-    <id>https://github.com/instantdb/instant#1737158400</id>
-    <title>https://github.com/instantdb/instant</title>
-    <link href="https://github.com/instantdb/instant" />
+    <id>https://github.com/nubank/workspaces#1737158400</id>
+    <title>https://github.com/nubank/workspaces</title>
+    <link href="https://github.com/nubank/workspaces" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.</content>
+    <content type="text">Live development environment for Clojurescript</content>
   </entry>
   <entry>
-    <id>https://github.com/metabase/metabase#1737158400</id>
-    <title>https://github.com/metabase/metabase</title>
-    <link href="https://github.com/metabase/metabase" />
+    <id>https://github.com/nubank/state-flow#1737158400</id>
+    <title>https://github.com/nubank/state-flow</title>
+    <link href="https://github.com/nubank/state-flow" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋</content>
+    <content type="text">Integration testing framework using a state monad in the backend for building and composing flows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/clj-github#1737158400</id>
+    <title>https://github.com/nubank/clj-github</title>
+    <link href="https://github.com/nubank/clj-github" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A Clojure library for interacting with the github developer API</content>
   </entry>
 </feed>

@@ -10,95 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/valhalla/valhalla#1737158400</id>
-    <title>https://github.com/valhalla/valhalla</title>
-    <link href="https://github.com/valhalla/valhalla" />
+    <id>https://github.com/facebook/folly#1737158400</id>
+    <title>https://github.com/facebook/folly</title>
+    <link href="https://github.com/facebook/folly" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open Source Routing Engine for OpenStreetMap</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nlohmann/json#1737158400</id>
-    <title>https://github.com/nlohmann/json</title>
-    <link href="https://github.com/nlohmann/json" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">JSON for Modern C++</content>
-  </entry>
-  <entry>
-    <id>https://github.com/async-profiler/async-profiler#1737158400</id>
-    <title>https://github.com/async-profiler/async-profiler</title>
-    <link href="https://github.com/async-profiler/async-profiler" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/winget-cli#1737158400</id>
-    <title>https://github.com/microsoft/winget-cli</title>
-    <link href="https://github.com/microsoft/winget-cli" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).</content>
-  </entry>
-  <entry>
-    <id>https://github.com/firebase/firebase-ios-sdk#1737158400</id>
-    <title>https://github.com/firebase/firebase-ios-sdk</title>
-    <link href="https://github.com/firebase/firebase-ios-sdk" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Firebase SDK for Apple App Development</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openxla/xla#1737158400</id>
-    <title>https://github.com/openxla/xla</title>
-    <link href="https://github.com/openxla/xla" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A machine learning compiler for GPUs, CPUs, and ML accelerators</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NVIDIA/cutlass#1737158400</id>
-    <title>https://github.com/NVIDIA/cutlass</title>
-    <link href="https://github.com/NVIDIA/cutlass" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CUDA Templates for Linear Algebra Subroutines</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mongodb/mongo#1737158400</id>
-    <title>https://github.com/mongodb/mongo</title>
-    <link href="https://github.com/mongodb/mongo" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The MongoDB Database</content>
-  </entry>
-  <entry>
-    <id>https://github.com/eProsima/Fast-DDS#1737158400</id>
-    <title>https://github.com/eProsima/Fast-DDS</title>
-    <link href="https://github.com/eProsima/Fast-DDS" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com</content>
-  </entry>
-  <entry>
-    <id>https://github.com/scylladb/scylladb#1737158400</id>
-    <title>https://github.com/scylladb/scylladb</title>
-    <link href="https://github.com/scylladb/scylladb" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">NoSQL data store using the seastar framework, compatible with Apache Cassandra</content>
-  </entry>
-  <entry>
-    <id>https://github.com/doctest/doctest#1737158400</id>
-    <title>https://github.com/doctest/doctest</title>
-    <link href="https://github.com/doctest/doctest" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The fastest feature-rich C++11/14/17/20/23 single-header testing framework</content>
-  </entry>
-  <entry>
-    <id>https://github.com/yhirose/cpp-httplib#1737158400</id>
-    <title>https://github.com/yhirose/cpp-httplib</title>
-    <link href="https://github.com/yhirose/cpp-httplib" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A C++ header-only HTTP/HTTPS server and client library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/k2-fsa/sherpa-onnx#1737158400</id>
-    <title>https://github.com/k2-fsa/sherpa-onnx</title>
-    <link href="https://github.com/k2-fsa/sherpa-onnx" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust</content>
+    <content type="text">An open-source C++ library developed and used at Facebook.</content>
   </entry>
   <entry>
     <id>https://github.com/ton-blockchain/ton#1737158400</id>
@@ -108,6 +24,34 @@
     <content type="text">Main TON monorepo</content>
   </entry>
   <entry>
+    <id>https://github.com/isl-org/Open3D#1737158400</id>
+    <title>https://github.com/isl-org/Open3D</title>
+    <link href="https://github.com/isl-org/Open3D" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Open3D: A Modern Library for 3D Data Processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/terminal#1737158400</id>
+    <title>https://github.com/microsoft/terminal</title>
+    <link href="https://github.com/microsoft/terminal" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The new Windows Terminal and the original Windows console host, all in the same place!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openvinotoolkit/openvino#1737158400</id>
+    <title>https://github.com/openvinotoolkit/openvino</title>
+    <link href="https://github.com/openvinotoolkit/openvino" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dogecoin/dogecoin#1737158400</id>
+    <title>https://github.com/dogecoin/dogecoin</title>
+    <link href="https://github.com/dogecoin/dogecoin" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">very currency</content>
+  </entry>
+  <entry>
     <id>https://github.com/project-chip/connectedhomeip#1737158400</id>
     <title>https://github.com/project-chip/connectedhomeip</title>
     <link href="https://github.com/project-chip/connectedhomeip" />
@@ -115,59 +59,115 @@
     <content type="text">Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</content>
   </entry>
   <entry>
-    <id>https://github.com/NVIDIA/TensorRT-LLM#1737158400</id>
-    <title>https://github.com/NVIDIA/TensorRT-LLM</title>
-    <link href="https://github.com/NVIDIA/TensorRT-LLM" />
+    <id>https://github.com/pixie-io/pixie#1737158400</id>
+    <title>https://github.com/pixie-io/pixie</title>
+    <link href="https://github.com/pixie-io/pixie" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.</content>
+    <content type="text">Instant Kubernetes-Native Application Observability</content>
   </entry>
   <entry>
-    <id>https://github.com/tony9402/baekjoon#1737158400</id>
-    <title>https://github.com/tony9402/baekjoon</title>
-    <link href="https://github.com/tony9402/baekjoon" />
+    <id>https://github.com/wxWidgets/wxWidgets#1737158400</id>
+    <title>https://github.com/wxWidgets/wxWidgets</title>
+    <link href="https://github.com/wxWidgets/wxWidgets" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">코딩테스트 대비 문제집(Baekjoon Online Judge)</content>
+    <content type="text">Cross-Platform C++ GUI Library</content>
   </entry>
   <entry>
-    <id>https://github.com/BehaviorTree/BehaviorTree.CPP#1737158400</id>
-    <title>https://github.com/BehaviorTree/BehaviorTree.CPP</title>
-    <link href="https://github.com/BehaviorTree/BehaviorTree.CPP" />
+    <id>https://github.com/gcc-mirror/gcc#1737158400</id>
+    <title>https://github.com/gcc-mirror/gcc</title>
+    <link href="https://github.com/gcc-mirror/gcc" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Behavior Trees Library in C++. Batteries included.</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/barry-ran/QtScrcpy#1737158400</id>
-    <title>https://github.com/barry-ran/QtScrcpy</title>
-    <link href="https://github.com/barry-ran/QtScrcpy" />
+    <id>https://github.com/TixiaoShan/LIO-SAM#1737158400</id>
+    <title>https://github.com/TixiaoShan/LIO-SAM</title>
+    <link href="https://github.com/TixiaoShan/LIO-SAM" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Android real-time display control software</content>
+    <content type="text">LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping</content>
   </entry>
   <entry>
-    <id>https://github.com/facebook/react-native#1737158400</id>
-    <title>https://github.com/facebook/react-native</title>
-    <link href="https://github.com/facebook/react-native" />
+    <id>https://github.com/grpc/grpc#1737158400</id>
+    <title>https://github.com/grpc/grpc</title>
+    <link href="https://github.com/grpc/grpc" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A framework for building native applications using React</content>
+    <content type="text">The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</content>
   </entry>
   <entry>
-    <id>https://github.com/PX4/PX4-Autopilot#1737158400</id>
-    <title>https://github.com/PX4/PX4-Autopilot</title>
-    <link href="https://github.com/PX4/PX4-Autopilot" />
+    <id>https://github.com/rapidsai/cudf#1737158400</id>
+    <title>https://github.com/rapidsai/cudf</title>
+    <link href="https://github.com/rapidsai/cudf" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">PX4 Autopilot Software</content>
+    <content type="text">cuDF - GPU DataFrame Library</content>
   </entry>
   <entry>
-    <id>https://github.com/wazuh/wazuh#1737158400</id>
-    <title>https://github.com/wazuh/wazuh</title>
-    <link href="https://github.com/wazuh/wazuh" />
+    <id>https://github.com/man-group/ArcticDB#1737158400</id>
+    <title>https://github.com/man-group/ArcticDB</title>
+    <link href="https://github.com/man-group/ArcticDB" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</content>
+    <content type="text">ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.</content>
   </entry>
   <entry>
-    <id>https://github.com/facebook/folly#1737158400</id>
-    <title>https://github.com/facebook/folly</title>
-    <link href="https://github.com/facebook/folly" />
+    <id>https://github.com/scylladb/scylladb#1737158400</id>
+    <title>https://github.com/scylladb/scylladb</title>
+    <link href="https://github.com/scylladb/scylladb" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An open-source C++ library developed and used at Facebook.</content>
+    <content type="text">NoSQL data store using the seastar framework, compatible with Apache Cassandra</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AaronFeng753/Waifu2x-Extension-GUI#1737158400</id>
+    <title>https://github.com/AaronFeng753/Waifu2x-Extension-GUI</title>
+    <link href="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nlohmann/json#1737158400</id>
+    <title>https://github.com/nlohmann/json</title>
+    <link href="https://github.com/nlohmann/json" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">JSON for Modern C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tesseract-ocr/tesseract#1737158400</id>
+    <title>https://github.com/tesseract-ocr/tesseract</title>
+    <link href="https://github.com/tesseract-ocr/tesseract" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Tesseract Open Source OCR Engine (main repository)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cutlass#1737158400</id>
+    <title>https://github.com/NVIDIA/cutlass</title>
+    <link href="https://github.com/NVIDIA/cutlass" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">CUDA Templates for Linear Algebra Subroutines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chriskohlhoff/asio#1737158400</id>
+    <title>https://github.com/chriskohlhoff/asio</title>
+    <link href="https://github.com/chriskohlhoff/asio" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Asio C++ Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ArduPilot/ardupilot#1737158400</id>
+    <title>https://github.com/ArduPilot/ardupilot</title>
+    <link href="https://github.com/ArduPilot/ardupilot" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">ArduPlane, ArduCopter, ArduRover, ArduSub source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cifertech/nRFBox#1737158400</id>
+    <title>https://github.com/cifertech/nRFBox</title>
+    <link href="https://github.com/cifertech/nRFBox" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">All-in-One Gadget for Dominating BLE and 2.4GHz Networks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yhirose/cpp-httplib#1737158400</id>
+    <title>https://github.com/yhirose/cpp-httplib</title>
+    <link href="https://github.com/yhirose/cpp-httplib" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A C++ header-only HTTP/HTTPS server and client library</content>
   </entry>
 </feed>

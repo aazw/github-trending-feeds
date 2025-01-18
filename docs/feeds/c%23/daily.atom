@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/huiyadanli/RevokeMsgPatcher#1737158400</id>
-    <title>https://github.com/huiyadanli/RevokeMsgPatcher</title>
-    <link href="https://github.com/huiyadanli/RevokeMsgPatcher" />
+    <id>https://github.com/dotnet/aspnetcore#1737158400</id>
+    <title>https://github.com/dotnet/aspnetcore</title>
+    <link href="https://github.com/dotnet/aspnetcore" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）</content>
-  </entry>
-  <entry>
-    <id>https://github.com/umbraco/Umbraco-CMS#1737158400</id>
-    <title>https://github.com/umbraco/Umbraco-CMS</title>
-    <link href="https://github.com/umbraco/Umbraco-CMS" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.</content>
+    <content type="text">ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</content>
   </entry>
   <entry>
     <id>https://github.com/MudBlazor/MudBlazor#1737158400</id>
@@ -31,109 +24,18 @@
     <content type="text">Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility</content>
   </entry>
   <entry>
-    <id>https://github.com/AzureAD/microsoft-identity-web#1737158400</id>
-    <title>https://github.com/AzureAD/microsoft-identity-web</title>
-    <link href="https://github.com/AzureAD/microsoft-identity-web" />
+    <id>https://github.com/microsoft/PowerToys#1737158400</id>
+    <title>https://github.com/microsoft/PowerToys</title>
+    <link href="https://github.com/microsoft/PowerToys" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C</content>
+    <content type="text">Windows system utilities to maximize productivity</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/csharplang#1737158400</id>
-    <title>https://github.com/dotnet/csharplang</title>
-    <link href="https://github.com/dotnet/csharplang" />
+    <id>https://github.com/dotnet/maui-samples#1737158400</id>
+    <title>https://github.com/dotnet/maui-samples</title>
+    <link href="https://github.com/dotnet/maui-samples" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The official repo for the design of the C# programming language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/CommunityToolkit/Maui#1737158400</id>
-    <title>https://github.com/CommunityToolkit/Maui</title>
-    <link href="https://github.com/CommunityToolkit/Maui" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/fluentui-blazor#1737158400</id>
-    <title>https://github.com/microsoft/fluentui-blazor</title>
-    <link href="https://github.com/microsoft/fluentui-blazor" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/kiota#1737158400</id>
-    <title>https://github.com/microsoft/kiota</title>
-    <link href="https://github.com/microsoft/kiota" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenAPI based HTTP Client code generator</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dotnet/aspire#1737158400</id>
-    <title>https://github.com/dotnet/aspire</title>
-    <link href="https://github.com/dotnet/aspire" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Tools, templates, and packages to accelerate building observable, production-ready apps</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/kernel-memory#1737158400</id>
-    <title>https://github.com/microsoft/kernel-memory</title>
-    <link href="https://github.com/microsoft/kernel-memory" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dotnet/roslyn#1737158400</id>
-    <title>https://github.com/dotnet/roslyn</title>
-    <link href="https://github.com/dotnet/roslyn" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/thomhurst/TUnit#1737158400</id>
-    <title>https://github.com/thomhurst/TUnit</title>
-    <link href="https://github.com/thomhurst/TUnit" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A modern, fast and flexible .NET testing framework</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Cysharp/UniTask#1737158400</id>
-    <title>https://github.com/Cysharp/UniTask</title>
-    <link href="https://github.com/Cysharp/UniTask" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Provides an efficient allocation free async/await integration for Unity.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AvaloniaUI/Avalonia#1737158400</id>
-    <title>https://github.com/AvaloniaUI/Avalonia</title>
-    <link href="https://github.com/AvaloniaUI/Avalonia" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology</content>
-  </entry>
-  <entry>
-    <id>https://github.com/GhostPack/Rubeus#1737158400</id>
-    <title>https://github.com/GhostPack/Rubeus</title>
-    <link href="https://github.com/GhostPack/Rubeus" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Trying to tame the three-headed dog.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dotnet/AspNetCore.Docs#1737158400</id>
-    <title>https://github.com/dotnet/AspNetCore.Docs</title>
-    <link href="https://github.com/dotnet/AspNetCore.Docs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Documentation for ASP.NET Core</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dotnet/wpf#1737158400</id>
-    <title>https://github.com/dotnet/wpf</title>
-    <link href="https://github.com/dotnet/wpf" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">WPF is a .NET Core UI framework for building Windows desktop applications.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dotnet/efcore#1737158400</id>
-    <title>https://github.com/dotnet/efcore</title>
-    <link href="https://github.com/dotnet/efcore" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</content>
+    <content type="text">Samples for .NET Multi-Platform App UI (.NET MAUI)</content>
   </entry>
   <entry>
     <id>https://github.com/dotnet/maui#1737158400</id>
@@ -143,6 +45,55 @@
     <content type="text">.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</content>
   </entry>
   <entry>
+    <id>https://github.com/microsoft/semantic-kernel#1737158400</id>
+    <title>https://github.com/microsoft/semantic-kernel</title>
+    <link href="https://github.com/microsoft/semantic-kernel" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Integrate cutting-edge LLM technology quickly and easily into your apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/space-wizards/space-station-14#1737158400</id>
+    <title>https://github.com/space-wizards/space-station-14</title>
+    <link href="https://github.com/space-wizards/space-station-14" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell#1737158400</id>
+    <title>https://github.com/PowerShell/PowerShell</title>
+    <link href="https://github.com/PowerShell/PowerShell" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">PowerShell for every system!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/roslyn#1737158400</id>
+    <title>https://github.com/dotnet/roslyn</title>
+    <link href="https://github.com/dotnet/roslyn" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/aspire#1737158400</id>
+    <title>https://github.com/dotnet/aspire</title>
+    <link href="https://github.com/dotnet/aspire" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Tools, templates, and packages to accelerate building observable, production-ready apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/runtime#1737158400</id>
+    <title>https://github.com/dotnet/runtime</title>
+    <link href="https://github.com/dotnet/runtime" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/runner#1737158400</id>
+    <title>https://github.com/actions/runner</title>
+    <link href="https://github.com/actions/runner" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Runner for GitHub Actions 🚀</content>
+  </entry>
+  <entry>
     <id>https://github.com/shouldly/shouldly#1737158400</id>
     <title>https://github.com/shouldly/shouldly</title>
     <link href="https://github.com/shouldly/shouldly" />
@@ -150,10 +101,66 @@
     <content type="text">Should testing for .NET—the way assertions should be!</content>
   </entry>
   <entry>
-    <id>https://github.com/fluentassertions/fluentassertions#1737158400</id>
-    <title>https://github.com/fluentassertions/fluentassertions</title>
-    <link href="https://github.com/fluentassertions/fluentassertions" />
+    <id>https://github.com/dotnet/csharplang#1737158400</id>
+    <title>https://github.com/dotnet/csharplang</title>
+    <link href="https://github.com/dotnet/csharplang" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.</content>
+    <content type="text">The official repo for the design of the C# programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/git-ecosystem/git-credential-manager#1737158400</id>
+    <title>https://github.com/git-ecosystem/git-credential-manager</title>
+    <link href="https://github.com/git-ecosystem/git-credential-manager" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/kernel-memory#1737158400</id>
+    <title>https://github.com/microsoft/kernel-memory</title>
+    <link href="https://github.com/microsoft/kernel-memory" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ClosedXML/ClosedXML#1737158400</id>
+    <title>https://github.com/ClosedXML/ClosedXML</title>
+    <link href="https://github.com/ClosedXML/ClosedXML" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-dotnet#1737158400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-dotnet</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-dotnet" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The OpenTelemetry .NET Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/umbraco/Umbraco-CMS#1737158400</id>
+    <title>https://github.com/umbraco/Umbraco-CMS</title>
+    <link href="https://github.com/umbraco/Umbraco-CMS" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lostindark/DriverStoreExplorer#1737158400</id>
+    <title>https://github.com/lostindark/DriverStoreExplorer</title>
+    <link href="https://github.com/lostindark/DriverStoreExplorer" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Driver Store Explorer [RAPR]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/sbom-tool#1737158400</id>
+    <title>https://github.com/microsoft/sbom-tool</title>
+    <link href="https://github.com/microsoft/sbom-tool" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/WinUI-Gallery#1737158400</id>
+    <title>https://github.com/microsoft/WinUI-Gallery</title>
+    <link href="https://github.com/microsoft/WinUI-Gallery" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">This app demonstrates the controls available in WinUI and the Fluent Design System.</content>
   </entry>
 </feed>

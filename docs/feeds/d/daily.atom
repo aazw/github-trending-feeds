@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/dlang/dmd#1737158400</id>
+    <title>https://github.com/dlang/dmd</title>
+    <link href="https://github.com/dlang/dmd" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">dmd D Programming Language compiler</content>
+  </entry>
+  <entry>
     <id>https://github.com/abraunegg/onedrive#1737158400</id>
     <title>https://github.com/abraunegg/onedrive</title>
     <link href="https://github.com/abraunegg/onedrive" />
@@ -17,17 +24,10 @@
     <content type="text">OneDrive Client for Linux</content>
   </entry>
   <entry>
-    <id>https://github.com/Dadoum/anisette-v3-server#1737158400</id>
-    <title>https://github.com/Dadoum/anisette-v3-server</title>
-    <link href="https://github.com/Dadoum/anisette-v3-server" />
+    <id>https://github.com/gnunn1/tilix#1737158400</id>
+    <title>https://github.com/gnunn1/tilix</title>
+    <link href="https://github.com/gnunn1/tilix" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">sidestore's anisette-v3 compatible server</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dlang/dmd#1737158400</id>
-    <title>https://github.com/dlang/dmd</title>
-    <link href="https://github.com/dlang/dmd" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">dmd D Programming Language compiler</content>
+    <content type="text">A tiling terminal emulator for Linux using GTK+ 3</content>
   </entry>
 </feed>

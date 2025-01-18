@@ -10,109 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/libsdl-org/SDL#1737158400</id>
-    <title>https://github.com/libsdl-org/SDL</title>
-    <link href="https://github.com/libsdl-org/SDL" />
+    <id>https://github.com/openssl/openssl#1737158400</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Simple Directmedia Layer</content>
+    <content type="text">TLS/SSL and crypto library</content>
   </entry>
   <entry>
-    <id>https://github.com/asg017/sqlite-vec#1737158400</id>
-    <title>https://github.com/asg017/sqlite-vec</title>
-    <link href="https://github.com/asg017/sqlite-vec" />
+    <id>https://github.com/zmkfirmware/zmk#1737158400</id>
+    <title>https://github.com/zmkfirmware/zmk</title>
+    <link href="https://github.com/zmkfirmware/zmk" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A vector search SQLite extension that runs anywhere!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/arthenica/ffmpeg-kit#1737158400</id>
-    <title>https://github.com/arthenica/ffmpeg-kit</title>
-    <link href="https://github.com/arthenica/ffmpeg-kit" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/iovisor/bcc#1737158400</id>
-    <title>https://github.com/iovisor/bcc</title>
-    <link href="https://github.com/iovisor/bcc" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sonic-net/sonic-buildimage#1737158400</id>
-    <title>https://github.com/sonic-net/sonic-buildimage</title>
-    <link href="https://github.com/sonic-net/sonic-buildimage" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Scripts which perform an installable binary image build for SONiC</content>
-  </entry>
-  <entry>
-    <id>https://github.com/guanzhi/GmSSL#1737158400</id>
-    <title>https://github.com/guanzhi/GmSSL</title>
-    <link href="https://github.com/guanzhi/GmSSL" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱</content>
-  </entry>
-  <entry>
-    <id>https://github.com/valinet/ExplorerPatcher#1737158400</id>
-    <title>https://github.com/valinet/ExplorerPatcher</title>
-    <link href="https://github.com/valinet/ExplorerPatcher" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This project aims to enhance the working environment on Windows</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pgvector/pgvector#1737158400</id>
-    <title>https://github.com/pgvector/pgvector</title>
-    <link href="https://github.com/pgvector/pgvector" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open-source vector similarity search for Postgres</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nanopb/nanopb#1737158400</id>
-    <title>https://github.com/nanopb/nanopb</title>
-    <link href="https://github.com/nanopb/nanopb" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Protocol Buffers with small code size</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sqlcipher/sqlcipher#1737158400</id>
-    <title>https://github.com/sqlcipher/sqlcipher</title>
-    <link href="https://github.com/sqlcipher/sqlcipher" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/lvgl/lvgl#1737158400</id>
-    <title>https://github.com/lvgl/lvgl</title>
-    <link href="https://github.com/lvgl/lvgl" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/coturn/coturn#1737158400</id>
-    <title>https://github.com/coturn/coturn</title>
-    <link href="https://github.com/coturn/coturn" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">coturn TURN server project</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ventoy/Ventoy#1737158400</id>
-    <title>https://github.com/ventoy/Ventoy</title>
-    <link href="https://github.com/ventoy/Ventoy" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A new bootable USB solution.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/madler/zlib#1737158400</id>
-    <title>https://github.com/madler/zlib</title>
-    <link href="https://github.com/madler/zlib" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A massively spiffy yet delicately unobtrusive compression library.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/redcanaryco/atomic-red-team#1737158400</id>
-    <title>https://github.com/redcanaryco/atomic-red-team</title>
-    <link href="https://github.com/redcanaryco/atomic-red-team" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Small and highly portable detection tests based on MITRE's ATT&amp;CK.</content>
+    <content type="text">ZMK Firmware Repository</content>
   </entry>
   <entry>
     <id>https://github.com/Mbed-TLS/mbedtls#1737158400</id>
@@ -122,38 +31,59 @@
     <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
   </entry>
   <entry>
-    <id>https://github.com/openssl/openssl#1737158400</id>
-    <title>https://github.com/openssl/openssl</title>
-    <link href="https://github.com/openssl/openssl" />
+    <id>https://github.com/hathach/tinyusb#1737158400</id>
+    <title>https://github.com/hathach/tinyusb</title>
+    <link href="https://github.com/hathach/tinyusb" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">TLS/SSL and crypto library</content>
+    <content type="text">An open source cross-platform USB stack for embedded system</content>
   </entry>
   <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-go-instrumentation#1737158400</id>
-    <title>https://github.com/open-telemetry/opentelemetry-go-instrumentation</title>
-    <link href="https://github.com/open-telemetry/opentelemetry-go-instrumentation" />
+    <id>https://github.com/iovisor/bcc#1737158400</id>
+    <title>https://github.com/iovisor/bcc</title>
+    <link href="https://github.com/iovisor/bcc" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenTelemetry Auto Instrumentation using eBPF</content>
+    <content type="text">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</content>
   </entry>
   <entry>
-    <id>https://github.com/OpenVPN/openvpn#1737158400</id>
-    <title>https://github.com/OpenVPN/openvpn</title>
-    <link href="https://github.com/OpenVPN/openvpn" />
+    <id>https://github.com/redcanaryco/atomic-red-team#1737158400</id>
+    <title>https://github.com/redcanaryco/atomic-red-team</title>
+    <link href="https://github.com/redcanaryco/atomic-red-team" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenVPN is an open source VPN daemon</content>
+    <content type="text">Small and highly portable detection tests based on MITRE's ATT&amp;CK.</content>
   </entry>
   <entry>
-    <id>https://github.com/nicbarker/clay#1737158400</id>
-    <title>https://github.com/nicbarker/clay</title>
-    <link href="https://github.com/nicbarker/clay" />
+    <id>https://github.com/sqlcipher/sqlcipher#1737158400</id>
+    <title>https://github.com/sqlcipher/sqlcipher</title>
+    <link href="https://github.com/sqlcipher/sqlcipher" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">High performance UI layout library in C.</content>
+    <content type="text">SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.</content>
   </entry>
   <entry>
-    <id>https://github.com/confluentinc/librdkafka#1737158400</id>
-    <title>https://github.com/confluentinc/librdkafka</title>
-    <link href="https://github.com/confluentinc/librdkafka" />
+    <id>https://github.com/DarkFlippers/unleashed-firmware#1737158400</id>
+    <title>https://github.com/DarkFlippers/unleashed-firmware</title>
+    <link href="https://github.com/DarkFlippers/unleashed-firmware" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Apache Kafka C/C++ library</content>
+    <content type="text">Flipper Zero Unleashed Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mit-pdos/xv6-riscv#1737158400</id>
+    <title>https://github.com/mit-pdos/xv6-riscv</title>
+    <link href="https://github.com/mit-pdos/xv6-riscv" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Xv6 for RISC-V</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Genymobile/scrcpy#1737158400</id>
+    <title>https://github.com/Genymobile/scrcpy</title>
+    <link href="https://github.com/Genymobile/scrcpy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Display and control your Android device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kokke/tiny-AES-c#1737158400</id>
+    <title>https://github.com/kokke/tiny-AES-c</title>
+    <link href="https://github.com/kokke/tiny-AES-c" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Small portable AES128/192/256 in C</content>
   </entry>
 </feed>

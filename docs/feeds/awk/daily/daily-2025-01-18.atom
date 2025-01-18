@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/soimort/translate-shell#1737158400</id>
-    <title>https://github.com/soimort/translate-shell</title>
-    <link href="https://github.com/soimort/translate-shell" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">💬 Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.</content>
-  </entry>
 </feed>

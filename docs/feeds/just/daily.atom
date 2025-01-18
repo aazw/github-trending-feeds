@@ -9,18 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/ublue-os/image-template#1737158400</id>
-    <title>https://github.com/ublue-os/image-template</title>
-    <link href="https://github.com/ublue-os/image-template" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Build your own custom Universal Blue Image!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/secureblue/secureblue#1737158400</id>
-    <title>https://github.com/secureblue/secureblue</title>
-    <link href="https://github.com/secureblue/secureblue" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Hardened Fedora Atomic and Fedora CoreOS images</content>
-  </entry>
 </feed>

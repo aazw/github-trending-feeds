@@ -10,27 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/StartBootstrap/startbootstrap-sb-admin#1737158400</id>
-    <title>https://github.com/StartBootstrap/startbootstrap-sb-admin</title>
-    <link href="https://github.com/StartBootstrap/startbootstrap-sb-admin" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A free, open source, Bootstrap admin theme created by Start Bootstrap</content>
-  </entry>
-  <entry>
-    <id>https://github.com/StartBootstrap/startbootstrap-landing-page#1737158400</id>
-    <title>https://github.com/StartBootstrap/startbootstrap-landing-page</title>
-    <link href="https://github.com/StartBootstrap/startbootstrap-landing-page" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A responsive, Bootstrap landing page template created by Start Bootstrap</content>
-  </entry>
-  <entry>
-    <id>https://github.com/StartBootstrap/startbootstrap-clean-blog#1737158400</id>
-    <title>https://github.com/StartBootstrap/startbootstrap-clean-blog</title>
-    <link href="https://github.com/StartBootstrap/startbootstrap-clean-blog" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A clean Bootstrap blog theme created by Start Bootstrap</content>
-  </entry>
-  <entry>
     <id>https://github.com/Azure/actions-workflow-samples#1737158400</id>
     <title>https://github.com/Azure/actions-workflow-samples</title>
     <link href="https://github.com/Azure/actions-workflow-samples" />
@@ -38,10 +17,17 @@
     <content type="text">Help developers to easily get started with GitHub Action workflows to deploy to Azure</content>
   </entry>
   <entry>
-    <id>https://github.com/anders94/blockchain-demo#1737158400</id>
-    <title>https://github.com/anders94/blockchain-demo</title>
-    <link href="https://github.com/anders94/blockchain-demo" />
+    <id>https://github.com/nigelpoulton/TheK8sBook#1737158400</id>
+    <title>https://github.com/nigelpoulton/TheK8sBook</title>
+    <link href="https://github.com/nigelpoulton/TheK8sBook" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A web-based demonstration of blockchain concepts.</content>
+    <content type="text">YAML files for use with The Kubernetes Book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-landing-page#1737158400</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-landing-page</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-landing-page" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A responsive, Bootstrap landing page template created by Start Bootstrap</content>
   </entry>
 </feed>

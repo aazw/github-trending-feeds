@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/theory/pgtap#1737158400</id>
-    <title>https://github.com/theory/pgtap</title>
-    <link href="https://github.com/theory/pgtap" />
+    <id>https://github.com/pgpartman/pg_partman#1737158400</id>
+    <title>https://github.com/pgpartman/pg_partman</title>
+    <link href="https://github.com/pgpartman/pg_partman" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">PostgreSQL Unit Testing Suite</content>
+    <content type="text">Partition management extension for PostgreSQL</content>
   </entry>
   <entry>
     <id>https://github.com/openmaptiles/openmaptiles#1737158400</id>
@@ -24,31 +24,24 @@
     <content type="text">OpenMapTiles Vector Tile Schema Implementation</content>
   </entry>
   <entry>
-    <id>https://github.com/TryGhost/node-sqlite3#1737158400</id>
-    <title>https://github.com/TryGhost/node-sqlite3</title>
-    <link href="https://github.com/TryGhost/node-sqlite3" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">SQLite3 bindings for Node.js</content>
-  </entry>
-  <entry>
-    <id>https://github.com/digoal/blog#1737158400</id>
-    <title>https://github.com/digoal/blog</title>
-    <link href="https://github.com/digoal/blog" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pgpartman/pg_partman#1737158400</id>
-    <title>https://github.com/pgpartman/pg_partman</title>
-    <link href="https://github.com/pgpartman/pg_partman" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Partition management extension for PostgreSQL</content>
-  </entry>
-  <entry>
     <id>https://github.com/timescale/pgai#1737158400</id>
     <title>https://github.com/timescale/pgai</title>
     <link href="https://github.com/timescale/pgai" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/theory/pgtap#1737158400</id>
+    <title>https://github.com/theory/pgtap</title>
+    <link href="https://github.com/theory/pgtap" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">PostgreSQL Unit Testing Suite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tembo-io/pgmq#1737158400</id>
+    <title>https://github.com/tembo-io/pgmq</title>
+    <link href="https://github.com/tembo-io/pgmq" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</content>
   </entry>
 </feed>

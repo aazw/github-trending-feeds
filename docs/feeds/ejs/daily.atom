@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Ovi/DummyJSON#1737158400</id>
-    <title>https://github.com/Ovi/DummyJSON</title>
-    <link href="https://github.com/Ovi/DummyJSON" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.</content>
-  </entry>
-  <entry>
     <id>https://github.com/keikaavousi/fake-store-api#1737158400</id>
     <title>https://github.com/keikaavousi/fake-store-api</title>
     <link href="https://github.com/keikaavousi/fake-store-api" />
@@ -24,11 +17,11 @@
     <content type="text">FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data</content>
   </entry>
   <entry>
-    <id>https://github.com/github/haikus-for-codespaces#1737158400</id>
-    <title>https://github.com/github/haikus-for-codespaces</title>
-    <link href="https://github.com/github/haikus-for-codespaces" />
+    <id>https://github.com/nightwatchjs/nightwatch-docs#1737158400</id>
+    <title>https://github.com/nightwatchjs/nightwatch-docs</title>
+    <link href="https://github.com/nightwatchjs/nightwatch-docs" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Source for https://nightwatchjs.org website</content>
   </entry>
   <entry>
     <id>https://github.com/Fechin/reference#1737158400</id>
@@ -38,17 +31,17 @@
     <content type="text">⭕ Share quick reference cheat sheet for developers.</content>
   </entry>
   <entry>
-    <id>https://github.com/docker/multi-container-app#1737158400</id>
-    <title>https://github.com/docker/multi-container-app</title>
-    <link href="https://github.com/docker/multi-container-app" />
+    <id>https://github.com/Ovi/DummyJSON#1737158400</id>
+    <title>https://github.com/Ovi/DummyJSON</title>
+    <link href="https://github.com/Ovi/DummyJSON" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
+    <content type="text">DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.</content>
   </entry>
   <entry>
-    <id>https://github.com/nightwatchjs/nightwatch-docs#1737158400</id>
-    <title>https://github.com/nightwatchjs/nightwatch-docs</title>
-    <link href="https://github.com/nightwatchjs/nightwatch-docs" />
+    <id>https://github.com/github/haikus-for-codespaces#1737158400</id>
+    <title>https://github.com/github/haikus-for-codespaces</title>
+    <link href="https://github.com/github/haikus-for-codespaces" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Source for https://nightwatchjs.org website</content>
+    <content type="text" />
   </entry>
 </feed>

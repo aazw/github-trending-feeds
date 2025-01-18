@@ -10,67 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/melpa/melpa#1737158400</id>
-    <title>https://github.com/melpa/melpa</title>
-    <link href="https://github.com/melpa/melpa" />
+    <id>https://github.com/emacs-mirror/emacs#1737158400</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
-  </entry>
-  <entry>
-    <id>https://github.com/joaotavora/eglot#1737158400</id>
-    <title>https://github.com/joaotavora/eglot</title>
-    <link href="https://github.com/joaotavora/eglot" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A client for Language Server Protocol servers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/clojure-emacs/clojure-mode#1737158400</id>
-    <title>https://github.com/clojure-emacs/clojure-mode</title>
-    <link href="https://github.com/clojure-emacs/clojure-mode" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Emacs support for the Clojure(Script) programming language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/emacs-dashboard/emacs-dashboard#1737158400</id>
-    <title>https://github.com/emacs-dashboard/emacs-dashboard</title>
-    <link href="https://github.com/emacs-dashboard/emacs-dashboard" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An extensible emacs dashboard</content>
-  </entry>
-  <entry>
-    <id>https://github.com/emacs-lsp/lsp-mode#1737158400</id>
-    <title>https://github.com/emacs-lsp/lsp-mode</title>
-    <link href="https://github.com/emacs-lsp/lsp-mode" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Emacs client/library for the Language Server Protocol</content>
-  </entry>
-  <entry>
-    <id>https://github.com/meow-edit/meow#1737158400</id>
-    <title>https://github.com/meow-edit/meow</title>
-    <link href="https://github.com/meow-edit/meow" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Yet another modal editing on Emacs / 猫态编辑</content>
-  </entry>
-  <entry>
-    <id>https://github.com/emacs-evil/evil#1737158400</id>
-    <title>https://github.com/emacs-evil/evil</title>
-    <link href="https://github.com/emacs-evil/evil" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The extensible vi layer for Emacs.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/org-roam/org-roam#1737158400</id>
-    <title>https://github.com/org-roam/org-roam</title>
-    <link href="https://github.com/org-roam/org-roam" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Rudimentary Roam replica with Org-mode</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jwiegley/emacs-async#1737158400</id>
-    <title>https://github.com/jwiegley/emacs-async</title>
-    <link href="https://github.com/jwiegley/emacs-async" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Simple library for asynchronous processing in Emacs</content>
+    <content type="text">Mirror of GNU Emacs</content>
   </entry>
   <entry>
     <id>https://github.com/doomemacs/doomemacs#1737158400</id>
@@ -80,32 +24,39 @@
     <content type="text">An Emacs framework for the stubborn martian hacker</content>
   </entry>
   <entry>
-    <id>https://github.com/mmontone/emacs-inspector#1737158400</id>
-    <title>https://github.com/mmontone/emacs-inspector</title>
-    <link href="https://github.com/mmontone/emacs-inspector" />
+    <id>https://github.com/clojure-emacs/cider#1737158400</id>
+    <title>https://github.com/clojure-emacs/cider</title>
+    <link href="https://github.com/clojure-emacs/cider" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+    <content type="text">The Clojure Interactive Development Environment that Rocks for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/emacs-mirror/emacs#1737158400</id>
-    <title>https://github.com/emacs-mirror/emacs</title>
-    <link href="https://github.com/emacs-mirror/emacs" />
+    <id>https://github.com/karthink/gptel#1737158400</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Mirror of GNU Emacs</content>
+    <content type="text">A simple LLM client for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/copilot-emacs/copilot.el#1737158400</id>
-    <title>https://github.com/copilot-emacs/copilot.el</title>
-    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <id>https://github.com/qjcg/awesome-typst#1737158400</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+    <content type="text">Awesome Typst Links</content>
   </entry>
   <entry>
-    <id>https://github.com/s-kostyaev/ellama#1737158400</id>
-    <title>https://github.com/s-kostyaev/ellama</title>
-    <link href="https://github.com/s-kostyaev/ellama" />
+    <id>https://github.com/meow-edit/meow#1737158400</id>
+    <title>https://github.com/meow-edit/meow</title>
+    <link href="https://github.com/meow-edit/meow" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Ellama is a tool for interacting with large language models from Emacs.</content>
+    <content type="text">Yet another modal editing on Emacs / 猫态编辑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-ivy#1737158400</id>
+    <title>https://github.com/emacs-lsp/lsp-ivy</title>
+    <link href="https://github.com/emacs-lsp/lsp-ivy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">lsp-mode ❤️ ivy</content>
   </entry>
   <entry>
     <id>https://github.com/haskell/haskell-mode#1737158400</id>
@@ -115,10 +66,45 @@
     <content type="text">Emacs mode for Haskell</content>
   </entry>
   <entry>
-    <id>https://github.com/karthink/gptel#1737158400</id>
-    <title>https://github.com/karthink/gptel</title>
-    <link href="https://github.com/karthink/gptel" />
+    <id>https://github.com/copilot-emacs/copilot.el#1737158400</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A simple LLM client for Emacs</content>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/themes#1737158400</id>
+    <title>https://github.com/doomemacs/themes</title>
+    <link href="https://github.com/doomemacs/themes" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A megapack of themes for GNU Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1737158400</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/eglot#1737158400</id>
+    <title>https://github.com/joaotavora/eglot</title>
+    <link href="https://github.com/joaotavora/eglot" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A client for Language Server Protocol servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1737158400</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1737158400</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
   </entry>
 </feed>

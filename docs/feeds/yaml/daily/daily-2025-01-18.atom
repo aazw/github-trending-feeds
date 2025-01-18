@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dell/omnia#1737158400</id>
-    <title>https://github.com/dell/omnia</title>
-    <link href="https://github.com/dell/omnia" />
+    <id>https://github.com/usnistgov/macos_security#1737158400</id>
+    <title>https://github.com/usnistgov/macos_security</title>
+    <link href="https://github.com/usnistgov/macos_security" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An open-source toolkit for deploying and managing high performance clusters for HPC, AI, and data analytics workloads.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hackclub/dns#1737158400</id>
-    <title>https://github.com/hackclub/dns</title>
-    <link href="https://github.com/hackclub/dns" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🕹 Manage Hack Club's DNS through a GitHub repository</content>
+    <content type="text">macOS Security Compliance Project</content>
   </entry>
   <entry>
     <id>https://github.com/k3s-io/k3s-ansible#1737158400</id>
@@ -31,25 +24,11 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/ansible-lockdown/RHEL8-CIS#1737158400</id>
-    <title>https://github.com/ansible-lockdown/RHEL8-CIS</title>
-    <link href="https://github.com/ansible-lockdown/RHEL8-CIS" />
+    <id>https://github.com/kubeflow/manifests#1737158400</id>
+    <title>https://github.com/kubeflow/manifests</title>
+    <link href="https://github.com/kubeflow/manifests" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Automated CIS Benchmark Compliance Remediation for RHEL 8 with Ansible</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aquaproj/aqua-registry#1737158400</id>
-    <title>https://github.com/aquaproj/aqua-registry</title>
-    <link href="https://github.com/aquaproj/aqua-registry" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">aqua's Standard Registry</content>
-  </entry>
-  <entry>
-    <id>https://github.com/usnistgov/macos_security#1737158400</id>
-    <title>https://github.com/usnistgov/macos_security</title>
-    <link href="https://github.com/usnistgov/macos_security" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">macOS Security Compliance Project</content>
+    <content type="text">A repository for Kustomize manifests</content>
   </entry>
   <entry>
     <id>https://github.com/web-platform-dx/web-features#1737158400</id>
@@ -66,10 +45,17 @@
     <content type="text">The Mustache spec.</content>
   </entry>
   <entry>
-    <id>https://github.com/kubeflow/manifests#1737158400</id>
-    <title>https://github.com/kubeflow/manifests</title>
-    <link href="https://github.com/kubeflow/manifests" />
+    <id>https://github.com/ansible-lockdown/RHEL9-CIS#1737158400</id>
+    <title>https://github.com/ansible-lockdown/RHEL9-CIS</title>
+    <link href="https://github.com/ansible-lockdown/RHEL9-CIS" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A repository for Kustomize manifests</content>
+    <content type="text">Automated CIS Benchmark Compliance Remediation for RHEL 9 with Ansible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ansible-lockdown/RHEL8-CIS#1737158400</id>
+    <title>https://github.com/ansible-lockdown/RHEL8-CIS</title>
+    <link href="https://github.com/ansible-lockdown/RHEL8-CIS" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Automated CIS Benchmark Compliance Remediation for RHEL 8 with Ansible</content>
   </entry>
 </feed>

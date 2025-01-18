@@ -10,41 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/ngrok/ngrok-docs#1737158400</id>
-    <title>https://github.com/ngrok/ngrok-docs</title>
-    <link href="https://github.com/ngrok/ngrok-docs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">ngrok's official documentation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Sobeston/zig.guide#1737158400</id>
-    <title>https://github.com/Sobeston/zig.guide</title>
-    <link href="https://github.com/Sobeston/zig.guide" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Repo for https://zig.guide content. Get up to speed with Zig quickly.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/huggingface/course#1737158400</id>
-    <title>https://github.com/huggingface/course</title>
-    <link href="https://github.com/huggingface/course" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Hugging Face course on Transformers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/6174/comflowy#1737158400</id>
-    <title>https://github.com/6174/comflowy</title>
-    <link href="https://github.com/6174/comflowy" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/wix/react-native-navigation#1737158400</id>
-    <title>https://github.com/wix/react-native-navigation</title>
-    <link href="https://github.com/wix/react-native-navigation" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A complete native navigation solution for React Native</content>
-  </entry>
-  <entry>
     <id>https://github.com/npm/documentation#1737158400</id>
     <title>https://github.com/npm/documentation</title>
     <link href="https://github.com/npm/documentation" />
@@ -52,32 +17,11 @@
     <content type="text">Documentation for the npm registry, website, and command-line interface.</content>
   </entry>
   <entry>
-    <id>https://github.com/MetaMask/metamask-docs#1737158400</id>
-    <title>https://github.com/MetaMask/metamask-docs</title>
-    <link href="https://github.com/MetaMask/metamask-docs" />
+    <id>https://github.com/gpxstudio/gpx.studio#1737158400</id>
+    <title>https://github.com/gpxstudio/gpx.studio</title>
+    <link href="https://github.com/gpxstudio/gpx.studio" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Developer documentation for MetaMask</content>
-  </entry>
-  <entry>
-    <id>https://github.com/yangshun/front-end-interview-handbook#1737158400</id>
-    <title>https://github.com/yangshun/front-end-interview-handbook</title>
-    <link href="https://github.com/yangshun/front-end-interview-handbook" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">⚡️ Front End interview preparation materials for busy engineers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/react-native-elements/react-native-elements#1737158400</id>
-    <title>https://github.com/react-native-elements/react-native-elements</title>
-    <link href="https://github.com/react-native-elements/react-native-elements" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Cross-Platform React Native UI Toolkit</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rainbow-me/rainbowkit#1737158400</id>
-    <title>https://github.com/rainbow-me/rainbowkit</title>
-    <link href="https://github.com/rainbow-me/rainbowkit" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The best way to connect a wallet 🌈 🧰</content>
+    <content type="text">the online GPX file editor</content>
   </entry>
   <entry>
     <id>https://github.com/cloudflare/cloudflare-docs#1737158400</id>
@@ -87,6 +31,62 @@
     <content type="text">Cloudflare’s documentation</content>
   </entry>
   <entry>
+    <id>https://github.com/yewstack/yew#1737158400</id>
+    <title>https://github.com/yewstack/yew</title>
+    <link href="https://github.com/yewstack/yew" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Rust / Wasm framework for creating reliable and efficient web applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mintlify/starter#1737158400</id>
+    <title>https://github.com/mintlify/starter</title>
+    <link href="https://github.com/mintlify/starter" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">📖 The starter kit for your Mintlify docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/react-native-elements/react-native-elements#1737158400</id>
+    <title>https://github.com/react-native-elements/react-native-elements</title>
+    <link href="https://github.com/react-native-elements/react-native-elements" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Cross-Platform React Native UI Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/drizzle-team/drizzle-orm-docs#1737158400</id>
+    <title>https://github.com/drizzle-team/drizzle-orm-docs</title>
+    <link href="https://github.com/drizzle-team/drizzle-orm-docs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Drizzle ORM documentation website</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/deep-rl-class#1737158400</id>
+    <title>https://github.com/huggingface/deep-rl-class</title>
+    <link href="https://github.com/huggingface/deep-rl-class" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/website#1737158400</id>
+    <title>https://github.com/nf-core/website</title>
+    <link href="https://github.com/nf-core/website" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Code and files for the main nf-core website.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MetaMask/metamask-docs#1737158400</id>
+    <title>https://github.com/MetaMask/metamask-docs</title>
+    <link href="https://github.com/MetaMask/metamask-docs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Developer documentation for MetaMask</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/atmos#1737158400</id>
+    <title>https://github.com/cloudposse/atmos</title>
+    <link href="https://github.com/cloudposse/atmos" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.</content>
+  </entry>
+  <entry>
     <id>https://github.com/withastro/docs#1737158400</id>
     <title>https://github.com/withastro/docs</title>
     <link href="https://github.com/withastro/docs" />
@@ -94,25 +94,25 @@
     <content type="text">Astro documentation</content>
   </entry>
   <entry>
-    <id>https://github.com/Comfy-Org/docs#1737158400</id>
-    <title>https://github.com/Comfy-Org/docs</title>
-    <link href="https://github.com/Comfy-Org/docs" />
+    <id>https://github.com/huggingface/course#1737158400</id>
+    <title>https://github.com/huggingface/course</title>
+    <link href="https://github.com/huggingface/course" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Documentation for ComfyUI</content>
+    <content type="text">The Hugging Face course on Transformers</content>
   </entry>
   <entry>
-    <id>https://github.com/shuding/nextra-docs-template#1737158400</id>
-    <title>https://github.com/shuding/nextra-docs-template</title>
-    <link href="https://github.com/shuding/nextra-docs-template" />
+    <id>https://github.com/prisma/docs#1737158400</id>
+    <title>https://github.com/prisma/docs</title>
+    <link href="https://github.com/prisma/docs" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Nextra docs template</content>
+    <content type="text">📚 Prisma Documentation</content>
   </entry>
   <entry>
-    <id>https://github.com/yewstack/yew#1737158400</id>
-    <title>https://github.com/yewstack/yew</title>
-    <link href="https://github.com/yewstack/yew" />
+    <id>https://github.com/aws-amplify/docs#1737158400</id>
+    <title>https://github.com/aws-amplify/docs</title>
+    <link href="https://github.com/aws-amplify/docs" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Rust / Wasm framework for creating reliable and efficient web applications</content>
+    <content type="text">AWS Amplify Framework Documentation</content>
   </entry>
   <entry>
     <id>https://github.com/openai/openai-cookbook#1737158400</id>
@@ -122,10 +122,31 @@
     <content type="text">Examples and guides for using the OpenAI API</content>
   </entry>
   <entry>
-    <id>https://github.com/newrelic/docs-website#1737158400</id>
-    <title>https://github.com/newrelic/docs-website</title>
-    <link href="https://github.com/newrelic/docs-website" />
+    <id>https://github.com/coollabsio/documentation-coolify#1737158400</id>
+    <title>https://github.com/coollabsio/documentation-coolify</title>
+    <link href="https://github.com/coollabsio/documentation-coolify" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Source code for @newrelic docs. We welcome pull requests and questions on our docs!</content>
+    <content type="text">Documentation for Coolify</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ava-labs/avalanche-docs#1737158400</id>
+    <title>https://github.com/ava-labs/avalanche-docs</title>
+    <link href="https://github.com/ava-labs/avalanche-docs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Protocol documentation for the Avalanche network.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/docs#1737158400</id>
+    <title>https://github.com/ethereum-optimism/docs</title>
+    <link href="https://github.com/ethereum-optimism/docs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Optimism Developer Docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EPMatt/awesome-ha-blueprints#1737158400</id>
+    <title>https://github.com/EPMatt/awesome-ha-blueprints</title>
+    <link href="https://github.com/EPMatt/awesome-ha-blueprints" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A curated collection of automation blueprints for Home Assistant.</content>
   </entry>
 </feed>

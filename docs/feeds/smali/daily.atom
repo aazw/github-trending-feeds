@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/vtosters/lite#1737158400</id>
-    <title>https://github.com/vtosters/lite</title>
-    <link href="https://github.com/vtosters/lite" />
+    <id>https://github.com/AhMyth/AhMyth-Android-RAT#1737158400</id>
+    <title>https://github.com/AhMyth/AhMyth-Android-RAT</title>
+    <link href="https://github.com/AhMyth/AhMyth-Android-RAT" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Модифицированный клиент VK</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Morsmalleo/AhMyth#1737158400</id>
-    <title>https://github.com/Morsmalleo/AhMyth</title>
-    <link href="https://github.com/Morsmalleo/AhMyth" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT</content>
+    <content type="text">Android Remote Administration Tool</content>
   </entry>
   <entry>
     <id>https://github.com/phhusson/treble_experimentations#1737158400</id>
@@ -29,12 +22,5 @@
     <link href="https://github.com/phhusson/treble_experimentations" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Notes about tinkering with Android Project Treble</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AhMyth/AhMyth-Android-RAT#1737158400</id>
-    <title>https://github.com/AhMyth/AhMyth-Android-RAT</title>
-    <link href="https://github.com/AhMyth/AhMyth-Android-RAT" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Android Remote Administration Tool</content>
   </entry>
 </feed>

@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Alexofp/BDCC#1737158400</id>
-    <title>https://github.com/Alexofp/BDCC</title>
-    <link href="https://github.com/Alexofp/BDCC" />
+    <id>https://github.com/ShadowBlip/OpenGamepadUI#1737158400</id>
+    <title>https://github.com/ShadowBlip/OpenGamepadUI</title>
+    <link href="https://github.com/ShadowBlip/OpenGamepadUI" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pablogila/TileMapDual#1737158400</id>
-    <title>https://github.com/pablogila/TileMapDual</title>
-    <link href="https://github.com/pablogila/TileMapDual" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An automatic, real-time dual-grid tileset system for Godot</content>
+    <content type="text">Open source gamepad-native game launcher and overlay</content>
   </entry>
   <entry>
     <id>https://github.com/dialogic-godot/dialogic#1737158400</id>
@@ -31,18 +24,60 @@
     <content type="text">💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</content>
   </entry>
   <entry>
-    <id>https://github.com/git-learning-game/oh-my-git#1737158400</id>
-    <title>https://github.com/git-learning-game/oh-my-git</title>
-    <link href="https://github.com/git-learning-game/oh-my-git" />
+    <id>https://github.com/Praytic/youtd2#1737158400</id>
+    <title>https://github.com/Praytic/youtd2</title>
+    <link href="https://github.com/Praytic/youtd2" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An interactive Git learning game!</content>
+    <content type="text">Classic community-driven session-based Tower Defense game with RPG elements.</content>
   </entry>
   <entry>
-    <id>https://github.com/ShadowBlip/OpenGamepadUI#1737158400</id>
-    <title>https://github.com/ShadowBlip/OpenGamepadUI</title>
-    <link href="https://github.com/ShadowBlip/OpenGamepadUI" />
+    <id>https://github.com/GDQuest/learn-gdscript#1737158400</id>
+    <title>https://github.com/GDQuest/learn-gdscript</title>
+    <link href="https://github.com/GDQuest/learn-gdscript" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open source gamepad-native game launcher and overlay</content>
+    <content type="text">Learn Godot's GDScript programming language from zero, right in your browser, for free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RodZill4/material-maker#1737158400</id>
+    <title>https://github.com/RodZill4/material-maker</title>
+    <link href="https://github.com/RodZill4/material-maker" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A procedural textures authoring and 3D model painting tool based on the Godot game engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MewPurPur/GodSVG#1737158400</id>
+    <title>https://github.com/MewPurPur/GodSVG</title>
+    <link href="https://github.com/MewPurPur/GodSVG" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A vector graphics application for structured SVG editing, available on all major desktop platforms. Currently in late alpha.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gdquest-demos/godot-shaders#1737158400</id>
+    <title>https://github.com/gdquest-demos/godot-shaders</title>
+    <link href="https://github.com/gdquest-demos/godot-shaders" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/don-tnowe/godot-resources-as-sheets-plugin#1737158400</id>
+    <title>https://github.com/don-tnowe/godot-resources-as-sheets-plugin</title>
+    <link href="https://github.com/don-tnowe/godot-resources-as-sheets-plugin" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">I needed to edit many Resource files, so figured someone would too.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pablogila/TileMapDual#1737158400</id>
+    <title>https://github.com/pablogila/TileMapDual</title>
+    <link href="https://github.com/pablogila/TileMapDual" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An automatic, real-time dual-grid tileset system for Godot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitbrain/beehave#1737158400</id>
+    <title>https://github.com/bitbrain/beehave</title>
+    <link href="https://github.com/bitbrain/beehave" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🐝 behavior tree AI for Godot Engine</content>
   </entry>
   <entry>
     <id>https://github.com/godotengine/godot-demo-projects#1737158400</id>
@@ -50,26 +85,5 @@
     <link href="https://github.com/godotengine/godot-demo-projects" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Demonstration and Template Projects</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mbrlabs/Lorien#1737158400</id>
-    <title>https://github.com/mbrlabs/Lorien</title>
-    <link href="https://github.com/mbrlabs/Lorien" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Phazorknight/Cogito#1737158400</id>
-    <title>https://github.com/Phazorknight/Cogito</title>
-    <link href="https://github.com/Phazorknight/Cogito" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Immersive Sim Template Project for GODOT 4</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Orama-Interactive/Pixelorama#1737158400</id>
-    <title>https://github.com/Orama-Interactive/Pixelorama</title>
-    <link href="https://github.com/Orama-Interactive/Pixelorama" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!</content>
   </entry>
 </feed>

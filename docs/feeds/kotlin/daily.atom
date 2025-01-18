@@ -10,74 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/square/leakcanary#1737158400</id>
-    <title>https://github.com/square/leakcanary</title>
-    <link href="https://github.com/square/leakcanary" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A memory leak detection library for Android.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bannedbook/fanqiang#1737158400</id>
-    <title>https://github.com/bannedbook/fanqiang</title>
-    <link href="https://github.com/bannedbook/fanqiang" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">翻墙-科学上网</content>
-  </entry>
-  <entry>
     <id>https://github.com/bitwarden/android#1737158400</id>
     <title>https://github.com/bitwarden/android</title>
     <link href="https://github.com/bitwarden/android" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Bitwarden mobile app for Android.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sqldelight/sqldelight#1737158400</id>
-    <title>https://github.com/sqldelight/sqldelight</title>
-    <link href="https://github.com/sqldelight/sqldelight" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">SQLDelight - Generates typesafe Kotlin APIs from SQL</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aws/aws-toolkit-jetbrains#1737158400</id>
-    <title>https://github.com/aws/aws-toolkit-jetbrains</title>
-    <link href="https://github.com/aws/aws-toolkit-jetbrains" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rnmapbox/maps#1737158400</id>
-    <title>https://github.com/rnmapbox/maps</title>
-    <link href="https://github.com/rnmapbox/maps" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A Mapbox react native module for creating custom maps</content>
-  </entry>
-  <entry>
-    <id>https://github.com/JunkFood02/Seal#1737158400</id>
-    <title>https://github.com/JunkFood02/Seal</title>
-    <link href="https://github.com/JunkFood02/Seal" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You</content>
-  </entry>
-  <entry>
-    <id>https://github.com/square/moshi#1737158400</id>
-    <title>https://github.com/square/moshi</title>
-    <link href="https://github.com/square/moshi" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A modern JSON library for Kotlin and Java.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Kotlin/kotlinx.coroutines#1737158400</id>
-    <title>https://github.com/Kotlin/kotlinx.coroutines</title>
-    <link href="https://github.com/Kotlin/kotlinx.coroutines" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Library support for Kotlin coroutines</content>
-  </entry>
-  <entry>
-    <id>https://github.com/JetBrains/compose-multiplatform#1737158400</id>
-    <title>https://github.com/JetBrains/compose-multiplatform</title>
-    <link href="https://github.com/JetBrains/compose-multiplatform" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.</content>
   </entry>
   <entry>
     <id>https://github.com/ethereum-lists/chains#1737158400</id>
@@ -87,18 +24,11 @@
     <content type="text">provides metadata for chains</content>
   </entry>
   <entry>
-    <id>https://github.com/firebase/quickstart-android#1737158400</id>
-    <title>https://github.com/firebase/quickstart-android</title>
-    <link href="https://github.com/firebase/quickstart-android" />
+    <id>https://github.com/aws/aws-toolkit-jetbrains#1737158400</id>
+    <title>https://github.com/aws/aws-toolkit-jetbrains</title>
+    <link href="https://github.com/aws/aws-toolkit-jetbrains" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Firebase Quickstart Samples for Android</content>
-  </entry>
-  <entry>
-    <id>https://github.com/android/nowinandroid#1737158400</id>
-    <title>https://github.com/android/nowinandroid</title>
-    <link href="https://github.com/android/nowinandroid" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A fully functional Android app built entirely with Kotlin and Jetpack Compose</content>
+    <content type="text">AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs</content>
   </entry>
   <entry>
     <id>https://github.com/mobile-dev-inc/maestro#1737158400</id>
@@ -108,6 +38,27 @@
     <content type="text">Painless Mobile UI Automation</content>
   </entry>
   <entry>
+    <id>https://github.com/android/architecture-samples#1737158400</id>
+    <title>https://github.com/android/architecture-samples</title>
+    <link href="https://github.com/android/architecture-samples" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libre-tube/LibreTube#1737158400</id>
+    <title>https://github.com/libre-tube/LibreTube</title>
+    <link href="https://github.com/libre-tube/LibreTube" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An alternative frontend for YouTube, for Android.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AChep/keyguard-app#1737158400</id>
+    <title>https://github.com/AChep/keyguard-app</title>
+    <link href="https://github.com/AChep/keyguard-app" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.</content>
+  </entry>
+  <entry>
     <id>https://github.com/square/okhttp#1737158400</id>
     <title>https://github.com/square/okhttp</title>
     <link href="https://github.com/square/okhttp" />
@@ -115,25 +66,18 @@
     <content type="text">Square’s meticulous HTTP client for the JVM, Android, and GraalVM.</content>
   </entry>
   <entry>
-    <id>https://github.com/android/compose-samples#1737158400</id>
-    <title>https://github.com/android/compose-samples</title>
-    <link href="https://github.com/android/compose-samples" />
+    <id>https://github.com/Kotlin/kotlinx.coroutines#1737158400</id>
+    <title>https://github.com/Kotlin/kotlinx.coroutines</title>
+    <link href="https://github.com/Kotlin/kotlinx.coroutines" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Official Jetpack Compose samples.</content>
+    <content type="text">Library support for Kotlin coroutines</content>
   </entry>
   <entry>
-    <id>https://github.com/mostafaalagamy/Metrolist#1737158400</id>
-    <title>https://github.com/mostafaalagamy/Metrolist</title>
-    <link href="https://github.com/mostafaalagamy/Metrolist" />
+    <id>https://github.com/coil-kt/coil#1737158400</id>
+    <title>https://github.com/coil-kt/coil</title>
+    <link href="https://github.com/coil-kt/coil" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">YouTube Music client for Android</content>
-  </entry>
-  <entry>
-    <id>https://github.com/LibChecker/LibChecker#1737158400</id>
-    <title>https://github.com/LibChecker/LibChecker</title>
-    <link href="https://github.com/LibChecker/LibChecker" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An app to view libraries used in apps in your device.</content>
+    <content type="text">Image loading for Android and Compose Multiplatform.</content>
   </entry>
   <entry>
     <id>https://github.com/JetBrains/ideavim#1737158400</id>
@@ -141,5 +85,68 @@
     <link href="https://github.com/JetBrains/ideavim" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">IdeaVim – A Vim engine for JetBrains IDEs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/android/platform-samples#1737158400</id>
+    <title>https://github.com/android/platform-samples</title>
+    <link href="https://github.com/android/platform-samples" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A collection of samples of different Android OS platform APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mapbox/mapbox-maps-android#1737158400</id>
+    <title>https://github.com/mapbox/mapbox-maps-android</title>
+    <link href="https://github.com/mapbox/mapbox-maps-android" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Interactive, thoroughly customizable maps in native Android powered by vector tiles and OpenGL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oblador/react-native-keychain#1737158400</id>
+    <title>https://github.com/oblador/react-native-keychain</title>
+    <link href="https://github.com/oblador/react-native-keychain" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🔑 Keychain Access for React Native</content>
+  </entry>
+  <entry>
+    <id>https://github.com/android/nowinandroid#1737158400</id>
+    <title>https://github.com/android/nowinandroid</title>
+    <link href="https://github.com/android/nowinandroid" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A fully functional Android app built entirely with Kotlin and Jetpack Compose</content>
+  </entry>
+  <entry>
+    <id>https://github.com/videolan/vlc-android#1737158400</id>
+    <title>https://github.com/videolan/vlc-android</title>
+    <link href="https://github.com/videolan/vlc-android" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">VLC for Android, Android TV and ChromeOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/InsertKoinIO/koin#1737158400</id>
+    <title>https://github.com/InsertKoinIO/koin</title>
+    <link href="https://github.com/InsertKoinIO/koin" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Koin - a pragmatic lightweight dependency injection framework for Kotlin &amp; Kotlin Multiplatform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kotlin/dokka#1737158400</id>
+    <title>https://github.com/Kotlin/dokka</title>
+    <link href="https://github.com/Kotlin/dokka" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">API documentation engine for Kotlin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JLLeitschuh/ktlint-gradle#1737158400</id>
+    <title>https://github.com/JLLeitschuh/ktlint-gradle</title>
+    <link href="https://github.com/JLLeitschuh/ktlint-gradle" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A ktlint gradle plugin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stantanasi/streamflix#1737158400</id>
+    <title>https://github.com/stantanasi/streamflix</title>
+    <link href="https://github.com/stantanasi/streamflix" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An Android TV and mobile app to stream movies and TV shows for free</content>
   </entry>
 </feed>

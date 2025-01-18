@@ -16,4 +16,11 @@
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">A Gleam web framework for building HTML templates, single page applications, and real-time server components.</content>
   </entry>
+  <entry>
+    <id>https://github.com/gleam-lang/awesome-gleam#1737158400</id>
+    <title>https://github.com/gleam-lang/awesome-gleam</title>
+    <link href="https://github.com/gleam-lang/awesome-gleam" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">💯 A collection of Gleam libraries, projects, and resources</content>
+  </entry>
 </feed>

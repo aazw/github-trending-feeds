@@ -10,10 +10,17 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/catsout/wallpaper-engine-kde-plugin#1737158400</id>
-    <title>https://github.com/catsout/wallpaper-engine-kde-plugin</title>
-    <link href="https://github.com/catsout/wallpaper-engine-kde-plugin" />
+    <id>https://github.com/Keyitdev/sddm-astronaut-theme#1737158400</id>
+    <title>https://github.com/Keyitdev/sddm-astronaut-theme</title>
+    <link href="https://github.com/Keyitdev/sddm-astronaut-theme" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A kde wallpaper plugin integrating wallpaper engine</content>
+    <content type="text">Series of modern looking themes for SDDM.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Swordfish90/cool-retro-term#1737158400</id>
+    <title>https://github.com/Swordfish90/cool-retro-term</title>
+    <link href="https://github.com/Swordfish90/cool-retro-term" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A good looking terminal emulator which mimics the old cathode display...</content>
   </entry>
 </feed>

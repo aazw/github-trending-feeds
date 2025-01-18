@@ -10,69 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/drknzz/GitHub-Achievements#1737158400</id>
-    <title>https://github.com/drknzz/GitHub-Achievements</title>
-    <link href="https://github.com/drknzz/GitHub-Achievements" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🔥 A Complete List of GitHub Profile Badges and Achievements 🔥</content>
-  </entry>
-  <entry>
-    <id>https://github.com/docker/docs#1737158400</id>
-    <title>https://github.com/docker/docs</title>
-    <link href="https://github.com/docker/docs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Source repo for Docker's Documentation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SAP/styleguides#1737158400</id>
-    <title>https://github.com/SAP/styleguides</title>
-    <link href="https://github.com/SAP/styleguides" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repository provides SAP style guides for coding and coding-related topics.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Kotlin/KEEP#1737158400</id>
-    <title>https://github.com/Kotlin/KEEP</title>
-    <link href="https://github.com/Kotlin/KEEP" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Kotlin Evolution and Enhancement Process</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/vscode-docs#1737158400</id>
-    <title>https://github.com/microsoft/vscode-docs</title>
-    <link href="https://github.com/microsoft/vscode-docs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Public documentation for Visual Studio Code</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ethereum/ethereum-org-website#1737158400</id>
-    <title>https://github.com/ethereum/ethereum-org-website</title>
-    <link href="https://github.com/ethereum/ethereum-org-website" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Ethereum.org is a primary online resource for the Ethereum community.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/swiftlang/swift-evolution#1737158400</id>
-    <title>https://github.com/swiftlang/swift-evolution</title>
-    <link href="https://github.com/swiftlang/swift-evolution" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mdn/content#1737158400</id>
-    <title>https://github.com/mdn/content</title>
-    <link href="https://github.com/mdn/content" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The content behind MDN Web Docs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/alexandresanlim/Badges4-README.md-Profile#1737158400</id>
-    <title>https://github.com/alexandresanlim/Badges4-README.md-Profile</title>
-    <link href="https://github.com/alexandresanlim/Badges4-README.md-Profile" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Improve your README.md profile with these amazing badges.</content>
-  </entry>
-  <entry>
     <id>https://github.com/OAI/OpenAPI-Specification#1737158400</id>
     <title>https://github.com/OAI/OpenAPI-Specification</title>
     <link href="https://github.com/OAI/OpenAPI-Specification" />
@@ -80,10 +17,17 @@
     <content type="text">The OpenAPI Specification Repository</content>
   </entry>
   <entry>
-    <id>https://github.com/labuladong/fucking-algorithm#1737158400</id>
-    <title>https://github.com/labuladong/fucking-algorithm</title>
-    <link href="https://github.com/labuladong/fucking-algorithm" />
+    <id>https://github.com/adambard/learnxinyminutes-docs#1737158400</id>
+    <title>https://github.com/adambard/learnxinyminutes-docs</title>
+    <link href="https://github.com/adambard/learnxinyminutes-docs" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</content>
+    <content type="text">Code documentation written as code! How novel and totally my idea!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ppy/osu-wiki#1737158400</id>
+    <title>https://github.com/ppy/osu-wiki</title>
+    <link href="https://github.com/ppy/osu-wiki" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">home of the osu! wiki</content>
   </entry>
 </feed>

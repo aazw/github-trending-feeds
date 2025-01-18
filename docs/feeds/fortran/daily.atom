@@ -24,17 +24,73 @@
     <content type="text">Quantum chemistry and solid state physics software package</content>
   </entry>
   <entry>
-    <id>https://github.com/GEOS-ESM/MAPL#1737158400</id>
-    <title>https://github.com/GEOS-ESM/MAPL</title>
-    <link href="https://github.com/GEOS-ESM/MAPL" />
+    <id>https://github.com/OpenFAST/openfast#1737158400</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</content>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
   </entry>
   <entry>
-    <id>https://github.com/JuliaPackaging/Yggdrasil#1737158400</id>
-    <title>https://github.com/JuliaPackaging/Yggdrasil</title>
-    <link href="https://github.com/JuliaPackaging/Yggdrasil" />
+    <id>https://github.com/Goddard-Fortran-Ecosystem/fArgParse#1737158400</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/fArgParse</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/fArgParse" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Collection of builder repositories for BinaryBuilder.jl</content>
+    <content type="text">Command line argument parsing for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1737158400</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/gFTL#1737158400</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/gFTL</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/gFTL" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Software containers for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CFMIP/COSPv2.0#1737158400</id>
+    <title>https://github.com/CFMIP/COSPv2.0</title>
+    <link href="https://github.com/CFMIP/COSPv2.0" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1737158400</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grimme-lab/xtb#1737158400</id>
+    <title>https://github.com/grimme-lab/xtb</title>
+    <link href="https://github.com/grimme-lab/xtb" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Semiempirical Extended Tight-Binding Program Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NOAA-GFDL/FMS#1737158400</id>
+    <title>https://github.com/NOAA-GFDL/FMS</title>
+    <link href="https://github.com/NOAA-GFDL/FMS" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">GFDL's Flexible Modeling System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MPAS-Dev/MPAS-Model#1737158400</id>
+    <title>https://github.com/MPAS-Dev/MPAS-Model</title>
+    <link href="https://github.com/MPAS-Dev/MPAS-Model" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Repository for MPAS models and shared framework releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Unidata/netcdf-fortran#1737158400</id>
+    <title>https://github.com/Unidata/netcdf-fortran</title>
+    <link href="https://github.com/Unidata/netcdf-fortran" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library. Install the netCDF C library first.</content>
   </entry>
 </feed>

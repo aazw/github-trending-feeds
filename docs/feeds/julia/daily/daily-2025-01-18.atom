@@ -10,25 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/SciML/SciMLBase.jl#1737158400</id>
-    <title>https://github.com/SciML/SciMLBase.jl</title>
-    <link href="https://github.com/SciML/SciMLBase.jl" />
+    <id>https://github.com/JuliaRegistries/General#1737158400</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Base interface of the SciML ecosystem</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SciML/ModelingToolkit.jl#1737158400</id>
-    <title>https://github.com/SciML/ModelingToolkit.jl</title>
-    <link href="https://github.com/SciML/ModelingToolkit.jl" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fonsp/Pluto.jl#1737158400</id>
-    <title>https://github.com/fonsp/Pluto.jl</title>
-    <link href="https://github.com/fonsp/Pluto.jl" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🎈 Simple reactive notebooks for Julia</content>
+    <content type="text">The official registry of general Julia packages</content>
   </entry>
   <entry>
     <id>https://github.com/MakieOrg/Makie.jl#1737158400</id>
@@ -38,6 +24,13 @@
     <content type="text">Interactive data visualizations and plotting in Julia</content>
   </entry>
   <entry>
+    <id>https://github.com/JuliaLang/julia#1737158400</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
     <id>https://github.com/CliMA/ClimaAtmos.jl#1737158400</id>
     <title>https://github.com/CliMA/ClimaAtmos.jl</title>
     <link href="https://github.com/CliMA/ClimaAtmos.jl" />
@@ -45,17 +38,10 @@
     <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
   </entry>
   <entry>
-    <id>https://github.com/JuliaRegistries/General#1737158400</id>
-    <title>https://github.com/JuliaRegistries/General</title>
-    <link href="https://github.com/JuliaRegistries/General" />
+    <id>https://github.com/SciML/ModelingToolkit.jl#1737158400</id>
+    <title>https://github.com/SciML/ModelingToolkit.jl</title>
+    <link href="https://github.com/SciML/ModelingToolkit.jl" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The official registry of general Julia packages</content>
-  </entry>
-  <entry>
-    <id>https://github.com/JuliaLang/julia#1737158400</id>
-    <title>https://github.com/JuliaLang/julia</title>
-    <link href="https://github.com/JuliaLang/julia" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Julia Programming Language</content>
+    <content type="text">An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations</content>
   </entry>
 </feed>

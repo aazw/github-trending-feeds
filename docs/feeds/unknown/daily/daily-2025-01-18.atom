@@ -10,67 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/ossu/computer-science#1737158400</id>
-    <title>https://github.com/ossu/computer-science</title>
-    <link href="https://github.com/ossu/computer-science" />
+    <id>https://github.com/practical-tutorials/project-based-learning#1737158400</id>
+    <title>https://github.com/practical-tutorials/project-based-learning</title>
+    <link href="https://github.com/practical-tutorials/project-based-learning" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🎓 Path to a free self-taught education in Computer Science!</content>
+    <content type="text">Curated list of project-based tutorials</content>
   </entry>
   <entry>
-    <id>https://github.com/PlexPt/awesome-chatgpt-prompts-zh#1737158400</id>
-    <title>https://github.com/PlexPt/awesome-chatgpt-prompts-zh</title>
-    <link href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" />
+    <id>https://github.com/ruanyf/weekly#1737158400</id>
+    <title>https://github.com/ruanyf/weekly</title>
+    <link href="https://github.com/ruanyf/weekly" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dailydotdev/daily#1737158400</id>
-    <title>https://github.com/dailydotdev/daily</title>
-    <link href="https://github.com/dailydotdev/daily" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sindresorhus/awesome#1737158400</id>
-    <title>https://github.com/sindresorhus/awesome</title>
-    <link href="https://github.com/sindresorhus/awesome" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">😎 Awesome lists about all kinds of interesting topics</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fishttp/awesome-bluesky#1737158400</id>
-    <title>https://github.com/fishttp/awesome-bluesky</title>
-    <link href="https://github.com/fishttp/awesome-bluesky" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A list of all known tools available for the Bluesky platform</content>
-  </entry>
-  <entry>
-    <id>https://github.com/DEBAGanov/interview_questions#1737158400</id>
-    <title>https://github.com/DEBAGanov/interview_questions</title>
-    <link href="https://github.com/DEBAGanov/interview_questions" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Java Developer Interview Preparation Materials</content>
-  </entry>
-  <entry>
-    <id>https://github.com/afshinea/stanford-cs-229-machine-learning#1737158400</id>
-    <title>https://github.com/afshinea/stanford-cs-229-machine-learning</title>
-    <link href="https://github.com/afshinea/stanford-cs-229-machine-learning" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">VIP cheatsheets for Stanford's CS 229 Machine Learning</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sudheerj/angular-interview-questions#1737158400</id>
-    <title>https://github.com/sudheerj/angular-interview-questions</title>
-    <link href="https://github.com/sudheerj/angular-interview-questions" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">List of 300 Angular Interview Questions and answers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/github/gitignore#1737158400</id>
-    <title>https://github.com/github/gitignore</title>
-    <link href="https://github.com/github/gitignore" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A collection of useful .gitignore templates</content>
+    <content type="text">科技爱好者周刊，每周五发布</content>
   </entry>
   <entry>
     <id>https://github.com/emmabostian/developer-portfolios#1737158400</id>
@@ -80,17 +31,66 @@
     <content type="text">A list of developer portfolios for your inspiration</content>
   </entry>
   <entry>
-    <id>https://github.com/steven2358/awesome-generative-ai#1737158400</id>
-    <title>https://github.com/steven2358/awesome-generative-ai</title>
-    <link href="https://github.com/steven2358/awesome-generative-ai" />
+    <id>https://github.com/sger/RustBooks#1737158400</id>
+    <title>https://github.com/sger/RustBooks</title>
+    <link href="https://github.com/sger/RustBooks" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A curated list of modern Generative Artificial Intelligence projects and services</content>
+    <content type="text">List of Rust books</content>
   </entry>
   <entry>
-    <id>https://github.com/practical-tutorials/project-based-learning#1737158400</id>
-    <title>https://github.com/practical-tutorials/project-based-learning</title>
-    <link href="https://github.com/practical-tutorials/project-based-learning" />
+    <id>https://github.com/SimplifyJobs/Summer2025-Internships#1737158400</id>
+    <title>https://github.com/SimplifyJobs/Summer2025-Internships</title>
+    <link href="https://github.com/SimplifyJobs/Summer2025-Internships" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Curated list of project-based tutorials</content>
+    <content type="text">Collection of Summer 2025 tech internships!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shieldfy/API-Security-Checklist#1737158400</id>
+    <title>https://github.com/shieldfy/API-Security-Checklist</title>
+    <link href="https://github.com/shieldfy/API-Security-Checklist" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Checklist of the most important security countermeasures when designing, testing, and releasing your API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pluja/awesome-privacy#1737158400</id>
+    <title>https://github.com/pluja/awesome-privacy</title>
+    <link href="https://github.com/pluja/awesome-privacy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HqWu-HITCS/Awesome-Chinese-LLM#1737158400</id>
+    <title>https://github.com/HqWu-HITCS/Awesome-Chinese-LLM</title>
+    <link href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PatrickJS/awesome-cursorrules#1737158400</id>
+    <title>https://github.com/PatrickJS/awesome-cursorrules</title>
+    <link href="https://github.com/PatrickJS/awesome-cursorrules" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">📄 A curated list of awesome .cursorrules files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mlabonne/llm-datasets#1737158400</id>
+    <title>https://github.com/mlabonne/llm-datasets</title>
+    <link href="https://github.com/mlabonne/llm-datasets" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Curated list of datasets and tools for post-training.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rothgar/awesome-tuis#1737158400</id>
+    <title>https://github.com/rothgar/awesome-tuis</title>
+    <link href="https://github.com/rothgar/awesome-tuis" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">List of projects that provide terminal user interfaces</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ossu/computer-science#1737158400</id>
+    <title>https://github.com/ossu/computer-science</title>
+    <link href="https://github.com/ossu/computer-science" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🎓 Path to a free self-taught education in Computer Science!</content>
   </entry>
 </feed>

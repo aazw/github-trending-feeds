@@ -10,11 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/CodenameCrew/CodenameEngine#1737158400</id>
-    <title>https://github.com/CodenameCrew/CodenameEngine</title>
-    <link href="https://github.com/CodenameCrew/CodenameEngine" />
+    <id>https://github.com/FunkinCrew/Funkin#1737158400</id>
+    <title>https://github.com/FunkinCrew/Funkin</title>
+    <link href="https://github.com/FunkinCrew/Funkin" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">awesome fnf engine :D</content>
+    <content type="text">A rhythm game made with HaxeFlixel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepnight/ldtk#1737158400</id>
+    <title>https://github.com/deepnight/ldtk</title>
+    <link href="https://github.com/deepnight/ldtk" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Modern, lightweight and efficient 2D level editor</content>
   </entry>
   <entry>
     <id>https://github.com/ShadowMario/FNF-PsychEngine#1737158400</id>
@@ -22,5 +29,12 @@
     <link href="https://github.com/ShadowMario/FNF-PsychEngine" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Engine originally used on Mind Games mod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HaxeFoundation/haxe#1737158400</id>
+    <title>https://github.com/HaxeFoundation/haxe</title>
+    <link href="https://github.com/HaxeFoundation/haxe" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Haxe - The Cross-Platform Toolkit</content>
   </entry>
 </feed>

@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1737158400</id>
-    <title>https://github.com/chipsalliance/Cores-VeeR-EL2</title>
-    <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" />
+    <id>https://github.com/lowRISC/opentitan#1737158400</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">VeeR EL2 Core</content>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
   </entry>
   <entry>
     <id>https://github.com/pulp-platform/riscv-dbg#1737158400</id>
@@ -24,6 +24,34 @@
     <content type="text">RISC-V Debug Support for our PULP RISC-V Cores</content>
   </entry>
   <entry>
+    <id>https://github.com/adam-maj/tiny-gpu#1737158400</id>
+    <title>https://github.com/adam-maj/tiny-gpu</title>
+    <link href="https://github.com/adam-maj/tiny-gpu" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/common_cells#1737158400</id>
+    <title>https://github.com/pulp-platform/common_cells</title>
+    <link href="https://github.com/pulp-platform/common_cells" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Common SystemVerilog components</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1737158400</id>
+    <title>https://github.com/chipsalliance/Cores-VeeR-EL2</title>
+    <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">VeeR EL2 Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi#1737158400</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+  <entry>
     <id>https://github.com/lowRISC/ibex#1737158400</id>
     <title>https://github.com/lowRISC/ibex</title>
     <link href="https://github.com/lowRISC/ibex" />
@@ -31,10 +59,17 @@
     <content type="text">Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.</content>
   </entry>
   <entry>
-    <id>https://github.com/lowRISC/opentitan#1737158400</id>
-    <title>https://github.com/lowRISC/opentitan</title>
-    <link href="https://github.com/lowRISC/opentitan" />
+    <id>https://github.com/MiSTer-devel/Saturn_MiSTer#1737158400</id>
+    <title>https://github.com/MiSTer-devel/Saturn_MiSTer</title>
+    <link href="https://github.com/MiSTer-devel/Saturn_MiSTer" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenTitan: Open source silicon root of trust</content>
+    <content type="text">Sega Saturn for MiSTer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bespoke-silicon-group/basejump_stl#1737158400</id>
+    <title>https://github.com/bespoke-silicon-group/basejump_stl</title>
+    <link href="https://github.com/bespoke-silicon-group/basejump_stl" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">BaseJump STL: A Standard Template Library for SystemVerilog</content>
   </entry>
 </feed>

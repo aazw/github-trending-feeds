@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/nushell/nushell.github.io#1737158400</id>
+    <title>https://github.com/nushell/nushell.github.io</title>
+    <link href="https://github.com/nushell/nushell.github.io" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Nushell's main website, blog, book, and more</content>
+  </entry>
 </feed>

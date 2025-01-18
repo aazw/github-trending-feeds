@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/MarketSquare/robotframework-tidy#1737158400</id>
+    <title>https://github.com/MarketSquare/robotframework-tidy</title>
+    <link href="https://github.com/MarketSquare/robotframework-tidy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Robot Framework code formatter</content>
+  </entry>
+  <entry>
     <id>https://github.com/renode/renode#1737158400</id>
     <title>https://github.com/renode/renode</title>
     <link href="https://github.com/renode/renode" />

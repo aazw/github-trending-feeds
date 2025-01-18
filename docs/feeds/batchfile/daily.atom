@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/Flowseal/zapret-discord-youtube#1737158400</id>
+    <title>https://github.com/Flowseal/zapret-discord-youtube</title>
+    <link href="https://github.com/Flowseal/zapret-discord-youtube" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
     <id>https://github.com/PaperMC/Folia#1737158400</id>
     <title>https://github.com/PaperMC/Folia</title>
     <link href="https://github.com/PaperMC/Folia" />
@@ -17,25 +24,11 @@
     <content type="text">Fork of Paper which adds regionised multithreading to the dedicated server.</content>
   </entry>
   <entry>
-    <id>https://github.com/redis-windows/redis-windows#1737158400</id>
-    <title>https://github.com/redis-windows/redis-windows</title>
-    <link href="https://github.com/redis-windows/redis-windows" />
+    <id>https://github.com/enhorse/java-interview#1737158400</id>
+    <title>https://github.com/enhorse/java-interview</title>
+    <link href="https://github.com/enhorse/java-interview" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows</content>
-  </entry>
-  <entry>
-    <id>https://github.com/CesiumGS/3d-tiles#1737158400</id>
-    <title>https://github.com/CesiumGS/3d-tiles</title>
-    <link href="https://github.com/CesiumGS/3d-tiles" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Specification for streaming massive heterogeneous 3D geospatial datasets 🌎</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aboutcode-org/aboutcode#1737158400</id>
-    <title>https://github.com/aboutcode-org/aboutcode</title>
-    <link href="https://github.com/aboutcode-org/aboutcode" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">AboutCode project: tools and data to uncover things about code: the provenance, origin, license, and more (packages, security, quality, etc.) of FOSS code</content>
+    <content type="text">Вопросы и ответы к интервью Java разработчика</content>
   </entry>
   <entry>
     <id>https://github.com/Systems-Modeling/SysML-v2-Release#1737158400</id>
@@ -45,45 +38,38 @@
     <content type="text">The latest incremental release of SysML v2. Start here.</content>
   </entry>
   <entry>
-    <id>https://github.com/mon5termatt/medicat_installer#1737158400</id>
-    <title>https://github.com/mon5termatt/medicat_installer</title>
-    <link href="https://github.com/mon5termatt/medicat_installer" />
+    <id>https://github.com/awesome-windows11/windows11#1737158400</id>
+    <title>https://github.com/awesome-windows11/windows11</title>
+    <link href="https://github.com/awesome-windows11/windows11" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Medicat Installer Repo</content>
+    <content type="text">🌎 Windows 11 Settings, Tweaks, Scripts</content>
   </entry>
   <entry>
-    <id>https://github.com/vim/vim-win32-installer#1737158400</id>
-    <title>https://github.com/vim/vim-win32-installer</title>
-    <link href="https://github.com/vim/vim-win32-installer" />
+    <id>https://github.com/realpython/python-guide#1737158400</id>
+    <title>https://github.com/realpython/python-guide</title>
+    <link href="https://github.com/realpython/python-guide" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Vim Win32 Installer</content>
+    <content type="text">Python best practices guidebook, written for humans.</content>
   </entry>
   <entry>
-    <id>https://github.com/isc30/ryzen-7000-series-proxmox#1737158400</id>
-    <title>https://github.com/isc30/ryzen-7000-series-proxmox</title>
-    <link href="https://github.com/isc30/ryzen-7000-series-proxmox" />
+    <id>https://github.com/AveYo/MediaCreationTool.bat#1737158400</id>
+    <title>https://github.com/AveYo/MediaCreationTool.bat</title>
+    <link href="https://github.com/AveYo/MediaCreationTool.bat" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Get the Ryzen 7000 series processors with AMD Radeon 680M/780M integrated graphics or RDNA2/RDNA3 GPUs running with Proxmox, GPU passthrough and UEFI included.</content>
+    <content type="text">Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!</content>
   </entry>
   <entry>
-    <id>https://github.com/lstprjct/IDM-Activation-Script#1737158400</id>
-    <title>https://github.com/lstprjct/IDM-Activation-Script</title>
-    <link href="https://github.com/lstprjct/IDM-Activation-Script" />
+    <id>https://github.com/pal1000/mesa-dist-win#1737158400</id>
+    <title>https://github.com/pal1000/mesa-dist-win</title>
+    <link href="https://github.com/pal1000/mesa-dist-win" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">IDM Activation &amp; Trail Reset Script</content>
+    <content type="text">Pre-built Mesa3D drivers for Windows</content>
   </entry>
   <entry>
-    <id>https://github.com/Flowseal/zapret-discord-youtube#1737158400</id>
-    <title>https://github.com/Flowseal/zapret-discord-youtube</title>
-    <link href="https://github.com/Flowseal/zapret-discord-youtube" />
+    <id>https://github.com/VirtualHotBar/HotPEToolBox#1737158400</id>
+    <title>https://github.com/VirtualHotBar/HotPEToolBox</title>
+    <link href="https://github.com/VirtualHotBar/HotPEToolBox" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/enhorse/java-interview#1737158400</id>
-    <title>https://github.com/enhorse/java-interview</title>
-    <link href="https://github.com/enhorse/java-interview" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Вопросы и ответы к интервью Java разработчика</content>
+    <content type="text">一个纯净、强大、优雅的WinPE</content>
   </entry>
 </feed>

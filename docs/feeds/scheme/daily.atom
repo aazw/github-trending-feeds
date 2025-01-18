@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/cisco/ChezScheme#1737158400</id>
-    <title>https://github.com/cisco/ChezScheme</title>
-    <link href="https://github.com/cisco/ChezScheme" />
+    <id>https://github.com/nvim-treesitter/nvim-treesitter#1737158400</id>
+    <title>https://github.com/nvim-treesitter/nvim-treesitter</title>
+    <link href="https://github.com/nvim-treesitter/nvim-treesitter" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Chez Scheme</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Deltares/GEOLib#1737158400</id>
-    <title>https://github.com/Deltares/GEOLib</title>
-    <link href="https://github.com/Deltares/GEOLib" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">GEOLib: Python wrappers around the input and output files of the Deltares D-Serie models</content>
+    <content type="text">Nvim Treesitter configurations and abstraction layer</content>
   </entry>
   <entry>
     <id>https://github.com/nvim-treesitter/nvim-treesitter-textobjects#1737158400</id>
@@ -29,12 +22,5 @@
     <link href="https://github.com/nvim-treesitter/nvim-treesitter-textobjects" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/nvim-treesitter/nvim-treesitter#1737158400</id>
-    <title>https://github.com/nvim-treesitter/nvim-treesitter</title>
-    <link href="https://github.com/nvim-treesitter/nvim-treesitter" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Nvim Treesitter configurations and abstraction layer</content>
   </entry>
 </feed>

@@ -10,88 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework#1737158400</id>
-    <title>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</title>
-    <link href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework" />
+    <id>https://github.com/golang-standards/project-layout#1737158400</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The European Digital Identity Wallet</content>
+    <content type="text">Standard Go Project Layout</content>
   </entry>
   <entry>
-    <id>https://github.com/upbound/build#1737158400</id>
-    <title>https://github.com/upbound/build</title>
-    <link href="https://github.com/upbound/build" />
+    <id>https://github.com/dbt-labs/dbt-utils#1737158400</id>
+    <title>https://github.com/dbt-labs/dbt-utils</title>
+    <link href="https://github.com/dbt-labs/dbt-utils" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Upbound build and CI scripts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/raspberrypi/noobs#1737158400</id>
-    <title>https://github.com/raspberrypi/noobs</title>
-    <link href="https://github.com/raspberrypi/noobs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi</content>
-  </entry>
-  <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-specification#1737158400</id>
-    <title>https://github.com/open-telemetry/opentelemetry-specification</title>
-    <link href="https://github.com/open-telemetry/opentelemetry-specification" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Specifications for OpenTelemetry</content>
-  </entry>
-  <entry>
-    <id>https://github.com/reportportal/reportportal#1737158400</id>
-    <title>https://github.com/reportportal/reportportal</title>
-    <link href="https://github.com/reportportal/reportportal" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Main Repository. ReportPortal starts here - see readme below.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dbt-labs/dbt-codegen#1737158400</id>
-    <title>https://github.com/dbt-labs/dbt-codegen</title>
-    <link href="https://github.com/dbt-labs/dbt-codegen" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Macros that generate dbt code</content>
-  </entry>
-  <entry>
-    <id>https://github.com/container-storage-interface/spec#1737158400</id>
-    <title>https://github.com/container-storage-interface/spec</title>
-    <link href="https://github.com/container-storage-interface/spec" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Container Storage Interface (CSI) Specification.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/yuk7/ArchWSL#1737158400</id>
-    <title>https://github.com/yuk7/ArchWSL</title>
-    <link href="https://github.com/yuk7/ArchWSL" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">ArchLinux based WSL Distribution. Supports multiple install.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1737158400</id>
-    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
-    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
-  </entry>
-  <entry>
-    <id>https://github.com/inpyjama/c-ninja-listings#1737158400</id>
-    <title>https://github.com/inpyjama/c-ninja-listings</title>
-    <link href="https://github.com/inpyjama/c-ninja-listings" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Lower level assembly and C baremetal programming on RISC-V CPUs. Source code listings from the C-Ninja, in Pyjama! book.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/metal3-io/metal3-docs#1737158400</id>
-    <title>https://github.com/metal3-io/metal3-docs</title>
-    <link href="https://github.com/metal3-io/metal3-docs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Architecture documentation that describes the components being built under Metal³.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/LibreELEC/LibreELEC.tv#1737158400</id>
-    <title>https://github.com/LibreELEC/LibreELEC.tv</title>
-    <link href="https://github.com/LibreELEC/LibreELEC.tv" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Just enough OS for KODI</content>
+    <content type="text">Utility functions for dbt projects.</content>
   </entry>
   <entry>
     <id>https://github.com/uber-go/guide#1737158400</id>
@@ -115,17 +45,52 @@
     <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
   </entry>
   <entry>
-    <id>https://github.com/dbt-labs/dbt-utils#1737158400</id>
-    <title>https://github.com/dbt-labs/dbt-utils</title>
-    <link href="https://github.com/dbt-labs/dbt-utils" />
+    <id>https://github.com/deepseek-ai/DeepSeek-LLM#1737158400</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Utility functions for dbt projects.</content>
+    <content type="text">DeepSeek LLM: Let there be answers</content>
   </entry>
   <entry>
-    <id>https://github.com/golang-standards/project-layout#1737158400</id>
-    <title>https://github.com/golang-standards/project-layout</title>
-    <link href="https://github.com/golang-standards/project-layout" />
+    <id>https://github.com/cloudposse/build-harness#1737158400</id>
+    <title>https://github.com/cloudposse/build-harness</title>
+    <link href="https://github.com/cloudposse/build-harness" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Standard Go Project Layout</content>
+    <content type="text">Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/noobs#1737158400</id>
+    <title>https://github.com/raspberrypi/noobs</title>
+    <link href="https://github.com/raspberrypi/noobs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/erlang.mk#1737158400</id>
+    <title>https://github.com/ninenines/erlang.mk</title>
+    <link href="https://github.com/ninenines/erlang.mk" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A build tool for Erlang that just works.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1737158400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/api#1737158400</id>
+    <title>https://github.com/temporalio/api</title>
+    <link href="https://github.com/temporalio/api" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Temporal gRPC API and proto files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dell/csm#1737158400</id>
+    <title>https://github.com/dell/csm</title>
+    <link href="https://github.com/dell/csm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Dell Container Storage Modules (CSM)</content>
   </entry>
 </feed>

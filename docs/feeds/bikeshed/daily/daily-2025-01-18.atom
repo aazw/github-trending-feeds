@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/WebBluetoothCG/web-bluetooth#1737158400</id>
-    <title>https://github.com/WebBluetoothCG/web-bluetooth</title>
-    <link href="https://github.com/WebBluetoothCG/web-bluetooth" />
+    <id>https://github.com/WICG/turtledove#1737158400</id>
+    <title>https://github.com/WICG/turtledove</title>
+    <link href="https://github.com/WICG/turtledove" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bluetooth support for the Web.</content>
+    <content type="text">TURTLEDOVE</content>
   </entry>
   <entry>
     <id>https://github.com/w3c/webappsec-permissions-policy#1737158400</id>
@@ -29,27 +29,6 @@
     <link href="https://github.com/gpuweb/gpuweb" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Where the GPU for the Web work happens!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/patcg-individual-drafts/topics#1737158400</id>
-    <title>https://github.com/patcg-individual-drafts/topics</title>
-    <link href="https://github.com/patcg-individual-drafts/topics" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Topics API</content>
-  </entry>
-  <entry>
-    <id>https://github.com/WICG/storage-buckets#1737158400</id>
-    <title>https://github.com/WICG/storage-buckets</title>
-    <link href="https://github.com/WICG/storage-buckets" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">API proposal for managing multiple storage buckets</content>
-  </entry>
-  <entry>
-    <id>https://github.com/WICG/turtledove#1737158400</id>
-    <title>https://github.com/WICG/turtledove</title>
-    <link href="https://github.com/WICG/turtledove" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">TURTLEDOVE</content>
   </entry>
   <entry>
     <id>https://github.com/w3c/csswg-drafts#1737158400</id>

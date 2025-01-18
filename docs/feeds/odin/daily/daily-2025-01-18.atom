@@ -10,10 +10,24 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/odin-lang/examples#1737158400</id>
-    <title>https://github.com/odin-lang/examples</title>
-    <link href="https://github.com/odin-lang/examples" />
+    <id>https://github.com/odin-lang/Odin#1737158400</id>
+    <title>https://github.com/odin-lang/Odin</title>
+    <link href="https://github.com/odin-lang/Odin" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Examples of idiomatic Odin code</content>
+    <content type="text">Odin Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DanielGavin/ols#1737158400</id>
+    <title>https://github.com/DanielGavin/ols</title>
+    <link href="https://github.com/DanielGavin/ols" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Language server for Odin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template#1737158400</id>
+    <title>https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template</title>
+    <link href="https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An Odin + Raylib game template with Hot Reloading pre-setup</content>
   </entry>
 </feed>

@@ -10,60 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/getomni-ai/zerox#1737158400</id>
-    <title>https://github.com/getomni-ai/zerox</title>
-    <link href="https://github.com/getomni-ai/zerox" />
+    <id>https://github.com/OpenBMB/MiniCPM-o#1737158400</id>
+    <title>https://github.com/OpenBMB/MiniCPM-o</title>
+    <link href="https://github.com/OpenBMB/MiniCPM-o" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">PDF to Markdown with vision models</content>
+    <content type="text">MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone</content>
   </entry>
   <entry>
-    <id>https://github.com/frappe/frappe#1737158400</id>
-    <title>https://github.com/frappe/frappe</title>
-    <link href="https://github.com/frappe/frappe" />
+    <id>https://github.com/benbusby/whoogle-search#1737158400</id>
+    <title>https://github.com/benbusby/whoogle-search</title>
+    <link href="https://github.com/benbusby/whoogle-search" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Low code web framework for real world applications, in Python and Javascript</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openai/whisper#1737158400</id>
-    <title>https://github.com/openai/whisper</title>
-    <link href="https://github.com/openai/whisper" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Robust Speech Recognition via Large-Scale Weak Supervision</content>
-  </entry>
-  <entry>
-    <id>https://github.com/harry0703/MoneyPrinterTurbo#1737158400</id>
-    <title>https://github.com/harry0703/MoneyPrinterTurbo</title>
-    <link href="https://github.com/harry0703/MoneyPrinterTurbo" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vanna-ai/vanna#1737158400</id>
-    <title>https://github.com/vanna-ai/vanna</title>
-    <link href="https://github.com/vanna-ai/vanna" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cvat-ai/cvat#1737158400</id>
-    <title>https://github.com/cvat-ai/cvat</title>
-    <link href="https://github.com/cvat-ai/cvat" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nautechsystems/nautilus_trader#1737158400</id>
-    <title>https://github.com/nautechsystems/nautilus_trader</title>
-    <link href="https://github.com/nautechsystems/nautilus_trader" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A high-performance algorithmic trading platform and event-driven backtester</content>
-  </entry>
-  <entry>
-    <id>https://github.com/public-apis/public-apis#1737158400</id>
-    <title>https://github.com/public-apis/public-apis</title>
-    <link href="https://github.com/public-apis/public-apis" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A collective list of free APIs</content>
+    <content type="text">A self-hosted, ad-free, privacy-respecting metasearch engine</content>
   </entry>
   <entry>
     <id>https://github.com/KoljaB/RealtimeSTT#1737158400</id>
@@ -73,17 +31,87 @@
     <content type="text">A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.</content>
   </entry>
   <entry>
-    <id>https://github.com/Chainlit/chainlit#1737158400</id>
-    <title>https://github.com/Chainlit/chainlit</title>
-    <link href="https://github.com/Chainlit/chainlit" />
+    <id>https://github.com/stanfordnlp/dspy#1737158400</id>
+    <title>https://github.com/stanfordnlp/dspy</title>
+    <link href="https://github.com/stanfordnlp/dspy" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Build Conversational AI in minutes ⚡️</content>
+    <content type="text">DSPy: The framework for programming—not prompting—language models</content>
   </entry>
   <entry>
-    <id>https://github.com/OpenBMB/MiniCPM-o#1737158400</id>
-    <title>https://github.com/OpenBMB/MiniCPM-o</title>
-    <link href="https://github.com/OpenBMB/MiniCPM-o" />
+    <id>https://github.com/odoo/odoo#1737158400</id>
+    <title>https://github.com/odoo/odoo</title>
+    <link href="https://github.com/odoo/odoo" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone</content>
+    <content type="text">Odoo. Open Source Apps To Grow Your Business.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databrickslabs/dqx#1737158400</id>
+    <title>https://github.com/databrickslabs/dqx</title>
+    <link href="https://github.com/databrickslabs/dqx" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Databricks framework to validate Data Quality of pySpark DataFrames</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keephq/keep#1737158400</id>
+    <title>https://github.com/keephq/keep</title>
+    <link href="https://github.com/keephq/keep" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The open-source AIOps and alert management platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evolutionaryscale/esm#1737158400</id>
+    <title>https://github.com/evolutionaryscale/esm</title>
+    <link href="https://github.com/evolutionaryscale/esm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/vastsa/FileCodeBox#1737158400</id>
+    <title>https://github.com/vastsa/FileCodeBox</title>
+    <link href="https://github.com/vastsa/FileCodeBox" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Josh-XT/AGiXT#1737158400</id>
+    <title>https://github.com/Josh-XT/AGiXT</title>
+    <link href="https://github.com/Josh-XT/AGiXT" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getomni-ai/zerox#1737158400</id>
+    <title>https://github.com/getomni-ai/zerox</title>
+    <link href="https://github.com/getomni-ai/zerox" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">PDF to Markdown with vision models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AutoGPTQ/AutoGPTQ#1737158400</id>
+    <title>https://github.com/AutoGPTQ/AutoGPTQ</title>
+    <link href="https://github.com/AutoGPTQ/AutoGPTQ" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roboflow/supervision#1737158400</id>
+    <title>https://github.com/roboflow/supervision</title>
+    <link href="https://github.com/roboflow/supervision" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">We write your reusable computer vision tools. 💜</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/autogen#1737158400</id>
+    <title>https://github.com/microsoft/autogen</title>
+    <link href="https://github.com/microsoft/autogen" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ArchipelagoMW/Archipelago#1737158400</id>
+    <title>https://github.com/ArchipelagoMW/Archipelago</title>
+    <link href="https://github.com/ArchipelagoMW/Archipelago" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Archipelago Multi-Game Randomizer and Server</content>
   </entry>
 </feed>

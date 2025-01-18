@@ -10,53 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/foundry-rs/forge-std#1737158400</id>
-    <title>https://github.com/foundry-rs/forge-std</title>
-    <link href="https://github.com/foundry-rs/forge-std" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bgd-labs/aave-helpers#1737158400</id>
-    <title>https://github.com/bgd-labs/aave-helpers</title>
-    <link href="https://github.com/bgd-labs/aave-helpers" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/dapphub/ds-test#1737158400</id>
-    <title>https://github.com/dapphub/ds-test</title>
-    <link href="https://github.com/dapphub/ds-test" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Assertions, equality checks and other test helpers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/GNSPS/solidity-bytes-utils#1737158400</id>
-    <title>https://github.com/GNSPS/solidity-bytes-utils</title>
-    <link href="https://github.com/GNSPS/solidity-bytes-utils" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Utility Solidity library composed of basic operations for tightly packed bytes arrays</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PaulRBerg/prb-math#1737158400</id>
-    <title>https://github.com/PaulRBerg/prb-math</title>
-    <link href="https://github.com/PaulRBerg/prb-math" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Solidity library for advanced fixed-point math</content>
-  </entry>
-  <entry>
-    <id>https://github.com/l2beat/l2beat#1737158400</id>
-    <title>https://github.com/l2beat/l2beat</title>
-    <link href="https://github.com/l2beat/l2beat" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.</content>
-  </entry>
-  <entry>
     <id>https://github.com/Layr-Labs/eigenlayer-contracts#1737158400</id>
     <title>https://github.com/Layr-Labs/eigenlayer-contracts</title>
     <link href="https://github.com/Layr-Labs/eigenlayer-contracts" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1737158400</id>
+    <title>https://github.com/OpenZeppelin/openzeppelin-contracts</title>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
   </entry>
   <entry>
     <id>https://github.com/Uniswap/v2-periphery#1737158400</id>
@@ -66,6 +31,13 @@
     <content type="text">🎚 Peripheral smart contracts for interacting with Uniswap V2</content>
   </entry>
   <entry>
+    <id>https://github.com/transmissions11/solmate#1737158400</id>
+    <title>https://github.com/transmissions11/solmate</title>
+    <link href="https://github.com/transmissions11/solmate" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Modern, opinionated, and gas optimized building blocks for smart contract development.</content>
+  </entry>
+  <entry>
     <id>https://github.com/Uniswap/v4-core#1737158400</id>
     <title>https://github.com/Uniswap/v4-core</title>
     <link href="https://github.com/Uniswap/v4-core" />
@@ -73,10 +45,59 @@
     <content type="text">🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</content>
   </entry>
   <entry>
-    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1737158400</id>
-    <title>https://github.com/OpenZeppelin/openzeppelin-contracts</title>
-    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
+    <id>https://github.com/AmazingAng/WTF-Solidity#1737158400</id>
+    <title>https://github.com/AmazingAng/WTF-Solidity</title>
+    <link href="https://github.com/AmazingAng/WTF-Solidity" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
+    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Vectorized/solady#1737158400</id>
+    <title>https://github.com/Vectorized/solady</title>
+    <link href="https://github.com/Vectorized/solady" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Optimized Solidity snippets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Dapp-Learning-DAO/Dapp-Learning#1737158400</id>
+    <title>https://github.com/Dapp-Learning-DAO/Dapp-Learning</title>
+    <link href="https://github.com/Dapp-Learning-DAO/Dapp-Learning" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/v4-periphery#1737158400</id>
+    <title>https://github.com/Uniswap/v4-periphery</title>
+    <link href="https://github.com/Uniswap/v4-periphery" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dapphub/ds-test#1737158400</id>
+    <title>https://github.com/dapphub/ds-test</title>
+    <link href="https://github.com/dapphub/ds-test" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Assertions, equality checks and other test helpers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaulRBerg/prb-math#1737158400</id>
+    <title>https://github.com/PaulRBerg/prb-math</title>
+    <link href="https://github.com/PaulRBerg/prb-math" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Solidity library for advanced fixed-point math</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/forge-std#1737158400</id>
+    <title>https://github.com/foundry-rs/forge-std</title>
+    <link href="https://github.com/foundry-rs/forge-std" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/l2beat/l2beat#1737158400</id>
+    <title>https://github.com/l2beat/l2beat</title>
+    <link href="https://github.com/l2beat/l2beat" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.</content>
   </entry>
 </feed>

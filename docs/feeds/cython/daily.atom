@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/TA-Lib/ta-lib-python#1737158400</id>
-    <title>https://github.com/TA-Lib/ta-lib-python</title>
-    <link href="https://github.com/TA-Lib/ta-lib-python" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Python wrapper for TA-Lib (http://ta-lib.org/).</content>
-  </entry>
-  <entry>
     <id>https://github.com/openai/mujoco-py#1737158400</id>
     <title>https://github.com/openai/mujoco-py</title>
     <link href="https://github.com/openai/mujoco-py" />
@@ -24,10 +17,10 @@
     <content type="text">MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.</content>
   </entry>
   <entry>
-    <id>https://github.com/MagicStack/uvloop#1737158400</id>
-    <title>https://github.com/MagicStack/uvloop</title>
-    <link href="https://github.com/MagicStack/uvloop" />
+    <id>https://github.com/TA-Lib/ta-lib-python#1737158400</id>
+    <title>https://github.com/TA-Lib/ta-lib-python</title>
+    <link href="https://github.com/TA-Lib/ta-lib-python" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Ultra fast asyncio event loop.</content>
+    <content type="text">Python wrapper for TA-Lib (http://ta-lib.org/).</content>
   </entry>
 </feed>

@@ -10,48 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/sparrowapp-dev/sparrow-app#1737158400</id>
-    <title>https://github.com/sparrowapp-dev/sparrow-app</title>
-    <link href="https://github.com/sparrowapp-dev/sparrow-app" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Your next-gen API testing and development tool.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Figma-Linux/figma-linux#1737158400</id>
-    <title>https://github.com/Figma-Linux/figma-linux</title>
-    <link href="https://github.com/Figma-Linux/figma-linux" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nmelhado/league-page#1737158400</id>
-    <title>https://github.com/nmelhado/league-page</title>
-    <link href="https://github.com/nmelhado/league-page" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Create a custom league page for your Sleeper fantasy football league!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/themesberg/flowbite-svelte#1737158400</id>
-    <title>https://github.com/themesberg/flowbite-svelte</title>
-    <link href="https://github.com/themesberg/flowbite-svelte" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Official Svelte components built for Flowbite and Tailwind CSS</content>
-  </entry>
-  <entry>
-    <id>https://github.com/CriticalMoments/CMSaasStarter#1737158400</id>
-    <title>https://github.com/CriticalMoments/CMSaasStarter</title>
-    <link href="https://github.com/CriticalMoments/CMSaasStarter" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mistweaverco/bananas#1737158400</id>
-    <title>https://github.com/mistweaverco/bananas</title>
-    <link href="https://github.com/mistweaverco/bananas" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.</content>
-  </entry>
-  <entry>
     <id>https://github.com/vkurko/calendar#1737158400</id>
     <title>https://github.com/vkurko/calendar</title>
     <link href="https://github.com/vkurko/calendar" />
@@ -59,11 +17,11 @@
     <content type="text">Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views</content>
   </entry>
   <entry>
-    <id>https://github.com/seanmorley15/AdventureLog#1737158400</id>
-    <title>https://github.com/seanmorley15/AdventureLog</title>
-    <link href="https://github.com/seanmorley15/AdventureLog" />
+    <id>https://github.com/classroomio/classroomio#1737158400</id>
+    <title>https://github.com/classroomio/classroomio</title>
+    <link href="https://github.com/classroomio/classroomio" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Self-hostable travel tracker and trip planner.</content>
+    <content type="text">The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable</content>
   </entry>
   <entry>
     <id>https://github.com/pluja/whishper#1737158400</id>
@@ -73,60 +31,32 @@
     <content type="text">Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!</content>
   </entry>
   <entry>
-    <id>https://github.com/snoww/loa-logs#1737158400</id>
-    <title>https://github.com/snoww/loa-logs</title>
-    <link href="https://github.com/snoww/loa-logs" />
+    <id>https://github.com/nmelhado/league-page#1737158400</id>
+    <title>https://github.com/nmelhado/league-page</title>
+    <link href="https://github.com/nmelhado/league-page" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">LOA Logs - Modern DPS Meter for Lost Ark</content>
+    <content type="text">Create a custom league page for your Sleeper fantasy football league!</content>
   </entry>
   <entry>
-    <id>https://github.com/taikoxyz/taiko-mono#1737158400</id>
-    <title>https://github.com/taikoxyz/taiko-mono</title>
-    <link href="https://github.com/taikoxyz/taiko-mono" />
+    <id>https://github.com/seanmorley15/AdventureLog#1737158400</id>
+    <title>https://github.com/seanmorley15/AdventureLog</title>
+    <link href="https://github.com/seanmorley15/AdventureLog" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Taiko Alethia based rollup protocol 🥁 🌸</content>
+    <content type="text">Self-hostable travel tracker and trip planner.</content>
   </entry>
   <entry>
-    <id>https://github.com/gurucomputing/headscale-ui#1737158400</id>
-    <title>https://github.com/gurucomputing/headscale-ui</title>
-    <link href="https://github.com/gurucomputing/headscale-ui" />
+    <id>https://github.com/ChurchApps/FreeShow#1737158400</id>
+    <title>https://github.com/ChurchApps/FreeShow</title>
+    <link href="https://github.com/ChurchApps/FreeShow" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A web frontend for the headscale Tailscale-compatible coordination server</content>
+    <content type="text">FreeShow is a free and open-source, user-friendly presenter software.</content>
   </entry>
   <entry>
-    <id>https://github.com/primocms/primo#1737158400</id>
-    <title>https://github.com/primocms/primo</title>
-    <link href="https://github.com/primocms/primo" />
+    <id>https://github.com/saadeghi/daisyui#1737158400</id>
+    <title>https://github.com/saadeghi/daisyui</title>
+    <link href="https://github.com/saadeghi/daisyui" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dbgate/dbgate#1737158400</id>
-    <title>https://github.com/dbgate/dbgate</title>
-    <link href="https://github.com/dbgate/dbgate" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application</content>
-  </entry>
-  <entry>
-    <id>https://github.com/skeletonlabs/skeleton#1737158400</id>
-    <title>https://github.com/skeletonlabs/skeleton</title>
-    <link href="https://github.com/skeletonlabs/skeleton" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An adaptive design system and component solution built around Tailwind.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/basharovV/musicat#1737158400</id>
-    <title>https://github.com/basharovV/musicat</title>
-    <link href="https://github.com/basharovV/musicat" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rishikanthc/Scriberr#1737158400</id>
-    <title>https://github.com/rishikanthc/Scriberr</title>
-    <link href="https://github.com/rishikanthc/Scriberr" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Self-hosted AI audio transcription</content>
+    <content type="text">🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</content>
   </entry>
   <entry>
     <id>https://github.com/huntabyte/shadcn-svelte#1737158400</id>
@@ -136,10 +66,94 @@
     <content type="text">shadcn/ui, but for Svelte. ✨</content>
   </entry>
   <entry>
-    <id>https://github.com/saadeghi/daisyui#1737158400</id>
-    <title>https://github.com/saadeghi/daisyui</title>
-    <link href="https://github.com/saadeghi/daisyui" />
+    <id>https://github.com/svelte-society/sveltesociety.dev#1737158400</id>
+    <title>https://github.com/svelte-society/sveltesociety.dev</title>
+    <link href="https://github.com/svelte-society/sveltesociety.dev" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</content>
+    <content type="text">The Svelte Society website</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Niek/chatgpt-web#1737158400</id>
+    <title>https://github.com/Niek/chatgpt-web</title>
+    <link href="https://github.com/Niek/chatgpt-web" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">ChatGPT web interface using the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imputnet/cobalt#1737158400</id>
+    <title>https://github.com/imputnet/cobalt</title>
+    <link href="https://github.com/imputnet/cobalt" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">best way to save what you love</content>
+  </entry>
+  <entry>
+    <id>https://github.com/snoww/loa-logs#1737158400</id>
+    <title>https://github.com/snoww/loa-logs</title>
+    <link href="https://github.com/snoww/loa-logs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">LOA Logs - Modern DPS Meter for Lost Ark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gurucomputing/headscale-ui#1737158400</id>
+    <title>https://github.com/gurucomputing/headscale-ui</title>
+    <link href="https://github.com/gurucomputing/headscale-ui" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A web frontend for the headscale Tailscale-compatible coordination server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skeletonlabs/skeleton#1737158400</id>
+    <title>https://github.com/skeletonlabs/skeleton</title>
+    <link href="https://github.com/skeletonlabs/skeleton" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An adaptive design system and component solution built around Tailwind.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CriticalMoments/CMSaasStarter#1737158400</id>
+    <title>https://github.com/CriticalMoments/CMSaasStarter</title>
+    <link href="https://github.com/CriticalMoments/CMSaasStarter" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SOH69/mm_radio#1737158400</id>
+    <title>https://github.com/SOH69/mm_radio</title>
+    <link href="https://github.com/SOH69/mm_radio" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A Radio Script for Fivem Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matt8707/ha-fusion#1737158400</id>
+    <title>https://github.com/matt8707/ha-fusion</title>
+    <link href="https://github.com/matt8707/ha-fusion" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A modern, easy-to-use and performant custom Home Assistant dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroxify/haptic#1737158400</id>
+    <title>https://github.com/chroxify/haptic</title>
+    <link href="https://github.com/chroxify/haptic" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A new local-first, privacy-focused and open-source home for your markdown notes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leaningtech/webvm#1737158400</id>
+    <title>https://github.com/leaningtech/webvm</title>
+    <link href="https://github.com/leaningtech/webvm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Virtual Machine for the Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Figma-Linux/figma-linux#1737158400</id>
+    <title>https://github.com/Figma-Linux/figma-linux</title>
+    <link href="https://github.com/Figma-Linux/figma-linux" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/themesberg/flowbite-svelte#1737158400</id>
+    <title>https://github.com/themesberg/flowbite-svelte</title>
+    <link href="https://github.com/themesberg/flowbite-svelte" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Official Svelte components built for Flowbite and Tailwind CSS</content>
   </entry>
 </feed>

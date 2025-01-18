@@ -23,4 +23,11 @@
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.</content>
   </entry>
+  <entry>
+    <id>https://github.com/abbodi1406/vcredist#1737158400</id>
+    <title>https://github.com/abbodi1406/vcredist</title>
+    <link href="https://github.com/abbodi1406/vcredist" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes</content>
+  </entry>
 </feed>

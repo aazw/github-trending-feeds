@@ -10,74 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/StarRocks/starrocks#1737158400</id>
-    <title>https://github.com/StarRocks/starrocks</title>
-    <link href="https://github.com/StarRocks/starrocks" />
+    <id>https://github.com/iBotPeaches/Apktool#1737158400</id>
+    <title>https://github.com/iBotPeaches/Apktool</title>
+    <link href="https://github.com/iBotPeaches/Apktool" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/cassandra#1737158400</id>
-    <title>https://github.com/apache/cassandra</title>
-    <link href="https://github.com/apache/cassandra" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Apache Cassandra®</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/hertzbeat#1737158400</id>
-    <title>https://github.com/apache/hertzbeat</title>
-    <link href="https://github.com/apache/hertzbeat" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/langchain4j/langchain4j-examples#1737158400</id>
-    <title>https://github.com/langchain4j/langchain4j-examples</title>
-    <link href="https://github.com/langchain4j/langchain4j-examples" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/halo-dev/halo#1737158400</id>
-    <title>https://github.com/halo-dev/halo</title>
-    <link href="https://github.com/halo-dev/halo" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">强大易用的开源建站工具。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jenkinsci/jenkins#1737158400</id>
-    <title>https://github.com/jenkinsci/jenkins</title>
-    <link href="https://github.com/jenkinsci/jenkins" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Jenkins automation server</content>
-  </entry>
-  <entry>
-    <id>https://github.com/checkstyle/checkstyle#1737158400</id>
-    <title>https://github.com/checkstyle/checkstyle</title>
-    <link href="https://github.com/checkstyle/checkstyle" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/iceberg#1737158400</id>
-    <title>https://github.com/apache/iceberg</title>
-    <link href="https://github.com/apache/iceberg" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Apache Iceberg</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elastic/elasticsearch#1737158400</id>
-    <title>https://github.com/elastic/elasticsearch</title>
-    <link href="https://github.com/elastic/elasticsearch" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Free and Open Source, Distributed, RESTful Search Engine</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/kafka#1737158400</id>
-    <title>https://github.com/apache/kafka</title>
-    <link href="https://github.com/apache/kafka" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Mirror of Apache Kafka</content>
+    <content type="text">A tool for reverse engineering Android apk files</content>
   </entry>
   <entry>
     <id>https://github.com/strimzi/strimzi-kafka-operator#1737158400</id>
@@ -87,46 +24,39 @@
     <content type="text">Apache Kafka® running on Kubernetes</content>
   </entry>
   <entry>
-    <id>https://github.com/kekingcn/kkFileView#1737158400</id>
-    <title>https://github.com/kekingcn/kkFileView</title>
-    <link href="https://github.com/kekingcn/kkFileView" />
+    <id>https://github.com/xoureldeen/Vectras-VM-Android#1737158400</id>
+    <title>https://github.com/xoureldeen/Vectras-VM-Android</title>
+    <link href="https://github.com/xoureldeen/Vectras-VM-Android" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Universal File Online Preview Project based on Spring-Boot</content>
+    <content type="text">It's a Virtual Machine App for Android Which is Based on QEMU</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/flink-cdc#1737158400</id>
-    <title>https://github.com/apache/flink-cdc</title>
-    <link href="https://github.com/apache/flink-cdc" />
+    <id>https://github.com/Anuken/Mindustry#1737158400</id>
+    <title>https://github.com/Anuken/Mindustry</title>
+    <link href="https://github.com/Anuken/Mindustry" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Flink CDC is a streaming data integration tool</content>
+    <content type="text">The automation tower defense RTS</content>
   </entry>
   <entry>
-    <id>https://github.com/alibaba/DataX#1737158400</id>
-    <title>https://github.com/alibaba/DataX</title>
-    <link href="https://github.com/alibaba/DataX" />
+    <id>https://github.com/awsdocs/aws-doc-sdk-examples#1737158400</id>
+    <title>https://github.com/awsdocs/aws-doc-sdk-examples</title>
+    <link href="https://github.com/awsdocs/aws-doc-sdk-examples" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">DataX是阿里云DataWorks数据集成的开源版本。</content>
+    <content type="text">Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.</content>
   </entry>
   <entry>
-    <id>https://github.com/oracle/graal#1737158400</id>
-    <title>https://github.com/oracle/graal</title>
-    <link href="https://github.com/oracle/graal" />
+    <id>https://github.com/apache/flink#1737158400</id>
+    <title>https://github.com/apache/flink</title>
+    <link href="https://github.com/apache/flink" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀</content>
+    <content type="text">Apache Flink</content>
   </entry>
   <entry>
-    <id>https://github.com/google/guava#1737158400</id>
-    <title>https://github.com/google/guava</title>
-    <link href="https://github.com/google/guava" />
+    <id>https://github.com/kestra-io/kestra#1737158400</id>
+    <title>https://github.com/kestra-io/kestra</title>
+    <link href="https://github.com/kestra-io/kestra" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Google core libraries for Java</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zaproxy/zaproxy#1737158400</id>
-    <title>https://github.com/zaproxy/zaproxy</title>
-    <link href="https://github.com/zaproxy/zaproxy" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The ZAP by Checkmarx Core project</content>
+    <content type="text">⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...</content>
   </entry>
   <entry>
     <id>https://github.com/keycloak/keycloak#1737158400</id>
@@ -136,18 +66,60 @@
     <content type="text">Open Source Identity and Access Management For Modern Applications and Services</content>
   </entry>
   <entry>
-    <id>https://github.com/provectus/kafka-ui#1737158400</id>
-    <title>https://github.com/provectus/kafka-ui</title>
-    <link href="https://github.com/provectus/kafka-ui" />
+    <id>https://github.com/elastic/elasticsearch#1737158400</id>
+    <title>https://github.com/elastic/elasticsearch</title>
+    <link href="https://github.com/elastic/elasticsearch" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open-Source Web UI for Apache Kafka Management</content>
+    <content type="text">Free and Open Source, Distributed, RESTful Search Engine</content>
   </entry>
   <entry>
-    <id>https://github.com/iBotPeaches/Apktool#1737158400</id>
-    <title>https://github.com/iBotPeaches/Apktool</title>
-    <link href="https://github.com/iBotPeaches/Apktool" />
+    <id>https://github.com/nextcloud/android#1737158400</id>
+    <title>https://github.com/nextcloud/android</title>
+    <link href="https://github.com/nextcloud/android" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A tool for reverse engineering Android apk files</content>
+    <content type="text">📱 Nextcloud Android app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/jmeter#1737158400</id>
+    <title>https://github.com/apache/jmeter</title>
+    <link href="https://github.com/apache/jmeter" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openjdk/jdk#1737158400</id>
+    <title>https://github.com/openjdk/jdk</title>
+    <link href="https://github.com/openjdk/jdk" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">JDK main-line development https://openjdk.org/projects/jdk</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NationalSecurityAgency/ghidra#1737158400</id>
+    <title>https://github.com/NationalSecurityAgency/ghidra</title>
+    <link href="https://github.com/NationalSecurityAgency/ghidra" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Ghidra is a software reverse engineering (SRE) framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/real-logic/aeron#1737158400</id>
+    <title>https://github.com/real-logic/aeron</title>
+    <link href="https://github.com/real-logic/aeron" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Efficient reliable UDP unicast, UDP multicast, and IPC message transport</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-ai#1737158400</id>
+    <title>https://github.com/spring-projects/spring-ai</title>
+    <link href="https://github.com/spring-projects/spring-ai" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An Application Framework for AI Engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/gravitino#1737158400</id>
+    <title>https://github.com/apache/gravitino</title>
+    <link href="https://github.com/apache/gravitino" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.</content>
   </entry>
   <entry>
     <id>https://github.com/spring-projects/spring-framework#1737158400</id>
@@ -157,24 +129,45 @@
     <content type="text">Spring Framework</content>
   </entry>
   <entry>
-    <id>https://github.com/tencentmusic/supersonic#1737158400</id>
-    <title>https://github.com/tencentmusic/supersonic</title>
-    <link href="https://github.com/tencentmusic/supersonic" />
+    <id>https://github.com/apache/hudi#1737158400</id>
+    <title>https://github.com/apache/hudi</title>
+    <link href="https://github.com/apache/hudi" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.</content>
+    <content type="text">Upserts, Deletes And Incremental Processing on Big Data.</content>
   </entry>
   <entry>
-    <id>https://github.com/spring-projects/spring-boot#1737158400</id>
-    <title>https://github.com/spring-projects/spring-boot</title>
-    <link href="https://github.com/spring-projects/spring-boot" />
+    <id>https://github.com/apache/skywalking#1737158400</id>
+    <title>https://github.com/apache/skywalking</title>
+    <link href="https://github.com/apache/skywalking" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</content>
+    <content type="text">APM, Application Performance Monitoring System</content>
   </entry>
   <entry>
-    <id>https://github.com/NationalSecurityAgency/ghidra#1737158400</id>
-    <title>https://github.com/NationalSecurityAgency/ghidra</title>
-    <link href="https://github.com/NationalSecurityAgency/ghidra" />
+    <id>https://github.com/TeamNewPipe/NewPipe#1737158400</id>
+    <title>https://github.com/TeamNewPipe/NewPipe</title>
+    <link href="https://github.com/TeamNewPipe/NewPipe" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Ghidra is a software reverse engineering (SRE) framework</content>
+    <content type="text">A libre lightweight streaming front-end for Android.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scottyab/rootbeer#1737158400</id>
+    <title>https://github.com/scottyab/rootbeer</title>
+    <link href="https://github.com/scottyab/rootbeer" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Simple to use root checking Android library and sample app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kafka#1737158400</id>
+    <title>https://github.com/apache/kafka</title>
+    <link href="https://github.com/apache/kafka" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Mirror of Apache Kafka</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conductor-oss/conductor#1737158400</id>
+    <title>https://github.com/conductor-oss/conductor</title>
+    <link href="https://github.com/conductor-oss/conductor" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Conductor is an event driven orchestration platform</content>
   </entry>
 </feed>

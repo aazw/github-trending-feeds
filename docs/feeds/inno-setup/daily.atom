@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/docker-archive/toolbox#1737158400</id>
-    <title>https://github.com/docker-archive/toolbox</title>
-    <link href="https://github.com/docker-archive/toolbox" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Docker Toolbox</content>
-  </entry>
-  <entry>
     <id>https://github.com/git-for-windows/build-extra#1737158400</id>
     <title>https://github.com/git-for-windows/build-extra</title>
     <link href="https://github.com/git-for-windows/build-extra" />

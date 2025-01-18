@@ -10,39 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/nim-lang/nimble#1737158400</id>
-    <title>https://github.com/nim-lang/nimble</title>
-    <link href="https://github.com/nim-lang/nimble" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Package manager for the Nim programming language.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/waku-org/nwaku#1737158400</id>
-    <title>https://github.com/waku-org/nwaku</title>
-    <link href="https://github.com/waku-org/nwaku" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Waku node and protocol.</content>
-  </entry>
-  <entry>
     <id>https://github.com/zedeus/nitter#1737158400</id>
     <title>https://github.com/zedeus/nitter</title>
     <link href="https://github.com/zedeus/nitter" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Alternative Twitter front-end</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nim-lang/langserver#1737158400</id>
-    <title>https://github.com/nim-lang/langserver</title>
-    <link href="https://github.com/nim-lang/langserver" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Nim language server implementation (based on nimsuggest)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/status-im/nimbus-eth2#1737158400</id>
-    <title>https://github.com/status-im/nimbus-eth2</title>
-    <link href="https://github.com/status-im/nimbus-eth2" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Nim implementation of the Ethereum Beacon Chain</content>
   </entry>
   <entry>
     <id>https://github.com/nim-lang/Nim#1737158400</id>
@@ -52,10 +24,10 @@
     <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
   </entry>
   <entry>
-    <id>https://github.com/guzba/zippy#1737158400</id>
-    <title>https://github.com/guzba/zippy</title>
-    <link href="https://github.com/guzba/zippy" />
+    <id>https://github.com/status-im/nimbus-eth2#1737158400</id>
+    <title>https://github.com/status-im/nimbus-eth2</title>
+    <link href="https://github.com/status-im/nimbus-eth2" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Pure Nim implementation of deflate, zlib, gzip and zip.</content>
+    <content type="text">Nim implementation of the Ethereum Beacon Chain</content>
   </entry>
 </feed>

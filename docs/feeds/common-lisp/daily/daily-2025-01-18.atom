@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/joaotavora/sly#1737158400</id>
-    <title>https://github.com/joaotavora/sly</title>
-    <link href="https://github.com/joaotavora/sly" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Sylvester the Cat's Common Lisp IDE</content>
-  </entry>
-  <entry>
     <id>https://github.com/dimitri/pgloader#1737158400</id>
     <title>https://github.com/dimitri/pgloader</title>
     <link href="https://github.com/dimitri/pgloader" />
@@ -24,10 +17,10 @@
     <content type="text">Migrate to PostgreSQL in a single command!</content>
   </entry>
   <entry>
-    <id>https://github.com/atlas-engineer/nyxt#1737158400</id>
-    <title>https://github.com/atlas-engineer/nyxt</title>
-    <link href="https://github.com/atlas-engineer/nyxt" />
+    <id>https://github.com/joaotavora/sly#1737158400</id>
+    <title>https://github.com/joaotavora/sly</title>
+    <link href="https://github.com/joaotavora/sly" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Nyxt - the hacker's browser.</content>
+    <content type="text">Sylvester the Cat's Common Lisp IDE</content>
   </entry>
 </feed>

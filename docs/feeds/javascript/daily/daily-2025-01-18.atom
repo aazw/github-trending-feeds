@@ -10,39 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/trekhleb/javascript-algorithms#1737158400</id>
-    <title>https://github.com/trekhleb/javascript-algorithms</title>
-    <link href="https://github.com/trekhleb/javascript-algorithms" />
+    <id>https://github.com/openai/openai-realtime-console#1737158400</id>
+    <title>https://github.com/openai/openai-realtime-console</title>
+    <link href="https://github.com/openai/openai-realtime-console" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</content>
-  </entry>
-  <entry>
-    <id>https://github.com/adam-p/markdown-here#1737158400</id>
-    <title>https://github.com/adam-p/markdown-here</title>
-    <link href="https://github.com/adam-p/markdown-here" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/expressjs/express#1737158400</id>
-    <title>https://github.com/expressjs/express</title>
-    <link href="https://github.com/expressjs/express" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Fast, unopinionated, minimalist web framework for node.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/automatisch/automatisch#1737158400</id>
-    <title>https://github.com/automatisch/automatisch</title>
-    <link href="https://github.com/automatisch/automatisch" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The open source Zapier alternative. Build workflow automation without spending time and money.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vercel/next.js#1737158400</id>
-    <title>https://github.com/vercel/next.js</title>
-    <link href="https://github.com/vercel/next.js" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The React Framework</content>
+    <content type="text">React app for inspecting, building and debugging with the Realtime API</content>
   </entry>
   <entry>
     <id>https://github.com/microsoft/Web-Dev-For-Beginners#1737158400</id>
@@ -52,74 +24,11 @@
     <content type="text">24 Lessons, 12 Weeks, Get Started as a Web Developer</content>
   </entry>
   <entry>
-    <id>https://github.com/swagger-api/swagger-editor#1737158400</id>
-    <title>https://github.com/swagger-api/swagger-editor</title>
-    <link href="https://github.com/swagger-api/swagger-editor" />
+    <id>https://github.com/cypress-io/cypress#1737158400</id>
+    <title>https://github.com/cypress-io/cypress</title>
+    <link href="https://github.com/cypress-io/cypress" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Swagger Editor</content>
-  </entry>
-  <entry>
-    <id>https://github.com/academind/react-complete-guide-course-resources#1737158400</id>
-    <title>https://github.com/academind/react-complete-guide-course-resources</title>
-    <link href="https://github.com/academind/react-complete-guide-course-resources" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">React - The Complete Guide Course Resources (Code, Attachments, Slides)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sampotts/plyr#1737158400</id>
-    <title>https://github.com/sampotts/plyr</title>
-    <link href="https://github.com/sampotts/plyr" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A simple HTML5, YouTube and Vimeo player</content>
-  </entry>
-  <entry>
-    <id>https://github.com/UseInterstellar/Interstellar#1737158400</id>
-    <title>https://github.com/UseInterstellar/Interstellar</title>
-    <link href="https://github.com/UseInterstellar/Interstellar" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">One of the most popular modern web proxies with blazing fast speeds and a variety of games.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gchq/CyberChef#1737158400</id>
-    <title>https://github.com/gchq/CyberChef</title>
-    <link href="https://github.com/gchq/CyberChef" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</content>
-  </entry>
-  <entry>
-    <id>https://github.com/meteor/meteor#1737158400</id>
-    <title>https://github.com/meteor/meteor</title>
-    <link href="https://github.com/meteor/meteor" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Meteor, the JavaScript App Platform</content>
-  </entry>
-  <entry>
-    <id>https://github.com/facebook/react#1737158400</id>
-    <title>https://github.com/facebook/react</title>
-    <link href="https://github.com/facebook/react" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The library for web and native user interfaces.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/CodeWithHarry/Sigma-Web-Dev-Course#1737158400</id>
-    <title>https://github.com/CodeWithHarry/Sigma-Web-Dev-Course</title>
-    <link href="https://github.com/CodeWithHarry/Sigma-Web-Dev-Course" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Source Code for Sigma Web Development Course</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mrdoob/three.js#1737158400</id>
-    <title>https://github.com/mrdoob/three.js</title>
-    <link href="https://github.com/mrdoob/three.js" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">JavaScript 3D Library.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/louislam/uptime-kuma#1737158400</id>
-    <title>https://github.com/louislam/uptime-kuma</title>
-    <link href="https://github.com/louislam/uptime-kuma" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A fancy self-hosted monitoring tool</content>
+    <content type="text">Fast, easy and reliable testing for anything that runs in a browser.</content>
   </entry>
   <entry>
     <id>https://github.com/webpack/webpack#1737158400</id>
@@ -129,10 +38,108 @@
     <content type="text">A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</content>
   </entry>
   <entry>
+    <id>https://github.com/tengbao/vanta#1737158400</id>
+    <title>https://github.com/tengbao/vanta</title>
+    <link href="https://github.com/tengbao/vanta" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Animated 3D backgrounds for your website</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereumbook/ethereumbook#1737158400</id>
+    <title>https://github.com/ethereumbook/ethereumbook</title>
+    <link href="https://github.com/ethereumbook/ethereumbook" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood</content>
+  </entry>
+  <entry>
     <id>https://github.com/Kong/insomnia#1737158400</id>
     <title>https://github.com/Kong/insomnia</title>
     <link href="https://github.com/Kong/insomnia" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lovell/sharp#1737158400</id>
+    <title>https://github.com/lovell/sharp</title>
+    <link href="https://github.com/lovell/sharp" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/setup-ruby#1737158400</id>
+    <title>https://github.com/ruby/setup-ruby</title>
+    <link href="https://github.com/ruby/setup-ruby" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An action to download a prebuilt Ruby and add it to the PATH in 5 seconds</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdoob/three.js#1737158400</id>
+    <title>https://github.com/mrdoob/three.js</title>
+    <link href="https://github.com/mrdoob/three.js" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">JavaScript 3D Library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CodeWithHarry/Sigma-Web-Dev-Course#1737158400</id>
+    <title>https://github.com/CodeWithHarry/Sigma-Web-Dev-Course</title>
+    <link href="https://github.com/CodeWithHarry/Sigma-Web-Dev-Course" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Source Code for Sigma Web Development Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frappe/lms#1737158400</id>
+    <title>https://github.com/frappe/lms</title>
+    <link href="https://github.com/frappe/lms" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Easy to Use, 100% Open Source Learning Management System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alyssaxuu/screenity#1737158400</id>
+    <title>https://github.com/alyssaxuu/screenity</title>
+    <link href="https://github.com/alyssaxuu/screenity" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The free and privacy-friendly screen recorder with no limits 🎥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swagger-api/swagger-ui#1737158400</id>
+    <title>https://github.com/swagger-api/swagger-ui</title>
+    <link href="https://github.com/swagger-api/swagger-ui" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jsdoc/jsdoc#1737158400</id>
+    <title>https://github.com/jsdoc/jsdoc</title>
+    <link href="https://github.com/jsdoc/jsdoc" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An API documentation generator for JavaScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Automattic/mongoose#1737158400</id>
+    <title>https://github.com/Automattic/mongoose</title>
+    <link href="https://github.com/Automattic/mongoose" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">MongoDB object modeling designed to work in an asynchronous environment.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/end-4/dots-hyprland#1737158400</id>
+    <title>https://github.com/end-4/dots-hyprland</title>
+    <link href="https://github.com/end-4/dots-hyprland" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">i hate minimalism so...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semantic-release/semantic-release#1737158400</id>
+    <title>https://github.com/semantic-release/semantic-release</title>
+    <link href="https://github.com/semantic-release/semantic-release" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">📦🚀 Fully automated version management and package publishing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/next.js#1737158400</id>
+    <title>https://github.com/vercel/next.js</title>
+    <link href="https://github.com/vercel/next.js" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The React Framework</content>
   </entry>
 </feed>

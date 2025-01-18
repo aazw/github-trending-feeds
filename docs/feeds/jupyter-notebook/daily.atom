@@ -10,74 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/datawhalechina/llm-cookbook#1737158400</id>
-    <title>https://github.com/datawhalechina/llm-cookbook</title>
-    <link href="https://github.com/datawhalechina/llm-cookbook" />
+    <id>https://github.com/mlabonne/llm-course#1737158400</id>
+    <title>https://github.com/mlabonne/llm-course</title>
+    <link href="https://github.com/mlabonne/llm-course" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ageron/handson-ml3#1737158400</id>
-    <title>https://github.com/ageron/handson-ml3</title>
-    <link href="https://github.com/ageron/handson-ml3" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fastai/fastbook#1737158400</id>
-    <title>https://github.com/fastai/fastbook</title>
-    <link href="https://github.com/fastai/fastbook" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The fastai book, published as Jupyter Notebooks</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Arize-ai/phoenix#1737158400</id>
-    <title>https://github.com/Arize-ai/phoenix</title>
-    <link href="https://github.com/Arize-ai/phoenix" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">AI Observability &amp; Evaluation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/anthropics/anthropic-cookbook#1737158400</id>
-    <title>https://github.com/anthropics/anthropic-cookbook</title>
-    <link href="https://github.com/anthropics/anthropic-cookbook" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SakanaAI/AI-Scientist#1737158400</id>
-    <title>https://github.com/SakanaAI/AI-Scientist</title>
-    <link href="https://github.com/SakanaAI/AI-Scientist" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Tanu-N-Prabhu/Python#1737158400</id>
-    <title>https://github.com/Tanu-N-Prabhu/Python</title>
-    <link href="https://github.com/Tanu-N-Prabhu/Python" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repository helps you understand python from the scratch.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NirDiamant/GenAI_Agents#1737158400</id>
-    <title>https://github.com/NirDiamant/GenAI_Agents</title>
-    <link href="https://github.com/NirDiamant/GenAI_Agents" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/facebookresearch/segment-anything#1737158400</id>
-    <title>https://github.com/facebookresearch/segment-anything</title>
-    <link href="https://github.com/facebookresearch/segment-anything" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/google-deepmind/mujoco#1737158400</id>
-    <title>https://github.com/google-deepmind/mujoco</title>
-    <link href="https://github.com/google-deepmind/mujoco" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Multi-Joint dynamics with Contact. A general purpose physics simulator.</content>
+    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
   </entry>
   <entry>
     <id>https://github.com/ed-donner/llm_engineering#1737158400</id>
@@ -87,46 +24,11 @@
     <content type="text">Repo to accompany my mastering LLM engineering course</content>
   </entry>
   <entry>
-    <id>https://github.com/meta-llama/llama-cookbook#1737158400</id>
-    <title>https://github.com/meta-llama/llama-cookbook</title>
-    <link href="https://github.com/meta-llama/llama-cookbook" />
+    <id>https://github.com/anthropics/prompt-eng-interactive-tutorial#1737158400</id>
+    <title>https://github.com/anthropics/prompt-eng-interactive-tutorial</title>
+    <link href="https://github.com/anthropics/prompt-eng-interactive-tutorial" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning#1737158400</id>
-    <title>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning</title>
-    <link href="https://github.com/SharifiZarchi/Introduction_to_Machine_Learning" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Machine Learning Course, Sharif University of Technology</content>
-  </entry>
-  <entry>
-    <id>https://github.com/shap/shap#1737158400</id>
-    <title>https://github.com/shap/shap</title>
-    <link href="https://github.com/shap/shap" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A game theoretic approach to explain the output of any machine learning model.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vikhyat/moondream#1737158400</id>
-    <title>https://github.com/vikhyat/moondream</title>
-    <link href="https://github.com/vikhyat/moondream" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">tiny vision language model</content>
-  </entry>
-  <entry>
-    <id>https://github.com/langchain-ai/langchain#1737158400</id>
-    <title>https://github.com/langchain-ai/langchain</title>
-    <link href="https://github.com/langchain-ai/langchain" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/google-research/google-research#1737158400</id>
-    <title>https://github.com/google-research/google-research</title>
-    <link href="https://github.com/google-research/google-research" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Google Research</content>
+    <content type="text">Anthropic's Interactive Prompt Engineering Tutorial</content>
   </entry>
   <entry>
     <id>https://github.com/facebookresearch/seamless_communication#1737158400</id>
@@ -136,6 +38,62 @@
     <content type="text">Foundational Models for State-of-the-Art Speech and Text Translation</content>
   </entry>
   <entry>
+    <id>https://github.com/microsoft/generative-ai-for-beginners#1737158400</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dusty-nv/jetson-containers#1737158400</id>
+    <title>https://github.com/dusty-nv/jetson-containers</title>
+    <link href="https://github.com/dusty-nv/jetson-containers" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Machine Learning Containers for NVIDIA Jetson and JetPack-L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SakanaAI/AI-Scientist#1737158400</id>
+    <title>https://github.com/SakanaAI/AI-Scientist</title>
+    <link href="https://github.com/SakanaAI/AI-Scientist" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/intro-stat-learning/ISLP_labs#1737158400</id>
+    <title>https://github.com/intro-stat-learning/ISLP_labs</title>
+    <link href="https://github.com/intro-stat-learning/ISLP_labs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Up-to-date version of labs for ISLP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1737158400</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1737158400</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tanu-N-Prabhu/Python#1737158400</id>
+    <title>https://github.com/Tanu-N-Prabhu/Python</title>
+    <link href="https://github.com/Tanu-N-Prabhu/Python" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">This repository helps you understand python from the scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WongKinYiu/yolov7#1737158400</id>
+    <title>https://github.com/WongKinYiu/yolov7</title>
+    <link href="https://github.com/WongKinYiu/yolov7" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</content>
+  </entry>
+  <entry>
     <id>https://github.com/OpenBMB/MiniCPM#1737158400</id>
     <title>https://github.com/OpenBMB/MiniCPM</title>
     <link href="https://github.com/OpenBMB/MiniCPM" />
@@ -143,10 +101,31 @@
     <content type="text">MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.</content>
   </entry>
   <entry>
-    <id>https://github.com/mlabonne/llm-course#1737158400</id>
-    <title>https://github.com/mlabonne/llm-course</title>
-    <link href="https://github.com/mlabonne/llm-course" />
+    <id>https://github.com/karpathy/micrograd#1737158400</id>
+    <title>https://github.com/karpathy/micrograd</title>
+    <link href="https://github.com/karpathy/micrograd" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+    <content type="text">A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/guidance-ai/guidance#1737158400</id>
+    <title>https://github.com/guidance-ai/guidance</title>
+    <link href="https://github.com/guidance-ai/guidance" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A guidance language for controlling large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Arize-ai/phoenix#1737158400</id>
+    <title>https://github.com/Arize-ai/phoenix</title>
+    <link href="https://github.com/Arize-ai/phoenix" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">AI Observability &amp; Evaluation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-deepmind/mujoco#1737158400</id>
+    <title>https://github.com/google-deepmind/mujoco</title>
+    <link href="https://github.com/google-deepmind/mujoco" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Multi-Joint dynamics with Contact. A general purpose physics simulator.</content>
   </entry>
 </feed>

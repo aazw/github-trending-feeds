@@ -17,17 +17,24 @@
     <content type="text">The "batteries included" extended library for the Lean programming language and theorem prover</content>
   </entry>
   <entry>
-    <id>https://github.com/leanprover-community/mathlib4#1737158400</id>
-    <title>https://github.com/leanprover-community/mathlib4</title>
-    <link href="https://github.com/leanprover-community/mathlib4" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The math library of Lean 4</content>
-  </entry>
-  <entry>
     <id>https://github.com/leanprover/lean4#1737158400</id>
     <title>https://github.com/leanprover/lean4</title>
     <link href="https://github.com/leanprover/lean4" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Lean 4 programming language and theorem prover</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/aesop#1737158400</id>
+    <title>https://github.com/leanprover-community/aesop</title>
+    <link href="https://github.com/leanprover-community/aesop" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">White-box automation for Lean 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/mathlib4#1737158400</id>
+    <title>https://github.com/leanprover-community/mathlib4</title>
+    <link href="https://github.com/leanprover-community/mathlib4" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The math library of Lean 4</content>
   </entry>
 </feed>

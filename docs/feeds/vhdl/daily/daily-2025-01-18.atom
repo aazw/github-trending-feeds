@@ -10,20 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Digital-EDA/Digital-IDE#1737158400</id>
-    <title>https://github.com/Digital-EDA/Digital-IDE</title>
-    <link href="https://github.com/Digital-EDA/Digital-IDE" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">All in one vscode plugin for HDL development</content>
-  </entry>
-  <entry>
-    <id>https://github.com/slaclab/surf#1737158400</id>
-    <title>https://github.com/slaclab/surf</title>
-    <link href="https://github.com/slaclab/surf" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A huge VHDL library for FPGA development</content>
-  </entry>
-  <entry>
     <id>https://github.com/OSVVM/OSVVM#1737158400</id>
     <title>https://github.com/OSVVM/OSVVM</title>
     <link href="https://github.com/OSVVM/OSVVM" />
@@ -36,5 +22,12 @@
     <link href="https://github.com/ghdl/ghdl" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">VHDL 2008/93/87 simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slaclab/surf#1737158400</id>
+    <title>https://github.com/slaclab/surf</title>
+    <link href="https://github.com/slaclab/surf" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A huge VHDL library for FPGA development</content>
   </entry>
 </feed>

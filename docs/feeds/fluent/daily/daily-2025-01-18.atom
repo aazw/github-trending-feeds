@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/an-anime-team/an-anime-game-launcher#1737158400</id>
-    <title>https://github.com/an-anime-team/an-anime-game-launcher</title>
-    <link href="https://github.com/an-anime-team/an-anime-game-launcher" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An Anime Game launcher for Linux with telemetry disabling</content>
-  </entry>
-  <entry>
     <id>https://github.com/janeczku/calibre-web#1737158400</id>
     <title>https://github.com/janeczku/calibre-web</title>
     <link href="https://github.com/janeczku/calibre-web" />
@@ -24,17 +17,24 @@
     <content type="text">📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database</content>
   </entry>
   <entry>
-    <id>https://github.com/an-anime-team/the-honkers-railway-launcher#1737158400</id>
-    <title>https://github.com/an-anime-team/the-honkers-railway-launcher</title>
-    <link href="https://github.com/an-anime-team/the-honkers-railway-launcher" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Honkers Railway launcher for Linux with automatic patching and telemetry disabling</content>
-  </entry>
-  <entry>
     <id>https://github.com/stephanrauh/ngx-extended-pdf-viewer#1737158400</id>
     <title>https://github.com/stephanrauh/ngx-extended-pdf-viewer</title>
     <link href="https://github.com/stephanrauh/ngx-extended-pdf-viewer" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">A full-blown PDF viewer for Angular 16, 17, and beyond</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SlimeVR/SlimeVR-Server#1737158400</id>
+    <title>https://github.com/SlimeVR/SlimeVR-Server</title>
+    <link href="https://github.com/SlimeVR/SlimeVR-Server" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Server app for SlimeVR ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/an-anime-team/the-honkers-railway-launcher#1737158400</id>
+    <title>https://github.com/an-anime-team/the-honkers-railway-launcher</title>
+    <link href="https://github.com/an-anime-team/the-honkers-railway-launcher" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Honkers Railway launcher for Linux with automatic patching and telemetry disabling</content>
   </entry>
 </feed>

@@ -10,67 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/astral-sh/uv-docker-example#1737158400</id>
-    <title>https://github.com/astral-sh/uv-docker-example</title>
-    <link href="https://github.com/astral-sh/uv-docker-example" />
+    <id>https://github.com/linuxserver/docker-webtop#1737158400</id>
+    <title>https://github.com/linuxserver/docker-webtop</title>
+    <link href="https://github.com/linuxserver/docker-webtop" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An example of using uv in Docker images</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aws-amplify/amplify-hosting#1737158400</id>
-    <title>https://github.com/aws-amplify/amplify-hosting</title>
-    <link href="https://github.com/aws-amplify/amplify-hosting" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/redhat-openshift-ecosystem/certified-operators#1737158400</id>
-    <title>https://github.com/redhat-openshift-ecosystem/certified-operators</title>
-    <link href="https://github.com/redhat-openshift-ecosystem/certified-operators" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Production catalog for Red Hat Certified Operator Bundles</content>
-  </entry>
-  <entry>
-    <id>https://github.com/MicrosoftDocs/windows-powershell-docs#1737158400</id>
-    <title>https://github.com/MicrosoftDocs/windows-powershell-docs</title>
-    <link href="https://github.com/MicrosoftDocs/windows-powershell-docs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1737158400</id>
-    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
-    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jup-ag/jupiter-swap-api#1737158400</id>
-    <title>https://github.com/jup-ag/jupiter-swap-api</title>
-    <link href="https://github.com/jup-ag/jupiter-swap-api" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The jupiter swap api binary</content>
-  </entry>
-  <entry>
-    <id>https://github.com/laradock/laradock#1737158400</id>
-    <title>https://github.com/laradock/laradock</title>
-    <link href="https://github.com/laradock/laradock" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Full PHP development environment for Docker.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jauderho/dockerfiles#1737158400</id>
-    <title>https://github.com/jauderho/dockerfiles</title>
-    <link href="https://github.com/jauderho/dockerfiles" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Dockerfiles of things</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/vscode-remote-release#1737158400</id>
-    <title>https://github.com/microsoft/vscode-remote-release</title>
-    <link href="https://github.com/microsoft/vscode-remote-release" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.</content>
+    <content type="text">Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.</content>
   </entry>
   <entry>
     <id>https://github.com/goldbergyoni/nodebestpractices#1737158400</id>
@@ -80,18 +24,18 @@
     <content type="text">✅ The Node.js best practices list (July 2024)</content>
   </entry>
   <entry>
-    <id>https://github.com/linuxserver/docker-wireguard#1737158400</id>
-    <title>https://github.com/linuxserver/docker-wireguard</title>
-    <link href="https://github.com/linuxserver/docker-wireguard" />
+    <id>https://github.com/dotnet/dotnet-docker#1737158400</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Docker images for .NET and the .NET Tools.</content>
   </entry>
   <entry>
-    <id>https://github.com/vulhub/vulhub#1737158400</id>
-    <title>https://github.com/vulhub/vulhub</title>
-    <link href="https://github.com/vulhub/vulhub" />
+    <id>https://github.com/nodejs/docker-node#1737158400</id>
+    <title>https://github.com/nodejs/docker-node</title>
+    <link href="https://github.com/nodejs/docker-node" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+    <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
   </entry>
   <entry>
     <id>https://github.com/dunglas/symfony-docker#1737158400</id>
@@ -108,31 +52,80 @@
     <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
   </entry>
   <entry>
-    <id>https://github.com/nodejs/docker-node#1737158400</id>
-    <title>https://github.com/nodejs/docker-node</title>
-    <link href="https://github.com/nodejs/docker-node" />
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1737158400</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
   </entry>
   <entry>
-    <id>https://github.com/autowarefoundation/autoware#1737158400</id>
-    <title>https://github.com/autowarefoundation/autoware</title>
-    <link href="https://github.com/autowarefoundation/autoware" />
+    <id>https://github.com/vulhub/vulhub#1737158400</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/dotnet-docker#1737158400</id>
-    <title>https://github.com/dotnet/dotnet-docker</title>
-    <link href="https://github.com/dotnet/dotnet-docker" />
+    <id>https://github.com/aws-amplify/amplify-hosting#1737158400</id>
+    <title>https://github.com/aws-amplify/amplify-hosting</title>
+    <link href="https://github.com/aws-amplify/amplify-hosting" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Docker images for .NET and the .NET Tools.</content>
+    <content type="text">AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.</content>
   </entry>
   <entry>
-    <id>https://github.com/linuxserver/docker-webtop#1737158400</id>
-    <title>https://github.com/linuxserver/docker-webtop</title>
-    <link href="https://github.com/linuxserver/docker-webtop" />
+    <id>https://github.com/PowerShell/PowerShell-Docker#1737158400</id>
+    <title>https://github.com/PowerShell/PowerShell-Docker</title>
+    <link href="https://github.com/PowerShell/PowerShell-Docker" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.</content>
+    <content type="text">Repository for building PowerShell Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1737158400</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv-docker-example#1737158400</id>
+    <title>https://github.com/astral-sh/uv-docker-example</title>
+    <link href="https://github.com/astral-sh/uv-docker-example" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An example of using uv in Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jup-ag/jupiter-swap-api#1737158400</id>
+    <title>https://github.com/jup-ag/jupiter-swap-api</title>
+    <link href="https://github.com/jup-ag/jupiter-swap-api" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The jupiter swap api binary</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethibox/awesome-stacks#1737158400</id>
+    <title>https://github.com/ethibox/awesome-stacks</title>
+    <link href="https://github.com/ethibox/awesome-stacks" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Deploy 120+ open-source web apps with one Docker command</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kurokobo/awx-on-k3s#1737158400</id>
+    <title>https://github.com/kurokobo/awx-on-k3s</title>
+    <link href="https://github.com/kurokobo/awx-on-k3s" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bufbuild/plugins#1737158400</id>
+    <title>https://github.com/bufbuild/plugins</title>
+    <link href="https://github.com/bufbuild/plugins" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Remote Protobuf plugins available on the BSR</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-remote-release#1737158400</id>
+    <title>https://github.com/microsoft/vscode-remote-release</title>
+    <link href="https://github.com/microsoft/vscode-remote-release" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.</content>
   </entry>
 </feed>

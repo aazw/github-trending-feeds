@@ -10,6 +10,27 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/saicaca/fuwari#1737158400</id>
+    <title>https://github.com/saicaca/fuwari</title>
+    <link href="https://github.com/saicaca/fuwari" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">✨A static blog template built with Astro.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/onwidget/astrowind#1737158400</id>
+    <title>https://github.com/onwidget/astrowind</title>
+    <link href="https://github.com/onwidget/astrowind" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ColorlibHQ/AdminLTE#1737158400</id>
+    <title>https://github.com/ColorlibHQ/AdminLTE</title>
+    <link href="https://github.com/ColorlibHQ/AdminLTE" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">AdminLTE - Free admin dashboard template based on Bootstrap 5</content>
+  </entry>
+  <entry>
     <id>https://github.com/midudev/porfolio.dev#1737158400</id>
     <title>https://github.com/midudev/porfolio.dev</title>
     <link href="https://github.com/midudev/porfolio.dev" />
@@ -24,67 +45,11 @@
     <content type="text">📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.</content>
   </entry>
   <entry>
-    <id>https://github.com/saicaca/fuwari#1737158400</id>
-    <title>https://github.com/saicaca/fuwari</title>
-    <link href="https://github.com/saicaca/fuwari" />
+    <id>https://github.com/andrew--r/frontend-case-studies#1737158400</id>
+    <title>https://github.com/andrew--r/frontend-case-studies</title>
+    <link href="https://github.com/andrew--r/frontend-case-studies" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">✨A static blog template built with Astro.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/moeyua/astro-theme-typography#1737158400</id>
-    <title>https://github.com/moeyua/astro-theme-typography</title>
-    <link href="https://github.com/moeyua/astro-theme-typography" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Rediscover the beauty of typography.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/manuelernestog/astrofy#1737158400</id>
-    <title>https://github.com/manuelernestog/astrofy</title>
-    <link href="https://github.com/manuelernestog/astrofy" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/onwidget/astrowind#1737158400</id>
-    <title>https://github.com/onwidget/astrowind</title>
-    <link href="https://github.com/onwidget/astrowind" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/chrismwilliams/astro-theme-cactus#1737158400</id>
-    <title>https://github.com/chrismwilliams/astro-theme-cactus</title>
-    <link href="https://github.com/chrismwilliams/astro-theme-cactus" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A simple Astro theme. Use it to create your blog or website.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/m6v3l9/astro-theme-stone#1737158400</id>
-    <title>https://github.com/m6v3l9/astro-theme-stone</title>
-    <link href="https://github.com/m6v3l9/astro-theme-stone" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Stone is a free and open-source Astro theme specially designed for Business, Marketing, SaaS and Startup websites.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/midudev/minimalist-portfolio-json#1737158400</id>
-    <title>https://github.com/midudev/minimalist-portfolio-json</title>
-    <link href="https://github.com/midudev/minimalist-portfolio-json" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A minimalist portafolio configurable via one JSON</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Lissy93/awesome-privacy#1737158400</id>
-    <title>https://github.com/Lissy93/awesome-privacy</title>
-    <link href="https://github.com/Lissy93/awesome-privacy" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🦄 A curated list of privacy &amp; security-focused software and services</content>
-  </entry>
-  <entry>
-    <id>https://github.com/satnaing/astro-paper#1737158400</id>
-    <title>https://github.com/satnaing/astro-paper</title>
-    <link href="https://github.com/satnaing/astro-paper" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A minimal, accessible and SEO-friendly Astro blog theme</content>
+    <content type="text">💼 A curated list of talks and articles about real world frontend development</content>
   </entry>
   <entry>
     <id>https://github.com/JustGoodUI/dante-astro-theme#1737158400</id>
@@ -94,10 +59,17 @@
     <content type="text">Dante, a single-author blog and portfolio theme for Astro.js.</content>
   </entry>
   <entry>
-    <id>https://github.com/ColorlibHQ/AdminLTE#1737158400</id>
-    <title>https://github.com/ColorlibHQ/AdminLTE</title>
-    <link href="https://github.com/ColorlibHQ/AdminLTE" />
+    <id>https://github.com/chrismwilliams/astro-theme-cactus#1737158400</id>
+    <title>https://github.com/chrismwilliams/astro-theme-cactus</title>
+    <link href="https://github.com/chrismwilliams/astro-theme-cactus" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">AdminLTE - Free admin dashboard template based on Bootstrap 5</content>
+    <content type="text">A simple Astro theme. Use it to create your blog or website.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lissy93/awesome-privacy#1737158400</id>
+    <title>https://github.com/Lissy93/awesome-privacy</title>
+    <link href="https://github.com/Lissy93/awesome-privacy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🦄 A curated list of privacy &amp; security-focused software and services</content>
   </entry>
 </feed>

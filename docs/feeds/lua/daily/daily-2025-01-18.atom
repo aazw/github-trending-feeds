@@ -10,76 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/ray-x/go.nvim#1737158400</id>
-    <title>https://github.com/ray-x/go.nvim</title>
-    <link href="https://github.com/ray-x/go.nvim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">G'day Nvimer, Joyful Gopher: Discover the Feature-Rich Go Plugin for Neovim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/xiaorouji/openwrt-passwall#1737158400</id>
-    <title>https://github.com/xiaorouji/openwrt-passwall</title>
-    <link href="https://github.com/xiaorouji/openwrt-passwall" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/lewis6991/gitsigns.nvim#1737158400</id>
-    <title>https://github.com/lewis6991/gitsigns.nvim</title>
-    <link href="https://github.com/lewis6991/gitsigns.nvim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Git integration for buffers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/neovim/nvim-lspconfig#1737158400</id>
-    <title>https://github.com/neovim/nvim-lspconfig</title>
-    <link href="https://github.com/neovim/nvim-lspconfig" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Quickstart configs for Nvim LSP</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zk-org/zk-nvim#1737158400</id>
-    <title>https://github.com/zk-org/zk-nvim</title>
-    <link href="https://github.com/zk-org/zk-nvim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Neovim extension for zk</content>
-  </entry>
-  <entry>
-    <id>https://github.com/folke/lazy.nvim#1737158400</id>
-    <title>https://github.com/folke/lazy.nvim</title>
-    <link href="https://github.com/folke/lazy.nvim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">💤 A modern plugin manager for Neovim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/LazyVim/LazyVim#1737158400</id>
-    <title>https://github.com/LazyVim/LazyVim</title>
-    <link href="https://github.com/LazyVim/LazyVim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Neovim config for the lazy</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NeogitOrg/neogit#1737158400</id>
-    <title>https://github.com/NeogitOrg/neogit</title>
-    <link href="https://github.com/NeogitOrg/neogit" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An interactive and powerful Git interface for Neovim, inspired by Magit</content>
-  </entry>
-  <entry>
-    <id>https://github.com/LandSandBoat/server#1737158400</id>
-    <title>https://github.com/LandSandBoat/server</title>
-    <link href="https://github.com/LandSandBoat/server" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">⛵ LandSandBoat - a server emulator for Final Fantasy XI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ntop/ntopng#1737158400</id>
-    <title>https://github.com/ntop/ntopng</title>
-    <link href="https://github.com/ntop/ntopng" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Web-based Traffic and Security Network Traffic Monitoring</content>
-  </entry>
-  <entry>
     <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1737158400</id>
     <title>https://github.com/PathOfBuildingCommunity/PathOfBuilding</title>
     <link href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" />
@@ -87,32 +17,18 @@
     <content type="text">Offline build planner for Path of Exile.</content>
   </entry>
   <entry>
-    <id>https://github.com/Kong/kong#1737158400</id>
-    <title>https://github.com/Kong/kong</title>
-    <link href="https://github.com/Kong/kong" />
+    <id>https://github.com/echasnovski/mini.nvim#1737158400</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
   </entry>
   <entry>
-    <id>https://github.com/iDvel/rime-ice#1737158400</id>
-    <title>https://github.com/iDvel/rime-ice</title>
-    <link href="https://github.com/iDvel/rime-ice" />
+    <id>https://github.com/omerxx/dotfiles#1737158400</id>
+    <title>https://github.com/omerxx/dotfiles</title>
+    <link href="https://github.com/omerxx/dotfiles" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Rime 配置：雾凇拼音 | 长期维护的简体词库</content>
-  </entry>
-  <entry>
-    <id>https://github.com/folke/trouble.nvim#1737158400</id>
-    <title>https://github.com/folke/trouble.nvim</title>
-    <link href="https://github.com/folke/trouble.nvim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/danielfalk/smart-open.nvim#1737158400</id>
-    <title>https://github.com/danielfalk/smart-open.nvim</title>
-    <link href="https://github.com/danielfalk/smart-open.nvim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Neovim plugin for fast file-finding</content>
+    <content type="text">My dotfiles synced from localhost and remote machines</content>
   </entry>
   <entry>
     <id>https://github.com/yetone/avante.nvim#1737158400</id>
@@ -122,17 +38,101 @@
     <content type="text">Use your Neovim like using Cursor AI IDE!</content>
   </entry>
   <entry>
-    <id>https://github.com/beyond-all-reason/Beyond-All-Reason#1737158400</id>
-    <title>https://github.com/beyond-all-reason/Beyond-All-Reason</title>
-    <link href="https://github.com/beyond-all-reason/Beyond-All-Reason" />
+    <id>https://github.com/stevearc/conform.nvim#1737158400</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Main game repository for Beyond All Reason.</content>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/apisix#1737158400</id>
-    <title>https://github.com/apache/apisix</title>
-    <link href="https://github.com/apache/apisix" />
+    <id>https://github.com/Kong/kong#1737158400</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Cloud-Native API Gateway</content>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1737158400</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LandSandBoat/server#1737158400</id>
+    <title>https://github.com/LandSandBoat/server</title>
+    <link href="https://github.com/LandSandBoat/server" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">⛵ LandSandBoat - a server emulator for Final Fantasy XI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epwalsh/obsidian.nvim#1737158400</id>
+    <title>https://github.com/epwalsh/obsidian.nvim</title>
+    <link href="https://github.com/epwalsh/obsidian.nvim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Obsidian 🤝 Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1737158400</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jitsi/docker-jitsi-meet#1737158400</id>
+    <title>https://github.com/jitsi/docker-jitsi-meet</title>
+    <link href="https://github.com/jitsi/docker-jitsi-meet" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Jitsi Meet on Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/overseer.nvim#1737158400</id>
+    <title>https://github.com/stevearc/overseer.nvim</title>
+    <link href="https://github.com/stevearc/overseer.nvim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A task runner and job management plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kylechui/nvim-surround#1737158400</id>
+    <title>https://github.com/kylechui/nvim-surround</title>
+    <link href="https://github.com/kylechui/nvim-surround" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason-lspconfig.nvim#1737158400</id>
+    <title>https://github.com/williamboman/mason-lspconfig.nvim</title>
+    <link href="https://github.com/williamboman/mason-lspconfig.nvim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmake-io/xmake#1737158400</id>
+    <title>https://github.com/xmake-io/xmake</title>
+    <link href="https://github.com/xmake-io/xmake" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🔥 A cross-platform build utility based on Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1737158400</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason.nvim#1737158400</id>
+    <title>https://github.com/williamboman/mason.nvim</title>
+    <link href="https://github.com/williamboman/mason.nvim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-jdtls#1737158400</id>
+    <title>https://github.com/mfussenegger/nvim-jdtls</title>
+    <link href="https://github.com/mfussenegger/nvim-jdtls" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls</content>
   </entry>
 </feed>

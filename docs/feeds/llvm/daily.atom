@@ -10,24 +10,24 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/intel/llvm#1737158400</id>
-    <title>https://github.com/intel/llvm</title>
-    <link href="https://github.com/intel/llvm" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/google/clspv#1737158400</id>
-    <title>https://github.com/google/clspv</title>
-    <link href="https://github.com/google/clspv" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Clspv is a compiler for OpenCL C to Vulkan compute shaders</content>
-  </entry>
-  <entry>
     <id>https://github.com/llvm/llvm-project#1737158400</id>
     <title>https://github.com/llvm/llvm-project</title>
     <link href="https://github.com/llvm/llvm-project" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KhronosGroup/SPIRV-LLVM-Translator#1737158400</id>
+    <title>https://github.com/KhronosGroup/SPIRV-LLVM-Translator</title>
+    <link href="https://github.com/KhronosGroup/SPIRV-LLVM-Translator" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A tool and a library for bi-directional translation between SPIR-V and LLVM IR</content>
+  </entry>
+  <entry>
+    <id>https://github.com/intel/llvm#1737158400</id>
+    <title>https://github.com/intel/llvm</title>
+    <link href="https://github.com/intel/llvm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</content>
   </entry>
 </feed>

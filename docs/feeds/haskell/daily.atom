@@ -10,32 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/IntersectMBO/ouroboros-network#1737158400</id>
-    <title>https://github.com/IntersectMBO/ouroboros-network</title>
-    <link href="https://github.com/IntersectMBO/ouroboros-network" />
+    <id>https://github.com/hadolint/hadolint#1737158400</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</content>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
   </entry>
   <entry>
-    <id>https://github.com/IntersectMBO/ouroboros-consensus#1737158400</id>
-    <title>https://github.com/IntersectMBO/ouroboros-consensus</title>
-    <link href="https://github.com/IntersectMBO/ouroboros-consensus" />
+    <id>https://github.com/PostgREST/postgrest#1737158400</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Implementation of a Consensus Layer for the Ouroboros family of protocols</content>
+    <content type="text">REST API for any Postgres database</content>
   </entry>
   <entry>
-    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1737158400</id>
-    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
-    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <id>https://github.com/runtimeverification/haskell-backend#1737158400</id>
+    <title>https://github.com/runtimeverification/haskell-backend</title>
+    <link href="https://github.com/runtimeverification/haskell-backend" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
-  </entry>
-  <entry>
-    <id>https://github.com/simplex-chat/simplexmq#1737158400</id>
-    <title>https://github.com/simplex-chat/simplexmq</title>
-    <link href="https://github.com/simplex-chat/simplexmq" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
+    <content type="text">The symbolic execution engine powering the K Framework</content>
   </entry>
   <entry>
     <id>https://github.com/haskell/haskell-language-server#1737158400</id>
@@ -45,11 +38,39 @@
     <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
   </entry>
   <entry>
-    <id>https://github.com/jgm/pandoc#1737158400</id>
-    <title>https://github.com/jgm/pandoc</title>
-    <link href="https://github.com/jgm/pandoc" />
+    <id>https://github.com/IntersectMBO/ouroboros-network#1737158400</id>
+    <title>https://github.com/IntersectMBO/ouroboros-network</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-network" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Universal markup converter</content>
+    <content type="text">Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1737158400</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1737158400</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/ouroboros-consensus#1737158400</id>
+    <title>https://github.com/IntersectMBO/ouroboros-consensus</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-consensus" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Implementation of a Consensus Layer for the Ouroboros family of protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1737158400</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
   </entry>
   <entry>
     <id>https://github.com/simonmichael/hledger#1737158400</id>
@@ -66,31 +87,17 @@
     <content type="text">Ethereum smart contract fuzzer</content>
   </entry>
   <entry>
-    <id>https://github.com/runtimeverification/haskell-backend#1737158400</id>
-    <title>https://github.com/runtimeverification/haskell-backend</title>
-    <link href="https://github.com/runtimeverification/haskell-backend" />
+    <id>https://github.com/zachjs/sv2v#1737158400</id>
+    <title>https://github.com/zachjs/sv2v</title>
+    <link href="https://github.com/zachjs/sv2v" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The symbolic execution engine powering the K Framework</content>
+    <content type="text">SystemVerilog to Verilog conversion</content>
   </entry>
   <entry>
-    <id>https://github.com/hadolint/hadolint#1737158400</id>
-    <title>https://github.com/hadolint/hadolint</title>
-    <link href="https://github.com/hadolint/hadolint" />
+    <id>https://github.com/simplex-chat/simplexmq#1737158400</id>
+    <title>https://github.com/simplex-chat/simplexmq</title>
+    <link href="https://github.com/simplex-chat/simplexmq" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PostgREST/postgrest#1737158400</id>
-    <title>https://github.com/PostgREST/postgrest</title>
-    <link href="https://github.com/PostgREST/postgrest" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">REST API for any Postgres database</content>
-  </entry>
-  <entry>
-    <id>https://github.com/koalaman/shellcheck#1737158400</id>
-    <title>https://github.com/koalaman/shellcheck</title>
-    <link href="https://github.com/koalaman/shellcheck" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
   </entry>
 </feed>

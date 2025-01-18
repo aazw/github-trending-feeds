@@ -10,53 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/SeleniumHQ/seleniumhq.github.io#1737158400</id>
-    <title>https://github.com/SeleniumHQ/seleniumhq.github.io</title>
-    <link href="https://github.com/SeleniumHQ/seleniumhq.github.io" />
+    <id>https://github.com/web-infra-dev/midscene#1737158400</id>
+    <title>https://github.com/web-infra-dev/midscene</title>
+    <link href="https://github.com/web-infra-dev/midscene" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Official Selenium website and documentation</content>
+    <content type="text">AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.</content>
   </entry>
   <entry>
-    <id>https://github.com/uiverse-io/galaxy#1737158400</id>
-    <title>https://github.com/uiverse-io/galaxy</title>
-    <link href="https://github.com/uiverse-io/galaxy" />
+    <id>https://github.com/f/awesome-chatgpt-prompts#1737158400</id>
+    <title>https://github.com/f/awesome-chatgpt-prompts</title>
+    <link href="https://github.com/f/awesome-chatgpt-prompts" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/comfyanonymous/ComfyUI_examples#1737158400</id>
-    <title>https://github.com/comfyanonymous/ComfyUI_examples</title>
-    <link href="https://github.com/comfyanonymous/ComfyUI_examples" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Examples of ComfyUI workflows</content>
-  </entry>
-  <entry>
-    <id>https://github.com/htr-tech/zphisher#1737158400</id>
-    <title>https://github.com/htr-tech/zphisher</title>
-    <link href="https://github.com/htr-tech/zphisher" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Blobby-Boi/ExtHang3r#1737158400</id>
-    <title>https://github.com/Blobby-Boi/ExtHang3r</title>
-    <link href="https://github.com/Blobby-Boi/ExtHang3r" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mdn/learning-area#1737158400</id>
-    <title>https://github.com/mdn/learning-area</title>
-    <link href="https://github.com/mdn/learning-area" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">GitHub repo for the MDN Learning Area.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kubernetes/website#1737158400</id>
-    <title>https://github.com/kubernetes/website</title>
-    <link href="https://github.com/kubernetes/website" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Kubernetes website and documentation repo:</content>
+    <content type="text">This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.</content>
   </entry>
   <entry>
     <id>https://github.com/google/styleguide#1737158400</id>
@@ -66,11 +31,53 @@
     <content type="text">Style guides for Google-originated open-source projects</content>
   </entry>
   <entry>
-    <id>https://github.com/techchipnet/CamPhish#1737158400</id>
-    <title>https://github.com/techchipnet/CamPhish</title>
-    <link href="https://github.com/techchipnet/CamPhish" />
+    <id>https://github.com/mdn/learning-area#1737158400</id>
+    <title>https://github.com/mdn/learning-area</title>
+    <link href="https://github.com/mdn/learning-area" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Grab cam shots from target's phone front camera or PC webcam just sending a link.</content>
+    <content type="text">GitHub repo for the MDN Learning Area.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apna-college/Delta#1737158400</id>
+    <title>https://github.com/apna-college/Delta</title>
+    <link href="https://github.com/apna-college/Delta" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cotes2020/jekyll-theme-chirpy#1737158400</id>
+    <title>https://github.com/cotes2020/jekyll-theme-chirpy</title>
+    <link href="https://github.com/cotes2020/jekyll-theme-chirpy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A minimal, responsive, and feature-rich Jekyll theme for technical writing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gustavoguanabara/html-css#1737158400</id>
+    <title>https://github.com/gustavoguanabara/html-css</title>
+    <link href="https://github.com/gustavoguanabara/html-css" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Curso de HTML5 e CSS3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/htr-tech/zphisher#1737158400</id>
+    <title>https://github.com/htr-tech/zphisher</title>
+    <link href="https://github.com/htr-tech/zphisher" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ripienaar/free-for-dev#1737158400</id>
+    <title>https://github.com/ripienaar/free-for-dev</title>
+    <link href="https://github.com/ripienaar/free-for-dev" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/windmill-labs/windmill#1737158400</id>
+    <title>https://github.com/windmill-labs/windmill</title>
+    <link href="https://github.com/windmill-labs/windmill" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</content>
   </entry>
   <entry>
     <id>https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes#1737158400</id>
@@ -80,45 +87,38 @@
     <content type="text">AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)</content>
   </entry>
   <entry>
-    <id>https://github.com/DataDog/documentation#1737158400</id>
-    <title>https://github.com/DataDog/documentation</title>
-    <link href="https://github.com/DataDog/documentation" />
+    <id>https://github.com/boostorg/boost#1737158400</id>
+    <title>https://github.com/boostorg/boost</title>
+    <link href="https://github.com/boostorg/boost" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The source for Datadog's documentation site.</content>
+    <content type="text">Super-project for modularized Boost</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/blazor-samples#1737158400</id>
-    <title>https://github.com/dotnet/blazor-samples</title>
-    <link href="https://github.com/dotnet/blazor-samples" />
+    <id>https://github.com/nunocoracao/blowfish#1737158400</id>
+    <title>https://github.com/nunocoracao/blowfish</title>
+    <link href="https://github.com/nunocoracao/blowfish" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Personal Website &amp; Blog Theme for Hugo</content>
   </entry>
   <entry>
-    <id>https://github.com/bitcoinbook/bitcoinbook#1737158400</id>
-    <title>https://github.com/bitcoinbook/bitcoinbook</title>
-    <link href="https://github.com/bitcoinbook/bitcoinbook" />
+    <id>https://github.com/kubernetes/website#1737158400</id>
+    <title>https://github.com/kubernetes/website</title>
+    <link href="https://github.com/kubernetes/website" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Mastering Bitcoin 3rd Edition - Programming the Open Blockchain</content>
+    <content type="text">Kubernetes website and documentation repo:</content>
   </entry>
   <entry>
-    <id>https://github.com/wdndev/llm_interview_note#1737158400</id>
-    <title>https://github.com/wdndev/llm_interview_note</title>
-    <link href="https://github.com/wdndev/llm_interview_note" />
+    <id>https://github.com/platzi/git-github#1737158400</id>
+    <title>https://github.com/platzi/git-github</title>
+    <link href="https://github.com/platzi/git-github" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题</content>
+    <content type="text">Repositorio del Curso de Git y GitHub</content>
   </entry>
   <entry>
-    <id>https://github.com/fengdu78/deeplearning_ai_books#1737158400</id>
-    <title>https://github.com/fengdu78/deeplearning_ai_books</title>
-    <link href="https://github.com/fengdu78/deeplearning_ai_books" />
+    <id>https://github.com/tabler/tabler#1737158400</id>
+    <title>https://github.com/tabler/tabler</title>
+    <link href="https://github.com/tabler/tabler" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</content>
-  </entry>
-  <entry>
-    <id>https://github.com/f/awesome-chatgpt-prompts#1737158400</id>
-    <title>https://github.com/f/awesome-chatgpt-prompts</title>
-    <link href="https://github.com/f/awesome-chatgpt-prompts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.</content>
+    <content type="text">Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap</content>
   </entry>
 </feed>

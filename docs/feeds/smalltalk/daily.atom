@@ -10,10 +10,17 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pharo-graphics/Bloc#1737158400</id>
-    <title>https://github.com/pharo-graphics/Bloc</title>
-    <link href="https://github.com/pharo-graphics/Bloc" />
+    <id>https://github.com/svenvc/NeoCSV#1737158400</id>
+    <title>https://github.com/svenvc/NeoCSV</title>
+    <link href="https://github.com/svenvc/NeoCSV" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Low-level UI infrastructure &amp; framework for Pharo</content>
+    <content type="text">NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PolyMathOrg/DataFrame#1737158400</id>
+    <title>https://github.com/PolyMathOrg/DataFrame</title>
+    <link href="https://github.com/PolyMathOrg/DataFrame" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">DataFrame in Pharo - tabular data structures for data analysis</content>
   </entry>
 </feed>

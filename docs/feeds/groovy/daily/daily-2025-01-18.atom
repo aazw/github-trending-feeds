@@ -10,25 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/rundeck/rundeck#1737158400</id>
-    <title>https://github.com/rundeck/rundeck</title>
-    <link href="https://github.com/rundeck/rundeck" />
+    <id>https://github.com/bregman-arie/devops-resources#1737158400</id>
+    <title>https://github.com/bregman-arie/devops-resources</title>
+    <link href="https://github.com/bregman-arie/devops-resources" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/google/protobuf-gradle-plugin#1737158400</id>
-    <title>https://github.com/google/protobuf-gradle-plugin</title>
-    <link href="https://github.com/google/protobuf-gradle-plugin" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Protobuf Plugin for Gradle</content>
-  </entry>
-  <entry>
-    <id>https://github.com/AdobeDocs/experience-manager-65.en#1737158400</id>
-    <title>https://github.com/AdobeDocs/experience-manager-65.en</title>
-    <link href="https://github.com/AdobeDocs/experience-manager-65.en" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.</content>
+    <content type="text">DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP</content>
   </entry>
   <entry>
     <id>https://github.com/gradle/gradle#1737158400</id>
@@ -43,5 +29,26 @@
     <link href="https://github.com/nextflow-io/nextflow" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">A DSL for data-driven computational pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdobeDocs/experience-manager-65.en#1737158400</id>
+    <title>https://github.com/AdobeDocs/experience-manager-65.en</title>
+    <link href="https://github.com/AdobeDocs/experience-manager-65.en" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rundeck/rundeck#1737158400</id>
+    <title>https://github.com/rundeck/rundeck</title>
+    <link href="https://github.com/rundeck/rundeck" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/protobuf-gradle-plugin#1737158400</id>
+    <title>https://github.com/google/protobuf-gradle-plugin</title>
+    <link href="https://github.com/google/protobuf-gradle-plugin" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Protobuf Plugin for Gradle</content>
   </entry>
 </feed>

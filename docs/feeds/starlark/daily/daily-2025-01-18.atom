@@ -10,95 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/googleapis/api-common-protos#1737158400</id>
-    <title>https://github.com/googleapis/api-common-protos</title>
-    <link href="https://github.com/googleapis/api-common-protos" />
+    <id>https://github.com/googleapis/googleapis#1737158400</id>
+    <title>https://github.com/googleapis/googleapis</title>
+    <link href="https://github.com/googleapis/googleapis" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
+    <content type="text">Public interface definitions of Google APIs.</content>
   </entry>
   <entry>
-    <id>https://github.com/bazelbuild/bazel-skylib#1737158400</id>
-    <title>https://github.com/bazelbuild/bazel-skylib</title>
-    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <id>https://github.com/uber/hermetic_cc_toolchain#1737158400</id>
+    <title>https://github.com/uber/hermetic_cc_toolchain</title>
+    <link href="https://github.com/uber/hermetic_cc_toolchain" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Common useful functions and rules for Bazel</content>
+    <content type="text">Bazel C/C++ toolchain for cross-compiling C/C++ programs</content>
   </entry>
   <entry>
-    <id>https://github.com/bazelbuild/rules_python#1737158400</id>
-    <title>https://github.com/bazelbuild/rules_python</title>
-    <link href="https://github.com/bazelbuild/rules_python" />
+    <id>https://github.com/bazelbuild/bazel-central-registry#1737158400</id>
+    <title>https://github.com/bazelbuild/bazel-central-registry</title>
+    <link href="https://github.com/bazelbuild/bazel-central-registry" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bazel Python Rules</content>
-  </entry>
-  <entry>
-    <id>https://github.com/salesforce/rules_spring#1737158400</id>
-    <title>https://github.com/salesforce/rules_spring</title>
-    <link href="https://github.com/salesforce/rules_spring" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bazel rule for building Spring Boot apps as a deployable jar</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazelbuild/examples#1737158400</id>
-    <title>https://github.com/bazelbuild/examples</title>
-    <link href="https://github.com/bazelbuild/examples" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Examples for Bazel</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aspect-build/rules_js#1737158400</id>
-    <title>https://github.com/aspect-build/rules_js</title>
-    <link href="https://github.com/aspect-build/rules_js" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">High-performance Bazel rules for running Node.js tools and building JavaScript projects</content>
-  </entry>
-  <entry>
-    <id>https://github.com/GoogleContainerTools/distroless#1737158400</id>
-    <title>https://github.com/GoogleContainerTools/distroless</title>
-    <link href="https://github.com/GoogleContainerTools/distroless" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazelbuild/rules_scala#1737158400</id>
-    <title>https://github.com/bazelbuild/rules_scala</title>
-    <link href="https://github.com/bazelbuild/rules_scala" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Scala rules for Bazel</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ethpandaops/optimism-package#1737158400</id>
-    <title>https://github.com/ethpandaops/optimism-package</title>
-    <link href="https://github.com/ethpandaops/optimism-package" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A kurtosis package for deploying an optimistic rollup</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rules-proto-grpc/rules_proto_grpc#1737158400</id>
-    <title>https://github.com/rules-proto-grpc/rules_proto_grpc</title>
-    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cncf/xds#1737158400</id>
-    <title>https://github.com/cncf/xds</title>
-    <link href="https://github.com/cncf/xds" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">xDS API Working Group</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ethpandaops/ethereum-package#1737158400</id>
-    <title>https://github.com/ethpandaops/ethereum-package</title>
-    <link href="https://github.com/ethpandaops/ethereum-package" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A Kurtosis package that deploys a private, portable, and modular Ethereum devnet</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bazel-contrib/rules_oci#1737158400</id>
-    <title>https://github.com/bazel-contrib/rules_oci</title>
-    <link href="https://github.com/bazel-contrib/rules_oci" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bazel rules for building OCI containers</content>
+    <content type="text">The central registry of Bazel modules for the Bzlmod external dependency system.</content>
   </entry>
   <entry>
     <id>https://github.com/tilt-dev/tilt-extensions#1737158400</id>
@@ -108,6 +38,69 @@
     <content type="text">Extensions for Tilt</content>
   </entry>
   <entry>
+    <id>https://github.com/bazelbuild/rules_cc#1737158400</id>
+    <title>https://github.com/bazelbuild/rules_cc</title>
+    <link href="https://github.com/bazelbuild/rules_cc" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">C++ Rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/salesforce/rules_spring#1737158400</id>
+    <title>https://github.com/salesforce/rules_spring</title>
+    <link href="https://github.com/salesforce/rules_spring" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Bazel rule for building Spring Boot apps as a deployable jar</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1737158400</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_docker#1737158400</id>
+    <title>https://github.com/bazelbuild/rules_docker</title>
+    <link href="https://github.com/bazelbuild/rules_docker" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Rules for building and handling Docker images with Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rules-proto-grpc/rules_proto_grpc#1737158400</id>
+    <title>https://github.com/rules-proto-grpc/rules_proto_grpc</title>
+    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethpandaops/ethereum-package#1737158400</id>
+    <title>https://github.com/ethpandaops/ethereum-package</title>
+    <link href="https://github.com/ethpandaops/ethereum-package" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A Kurtosis package that deploys a private, portable, and modular Ethereum devnet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_python#1737158400</id>
+    <title>https://github.com/bazelbuild/rules_python</title>
+    <link href="https://github.com/bazelbuild/rules_python" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Bazel Python Rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_oci#1737158400</id>
+    <title>https://github.com/bazel-contrib/rules_oci</title>
+    <link href="https://github.com/bazel-contrib/rules_oci" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Bazel rules for building OCI containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-skylib#1737158400</id>
+    <title>https://github.com/bazelbuild/bazel-skylib</title>
+    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Common useful functions and rules for Bazel</content>
+  </entry>
+  <entry>
     <id>https://github.com/google/cel-spec#1737158400</id>
     <title>https://github.com/google/cel-spec</title>
     <link href="https://github.com/google/cel-spec" />
@@ -115,10 +108,24 @@
     <content type="text">Common Expression Language -- specification and binary representation</content>
   </entry>
   <entry>
-    <id>https://github.com/googleapis/googleapis#1737158400</id>
-    <title>https://github.com/googleapis/googleapis</title>
-    <link href="https://github.com/googleapis/googleapis" />
+    <id>https://github.com/googleapis/api-common-protos#1737158400</id>
+    <title>https://github.com/googleapis/api-common-protos</title>
+    <link href="https://github.com/googleapis/api-common-protos" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Public interface definitions of Google APIs.</content>
+    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidbyt/community#1737158400</id>
+    <title>https://github.com/tidbyt/community</title>
+    <link href="https://github.com/tidbyt/community" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A publishing platform for apps developed by the Tidbyt community 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_perl#1737158400</id>
+    <title>https://github.com/bazel-contrib/rules_perl</title>
+    <link href="https://github.com/bazel-contrib/rules_perl" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Perl rules for Bazel</content>
   </entry>
 </feed>

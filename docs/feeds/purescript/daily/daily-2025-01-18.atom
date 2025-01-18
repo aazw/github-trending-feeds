@@ -10,25 +10,39 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/purescript/purescript-datetime#1737158400</id>
-    <title>https://github.com/purescript/purescript-datetime</title>
-    <link href="https://github.com/purescript/purescript-datetime" />
+    <id>https://github.com/nammayatri/nammayatri#1737158400</id>
+    <title>https://github.com/nammayatri/nammayatri</title>
+    <link href="https://github.com/nammayatri/nammayatri" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Date and time library for PureScript.</content>
+    <content type="text">A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</content>
   </entry>
   <entry>
-    <id>https://github.com/purescript/purescript-control#1737158400</id>
-    <title>https://github.com/purescript/purescript-control</title>
-    <link href="https://github.com/purescript/purescript-control" />
+    <id>https://github.com/purescript/purescript-free#1737158400</id>
+    <title>https://github.com/purescript/purescript-free</title>
+    <link href="https://github.com/purescript/purescript-free" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Common control classes and utility functions</content>
+    <content type="text">Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.</content>
   </entry>
   <entry>
-    <id>https://github.com/purescript/purescript-prelude#1737158400</id>
-    <title>https://github.com/purescript/purescript-prelude</title>
-    <link href="https://github.com/purescript/purescript-prelude" />
+    <id>https://github.com/purescript/purescript-transformers#1737158400</id>
+    <title>https://github.com/purescript/purescript-transformers</title>
+    <link href="https://github.com/purescript/purescript-transformers" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The PureScript Prelude</content>
+    <content type="text">Monad and comonad transformers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-lists#1737158400</id>
+    <title>https://github.com/purescript/purescript-lists</title>
+    <link href="https://github.com/purescript/purescript-lists" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Linked Lists</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-typelevel-prelude#1737158400</id>
+    <title>https://github.com/purescript/purescript-typelevel-prelude</title>
+    <link href="https://github.com/purescript/purescript-typelevel-prelude" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Types and kinds for basic type-level programming</content>
   </entry>
   <entry>
     <id>https://github.com/purescript/purescript-profunctor#1737158400</id>
@@ -45,31 +59,10 @@
     <content type="text">Catenable lists</content>
   </entry>
   <entry>
-    <id>https://github.com/purescript/purescript-lists#1737158400</id>
-    <title>https://github.com/purescript/purescript-lists</title>
-    <link href="https://github.com/purescript/purescript-lists" />
+    <id>https://github.com/natefaubion/purescript-variant#1737158400</id>
+    <title>https://github.com/natefaubion/purescript-variant</title>
+    <link href="https://github.com/natefaubion/purescript-variant" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Linked Lists</content>
-  </entry>
-  <entry>
-    <id>https://github.com/purescript/purescript-free#1737158400</id>
-    <title>https://github.com/purescript/purescript-free</title>
-    <link href="https://github.com/purescript/purescript-free" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/purescript/purescript-typelevel-prelude#1737158400</id>
-    <title>https://github.com/purescript/purescript-typelevel-prelude</title>
-    <link href="https://github.com/purescript/purescript-typelevel-prelude" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Types and kinds for basic type-level programming</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nammayatri/nammayatri#1737158400</id>
-    <title>https://github.com/nammayatri/nammayatri</title>
-    <link href="https://github.com/nammayatri/nammayatri" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</content>
+    <content type="text">Polymorphic variants for PureScript</content>
   </entry>
 </feed>

@@ -10,31 +10,24 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/jerrykuku/luci-theme-argon#1737158400</id>
-    <title>https://github.com/jerrykuku/luci-theme-argon</title>
-    <link href="https://github.com/jerrykuku/luci-theme-argon" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/catppuccin/userstyles#1737158400</id>
-    <title>https://github.com/catppuccin/userstyles</title>
-    <link href="https://github.com/catppuccin/userstyles" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🖌 Soothing pastel userstyles</content>
-  </entry>
-  <entry>
-    <id>https://github.com/opentiny/tiny-vue#1737158400</id>
-    <title>https://github.com/opentiny/tiny-vue</title>
-    <link href="https://github.com/opentiny/tiny-vue" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">TinyVue is an enterprise-class UI component library of OpenTiny community, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.</content>
-  </entry>
-  <entry>
     <id>https://github.com/meteor/meteor-theme-hexo#1737158400</id>
     <title>https://github.com/meteor/meteor-theme-hexo</title>
     <link href="https://github.com/meteor/meteor-theme-hexo" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">The framework we use for docs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Remix-Design/RemixIcon#1737158400</id>
+    <title>https://github.com/Remix-Design/RemixIcon</title>
+    <link href="https://github.com/Remix-Design/RemixIcon" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Open source neutral style icon system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jerrykuku/luci-theme-argon#1737158400</id>
+    <title>https://github.com/jerrykuku/luci-theme-argon</title>
+    <link href="https://github.com/jerrykuku/luci-theme-argon" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.</content>
   </entry>
 </feed>

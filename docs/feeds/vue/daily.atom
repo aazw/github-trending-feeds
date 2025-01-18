@@ -10,67 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/chaitin/xray#1737158400</id>
-    <title>https://github.com/chaitin/xray</title>
-    <link href="https://github.com/chaitin/xray" />
+    <id>https://github.com/nuxt/ui#1737158400</id>
+    <title>https://github.com/nuxt/ui</title>
+    <link href="https://github.com/nuxt/ui" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档</content>
+    <content type="text">A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.</content>
   </entry>
   <entry>
-    <id>https://github.com/pipipi-pikachu/PPTist#1737158400</id>
-    <title>https://github.com/pipipi-pikachu/PPTist</title>
-    <link href="https://github.com/pipipi-pikachu/PPTist" />
+    <id>https://github.com/dullage/flatnotes#1737158400</id>
+    <title>https://github.com/dullage/flatnotes</title>
+    <link href="https://github.com/dullage/flatnotes" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online.</content>
+    <content type="text">A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.</content>
   </entry>
   <entry>
-    <id>https://github.com/manuelernestog/weektodo#1737158400</id>
-    <title>https://github.com/manuelernestog/weektodo</title>
-    <link href="https://github.com/manuelernestog/weektodo" />
+    <id>https://github.com/frappe/helpdesk#1737158400</id>
+    <title>https://github.com/frappe/helpdesk</title>
+    <link href="https://github.com/frappe/helpdesk" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy. Available for Windows, Mac, Linux or online.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/crmeb/CRMEB#1737158400</id>
-    <title>https://github.com/crmeb/CRMEB</title>
-    <link href="https://github.com/crmeb/CRMEB" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议</content>
-  </entry>
-  <entry>
-    <id>https://github.com/DeepSourceCorp/good-first-issue#1737158400</id>
-    <title>https://github.com/DeepSourceCorp/good-first-issue</title>
-    <link href="https://github.com/DeepSourceCorp/good-first-issue" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Make your first open-source contribution.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/opentiny/tiny-engine#1737158400</id>
-    <title>https://github.com/opentiny/tiny-engine</title>
-    <link href="https://github.com/opentiny/tiny-engine" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Bronya0/Kafka-King#1737158400</id>
-    <title>https://github.com/Bronya0/Kafka-King</title>
-    <link href="https://github.com/Bronya0/Kafka-King" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A modern and practical kafka GUI client</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dcloudio/hello-uniapp#1737158400</id>
-    <title>https://github.com/dcloudio/hello-uniapp</title>
-    <link href="https://github.com/dcloudio/hello-uniapp" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">uni-app框架演示示例</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ccfddl/ccf-deadlines#1737158400</id>
-    <title>https://github.com/ccfddl/ccf-deadlines</title>
-    <link href="https://github.com/ccfddl/ccf-deadlines" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~</content>
+    <content type="text">Modern, Streamlined, Free and Open Source Customer Service Software</content>
   </entry>
   <entry>
     <id>https://github.com/primefaces/primevue#1737158400</id>
@@ -80,32 +38,11 @@
     <content type="text">Next Generation Vue UI Component Library</content>
   </entry>
   <entry>
-    <id>https://github.com/un-pany/v3-admin-vite#1737158400</id>
-    <title>https://github.com/un-pany/v3-admin-vite</title>
-    <link href="https://github.com/un-pany/v3-admin-vite" />
+    <id>https://github.com/imsyy/home#1737158400</id>
+    <title>https://github.com/imsyy/home</title>
+    <link href="https://github.com/imsyy/home" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">☀️ A crafted admin template「vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板」</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OpenCSGs/csghub#1737158400</id>
-    <title>https://github.com/OpenCSGs/csghub</title>
-    <link href="https://github.com/OpenCSGs/csghub" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jekip/naive-ui-admin#1737158400</id>
-    <title>https://github.com/jekip/naive-ui-admin</title>
-    <link href="https://github.com/jekip/naive-ui-admin" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求</content>
-  </entry>
-  <entry>
-    <id>https://github.com/VueTorrent/VueTorrent#1737158400</id>
-    <title>https://github.com/VueTorrent/VueTorrent</title>
-    <link href="https://github.com/VueTorrent/VueTorrent" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The sleekest looking WEBUI for qBittorrent made with Vuejs!</content>
+    <content type="text">个人主页，我的个人主页，个人主页源码，主页模板，homepage</content>
   </entry>
   <entry>
     <id>https://github.com/Moonofweisheng/wot-design-uni#1737158400</id>
@@ -115,11 +52,53 @@
     <content type="text">一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。</content>
   </entry>
   <entry>
-    <id>https://github.com/Akryum/vue-virtual-scroller#1737158400</id>
-    <title>https://github.com/Akryum/vue-virtual-scroller</title>
-    <link href="https://github.com/Akryum/vue-virtual-scroller" />
+    <id>https://github.com/PanJiaChen/vue-element-admin#1737158400</id>
+    <title>https://github.com/PanJiaChen/vue-element-admin</title>
+    <link href="https://github.com/PanJiaChen/vue-element-admin" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">⚡️ Blazing fast scrolling for any amount of data</content>
+    <content type="text">🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unovue/shadcn-vue#1737158400</id>
+    <title>https://github.com/unovue/shadcn-vue</title>
+    <link href="https://github.com/unovue/shadcn-vue" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Vue port of shadcn-ui</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yangzongzhuan/RuoYi-Vue3#1737158400</id>
+    <title>https://github.com/yangzongzhuan/RuoYi-Vue3</title>
+    <link href="https://github.com/yangzongzhuan/RuoYi-Vue3" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kailong321200875/vue-element-plus-admin#1737158400</id>
+    <title>https://github.com/kailong321200875/vue-element-plus-admin</title>
+    <link href="https://github.com/kailong321200875/vue-element-plus-admin" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A backend management system based on vue3, typescript, element-plus, and vite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crmeb/CRMEB#1737158400</id>
+    <title>https://github.com/crmeb/CRMEB</title>
+    <link href="https://github.com/crmeb/CRMEB" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frappe/frappe-ui#1737158400</id>
+    <title>https://github.com/frappe/frappe-ui</title>
+    <link href="https://github.com/frappe/frappe-ui" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A set of components and utilities for rapid UI development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bastienwirtz/homer#1737158400</id>
+    <title>https://github.com/bastienwirtz/homer</title>
+    <link href="https://github.com/bastienwirtz/homer" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A very simple static homepage for your server.</content>
   </entry>
   <entry>
     <id>https://github.com/vbenjs/vue-vben-admin#1737158400</id>
@@ -127,5 +106,40 @@
     <link href="https://github.com/vbenjs/vue-vben-admin" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roimdev/roim-picx#1737158400</id>
+    <title>https://github.com/roimdev/roim-picx</title>
+    <link href="https://github.com/roimdev/roim-picx" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">free image service based on cloudflare Pages &amp; R2.基于CloudFlare Pages和R2实现的免费图床。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dreamhunter2333/cloudflare_temp_email#1737158400</id>
+    <title>https://github.com/dreamhunter2333/cloudflare_temp_email</title>
+    <link href="https://github.com/dreamhunter2333/cloudflare_temp_email" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eslint/config-inspector#1737158400</id>
+    <title>https://github.com/eslint/config-inspector</title>
+    <link href="https://github.com/eslint/config-inspector" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A visual tool for inspecting and understanding your ESLint flat configs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/imsyy/DailyHot#1737158400</id>
+    <title>https://github.com/imsyy/DailyHot</title>
+    <link href="https://github.com/imsyy/DailyHot" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CareyWang/sub-web#1737158400</id>
+    <title>https://github.com/CareyWang/sub-web</title>
+    <link href="https://github.com/CareyWang/sub-web" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text" />
   </entry>
 </feed>

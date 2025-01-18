@@ -10,24 +10,17 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dotnet/performance#1737158400</id>
-    <title>https://github.com/dotnet/performance</title>
-    <link href="https://github.com/dotnet/performance" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repo contains benchmarks used for testing the performance of all .NET Runtimes</content>
-  </entry>
-  <entry>
-    <id>https://github.com/artempyanykh/marksman#1737158400</id>
-    <title>https://github.com/artempyanykh/marksman</title>
-    <link href="https://github.com/artempyanykh/marksman" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Write Markdown with code assist and intelligence in the comfort of your favourite editor.</content>
-  </entry>
-  <entry>
     <id>https://github.com/dotnet/fsharp#1737158400</id>
     <title>https://github.com/dotnet/fsharp</title>
     <link href="https://github.com/dotnet/fsharp" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/performance#1737158400</id>
+    <title>https://github.com/dotnet/performance</title>
+    <link href="https://github.com/dotnet/performance" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">This repo contains benchmarks used for testing the performance of all .NET Runtimes</content>
   </entry>
 </feed>

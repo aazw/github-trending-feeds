@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/davesnx/styled-ppx#1737158400</id>
+    <title>https://github.com/davesnx/styled-ppx</title>
+    <link href="https://github.com/davesnx/styled-ppx" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Type-safe styled components for ReScript, Melange and native with type-safe CSS</content>
+  </entry>
 </feed>

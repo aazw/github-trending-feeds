@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/sdkman/sdkman-cli#1737158400</id>
-    <title>https://github.com/sdkman/sdkman-cli</title>
-    <link href="https://github.com/sdkman/sdkman-cli" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The SDKMAN! Command Line Interface</content>
-  </entry>
-  <entry>
     <id>https://github.com/keygen-sh/keygen-api#1737158400</id>
     <title>https://github.com/keygen-sh/keygen-api</title>
     <link href="https://github.com/keygen-sh/keygen-api" />

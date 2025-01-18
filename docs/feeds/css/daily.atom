@@ -10,39 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Dalufishe/palserver-GUI#1737158400</id>
-    <title>https://github.com/Dalufishe/palserver-GUI</title>
-    <link href="https://github.com/Dalufishe/palserver-GUI" />
+    <id>https://github.com/devicons/devicon#1737158400</id>
+    <title>https://github.com/devicons/devicon</title>
+    <link href="https://github.com/devicons/devicon" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。</content>
+    <content type="text">Set of icons representing programming languages, designing &amp; development tools</content>
   </entry>
   <entry>
-    <id>https://github.com/gohugoio/hugoDocs#1737158400</id>
-    <title>https://github.com/gohugoio/hugoDocs</title>
-    <link href="https://github.com/gohugoio/hugoDocs" />
+    <id>https://github.com/opera-gaming/gxmods#1737158400</id>
+    <title>https://github.com/opera-gaming/gxmods</title>
+    <link href="https://github.com/opera-gaming/gxmods" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The source for https://gohugo.io/</content>
-  </entry>
-  <entry>
-    <id>https://github.com/felix-bohlin/ui#1737158400</id>
-    <title>https://github.com/felix-bohlin/ui</title>
-    <link href="https://github.com/felix-bohlin/ui" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/animate-css/animate.css#1737158400</id>
-    <title>https://github.com/animate-css/animate.css</title>
-    <link href="https://github.com/animate-css/animate.css" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/progit/progit2#1737158400</id>
-    <title>https://github.com/progit/progit2</title>
-    <link href="https://github.com/progit/progit2" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Pro Git 2nd Edition</content>
+    <content type="text">Documentation for GX mods</content>
   </entry>
   <entry>
     <id>https://github.com/aws-samples/amplify-next-template#1737158400</id>
@@ -52,25 +31,11 @@
     <content type="text">This is a Next.js starter for building a fullstack app with AWS Amplify.</content>
   </entry>
   <entry>
-    <id>https://github.com/bradtraversy/50projects50days#1737158400</id>
-    <title>https://github.com/bradtraversy/50projects50days</title>
-    <link href="https://github.com/bradtraversy/50projects50days" />
+    <id>https://github.com/jgthms/bulma#1737158400</id>
+    <title>https://github.com/jgthms/bulma</title>
+    <link href="https://github.com/jgthms/bulma" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">50+ mini web projects using HTML, CSS &amp; JS</content>
-  </entry>
-  <entry>
-    <id>https://github.com/isocpp/CppCoreGuidelines#1737158400</id>
-    <title>https://github.com/isocpp/CppCoreGuidelines</title>
-    <link href="https://github.com/isocpp/CppCoreGuidelines" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jd-opensource/micro-app#1737158400</id>
-    <title>https://github.com/jd-opensource/micro-app</title>
-    <link href="https://github.com/jd-opensource/micro-app" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架</content>
+    <content type="text">Modern CSS framework based on Flexbox</content>
   </entry>
   <entry>
     <id>https://github.com/spring-projects/spring-petclinic#1737158400</id>
@@ -80,10 +45,52 @@
     <content type="text">A sample Spring-based application</content>
   </entry>
   <entry>
-    <id>https://github.com/primefaces/primereact#1737158400</id>
-    <title>https://github.com/primefaces/primereact</title>
-    <link href="https://github.com/primefaces/primereact" />
+    <id>https://github.com/google/google-api-javascript-client#1737158400</id>
+    <title>https://github.com/google/google-api-javascript-client</title>
+    <link href="https://github.com/google/google-api-javascript-client" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Most Complete React UI Component Library</content>
+    <content type="text">Google APIs Client Library for browser JavaScript, aka gapi.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PacktPublishing/Django-5-By-Example#1737158400</id>
+    <title>https://github.com/PacktPublishing/Django-5-By-Example</title>
+    <link href="https://github.com/PacktPublishing/Django-5-By-Example" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Django 5 By Example (5th Edition) published by Packt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AnswerDotAI/fasthtml-example#1737158400</id>
+    <title>https://github.com/AnswerDotAI/fasthtml-example</title>
+    <link href="https://github.com/AnswerDotAI/fasthtml-example" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Example fasthtml applications demonstrating a range of web programming techniques</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jothepro/doxygen-awesome-css#1737158400</id>
+    <title>https://github.com/jothepro/doxygen-awesome-css</title>
+    <link href="https://github.com/jothepro/doxygen-awesome-css" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Custom CSS theme for doxygen html-documentation with lots of customization parameters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simeydotme/pokemon-cards-css#1737158400</id>
+    <title>https://github.com/simeydotme/pokemon-cards-css</title>
+    <link href="https://github.com/simeydotme/pokemon-cards-css" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joy-of-react/project-wordle#1737158400</id>
+    <title>https://github.com/joy-of-react/project-wordle</title>
+    <link href="https://github.com/joy-of-react/project-wordle" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/tkashkin/Adwaita-for-Steam#1737158400</id>
+    <title>https://github.com/tkashkin/Adwaita-for-Steam</title>
+    <link href="https://github.com/tkashkin/Adwaita-for-Steam" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A skin to make Steam look more like a native GNOME app</content>
   </entry>
 </feed>

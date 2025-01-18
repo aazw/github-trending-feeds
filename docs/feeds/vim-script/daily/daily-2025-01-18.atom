@@ -17,88 +17,11 @@
     <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
   </entry>
   <entry>
-    <id>https://github.com/leafgarland/typescript-vim#1737158400</id>
-    <title>https://github.com/leafgarland/typescript-vim</title>
-    <link href="https://github.com/leafgarland/typescript-vim" />
+    <id>https://github.com/neovim/neovim#1737158400</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Typescript syntax files for Vim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/preservim/nerdtree#1737158400</id>
-    <title>https://github.com/preservim/nerdtree</title>
-    <link href="https://github.com/preservim/nerdtree" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A tree explorer plugin for vim.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kchmck/vim-coffee-script#1737158400</id>
-    <title>https://github.com/kchmck/vim-coffee-script</title>
-    <link href="https://github.com/kchmck/vim-coffee-script" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CoffeeScript support for vim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Raimondi/delimitMate#1737158400</id>
-    <title>https://github.com/Raimondi/delimitMate</title>
-    <link href="https://github.com/Raimondi/delimitMate" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tpope/vim-speeddating#1737158400</id>
-    <title>https://github.com/tpope/vim-speeddating</title>
-    <link href="https://github.com/tpope/vim-speeddating" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tpope/vim-projectionist#1737158400</id>
-    <title>https://github.com/tpope/vim-projectionist</title>
-    <link href="https://github.com/tpope/vim-projectionist" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">projectionist.vim: Granular project configuration</content>
-  </entry>
-  <entry>
-    <id>https://github.com/airblade/vim-rooter#1737158400</id>
-    <title>https://github.com/airblade/vim-rooter</title>
-    <link href="https://github.com/airblade/vim-rooter" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Changes Vim working directory to project root.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dense-analysis/ale#1737158400</id>
-    <title>https://github.com/dense-analysis/ale</title>
-    <link href="https://github.com/dense-analysis/ale" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fatih/vim-go#1737158400</id>
-    <title>https://github.com/fatih/vim-go</title>
-    <link href="https://github.com/fatih/vim-go" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Go development plugin for Vim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vimwiki/vimwiki#1737158400</id>
-    <title>https://github.com/vimwiki/vimwiki</title>
-    <link href="https://github.com/vimwiki/vimwiki" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Personal Wiki for Vim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sainnhe/everforest#1737158400</id>
-    <title>https://github.com/sainnhe/everforest</title>
-    <link href="https://github.com/sainnhe/everforest" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vim-test/vim-test#1737158400</id>
-    <title>https://github.com/vim-test/vim-test</title>
-    <link href="https://github.com/vim-test/vim-test" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Run your tests at the speed of thought</content>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
   </entry>
   <entry>
     <id>https://github.com/mbbill/undotree#1737158400</id>
@@ -108,11 +31,81 @@
     <content type="text">The undo history visualizer for VIM</content>
   </entry>
   <entry>
-    <id>https://github.com/tpope/vim-rhubarb#1737158400</id>
-    <title>https://github.com/tpope/vim-rhubarb</title>
-    <link href="https://github.com/tpope/vim-rhubarb" />
+    <id>https://github.com/rhysd/vim.wasm#1737158400</id>
+    <title>https://github.com/rhysd/vim.wasm</title>
+    <link href="https://github.com/rhysd/vim.wasm" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">rhubarb.vim: GitHub extension for fugitive.vim</content>
+    <content type="text">Vim editor ported to WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1737158400</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1737158400</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1737158400</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1737158400</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1737158400</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1737158400</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/gv.vim#1737158400</id>
+    <title>https://github.com/junegunn/gv.vim</title>
+    <link href="https://github.com/junegunn/gv.vim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A git commit browser in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1737158400</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leafgarland/typescript-vim#1737158400</id>
+    <title>https://github.com/leafgarland/typescript-vim</title>
+    <link href="https://github.com/leafgarland/typescript-vim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Typescript syntax files for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/sonokai#1737158400</id>
+    <title>https://github.com/sainnhe/sonokai</title>
+    <link href="https://github.com/sainnhe/sonokai" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">High Contrast &amp; Vivid Color Scheme based on Monokai Pro</content>
   </entry>
   <entry>
     <id>https://github.com/sainnhe/gruvbox-material#1737158400</id>
@@ -122,10 +115,24 @@
     <content type="text">Gruvbox with Material Palette</content>
   </entry>
   <entry>
-    <id>https://github.com/jbranchaud/til#1737158400</id>
-    <title>https://github.com/jbranchaud/til</title>
-    <link href="https://github.com/jbranchaud/til" />
+    <id>https://github.com/prabirshrestha/vim-lsp#1737158400</id>
+    <title>https://github.com/prabirshrestha/vim-lsp</title>
+    <link href="https://github.com/prabirshrestha/vim-lsp" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">📝 Today I Learned</content>
+    <content type="text">async language server protocol plugin for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-galore#1737158400</id>
+    <title>https://github.com/mhinz/vim-galore</title>
+    <link href="https://github.com/mhinz/vim-galore" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🎓 All things Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airblade/vim-rooter#1737158400</id>
+    <title>https://github.com/airblade/vim-rooter</title>
+    <link href="https://github.com/airblade/vim-rooter" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Changes Vim working directory to project root.</content>
   </entry>
 </feed>

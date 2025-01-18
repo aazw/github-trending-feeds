@@ -10,102 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/vectordotdev/helm-charts#1737158400</id>
-    <title>https://github.com/vectordotdev/helm-charts</title>
-    <link href="https://github.com/vectordotdev/helm-charts" />
+    <id>https://github.com/prometheus-community/helm-charts#1737158400</id>
+    <title>https://github.com/prometheus-community/helm-charts</title>
+    <link href="https://github.com/prometheus-community/helm-charts" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Helm charts for Vector.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/confluentinc/cp-helm-charts#1737158400</id>
-    <title>https://github.com/confluentinc/cp-helm-charts</title>
-    <link href="https://github.com/confluentinc/cp-helm-charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Confluent Platform Helm charts enable you to deploy Confluent Platform services on Kubernetes for development, test, and proof of concept environments.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rudderlabs/rudderstack-helm#1737158400</id>
-    <title>https://github.com/rudderlabs/rudderstack-helm</title>
-    <link href="https://github.com/rudderlabs/rudderstack-helm" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open-source, warehouse-first Customer Data Pipeline and Segment-alternative. Collects and routes clickstream data and builds your customer data lake on your data warehouse.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sentry-kubernetes/charts#1737158400</id>
-    <title>https://github.com/sentry-kubernetes/charts</title>
-    <link href="https://github.com/sentry-kubernetes/charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Easily deploy Sentry on your Kubernetes Cluster</content>
-  </entry>
-  <entry>
-    <id>https://github.com/codecentric/helm-charts#1737158400</id>
-    <title>https://github.com/codecentric/helm-charts</title>
-    <link href="https://github.com/codecentric/helm-charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A curated set of Helm charts brought to you by codecentric</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kedacore/charts#1737158400</id>
-    <title>https://github.com/kedacore/charts</title>
-    <link href="https://github.com/kedacore/charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Helm charts for KEDA</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fluent/helm-charts#1737158400</id>
-    <title>https://github.com/fluent/helm-charts</title>
-    <link href="https://github.com/fluent/helm-charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Helm Charts for Fluentd and Fluent Bit</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vmware-tanzu/helm-charts#1737158400</id>
-    <title>https://github.com/vmware-tanzu/helm-charts</title>
-    <link href="https://github.com/vmware-tanzu/helm-charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Contains Helm charts for Kubernetes related open source tools</content>
-  </entry>
-  <entry>
-    <id>https://github.com/amzn/selling-partner-api-models#1737158400</id>
-    <title>https://github.com/amzn/selling-partner-api-models</title>
-    <link href="https://github.com/amzn/selling-partner-api-models" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kubecost/cost-analyzer-helm-chart#1737158400</id>
-    <title>https://github.com/kubecost/cost-analyzer-helm-chart</title>
-    <link href="https://github.com/kubecost/cost-analyzer-helm-chart" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Kubecost helm chart</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jenkinsci/helm-charts#1737158400</id>
-    <title>https://github.com/jenkinsci/helm-charts</title>
-    <link href="https://github.com/jenkinsci/helm-charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Jenkins helm charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/temporalio/helm-charts#1737158400</id>
-    <title>https://github.com/temporalio/helm-charts</title>
-    <link href="https://github.com/temporalio/helm-charts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Temporal Helm charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/goharbor/harbor-helm#1737158400</id>
-    <title>https://github.com/goharbor/harbor-helm</title>
-    <link href="https://github.com/goharbor/harbor-helm" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The helm chart to deploy Harbor</content>
-  </entry>
-  <entry>
-    <id>https://github.com/argoproj/argo-helm#1737158400</id>
-    <title>https://github.com/argoproj/argo-helm</title>
-    <link href="https://github.com/argoproj/argo-helm" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">ArgoProj Helm Charts</content>
+    <content type="text">Prometheus community Helm charts</content>
   </entry>
   <entry>
     <id>https://github.com/Kong/charts#1737158400</id>
@@ -115,18 +24,18 @@
     <content type="text">Helm charts for Kong</content>
   </entry>
   <entry>
-    <id>https://github.com/aws/eks-charts#1737158400</id>
-    <title>https://github.com/aws/eks-charts</title>
-    <link href="https://github.com/aws/eks-charts" />
+    <id>https://github.com/amzn/selling-partner-api-models#1737158400</id>
+    <title>https://github.com/amzn/selling-partner-api-models</title>
+    <link href="https://github.com/amzn/selling-partner-api-models" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Amazon EKS Helm chart repository</content>
+    <content type="text">This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</content>
   </entry>
   <entry>
-    <id>https://github.com/prometheus-community/helm-charts#1737158400</id>
-    <title>https://github.com/prometheus-community/helm-charts</title>
-    <link href="https://github.com/prometheus-community/helm-charts" />
+    <id>https://github.com/goharbor/harbor-helm#1737158400</id>
+    <title>https://github.com/goharbor/harbor-helm</title>
+    <link href="https://github.com/goharbor/harbor-helm" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Prometheus community Helm charts</content>
+    <content type="text">The helm chart to deploy Harbor</content>
   </entry>
   <entry>
     <id>https://github.com/swagger-api/swagger-codegen#1737158400</id>
@@ -134,5 +43,96 @@
     <link href="https://github.com/swagger-api/swagger-codegen" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/helm-charts#1737158400</id>
+    <title>https://github.com/temporalio/helm-charts</title>
+    <link href="https://github.com/temporalio/helm-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Temporal Helm charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-helm#1737158400</id>
+    <title>https://github.com/argoproj/argo-helm</title>
+    <link href="https://github.com/argoproj/argo-helm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">ArgoProj Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sentry-kubernetes/charts#1737158400</id>
+    <title>https://github.com/sentry-kubernetes/charts</title>
+    <link href="https://github.com/sentry-kubernetes/charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Easily deploy Sentry on your Kubernetes Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vmware-tanzu/helm-charts#1737158400</id>
+    <title>https://github.com/vmware-tanzu/helm-charts</title>
+    <link href="https://github.com/vmware-tanzu/helm-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Contains Helm charts for Kubernetes related open source tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/percona/percona-helm-charts#1737158400</id>
+    <title>https://github.com/percona/percona-helm-charts</title>
+    <link href="https://github.com/percona/percona-helm-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Collection of Helm charts for Percona Kubernetes Operators.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/helm-charts#1737158400</id>
+    <title>https://github.com/fluent/helm-charts</title>
+    <link href="https://github.com/fluent/helm-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Helm Charts for Fluentd and Fluent Bit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rudderlabs/rudderstack-helm#1737158400</id>
+    <title>https://github.com/rudderlabs/rudderstack-helm</title>
+    <link href="https://github.com/rudderlabs/rudderstack-helm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Open-source, warehouse-first Customer Data Pipeline and Segment-alternative. Collects and routes clickstream data and builds your customer data lake on your data warehouse.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/helm-charts#1737158400</id>
+    <title>https://github.com/jenkinsci/helm-charts</title>
+    <link href="https://github.com/jenkinsci/helm-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Jenkins helm charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kedacore/charts#1737158400</id>
+    <title>https://github.com/kedacore/charts</title>
+    <link href="https://github.com/kedacore/charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Helm charts for KEDA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/eks-charts#1737158400</id>
+    <title>https://github.com/aws/eks-charts</title>
+    <link href="https://github.com/aws/eks-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Amazon EKS Helm chart repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thmsgbrt/thmsgbrt#1737158400</id>
+    <title>https://github.com/thmsgbrt/thmsgbrt</title>
+    <link href="https://github.com/thmsgbrt/thmsgbrt" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">My awesome README.md</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codecentric/helm-charts#1737158400</id>
+    <title>https://github.com/codecentric/helm-charts</title>
+    <link href="https://github.com/codecentric/helm-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A curated set of Helm charts brought to you by codecentric</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/helm-charts#1737158400</id>
+    <title>https://github.com/vectordotdev/helm-charts</title>
+    <link href="https://github.com/vectordotdev/helm-charts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Helm charts for Vector.</content>
   </entry>
 </feed>

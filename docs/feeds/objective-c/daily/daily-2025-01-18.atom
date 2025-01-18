@@ -10,46 +10,67 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/AliSoftware/OHHTTPStubs#1737158400</id>
-    <title>https://github.com/AliSoftware/OHHTTPStubs</title>
-    <link href="https://github.com/AliSoftware/OHHTTPStubs" />
+    <id>https://github.com/react-native-maps/react-native-maps#1737158400</id>
+    <title>https://github.com/react-native-maps/react-native-maps</title>
+    <link href="https://github.com/react-native-maps/react-native-maps" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</content>
+    <content type="text">React Native Mapview component for iOS + Android</content>
   </entry>
   <entry>
-    <id>https://github.com/dzenbot/DZNEmptyDataSet#1737158400</id>
-    <title>https://github.com/dzenbot/DZNEmptyDataSet</title>
-    <link href="https://github.com/dzenbot/DZNEmptyDataSet" />
+    <id>https://github.com/adjust/ios_sdk#1737158400</id>
+    <title>https://github.com/adjust/ios_sdk</title>
+    <link href="https://github.com/adjust/ios_sdk" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display</content>
+    <content type="text">This is the iOS SDK of</content>
   </entry>
   <entry>
-    <id>https://github.com/matej/MBPullDownController#1737158400</id>
-    <title>https://github.com/matej/MBPullDownController</title>
-    <link href="https://github.com/matej/MBPullDownController" />
+    <id>https://github.com/realm/realm-swift#1737158400</id>
+    <title>https://github.com/realm/realm-swift</title>
+    <link href="https://github.com/realm/realm-swift" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">MBPullDownController, an iOS container view controller for pullable scroll view interfaces.</content>
+    <content type="text">Realm is a mobile database: a replacement for Core Data &amp; SQLite</content>
   </entry>
   <entry>
-    <id>https://github.com/braze-inc/braze-swift-sdk#1737158400</id>
-    <title>https://github.com/braze-inc/braze-swift-sdk</title>
-    <link href="https://github.com/braze-inc/braze-swift-sdk" />
+    <id>https://github.com/google/GoogleSignIn-iOS#1737158400</id>
+    <title>https://github.com/google/GoogleSignIn-iOS</title>
+    <link href="https://github.com/google/GoogleSignIn-iOS" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS</content>
+    <content type="text">Enables iOS and macOS apps to sign in with Google.</content>
   </entry>
   <entry>
-    <id>https://github.com/CocoaLumberjack/CocoaLumberjack#1737158400</id>
-    <title>https://github.com/CocoaLumberjack/CocoaLumberjack</title>
-    <link href="https://github.com/CocoaLumberjack/CocoaLumberjack" />
+    <id>https://github.com/openid/AppAuth-iOS#1737158400</id>
+    <title>https://github.com/openid/AppAuth-iOS</title>
+    <link href="https://github.com/openid/AppAuth-iOS" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS and watchOS</content>
+    <content type="text">iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.</content>
   </entry>
   <entry>
-    <id>https://github.com/google/gtm-session-fetcher#1737158400</id>
-    <title>https://github.com/google/gtm-session-fetcher</title>
-    <link href="https://github.com/google/gtm-session-fetcher" />
+    <id>https://github.com/AFNetworking/AFNetworking#1737158400</id>
+    <title>https://github.com/AFNetworking/AFNetworking</title>
+    <link href="https://github.com/AFNetworking/AFNetworking" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Google Toolbox for Mac - Session Fetcher</content>
+    <content type="text">A delightful networking framework for iOS, macOS, watchOS, and tvOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sunnyyoung/WeChatTweak-macOS#1737158400</id>
+    <title>https://github.com/sunnyyoung/WeChatTweak-macOS</title>
+    <link href="https://github.com/sunnyyoung/WeChatTweak-macOS" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OneSignal/OneSignal-iOS-SDK#1737158400</id>
+    <title>https://github.com/OneSignal/OneSignal-iOS-SDK</title>
+    <link href="https://github.com/OneSignal/OneSignal-iOS-SDK" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImage#1737158400</id>
+    <title>https://github.com/SDWebImage/SDWebImage</title>
+    <link href="https://github.com/SDWebImage/SDWebImage" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Asynchronous image downloader with cache support as a UIImageView category</content>
   </entry>
   <entry>
     <id>https://github.com/google/promises#1737158400</id>
@@ -66,59 +87,52 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/google/GoogleSignIn-iOS#1737158400</id>
-    <title>https://github.com/google/GoogleSignIn-iOS</title>
-    <link href="https://github.com/google/GoogleSignIn-iOS" />
+    <id>https://github.com/google/gtm-session-fetcher#1737158400</id>
+    <title>https://github.com/google/gtm-session-fetcher</title>
+    <link href="https://github.com/google/gtm-session-fetcher" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Enables iOS and macOS apps to sign in with Google.</content>
+    <content type="text">Google Toolbox for Mac - Session Fetcher</content>
   </entry>
   <entry>
-    <id>https://github.com/getsentry/sentry-cocoa#1737158400</id>
-    <title>https://github.com/getsentry/sentry-cocoa</title>
-    <link href="https://github.com/getsentry/sentry-cocoa" />
+    <id>https://github.com/SDWebImage/SDWebImageWebPCoder#1737158400</id>
+    <title>https://github.com/SDWebImage/SDWebImageWebPCoder</title>
+    <link href="https://github.com/SDWebImage/SDWebImageWebPCoder" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The official Sentry SDK for iOS, tvOS, macOS, watchOS.</content>
+    <content type="text">A WebP coder plugin for SDWebImage, use libwebp</content>
   </entry>
   <entry>
-    <id>https://github.com/OneSignal/OneSignal-iOS-SDK#1737158400</id>
-    <title>https://github.com/OneSignal/OneSignal-iOS-SDK</title>
-    <link href="https://github.com/OneSignal/OneSignal-iOS-SDK" />
+    <id>https://github.com/uber/ios-snapshot-test-case#1737158400</id>
+    <title>https://github.com/uber/ios-snapshot-test-case</title>
+    <link href="https://github.com/uber/ios-snapshot-test-case" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com</content>
+    <content type="text">Snapshot view unit tests for iOS</content>
   </entry>
   <entry>
-    <id>https://github.com/realm/realm-swift#1737158400</id>
-    <title>https://github.com/realm/realm-swift</title>
-    <link href="https://github.com/realm/realm-swift" />
+    <id>https://github.com/BranchMetrics/ios-branch-deep-linking-attribution#1737158400</id>
+    <title>https://github.com/BranchMetrics/ios-branch-deep-linking-attribution</title>
+    <link href="https://github.com/BranchMetrics/ios-branch-deep-linking-attribution" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Realm is a mobile database: a replacement for Core Data &amp; SQLite</content>
+    <content type="text">The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user onboarding, and more.</content>
   </entry>
   <entry>
-    <id>https://github.com/adjust/ios_sdk#1737158400</id>
-    <title>https://github.com/adjust/ios_sdk</title>
-    <link href="https://github.com/adjust/ios_sdk" />
+    <id>https://github.com/AliSoftware/OHHTTPStubs#1737158400</id>
+    <title>https://github.com/AliSoftware/OHHTTPStubs</title>
+    <link href="https://github.com/AliSoftware/OHHTTPStubs" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This is the iOS SDK of</content>
+    <content type="text">Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</content>
   </entry>
   <entry>
-    <id>https://github.com/sunnyyoung/WeChatTweak-macOS#1737158400</id>
-    <title>https://github.com/sunnyyoung/WeChatTweak-macOS</title>
-    <link href="https://github.com/sunnyyoung/WeChatTweak-macOS" />
+    <id>https://github.com/braze-inc/braze-swift-sdk#1737158400</id>
+    <title>https://github.com/braze-inc/braze-swift-sdk</title>
+    <link href="https://github.com/braze-inc/braze-swift-sdk" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨</content>
+    <content type="text">Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS</content>
   </entry>
   <entry>
-    <id>https://github.com/SDWebImage/SDWebImage#1737158400</id>
-    <title>https://github.com/SDWebImage/SDWebImage</title>
-    <link href="https://github.com/SDWebImage/SDWebImage" />
+    <id>https://github.com/SDWebImage/SDWebImageSVGCoder#1737158400</id>
+    <title>https://github.com/SDWebImage/SDWebImageSVGCoder</title>
+    <link href="https://github.com/SDWebImage/SDWebImageSVGCoder" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Asynchronous image downloader with cache support as a UIImageView category</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openid/AppAuth-iOS#1737158400</id>
-    <title>https://github.com/openid/AppAuth-iOS</title>
-    <link href="https://github.com/openid/AppAuth-iOS" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.</content>
+    <content type="text">A SVG coder plugin for SDWebImage, using Apple's built-in framework</content>
   </entry>
 </feed>

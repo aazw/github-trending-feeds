@@ -10,20 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/nyoom-engineering/oxocarbon.nvim#1737158400</id>
-    <title>https://github.com/nyoom-engineering/oxocarbon.nvim</title>
-    <link href="https://github.com/nyoom-engineering/oxocarbon.nvim" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A dark and light Neovim theme written in fennel, inspired by IBM Carbon.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Olical/conjure#1737158400</id>
-    <title>https://github.com/Olical/conjure</title>
-    <link href="https://github.com/Olical/conjure" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)</content>
-  </entry>
-  <entry>
     <id>https://github.com/ggandor/leap.nvim#1737158400</id>
     <title>https://github.com/ggandor/leap.nvim</title>
     <link href="https://github.com/ggandor/leap.nvim" />

@@ -10,6 +10,20 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/Jollywatt/typst-fletcher#1737158400</id>
+    <title>https://github.com/Jollywatt/typst-fletcher</title>
+    <link href="https://github.com/Jollywatt/typst-fletcher" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Typst package for drawing diagrams with arrows, built on top of CeTZ.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erictapen/typst-invoice#1737158400</id>
+    <title>https://github.com/erictapen/typst-invoice</title>
+    <link href="https://github.com/erictapen/typst-invoice" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Typst template for generating invoices</content>
+  </entry>
+  <entry>
     <id>https://github.com/touying-typ/touying#1737158400</id>
     <title>https://github.com/touying-typ/touying</title>
     <link href="https://github.com/touying-typ/touying" />

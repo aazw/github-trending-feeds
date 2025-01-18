@@ -10,39 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/derailed/k9s#1737158400</id>
-    <title>https://github.com/derailed/k9s</title>
-    <link href="https://github.com/derailed/k9s" />
+    <id>https://github.com/hashicorp/terraform#1737158400</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🐶 Kubernetes CLI To Manage Your Clusters In Style!</content>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
   </entry>
   <entry>
-    <id>https://github.com/coreybutler/nvm-windows#1737158400</id>
-    <title>https://github.com/coreybutler/nvm-windows</title>
-    <link href="https://github.com/coreybutler/nvm-windows" />
+    <id>https://github.com/hashicorp/terraform-provider-aws#1737158400</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A node.js version management utility for Windows. Ironically written in Go.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/milvus-io/milvus#1737158400</id>
-    <title>https://github.com/milvus-io/milvus</title>
-    <link href="https://github.com/milvus-io/milvus" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nektos/act#1737158400</id>
-    <title>https://github.com/nektos/act</title>
-    <link href="https://github.com/nektos/act" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Run your GitHub Actions locally 🚀</content>
-  </entry>
-  <entry>
-    <id>https://github.com/uber-go/zap#1737158400</id>
-    <title>https://github.com/uber-go/zap</title>
-    <link href="https://github.com/uber-go/zap" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
   </entry>
   <entry>
     <id>https://github.com/henrygd/beszel#1737158400</id>
@@ -52,18 +31,137 @@
     <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
   </entry>
   <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-go#1737158400</id>
-    <title>https://github.com/open-telemetry/opentelemetry-go</title>
-    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <id>https://github.com/abiosoft/colima#1737158400</id>
+    <title>https://github.com/abiosoft/colima</title>
+    <link href="https://github.com/abiosoft/colima" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenTelemetry Go API and SDK</content>
+    <content type="text">Container runtimes on macOS (and Linux) with minimal setup</content>
   </entry>
   <entry>
-    <id>https://github.com/goharbor/harbor#1737158400</id>
-    <title>https://github.com/goharbor/harbor</title>
-    <link href="https://github.com/goharbor/harbor" />
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1737158400</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An open source trusted cloud native registry project that stores, signs, and scans content.</content>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rs/zerolog#1737158400</id>
+    <title>https://github.com/rs/zerolog</title>
+    <link href="https://github.com/rs/zerolog" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Zero Allocation JSON Logger</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1737158400</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kubebuilder#1737158400</id>
+    <title>https://github.com/kubernetes-sigs/kubebuilder</title>
+    <link href="https://github.com/kubernetes-sigs/kubebuilder" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Kubebuilder - SDK for building Kubernetes APIs using CRDs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1737158400</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1737158400</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zalando/postgres-operator#1737158400</id>
+    <title>https://github.com/zalando/postgres-operator</title>
+    <link href="https://github.com/zalando/postgres-operator" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Postgres operator creates and manages PostgreSQL clusters running in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1737158400</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/tracee#1737158400</id>
+    <title>https://github.com/aquasecurity/tracee</title>
+    <link href="https://github.com/aquasecurity/tracee" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Linux Runtime Security and Forensics using eBPF</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1737158400</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/tidb#1737158400</id>
+    <title>https://github.com/pingcap/tidb</title>
+    <link href="https://github.com/pingcap/tidb" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1737158400</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1737158400</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/buildkit#1737158400</id>
+    <title>https://github.com/moby/buildkit</title>
+    <link href="https://github.com/moby/buildkit" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k0sproject/k0s#1737158400</id>
+    <title>https://github.com/k0sproject/k0s</title>
+    <link href="https://github.com/k0sproject/k0s" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">k0s - The Zero Friction Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1737158400</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/nomad#1737158400</id>
+    <title>https://github.com/hashicorp/nomad</title>
+    <link href="https://github.com/hashicorp/nomad" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1737158400</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An engine to run your pipelines in containers</content>
   </entry>
   <entry>
     <id>https://github.com/grafana/loki#1737158400</id>
@@ -71,103 +169,5 @@
     <link href="https://github.com/grafana/loki" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Like Prometheus, but for logs.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rhysd/actionlint#1737158400</id>
-    <title>https://github.com/rhysd/actionlint</title>
-    <link href="https://github.com/rhysd/actionlint" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Static checker for GitHub Actions workflow files</content>
-  </entry>
-  <entry>
-    <id>https://github.com/moby/moby#1737158400</id>
-    <title>https://github.com/moby/moby</title>
-    <link href="https://github.com/moby/moby" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
-  </entry>
-  <entry>
-    <id>https://github.com/techschool/simplebank#1737158400</id>
-    <title>https://github.com/techschool/simplebank</title>
-    <link href="https://github.com/techschool/simplebank" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Backend master class: build a simple bank service in Go</content>
-  </entry>
-  <entry>
-    <id>https://github.com/prometheus-community/postgres_exporter#1737158400</id>
-    <title>https://github.com/prometheus-community/postgres_exporter</title>
-    <link href="https://github.com/prometheus-community/postgres_exporter" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A PostgreSQL metric exporter for Prometheus</content>
-  </entry>
-  <entry>
-    <id>https://github.com/argoproj/argo-cd#1737158400</id>
-    <title>https://github.com/argoproj/argo-cd</title>
-    <link href="https://github.com/argoproj/argo-cd" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tailscale/tailscale#1737158400</id>
-    <title>https://github.com/tailscale/tailscale</title>
-    <link href="https://github.com/tailscale/tailscale" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SpecterOps/BloodHound#1737158400</id>
-    <title>https://github.com/SpecterOps/BloodHound</title>
-    <link href="https://github.com/SpecterOps/BloodHound" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Six Degrees of Domain Admin</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gin-gonic/gin#1737158400</id>
-    <title>https://github.com/gin-gonic/gin</title>
-    <link href="https://github.com/gin-gonic/gin" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/evanw/esbuild#1737158400</id>
-    <title>https://github.com/evanw/esbuild</title>
-    <link href="https://github.com/evanw/esbuild" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An extremely fast bundler for the web</content>
-  </entry>
-  <entry>
-    <id>https://github.com/prometheus/alertmanager#1737158400</id>
-    <title>https://github.com/prometheus/alertmanager</title>
-    <link href="https://github.com/prometheus/alertmanager" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Prometheus Alertmanager</content>
-  </entry>
-  <entry>
-    <id>https://github.com/docker/compose#1737158400</id>
-    <title>https://github.com/docker/compose</title>
-    <link href="https://github.com/docker/compose" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Define and run multi-container applications with Docker</content>
-  </entry>
-  <entry>
-    <id>https://github.com/prometheus-operator/prometheus-operator#1737158400</id>
-    <title>https://github.com/prometheus-operator/prometheus-operator</title>
-    <link href="https://github.com/prometheus-operator/prometheus-operator" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes</content>
-  </entry>
-  <entry>
-    <id>https://github.com/containers/podman#1737158400</id>
-    <title>https://github.com/containers/podman</title>
-    <link href="https://github.com/containers/podman" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hashicorp/terraform#1737158400</id>
-    <title>https://github.com/hashicorp/terraform</title>
-    <link href="https://github.com/hashicorp/terraform" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
   </entry>
 </feed>

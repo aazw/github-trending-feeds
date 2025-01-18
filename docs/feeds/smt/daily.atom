@@ -16,11 +16,4 @@
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.</content>
   </entry>
-  <entry>
-    <id>https://github.com/adafruit/Adafruit_CAD_Parts#1737158400</id>
-    <title>https://github.com/adafruit/Adafruit_CAD_Parts</title>
-    <link href="https://github.com/adafruit/Adafruit_CAD_Parts" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CAD files for various boards, components and parts</content>
-  </entry>
 </feed>

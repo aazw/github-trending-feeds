@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/bdring/Grbl_Esp32#1737158400</id>
-    <title>https://github.com/bdring/Grbl_Esp32</title>
-    <link href="https://github.com/bdring/Grbl_Esp32" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A port of Grbl CNC Firmware for ESP32</content>
-  </entry>
 </feed>

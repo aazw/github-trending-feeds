@@ -10,67 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/pooler/cpuminer#1737158400</id>
-    <title>https://github.com/pooler/cpuminer</title>
-    <link href="https://github.com/pooler/cpuminer" />
+    <id>https://github.com/bytedance/sonic#1737158400</id>
+    <title>https://github.com/bytedance/sonic</title>
+    <link href="https://github.com/bytedance/sonic" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CPU miner for Litecoin and Bitcoin</content>
-  </entry>
-  <entry>
-    <id>https://github.com/boostorg/context#1737158400</id>
-    <title>https://github.com/boostorg/context</title>
-    <link href="https://github.com/boostorg/context" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/0xAX/asm#1737158400</id>
-    <title>https://github.com/0xAX/asm</title>
-    <link href="https://github.com/0xAX/asm" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Learning assembly for Linux x86_64</content>
-  </entry>
-  <entry>
-    <id>https://github.com/BLAKE3-team/BLAKE3#1737158400</id>
-    <title>https://github.com/BLAKE3-team/BLAKE3</title>
-    <link href="https://github.com/BLAKE3-team/BLAKE3" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">the official Rust and C implementations of the BLAKE3 cryptographic hash function</content>
-  </entry>
-  <entry>
-    <id>https://github.com/riscvarchive/riscv-v-spec#1737158400</id>
-    <title>https://github.com/riscvarchive/riscv-v-spec</title>
-    <link href="https://github.com/riscvarchive/riscv-v-spec" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Working draft of the proposed RISC-V V vector extension</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ROCm/MIOpen#1737158400</id>
-    <title>https://github.com/ROCm/MIOpen</title>
-    <link href="https://github.com/ROCm/MIOpen" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">AMD's Machine Intelligence Library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vxunderground/MalwareSourceCode#1737158400</id>
-    <title>https://github.com/vxunderground/MalwareSourceCode</title>
-    <link href="https://github.com/vxunderground/MalwareSourceCode" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Collection of malware source code for a variety of platforms in an array of different programming languages.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apple/swift-crypto#1737158400</id>
-    <title>https://github.com/apple/swift-crypto</title>
-    <link href="https://github.com/apple/swift-crypto" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/briansmith/ring#1737158400</id>
-    <title>https://github.com/briansmith/ring</title>
-    <link href="https://github.com/briansmith/ring" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Safe, fast, small crypto using Rust</content>
+    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
   </entry>
   <entry>
     <id>https://github.com/openhwgroup/cva6#1737158400</id>
@@ -87,11 +31,32 @@
     <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
   </entry>
   <entry>
-    <id>https://github.com/bytedance/sonic#1737158400</id>
-    <title>https://github.com/bytedance/sonic</title>
-    <link href="https://github.com/bytedance/sonic" />
+    <id>https://github.com/apple/swift-crypto#1737158400</id>
+    <title>https://github.com/apple/swift-crypto</title>
+    <link href="https://github.com/apple/swift-crypto" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
+    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kanaka/mal#1737158400</id>
+    <title>https://github.com/kanaka/mal</title>
+    <link href="https://github.com/kanaka/mal" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">mal - Make a Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BLAKE3-team/BLAKE3#1737158400</id>
+    <title>https://github.com/BLAKE3-team/BLAKE3</title>
+    <link href="https://github.com/BLAKE3-team/BLAKE3" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">the official Rust and C implementations of the BLAKE3 cryptographic hash function</content>
+  </entry>
+  <entry>
+    <id>https://github.com/briansmith/ring#1737158400</id>
+    <title>https://github.com/briansmith/ring</title>
+    <link href="https://github.com/briansmith/ring" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Safe, fast, small crypto using Rust</content>
   </entry>
   <entry>
     <id>https://github.com/chrislgarry/Apollo-11#1737158400</id>
@@ -99,5 +64,61 @@
     <link href="https://github.com/chrislgarry/Apollo-11" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/giaf/blasfeo#1737158400</id>
+    <title>https://github.com/giaf/blasfeo</title>
+    <link href="https://github.com/giaf/blasfeo" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Basic linear algebra subroutines for embedded optimization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscvarchive/riscv-v-spec#1737158400</id>
+    <title>https://github.com/riscvarchive/riscv-v-spec</title>
+    <link href="https://github.com/riscvarchive/riscv-v-spec" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Working draft of the proposed RISC-V V vector extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/context#1737158400</id>
+    <title>https://github.com/boostorg/context</title>
+    <link href="https://github.com/boostorg/context" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/netwide-assembler/nasm#1737158400</id>
+    <title>https://github.com/netwide-assembler/nasm</title>
+    <link href="https://github.com/netwide-assembler/nasm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A cross-platform x86 assembler with an Intel-like syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pret/pokered#1737158400</id>
+    <title>https://github.com/pret/pokered</title>
+    <link href="https://github.com/pret/pokered" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Disassembly of Pokémon Red/Blue</content>
+  </entry>
+  <entry>
+    <id>https://github.com/below/HelloSilicon#1737158400</id>
+    <title>https://github.com/below/HelloSilicon</title>
+    <link href="https://github.com/below/HelloSilicon" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An introduction to ARM64 assembly on Apple Silicon Macs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rangi42/polishedcrystal#1737158400</id>
+    <title>https://github.com/Rangi42/polishedcrystal</title>
+    <link href="https://github.com/Rangi42/polishedcrystal" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/MIOpen#1737158400</id>
+    <title>https://github.com/ROCm/MIOpen</title>
+    <link href="https://github.com/ROCm/MIOpen" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">AMD's Machine Intelligence Library</content>
   </entry>
 </feed>

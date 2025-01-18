@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/AdguardTeam/FiltersRegistry#1737158400</id>
+    <title>https://github.com/AdguardTeam/FiltersRegistry</title>
+    <link href="https://github.com/AdguardTeam/FiltersRegistry" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Known filters subscriptions transformed for better compatibility with AdGuard</content>
+  </entry>
+  <entry>
     <id>https://github.com/easylist/easylist#1737158400</id>
     <title>https://github.com/easylist/easylist</title>
     <link href="https://github.com/easylist/easylist" />
@@ -17,10 +24,10 @@
     <content type="text">EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)</content>
   </entry>
   <entry>
-    <id>https://github.com/AdguardTeam/FiltersRegistry#1737158400</id>
-    <title>https://github.com/AdguardTeam/FiltersRegistry</title>
-    <link href="https://github.com/AdguardTeam/FiltersRegistry" />
+    <id>https://github.com/AdguardTeam/AdguardFilters#1737158400</id>
+    <title>https://github.com/AdguardTeam/AdguardFilters</title>
+    <link href="https://github.com/AdguardTeam/AdguardFilters" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Known filters subscriptions transformed for better compatibility with AdGuard</content>
+    <content type="text">AdGuard Content Blocking Filters</content>
   </entry>
 </feed>

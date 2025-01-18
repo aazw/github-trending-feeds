@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/openxla/stablehlo#1737158400</id>
-    <title>https://github.com/openxla/stablehlo</title>
-    <link href="https://github.com/openxla/stablehlo" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Backward compatible ML compute opset inspired by HLO/MHLO</content>
-  </entry>
-  <entry>
     <id>https://github.com/intel/intel-xpu-backend-for-triton#1737158400</id>
     <title>https://github.com/intel/intel-xpu-backend-for-triton</title>
     <link href="https://github.com/intel/intel-xpu-backend-for-triton" />
@@ -29,5 +22,12 @@
     <link href="https://github.com/ROCm/rocMLIR" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openxla/stablehlo#1737158400</id>
+    <title>https://github.com/openxla/stablehlo</title>
+    <link href="https://github.com/openxla/stablehlo" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Backward compatible ML compute opset inspired by HLO/MHLO</content>
   </entry>
 </feed>

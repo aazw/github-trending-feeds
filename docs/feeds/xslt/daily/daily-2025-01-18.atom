@@ -10,25 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/codingo/BibWord#1737158400</id>
-    <title>https://github.com/codingo/BibWord</title>
-    <link href="https://github.com/codingo/BibWord" />
+    <id>https://github.com/uri-templates/uritemplate-test#1737158400</id>
+    <title>https://github.com/uri-templates/uritemplate-test</title>
+    <link href="https://github.com/uri-templates/uritemplate-test" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Microsoft Word and Bibliography Styles extender.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ConnectingEurope/eInvoicing-EN16931#1737158400</id>
-    <title>https://github.com/ConnectingEurope/eInvoicing-EN16931</title>
-    <link href="https://github.com/ConnectingEurope/eInvoicing-EN16931" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Validation artefacts for the European eInvoicing standard EN 16931</content>
-  </entry>
-  <entry>
-    <id>https://github.com/itplr-kosit/validator-configuration-xrechnung#1737158400</id>
-    <title>https://github.com/itplr-kosit/validator-configuration-xrechnung</title>
-    <link href="https://github.com/itplr-kosit/validator-configuration-xrechnung" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Configuration for validating documents against the German XRechnung standard using the KoSIT validation tool</content>
+    <content type="text">Tests for URI Template implementations</content>
   </entry>
   <entry>
     <id>https://github.com/OpenSCAP/openscap#1737158400</id>
@@ -38,6 +24,20 @@
     <content type="text">NIST Certified SCAP 1.2 toolkit</content>
   </entry>
   <entry>
+    <id>https://github.com/ZUGFeRD/mustangproject#1737158400</id>
+    <title>https://github.com/ZUGFeRD/mustangproject</title>
+    <link href="https://github.com/ZUGFeRD/mustangproject" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ConnectingEurope/eInvoicing-EN16931#1737158400</id>
+    <title>https://github.com/ConnectingEurope/eInvoicing-EN16931</title>
+    <link href="https://github.com/ConnectingEurope/eInvoicing-EN16931" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Validation artefacts for the European eInvoicing standard EN 16931</content>
+  </entry>
+  <entry>
     <id>https://github.com/itplr-kosit/xrechnung-visualization#1737158400</id>
     <title>https://github.com/itplr-kosit/xrechnung-visualization</title>
     <link href="https://github.com/itplr-kosit/xrechnung-visualization" />
@@ -45,38 +45,10 @@
     <content type="text">XSL transformators for web and pdf rendering of German CIUS XRechnung or EN16931-1:2017 [MIRROR OF GitLab]</content>
   </entry>
   <entry>
-    <id>https://github.com/ZUGFeRD/quba-viewer#1737158400</id>
-    <title>https://github.com/ZUGFeRD/quba-viewer</title>
-    <link href="https://github.com/ZUGFeRD/quba-viewer" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Quba is a viewer for electronic invoices</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoftgraph/msgraph-metadata#1737158400</id>
-    <title>https://github.com/microsoftgraph/msgraph-metadata</title>
-    <link href="https://github.com/microsoftgraph/msgraph-metadata" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Microsoft Graph metadata captured and used for generating client library code files.</content>
-  </entry>
-  <entry>
     <id>https://github.com/LOLBAS-Project/LOLBAS#1737158400</id>
     <title>https://github.com/LOLBAS-Project/LOLBAS</title>
     <link href="https://github.com/LOLBAS-Project/LOLBAS" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/uri-templates/uritemplate-test#1737158400</id>
-    <title>https://github.com/uri-templates/uritemplate-test</title>
-    <link href="https://github.com/uri-templates/uritemplate-test" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Tests for URI Template implementations</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ZUGFeRD/mustangproject#1737158400</id>
-    <title>https://github.com/ZUGFeRD/mustangproject</title>
-    <link href="https://github.com/ZUGFeRD/mustangproject" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</content>
   </entry>
 </feed>

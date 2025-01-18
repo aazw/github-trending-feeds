@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/github/codeql#1737158400</id>
+    <title>https://github.com/github/codeql</title>
+    <link href="https://github.com/github/codeql" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</content>
+  </entry>
+  <entry>
     <id>https://github.com/github/codeql-coding-standards#1737158400</id>
     <title>https://github.com/github/codeql-coding-standards</title>
     <link href="https://github.com/github/codeql-coding-standards" />
@@ -17,10 +24,10 @@
     <content type="text">This repository contains CodeQL queries and libraries which support various Coding Standards.</content>
   </entry>
   <entry>
-    <id>https://github.com/github/codeql#1737158400</id>
-    <title>https://github.com/github/codeql</title>
-    <link href="https://github.com/github/codeql" />
+    <id>https://github.com/github/vscode-codeql-starter#1737158400</id>
+    <title>https://github.com/github/vscode-codeql-starter</title>
+    <link href="https://github.com/github/vscode-codeql-starter" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</content>
+    <content type="text">Starter workspace to use with the CodeQL extension for Visual Studio Code.</content>
   </entry>
 </feed>

@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/shopware/docs#1737158400</id>
-    <title>https://github.com/shopware/docs</title>
-    <link href="https://github.com/shopware/docs" />
+    <id>https://github.com/MicrosoftDocs/power-platform#1737158400</id>
+    <title>https://github.com/MicrosoftDocs/power-platform</title>
+    <link href="https://github.com/MicrosoftDocs/power-platform" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Shopware 6 developer docs</content>
+    <content type="text">Documentation for Microsoft Power Platform</content>
   </entry>
   <entry>
     <id>https://github.com/MicrosoftDocs/power-automate-docs#1737158400</id>
@@ -22,13 +22,6 @@
     <link href="https://github.com/MicrosoftDocs/power-automate-docs" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/MicrosoftDocs/power-platform#1737158400</id>
-    <title>https://github.com/MicrosoftDocs/power-platform</title>
-    <link href="https://github.com/MicrosoftDocs/power-platform" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Documentation for Microsoft Power Platform</content>
   </entry>
   <entry>
     <id>https://github.com/dotnet/EntityFramework.Docs#1737158400</id>

@@ -10,20 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/dropbox/zxcvbn#1737158400</id>
-    <title>https://github.com/dropbox/zxcvbn</title>
-    <link href="https://github.com/dropbox/zxcvbn" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Low-Budget Password Strength Estimation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Leonidas-from-XIV/node-xml2js#1737158400</id>
-    <title>https://github.com/Leonidas-from-XIV/node-xml2js</title>
-    <link href="https://github.com/Leonidas-from-XIV/node-xml2js" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">XML to JavaScript object converter.</content>
-  </entry>
-  <entry>
     <id>https://github.com/slackapi/hubot-slack#1737158400</id>
     <title>https://github.com/slackapi/hubot-slack</title>
     <link href="https://github.com/slackapi/hubot-slack" />
@@ -31,11 +17,11 @@
     <content type="text">Slack Developer Kit for Hubot</content>
   </entry>
   <entry>
-    <id>https://github.com/pandastrike/jsck#1737158400</id>
-    <title>https://github.com/pandastrike/jsck</title>
-    <link href="https://github.com/pandastrike/jsck" />
+    <id>https://github.com/lucassus/angular-coffee-seed#1737158400</id>
+    <title>https://github.com/lucassus/angular-coffee-seed</title>
+    <link href="https://github.com/lucassus/angular-coffee-seed" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">JSON Schema Compiled checK</content>
+    <content type="text">AngularJS seed based on grunt JavaScript tasks runner and bower a package manager for the web</content>
   </entry>
   <entry>
     <id>https://github.com/adaltas/node-csv#1737158400</id>

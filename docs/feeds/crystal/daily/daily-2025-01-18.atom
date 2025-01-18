@@ -10,18 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/crystal-ameba/ameba#1737158400</id>
-    <title>https://github.com/crystal-ameba/ameba</title>
-    <link href="https://github.com/crystal-ameba/ameba" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A static code analysis tool for Crystal</content>
-  </entry>
-  <entry>
     <id>https://github.com/crystal-lang/crystal#1737158400</id>
     <title>https://github.com/crystal-lang/crystal</title>
     <link href="https://github.com/crystal-lang/crystal" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">The Crystal Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vitobotta/hetzner-k3s#1737158400</id>
+    <title>https://github.com/vitobotta/hetzner-k3s</title>
+    <link href="https://github.com/vitobotta/hetzner-k3s" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.</content>
   </entry>
   <entry>
     <id>https://github.com/iv-org/invidious#1737158400</id>

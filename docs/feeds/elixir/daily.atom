@@ -10,109 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/elixir-ecto/ecto#1737158400</id>
-    <title>https://github.com/elixir-ecto/ecto</title>
-    <link href="https://github.com/elixir-ecto/ecto" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A toolkit for data mapping and language integrated query.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/teslamate-org/teslamate#1737158400</id>
-    <title>https://github.com/teslamate-org/teslamate</title>
-    <link href="https://github.com/teslamate-org/teslamate" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ash-project/ash#1737158400</id>
-    <title>https://github.com/ash-project/ash</title>
-    <link href="https://github.com/ash-project/ash" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OffchainLabs/blockscout#1737158400</id>
-    <title>https://github.com/OffchainLabs/blockscout</title>
-    <link href="https://github.com/OffchainLabs/blockscout" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/alfert/propcheck#1737158400</id>
-    <title>https://github.com/alfert/propcheck</title>
-    <link href="https://github.com/alfert/propcheck" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Property based Testing for Elixir (based upon PropEr)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ntrepid8/ex_crypto#1737158400</id>
-    <title>https://github.com/ntrepid8/ex_crypto</title>
-    <link href="https://github.com/ntrepid8/ex_crypto" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Wrapper around the Erlang crypto module for Elixir.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/techgaun/zxcvbn-elixir#1737158400</id>
-    <title>https://github.com/techgaun/zxcvbn-elixir</title>
-    <link href="https://github.com/techgaun/zxcvbn-elixir" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Elixir implementation of zxcvbn by dropbox</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elixir-protobuf/protobuf#1737158400</id>
-    <title>https://github.com/elixir-protobuf/protobuf</title>
-    <link href="https://github.com/elixir-protobuf/protobuf" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A pure Elixir implementation of Google Protobuf.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elixir-lang/elixir#1737158400</id>
-    <title>https://github.com/elixir-lang/elixir</title>
-    <link href="https://github.com/elixir-lang/elixir" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bluzky/salad_ui#1737158400</id>
-    <title>https://github.com/bluzky/salad_ui</title>
-    <link href="https://github.com/bluzky/salad_ui" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/livebook-dev/livebook#1737158400</id>
-    <title>https://github.com/livebook-dev/livebook</title>
-    <link href="https://github.com/livebook-dev/livebook" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
-  </entry>
-  <entry>
-    <id>https://github.com/brainlid/langchain#1737158400</id>
-    <title>https://github.com/brainlid/langchain</title>
-    <link href="https://github.com/brainlid/langchain" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Elixir implementation of an AI focused LangChain style framework.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/phoenixframework/phoenix#1737158400</id>
-    <title>https://github.com/phoenixframework/phoenix</title>
-    <link href="https://github.com/phoenixframework/phoenix" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Peace of mind from prototype to production</content>
-  </entry>
-  <entry>
-    <id>https://github.com/firezone/firezone#1737158400</id>
-    <title>https://github.com/firezone/firezone</title>
-    <link href="https://github.com/firezone/firezone" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
-  </entry>
-  <entry>
     <id>https://github.com/anoma/anoma#1737158400</id>
     <title>https://github.com/anoma/anoma</title>
     <link href="https://github.com/anoma/anoma" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1737158400</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
   </entry>
   <entry>
     <id>https://github.com/plausible/analytics#1737158400</id>
@@ -122,10 +31,80 @@
     <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
   </entry>
   <entry>
-    <id>https://github.com/blockscout/blockscout#1737158400</id>
-    <title>https://github.com/blockscout/blockscout</title>
-    <link href="https://github.com/blockscout/blockscout" />
+    <id>https://github.com/petalframework/petal_components#1737158400</id>
+    <title>https://github.com/petalframework/petal_components</title>
+    <link href="https://github.com/petalframework/petal_components" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+    <content type="text">Phoenix + Live View HEEX Components</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bartblast/hologram#1737158400</id>
+    <title>https://github.com/bartblast/hologram</title>
+    <link href="https://github.com/bartblast/hologram" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Full stack isomorphic Elixir web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixirs/faker#1737158400</id>
+    <title>https://github.com/elixirs/faker</title>
+    <link href="https://github.com/elixirs/faker" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Faker is a pure Elixir library for generating fake data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1737158400</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liveview-native/live_view_native#1737158400</id>
+    <title>https://github.com/liveview-native/live_view_native</title>
+    <link href="https://github.com/liveview-native/live_view_native" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A framework for building native applications with Phoenix LiveView</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1737158400</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alfert/propcheck#1737158400</id>
+    <title>https://github.com/alfert/propcheck</title>
+    <link href="https://github.com/alfert/propcheck" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Property based Testing for Elixir (based upon PropEr)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1737158400</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1737158400</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetanotherco/aligned_layer#1737158400</id>
+    <title>https://github.com/yetanotherco/aligned_layer</title>
+    <link href="https://github.com/yetanotherco/aligned_layer" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Aligned is a verification layer for zero-knowledge proofs using EigenLayer. Our mission is to accelerate the adoption of zero-knowledge and validity proofs on Ethereum.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1737158400</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Elixir implementation of an AI focused LangChain style framework.</content>
   </entry>
 </feed>

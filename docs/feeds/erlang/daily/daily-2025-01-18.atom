@@ -10,18 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1737158400</id>
-    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
-    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <id>https://github.com/emqx/emqx#1737158400</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Delayed Messaging for RabbitMQ</content>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
   </entry>
   <entry>
-    <id>https://github.com/eproxus/meck#1737158400</id>
-    <title>https://github.com/eproxus/meck</title>
-    <link href="https://github.com/eproxus/meck" />
+    <id>https://github.com/erlware/relx#1737158400</id>
+    <title>https://github.com/erlware/relx</title>
+    <link href="https://github.com/erlware/relx" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A mocking library for Erlang</content>
+    <content type="text">Sane, simple release creation for Erlang</content>
   </entry>
   <entry>
     <id>https://github.com/erlydtl/erlydtl#1737158400</id>
@@ -31,45 +31,80 @@
     <content type="text">Django templates for Erlang</content>
   </entry>
   <entry>
-    <id>https://github.com/couchbase/couchdb#1737158400</id>
-    <title>https://github.com/couchbase/couchdb</title>
-    <link href="https://github.com/couchbase/couchdb" />
+    <id>https://github.com/WhatsApp/erlfmt#1737158400</id>
+    <title>https://github.com/WhatsApp/erlfmt</title>
+    <link href="https://github.com/WhatsApp/erlfmt" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CouchDB</content>
+    <content type="text">An automated code formatter for Erlang</content>
   </entry>
   <entry>
-    <id>https://github.com/blt/port_compiler#1737158400</id>
-    <title>https://github.com/blt/port_compiler</title>
-    <link href="https://github.com/blt/port_compiler" />
+    <id>https://github.com/mochi/mochiweb#1737158400</id>
+    <title>https://github.com/mochi/mochiweb</title>
+    <link href="https://github.com/mochi/mochiweb" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A rebar3 port compiler</content>
+    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
   </entry>
   <entry>
-    <id>https://github.com/kivra/restclient#1737158400</id>
-    <title>https://github.com/kivra/restclient</title>
-    <link href="https://github.com/kivra/restclient" />
+    <id>https://github.com/erlang/rebar3#1737158400</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Erlang Rest Client</content>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
   </entry>
   <entry>
-    <id>https://github.com/erlang/otp#1737158400</id>
-    <title>https://github.com/erlang/otp</title>
-    <link href="https://github.com/erlang/otp" />
+    <id>https://github.com/inaka/cowboy_swagger#1737158400</id>
+    <title>https://github.com/inaka/cowboy_swagger</title>
+    <link href="https://github.com/inaka/cowboy_swagger" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Erlang/OTP</content>
+    <content type="text">Swagger integration for Cowboy (built on trails)</content>
   </entry>
   <entry>
-    <id>https://github.com/processone/ejabberd#1737158400</id>
-    <title>https://github.com/processone/ejabberd</title>
-    <link href="https://github.com/processone/ejabberd" />
+    <id>https://github.com/ninenines/gun#1737158400</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
   </entry>
   <entry>
-    <id>https://github.com/emqx/emqx#1737158400</id>
-    <title>https://github.com/emqx/emqx</title>
-    <link href="https://github.com/emqx/emqx" />
+    <id>https://github.com/tomas-abrahamsson/gpb#1737158400</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/for-GET/jesse#1737158400</id>
+    <title>https://github.com/for-GET/jesse</title>
+    <link href="https://github.com/for-GET/jesse" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tsloughter/grpcbox#1737158400</id>
+    <title>https://github.com/tsloughter/grpcbox</title>
+    <link href="https://github.com/tsloughter/grpcbox" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Erlang grpc on chatterbox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seriyps/mtproto_proxy#1737158400</id>
+    <title>https://github.com/seriyps/mtproto_proxy</title>
+    <link href="https://github.com/seriyps/mtproto_proxy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">High performance Erlang MTProto proxy that powers https://t.me/socksy_bot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1737158400</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1737158400</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
   </entry>
 </feed>

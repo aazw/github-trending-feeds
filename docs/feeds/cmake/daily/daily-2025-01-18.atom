@@ -10,60 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/vector-of-bool/cmrc#1737158400</id>
-    <title>https://github.com/vector-of-bool/cmrc</title>
-    <link href="https://github.com/vector-of-bool/cmrc" />
+    <id>https://github.com/microsoft/vcpkg#1737158400</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A Resource Compiler in a Single CMake Script</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ROCm/rocm-cmake#1737158400</id>
-    <title>https://github.com/ROCm/rocm-cmake</title>
-    <link href="https://github.com/ROCm/rocm-cmake" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CMake modules used within the ROCm libraries</content>
-  </entry>
-  <entry>
-    <id>https://github.com/abdes/cryptopp-cmake#1737158400</id>
-    <title>https://github.com/abdes/cryptopp-cmake</title>
-    <link href="https://github.com/abdes/cryptopp-cmake" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A modern CMake build project for Crypto++ (https://github.com/weidai11/cryptopp).</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ttroy50/cmake-examples#1737158400</id>
-    <title>https://github.com/ttroy50/cmake-examples</title>
-    <link href="https://github.com/ttroy50/cmake-examples" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Useful CMake Examples</content>
-  </entry>
-  <entry>
-    <id>https://github.com/arsenm/sanitizers-cmake#1737158400</id>
-    <title>https://github.com/arsenm/sanitizers-cmake</title>
-    <link href="https://github.com/arsenm/sanitizers-cmake" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">CMake modules to help use sanitizers</content>
-  </entry>
-  <entry>
-    <id>https://github.com/moveit/moveit_msgs#1737158400</id>
-    <title>https://github.com/moveit/moveit_msgs</title>
-    <link href="https://github.com/moveit/moveit_msgs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">ROS messages used by MoveIt</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bilke/cmake-modules#1737158400</id>
-    <title>https://github.com/bilke/cmake-modules</title>
-    <link href="https://github.com/bilke/cmake-modules" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/GEOS-ESM/GEOSgcm#1737158400</id>
-    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
-    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
   </entry>
   <entry>
     <id>https://github.com/cpm-cmake/CPM.cmake#1737158400</id>
@@ -73,10 +24,45 @@
     <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/vcpkg#1737158400</id>
-    <title>https://github.com/microsoft/vcpkg</title>
-    <link href="https://github.com/microsoft/vcpkg" />
+    <id>https://github.com/boostorg/cmake#1737158400</id>
+    <title>https://github.com/boostorg/cmake</title>
+    <link href="https://github.com/boostorg/cmake" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+    <content type="text">CMake support infrastructure Boost submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PX4/px4_msgs#1737158400</id>
+    <title>https://github.com/PX4/px4_msgs</title>
+    <link href="https://github.com/PX4/px4_msgs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1737158400</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arsenm/sanitizers-cmake#1737158400</id>
+    <title>https://github.com/arsenm/sanitizers-cmake</title>
+    <link href="https://github.com/arsenm/sanitizers-cmake" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">CMake modules to help use sanitizers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/kvproto#1737158400</id>
+    <title>https://github.com/pingcap/kvproto</title>
+    <link href="https://github.com/pingcap/kvproto" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Protocol buffer files for TiKV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1737158400</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
   </entry>
 </feed>

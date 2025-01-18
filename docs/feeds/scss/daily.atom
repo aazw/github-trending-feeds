@@ -10,11 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/RyanFitzgerald/devportfolio#1737158400</id>
+    <title>https://github.com/RyanFitzgerald/devportfolio</title>
+    <link href="https://github.com/RyanFitzgerald/devportfolio" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass</content>
+  </entry>
+  <entry>
     <id>https://github.com/conventional-commits/conventionalcommits.org#1737158400</id>
     <title>https://github.com/conventional-commits/conventionalcommits.org</title>
     <link href="https://github.com/conventional-commits/conventionalcommits.org" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">The conventional commits specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/TypeScript-Node-Starter#1737158400</id>
+    <title>https://github.com/microsoft/TypeScript-Node-Starter</title>
+    <link href="https://github.com/microsoft/TypeScript-Node-Starter" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A reference example for TypeScript and Node with a detailed README describing how to use the two together.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prakhar1989/docker-curriculum#1737158400</id>
+    <title>https://github.com/prakhar1989/docker-curriculum</title>
+    <link href="https://github.com/prakhar1989/docker-curriculum" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🐬 A comprehensive tutorial on getting started with Docker!</content>
   </entry>
   <entry>
     <id>https://github.com/keyvanakbary/learning-notes#1737158400</id>
@@ -24,74 +45,11 @@
     <content type="text">Notes on books I read, talks I watch, articles I study, and papers I love</content>
   </entry>
   <entry>
-    <id>https://github.com/creativetimofficial/material-dashboard#1737158400</id>
-    <title>https://github.com/creativetimofficial/material-dashboard</title>
-    <link href="https://github.com/creativetimofficial/material-dashboard" />
+    <id>https://github.com/creativetimofficial/vue-argon-design-system#1737158400</id>
+    <title>https://github.com/creativetimofficial/vue-argon-design-system</title>
+    <link href="https://github.com/creativetimofficial/vue-argon-design-system" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Material Dashboard - Open Source Bootstrap 5 Material Design Admin</content>
-  </entry>
-  <entry>
-    <id>https://github.com/creativetimofficial/soft-ui-dashboard#1737158400</id>
-    <title>https://github.com/creativetimofficial/soft-ui-dashboard</title>
-    <link href="https://github.com/creativetimofficial/soft-ui-dashboard" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kitian616/jekyll-TeXt-theme#1737158400</id>
-    <title>https://github.com/kitian616/jekyll-TeXt-theme</title>
-    <link href="https://github.com/kitian616/jekyll-TeXt-theme" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/thingsym/hugo-theme-techdoc#1737158400</id>
-    <title>https://github.com/thingsym/hugo-theme-techdoc</title>
-    <link href="https://github.com/thingsym/hugo-theme-techdoc" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Techdoc is a Hugo Theme for technical documentation.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/just-the-docs/just-the-docs#1737158400</id>
-    <title>https://github.com/just-the-docs/just-the-docs</title>
-    <link href="https://github.com/just-the-docs/just-the-docs" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/chaselambda/makefiletutorial#1737158400</id>
-    <title>https://github.com/chaselambda/makefiletutorial</title>
-    <link href="https://github.com/chaselambda/makefiletutorial" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Learn make by example</content>
-  </entry>
-  <entry>
-    <id>https://github.com/selectize/selectize.js#1737158400</id>
-    <title>https://github.com/selectize/selectize.js</title>
-    <link href="https://github.com/selectize/selectize.js" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/uswds/uswds#1737158400</id>
-    <title>https://github.com/uswds/uswds</title>
-    <link href="https://github.com/uswds/uswds" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/primer/css#1737158400</id>
-    <title>https://github.com/primer/css</title>
-    <link href="https://github.com/primer/css" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Primer is GitHub's design system. This is the CSS implementation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vinceliuice/WhiteSur-gtk-theme#1737158400</id>
-    <title>https://github.com/vinceliuice/WhiteSur-gtk-theme</title>
-    <link href="https://github.com/vinceliuice/WhiteSur-gtk-theme" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">MacOS like theme for all gtk based desktops</content>
+    <content type="text">Vue Argon Design System</content>
   </entry>
   <entry>
     <id>https://github.com/cobiwave/simplefolio#1737158400</id>
@@ -101,32 +59,67 @@
     <content type="text">⚡️ A minimal portfolio template for Developers</content>
   </entry>
   <entry>
-    <id>https://github.com/RyanFitzgerald/devportfolio#1737158400</id>
-    <title>https://github.com/RyanFitzgerald/devportfolio</title>
-    <link href="https://github.com/RyanFitzgerald/devportfolio" />
+    <id>https://github.com/jekyll/minima#1737158400</id>
+    <title>https://github.com/jekyll/minima</title>
+    <link href="https://github.com/jekyll/minima" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass</content>
+    <content type="text">Minima is a one-size-fits-all Jekyll theme for writers.</content>
   </entry>
   <entry>
-    <id>https://github.com/Dorota1997/react-frontend-dev-portfolio#1737158400</id>
-    <title>https://github.com/Dorota1997/react-frontend-dev-portfolio</title>
-    <link href="https://github.com/Dorota1997/react-frontend-dev-portfolio" />
+    <id>https://github.com/momentum-design/momentum-ui#1737158400</id>
+    <title>https://github.com/momentum-design/momentum-ui</title>
+    <link href="https://github.com/momentum-design/momentum-ui" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Easy to adapt and deploy React portfolio inspired with solutions found at GitHub.</content>
+    <content type="text">Momentum UI is a collection of UI libraries for implementing Momentum Design into web applications and websites.</content>
   </entry>
   <entry>
-    <id>https://github.com/pages-themes/minimal#1737158400</id>
-    <title>https://github.com/pages-themes/minimal</title>
-    <link href="https://github.com/pages-themes/minimal" />
+    <id>https://github.com/mdbootstrap/mdb-ui-kit#1737158400</id>
+    <title>https://github.com/mdbootstrap/mdb-ui-kit</title>
+    <link href="https://github.com/mdbootstrap/mdb-ui-kit" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Minimal is a Jekyll theme for GitHub Pages</content>
+    <content type="text">Bootstrap 5 &amp; Material Design UI KIT</content>
   </entry>
   <entry>
-    <id>https://github.com/Ileriayo/markdown-badges#1737158400</id>
-    <title>https://github.com/Ileriayo/markdown-badges</title>
-    <link href="https://github.com/Ileriayo/markdown-badges" />
+    <id>https://github.com/vblanco20-1/vulkan-guide#1737158400</id>
+    <title>https://github.com/vblanco20-1/vulkan-guide</title>
+    <link href="https://github.com/vblanco20-1/vulkan-guide" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Badges for your personal developer branding, profile, and projects.</content>
+    <content type="text">Introductory guide to vulkan.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciSharp/BotSharp-UI#1737158400</id>
+    <title>https://github.com/SciSharp/BotSharp-UI</title>
+    <link href="https://github.com/SciSharp/BotSharp-UI" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Build, test and manage your AI Agents in the central place.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sujaykundu777/devlopr-jekyll#1737158400</id>
+    <title>https://github.com/sujaykundu777/devlopr-jekyll</title>
+    <link href="https://github.com/sujaykundu777/devlopr-jekyll" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">(FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS 🚀 in minutes built for developers. (with CMS) ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emilbaehr/automatic-app-landing-page#1737158400</id>
+    <title>https://github.com/emilbaehr/automatic-app-landing-page</title>
+    <link href="https://github.com/emilbaehr/automatic-app-landing-page" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/selectize/selectize.js#1737158400</id>
+    <title>https://github.com/selectize/selectize.js</title>
+    <link href="https://github.com/selectize/selectize.js" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaselambda/makefiletutorial#1737158400</id>
+    <title>https://github.com/chaselambda/makefiletutorial</title>
+    <link href="https://github.com/chaselambda/makefiletutorial" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Learn make by example</content>
   </entry>
   <entry>
     <id>https://github.com/maildev/maildev#1737158400</id>

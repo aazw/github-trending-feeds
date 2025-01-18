@@ -10,67 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/cplusplus/draft#1737158400</id>
-    <title>https://github.com/cplusplus/draft</title>
-    <link href="https://github.com/cplusplus/draft" />
+    <id>https://github.com/rstudio/cheatsheets#1737158400</id>
+    <title>https://github.com/rstudio/cheatsheets</title>
+    <link href="https://github.com/rstudio/cheatsheets" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">C++ standards drafts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dart-lang/language#1737158400</id>
-    <title>https://github.com/dart-lang/language</title>
-    <link href="https://github.com/dart-lang/language" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Design of the Dart language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hithesis/hithesis#1737158400</id>
-    <title>https://github.com/hithesis/hithesis</title>
-    <link href="https://github.com/hithesis/hithesis" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hmemcpy/milewski-ctfp-pdf#1737158400</id>
-    <title>https://github.com/hmemcpy/milewski-ctfp-pdf</title>
-    <link href="https://github.com/hmemcpy/milewski-ctfp-pdf" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source</content>
-  </entry>
-  <entry>
-    <id>https://github.com/billryan/resume#1737158400</id>
-    <title>https://github.com/billryan/resume</title>
-    <link href="https://github.com/billryan/resume" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git</content>
-  </entry>
-  <entry>
-    <id>https://github.com/posquit0/Awesome-CV#1737158400</id>
-    <title>https://github.com/posquit0/Awesome-CV</title>
-    <link href="https://github.com/posquit0/Awesome-CV" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">📄 Awesome CV is LaTeX template for your outstanding job application</content>
-  </entry>
-  <entry>
-    <id>https://github.com/acl-org/acl-style-files#1737158400</id>
-    <title>https://github.com/acl-org/acl-style-files</title>
-    <link href="https://github.com/acl-org/acl-style-files" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Official style files for papers submitted to venues of the Association for Computational Linguistics</content>
-  </entry>
-  <entry>
-    <id>https://github.com/harvard-edge/cs249r_book#1737158400</id>
-    <title>https://github.com/harvard-edge/cs249r_book</title>
-    <link href="https://github.com/harvard-edge/cs249r_book" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Introduction to Machine Learning Systems</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vdumoulin/conv_arithmetic#1737158400</id>
-    <title>https://github.com/vdumoulin/conv_arithmetic</title>
-    <link href="https://github.com/vdumoulin/conv_arithmetic" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A technical report on convolution arithmetic in the context of deep learning</content>
+    <content type="text">Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.</content>
   </entry>
   <entry>
     <id>https://github.com/lib-pku/libpku#1737158400</id>
@@ -80,32 +24,25 @@
     <content type="text">贵校课程资料民间整理</content>
   </entry>
   <entry>
-    <id>https://github.com/zhanwen/MathModel#1737158400</id>
-    <title>https://github.com/zhanwen/MathModel</title>
-    <link href="https://github.com/zhanwen/MathModel" />
+    <id>https://github.com/tuhdo/os01#1737158400</id>
+    <title>https://github.com/tuhdo/os01</title>
+    <link href="https://github.com/tuhdo/os01" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT</content>
+    <content type="text">Bootstrap yourself to write an OS from scratch. A book for self-learner.</content>
   </entry>
   <entry>
-    <id>https://github.com/exacity/deeplearningbook-chinese#1737158400</id>
-    <title>https://github.com/exacity/deeplearningbook-chinese</title>
-    <link href="https://github.com/exacity/deeplearningbook-chinese" />
+    <id>https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots#1737158400</id>
+    <title>https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots</title>
+    <link href="https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Deep Learning Book Chinese Translation</content>
+    <content type="text">Introduction to Autonomous Robots</content>
   </entry>
   <entry>
-    <id>https://github.com/iamjakewarner/jdf#1737158400</id>
-    <title>https://github.com/iamjakewarner/jdf</title>
-    <link href="https://github.com/iamjakewarner/jdf" />
+    <id>https://github.com/srush/awesome-o1#1737158400</id>
+    <title>https://github.com/srush/awesome-o1</title>
+    <link href="https://github.com/srush/awesome-o1" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Joyner Document Format official</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openmlsys/openmlsys-zh#1737158400</id>
-    <title>https://github.com/openmlsys/openmlsys-zh</title>
-    <link href="https://github.com/openmlsys/openmlsys-zh" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">《Machine Learning Systems: Design and Implementation》- Chinese Version</content>
+    <content type="text">A bibliography and survey of the papers surrounding o1</content>
   </entry>
   <entry>
     <id>https://github.com/riscv/riscv-isa-manual#1737158400</id>
@@ -115,24 +52,66 @@
     <content type="text">RISC-V Instruction Set Manual</content>
   </entry>
   <entry>
-    <id>https://github.com/rstudio/cheatsheets#1737158400</id>
-    <title>https://github.com/rstudio/cheatsheets</title>
-    <link href="https://github.com/rstudio/cheatsheets" />
+    <id>https://github.com/matze/mtheme#1737158400</id>
+    <title>https://github.com/matze/mtheme</title>
+    <link href="https://github.com/matze/mtheme" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.</content>
+    <content type="text">A modern LaTeX Beamer theme</content>
   </entry>
   <entry>
-    <id>https://github.com/latex3/latex2e#1737158400</id>
-    <title>https://github.com/latex3/latex2e</title>
-    <link href="https://github.com/latex3/latex2e" />
+    <id>https://github.com/nju-lug/NJUThesis#1737158400</id>
+    <title>https://github.com/nju-lug/NJUThesis</title>
+    <link href="https://github.com/nju-lug/NJUThesis" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The LaTeX2e kernel</content>
+    <content type="text">南京大学学位论文模板</content>
   </entry>
   <entry>
-    <id>https://github.com/tuhdo/os01#1737158400</id>
-    <title>https://github.com/tuhdo/os01</title>
-    <link href="https://github.com/tuhdo/os01" />
+    <id>https://github.com/hithesis/hithesis#1737158400</id>
+    <title>https://github.com/hithesis/hithesis</title>
+    <link href="https://github.com/hithesis/hithesis" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bootstrap yourself to write an OS from scratch. A book for self-learner.</content>
+    <content type="text">嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vdumoulin/conv_arithmetic#1737158400</id>
+    <title>https://github.com/vdumoulin/conv_arithmetic</title>
+    <link href="https://github.com/vdumoulin/conv_arithmetic" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A technical report on convolution arithmetic in the context of deep learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HarisIqbal88/PlotNeuralNet#1737158400</id>
+    <title>https://github.com/HarisIqbal88/PlotNeuralNet</title>
+    <link href="https://github.com/HarisIqbal88/PlotNeuralNet" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Latex code for making neural networks diagrams</content>
+  </entry>
+  <entry>
+    <id>https://github.com/the-turing-way/the-turing-way#1737158400</id>
+    <title>https://github.com/the-turing-way/the-turing-way</title>
+    <link href="https://github.com/the-turing-way/the-turing-way" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Host repository for The Turing Way: a how to guide for reproducible data science</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dart-lang/language#1737158400</id>
+    <title>https://github.com/dart-lang/language</title>
+    <link href="https://github.com/dart-lang/language" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Design of the Dart language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/posquit0/Awesome-CV#1737158400</id>
+    <title>https://github.com/posquit0/Awesome-CV</title>
+    <link href="https://github.com/posquit0/Awesome-CV" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">📄 Awesome CV is LaTeX template for your outstanding job application</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lervag/vimtex#1737158400</id>
+    <title>https://github.com/lervag/vimtex</title>
+    <link href="https://github.com/lervag/vimtex" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</content>
   </entry>
 </feed>

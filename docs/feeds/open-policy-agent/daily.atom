@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/open-policy-agent/gatekeeper-library#1737158400</id>
-    <title>https://github.com/open-policy-agent/gatekeeper-library</title>
-    <link href="https://github.com/open-policy-agent/gatekeeper-library" />
+    <id>https://github.com/open-telemetry/semantic-conventions#1737158400</id>
+    <title>https://github.com/open-telemetry/semantic-conventions</title>
+    <link href="https://github.com/open-telemetry/semantic-conventions" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">📚 The OPA Gatekeeper policy library</content>
+    <content type="text">Defines standards for generating consistent, accessible telemetry across a variety of domains</content>
   </entry>
   <entry>
     <id>https://github.com/Azure/azure-policy#1737158400</id>
@@ -22,12 +22,5 @@
     <link href="https://github.com/Azure/azure-policy" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Repository for Azure Resource Policy built-in definitions and samples</content>
-  </entry>
-  <entry>
-    <id>https://github.com/open-telemetry/semantic-conventions#1737158400</id>
-    <title>https://github.com/open-telemetry/semantic-conventions</title>
-    <link href="https://github.com/open-telemetry/semantic-conventions" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Defines standards for generating consistent, accessible telemetry across a variety of domains</content>
   </entry>
 </feed>

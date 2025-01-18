@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/SaschaWillems/Vulkan#1737158400</id>
-    <title>https://github.com/SaschaWillems/Vulkan</title>
-    <link href="https://github.com/SaschaWillems/Vulkan" />
+    <id>https://github.com/sixthsurge/photon#1737158400</id>
+    <title>https://github.com/sixthsurge/photon</title>
+    <link href="https://github.com/sixthsurge/photon" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">C++ examples for the Vulkan graphics API</content>
+    <content type="text">A gameplay-focused shader pack for Minecraft</content>
   </entry>
   <entry>
     <id>https://github.com/KhronosGroup/SPIRV-Cross#1737158400</id>
@@ -22,5 +22,12 @@
     <link href="https://github.com/KhronosGroup/SPIRV-Cross" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SaschaWillems/Vulkan#1737158400</id>
+    <title>https://github.com/SaschaWillems/Vulkan</title>
+    <link href="https://github.com/SaschaWillems/Vulkan" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">C++ examples for the Vulkan graphics API</content>
   </entry>
 </feed>

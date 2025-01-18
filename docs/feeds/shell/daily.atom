@@ -10,27 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/1N3/Sn1per#1737158400</id>
-    <title>https://github.com/1N3/Sn1per</title>
-    <link href="https://github.com/1N3/Sn1per" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Attack Surface Management Platform</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bats-core/bats-core#1737158400</id>
-    <title>https://github.com/bats-core/bats-core</title>
-    <link href="https://github.com/bats-core/bats-core" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bash Automated Testing System</content>
-  </entry>
-  <entry>
-    <id>https://github.com/QwenLM/Qwen2.5#1737158400</id>
-    <title>https://github.com/QwenLM/Qwen2.5</title>
-    <link href="https://github.com/QwenLM/Qwen2.5" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
-  </entry>
-  <entry>
     <id>https://github.com/chaifeng/ufw-docker#1737158400</id>
     <title>https://github.com/chaifeng/ufw-docker</title>
     <link href="https://github.com/chaifeng/ufw-docker" />
@@ -38,67 +17,11 @@
     <content type="text">To fix the Docker and UFW security flaw without disabling iptables</content>
   </entry>
   <entry>
-    <id>https://github.com/ROCm/ROCm#1737158400</id>
-    <title>https://github.com/ROCm/ROCm</title>
-    <link href="https://github.com/ROCm/ROCm" />
+    <id>https://github.com/CISOfy/lynis#1737158400</id>
+    <title>https://github.com/CISOfy/lynis</title>
+    <link href="https://github.com/CISOfy/lynis" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">AMD ROCm™ Software - GitHub Home</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rbenv/rbenv#1737158400</id>
-    <title>https://github.com/rbenv/rbenv</title>
-    <link href="https://github.com/rbenv/rbenv" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Manage your app's Ruby environment</content>
-  </entry>
-  <entry>
-    <id>https://github.com/armbian/build#1737158400</id>
-    <title>https://github.com/armbian/build</title>
-    <link href="https://github.com/armbian/build" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 &amp; armhf</content>
-  </entry>
-  <entry>
-    <id>https://github.com/RROrg/rr#1737158400</id>
-    <title>https://github.com/RROrg/rr</title>
-    <link href="https://github.com/RROrg/rr" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Redpill Recovery (arpl-i18n)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OpenVPN/easy-rsa#1737158400</id>
-    <title>https://github.com/OpenVPN/easy-rsa</title>
-    <link href="https://github.com/OpenVPN/easy-rsa" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">easy-rsa - Simple shell based CA utility</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jenv/jenv#1737158400</id>
-    <title>https://github.com/jenv/jenv</title>
-    <link href="https://github.com/jenv/jenv" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Manage your Java environment</content>
-  </entry>
-  <entry>
-    <id>https://github.com/longhorn/longhorn#1737158400</id>
-    <title>https://github.com/longhorn/longhorn</title>
-    <link href="https://github.com/longhorn/longhorn" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Cloud-Native distributed storage built on and for Kubernetes</content>
-  </entry>
-  <entry>
-    <id>https://github.com/remote-android/redroid-doc#1737158400</id>
-    <title>https://github.com/remote-android/redroid-doc</title>
-    <link href="https://github.com/remote-android/redroid-doc" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SeleniumHQ/docker-selenium#1737158400</id>
-    <title>https://github.com/SeleniumHQ/docker-selenium</title>
-    <link href="https://github.com/SeleniumHQ/docker-selenium" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation</content>
+    <content type="text">Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.</content>
   </entry>
   <entry>
     <id>https://github.com/frankiejun/serv00-play#1737158400</id>
@@ -108,6 +31,20 @@
     <content type="text">serv00 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针 等, 自动化部署、批量保号、进程防杀、消息推送</content>
   </entry>
   <entry>
+    <id>https://github.com/powerline/fonts#1737158400</id>
+    <title>https://github.com/powerline/fonts</title>
+    <link href="https://github.com/powerline/fonts" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Patched fonts for Powerline users.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonbabenko/pre-commit-terraform#1737158400</id>
+    <title>https://github.com/antonbabenko/pre-commit-terraform</title>
+    <link href="https://github.com/antonbabenko/pre-commit-terraform" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">pre-commit git hooks to take care of Terraform configurations 🇺🇦</content>
+  </entry>
+  <entry>
     <id>https://github.com/bioconda/bioconda-recipes#1737158400</id>
     <title>https://github.com/bioconda/bioconda-recipes</title>
     <link href="https://github.com/bioconda/bioconda-recipes" />
@@ -115,11 +52,11 @@
     <content type="text">Conda recipes for the bioconda channel.</content>
   </entry>
   <entry>
-    <id>https://github.com/bitnami/containers#1737158400</id>
-    <title>https://github.com/bitnami/containers</title>
-    <link href="https://github.com/bitnami/containers" />
+    <id>https://github.com/MichaelCade/90DaysOfDevOps#1737158400</id>
+    <title>https://github.com/MichaelCade/90DaysOfDevOps</title>
+    <link href="https://github.com/MichaelCade/90DaysOfDevOps" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Bitnami container images</content>
+    <content type="text">This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.</content>
   </entry>
   <entry>
     <id>https://github.com/nvm-sh/nvm#1737158400</id>
@@ -129,10 +66,52 @@
     <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
   </entry>
   <entry>
-    <id>https://github.com/acmesh-official/acme.sh#1737158400</id>
-    <title>https://github.com/acmesh-official/acme.sh</title>
-    <link href="https://github.com/acmesh-official/acme.sh" />
+    <id>https://github.com/getlago/lago#1737158400</id>
+    <title>https://github.com/getlago/lago</title>
+    <link href="https://github.com/getlago/lago" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+    <content type="text">Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1737158400</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/oss-fuzz#1737158400</id>
+    <title>https://github.com/google/oss-fuzz</title>
+    <link href="https://github.com/google/oss-fuzz" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">OSS-Fuzz - continuous fuzzing for open source software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1737158400</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JamesTurland/JimsGarage#1737158400</id>
+    <title>https://github.com/JamesTurland/JimsGarage</title>
+    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Homelab Goodies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1737158400</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/appleboy/ssh-action#1737158400</id>
+    <title>https://github.com/appleboy/ssh-action</title>
+    <link href="https://github.com/appleboy/ssh-action" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">GitHub Actions for executing remote ssh commands.</content>
   </entry>
 </feed>

@@ -17,10 +17,10 @@
     <content type="text">Odoo documentation sources</content>
   </entry>
   <entry>
-    <id>https://github.com/python/peps#1737158400</id>
-    <title>https://github.com/python/peps</title>
-    <link href="https://github.com/python/peps" />
+    <id>https://github.com/godotengine/godot-docs#1737158400</id>
+    <title>https://github.com/godotengine/godot-docs</title>
+    <link href="https://github.com/godotengine/godot-docs" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Python Enhancement Proposals</content>
+    <content type="text">Godot Engine official documentation</content>
   </entry>
 </feed>

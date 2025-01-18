@@ -10,95 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/timescale/pgvectorscale#1737158400</id>
-    <title>https://github.com/timescale/pgvectorscale</title>
-    <link href="https://github.com/timescale/pgvectorscale" />
+    <id>https://github.com/unionlabs/union#1737158400</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A complement to pgvector for high performance, cost efficient vector search on large workloads.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/extrawurst/gitui#1737158400</id>
-    <title>https://github.com/extrawurst/gitui</title>
-    <link href="https://github.com/extrawurst/gitui" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Blazing 💥 fast terminal-ui for git written in rust 🦀</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jdx/mise#1737158400</id>
-    <title>https://github.com/jdx/mise</title>
-    <link href="https://github.com/jdx/mise" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">dev tools, env vars, task runner</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gfx-rs/wgpu#1737158400</id>
-    <title>https://github.com/gfx-rs/wgpu</title>
-    <link href="https://github.com/gfx-rs/wgpu" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/juhaku/utoipa#1737158400</id>
-    <title>https://github.com/juhaku/utoipa</title>
-    <link href="https://github.com/juhaku/utoipa" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</content>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/uv#1737158400</id>
-    <title>https://github.com/astral-sh/uv</title>
-    <link href="https://github.com/astral-sh/uv" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/launchbadge/sqlx#1737158400</id>
-    <title>https://github.com/launchbadge/sqlx</title>
-    <link href="https://github.com/launchbadge/sqlx" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ilya-zlobintsev/LACT#1737158400</id>
-    <title>https://github.com/ilya-zlobintsev/LACT</title>
-    <link href="https://github.com/ilya-zlobintsev/LACT" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Linux GPU Configuration Tool</content>
-  </entry>
-  <entry>
-    <id>https://github.com/astral-sh/ruff#1737158400</id>
-    <title>https://github.com/astral-sh/ruff</title>
-    <link href="https://github.com/astral-sh/ruff" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/paritytech/polkadot-sdk#1737158400</id>
-    <title>https://github.com/paritytech/polkadot-sdk</title>
-    <link href="https://github.com/paritytech/polkadot-sdk" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Parity Polkadot Blockchain SDK</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nymtech/nym-vpn-client#1737158400</id>
-    <title>https://github.com/nymtech/nym-vpn-client</title>
-    <link href="https://github.com/nymtech/nym-vpn-client" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The NymVPN client apps for desktop and mobile</content>
-  </entry>
-  <entry>
-    <id>https://github.com/huggingface/text-embeddings-inference#1737158400</id>
-    <title>https://github.com/huggingface/text-embeddings-inference</title>
-    <link href="https://github.com/huggingface/text-embeddings-inference" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A blazing fast inference solution for text embeddings models</content>
-  </entry>
-  <entry>
-    <id>https://github.com/0xPlaygrounds/rig#1737158400</id>
-    <title>https://github.com/0xPlaygrounds/rig</title>
-    <link href="https://github.com/0xPlaygrounds/rig" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
   </entry>
   <entry>
     <id>https://github.com/google/comprehensive-rust#1737158400</id>
@@ -108,6 +24,20 @@
     <content type="text">This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.</content>
   </entry>
   <entry>
+    <id>https://github.com/hyperium/tonic#1737158400</id>
+    <title>https://github.com/hyperium/tonic</title>
+    <link href="https://github.com/hyperium/tonic" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A native gRPC client &amp; server implementation with async/await support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/feldera/feldera#1737158400</id>
+    <title>https://github.com/feldera/feldera</title>
+    <link href="https://github.com/feldera/feldera" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Feldera Incremental Computation Engine</content>
+  </entry>
+  <entry>
     <id>https://github.com/vectordotdev/vector#1737158400</id>
     <title>https://github.com/vectordotdev/vector</title>
     <link href="https://github.com/vectordotdev/vector" />
@@ -115,66 +45,129 @@
     <content type="text">A high-performance observability data pipeline.</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/datafusion#1737158400</id>
-    <title>https://github.com/apache/datafusion</title>
-    <link href="https://github.com/apache/datafusion" />
+    <id>https://github.com/awslabs/mountpoint-s3#1737158400</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Apache DataFusion SQL Query Engine</content>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
   </entry>
   <entry>
-    <id>https://github.com/AFLplusplus/LibAFL#1737158400</id>
-    <title>https://github.com/AFLplusplus/LibAFL</title>
-    <link href="https://github.com/AFLplusplus/LibAFL" />
+    <id>https://github.com/emilk/egui#1737158400</id>
+    <title>https://github.com/emilk/egui</title>
+    <link href="https://github.com/emilk/egui" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...</content>
+    <content type="text">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</content>
   </entry>
   <entry>
-    <id>https://github.com/firecracker-microvm/firecracker#1737158400</id>
-    <title>https://github.com/firecracker-microvm/firecracker</title>
-    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <id>https://github.com/tracel-ai/burn#1737158400</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Secure and fast microVMs for serverless computing.</content>
+    <content type="text">Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.</content>
   </entry>
   <entry>
-    <id>https://github.com/eclipse-zenoh/zenoh#1737158400</id>
-    <title>https://github.com/eclipse-zenoh/zenoh</title>
-    <link href="https://github.com/eclipse-zenoh/zenoh" />
+    <id>https://github.com/facebook/relay#1737158400</id>
+    <title>https://github.com/facebook/relay</title>
+    <link href="https://github.com/facebook/relay" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.</content>
+    <content type="text">Relay is a JavaScript framework for building data-driven React applications.</content>
   </entry>
   <entry>
-    <id>https://github.com/mufeedvh/code2prompt#1737158400</id>
-    <title>https://github.com/mufeedvh/code2prompt</title>
-    <link href="https://github.com/mufeedvh/code2prompt" />
+    <id>https://github.com/louis-e/arnis#1737158400</id>
+    <title>https://github.com/louis-e/arnis</title>
+    <link href="https://github.com/louis-e/arnis" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</content>
+    <content type="text">Generate any location from the real world in Minecraft Java Edition with a high level of detail.</content>
   </entry>
   <entry>
-    <id>https://github.com/rustdesk/rustdesk#1737158400</id>
-    <title>https://github.com/rustdesk/rustdesk</title>
-    <link href="https://github.com/rustdesk/rustdesk" />
+    <id>https://github.com/linera-io/linera-protocol#1737158400</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+    <content type="text">Main repository for the Linera protocol</content>
   </entry>
   <entry>
-    <id>https://github.com/bottlerocket-os/bottlerocket#1737158400</id>
-    <title>https://github.com/bottlerocket-os/bottlerocket</title>
-    <link href="https://github.com/bottlerocket-os/bottlerocket" />
+    <id>https://github.com/ekzhang/bore#1737158400</id>
+    <title>https://github.com/ekzhang/bore</title>
+    <link href="https://github.com/ekzhang/bore" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An operating system designed for hosting containers</content>
+    <content type="text">🕳 bore is a simple CLI tool for making tunnels to localhost</content>
   </entry>
   <entry>
-    <id>https://github.com/cessen/ropey#1737158400</id>
-    <title>https://github.com/cessen/ropey</title>
-    <link href="https://github.com/cessen/ropey" />
+    <id>https://github.com/gfx-rs/wgpu#1737158400</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A utf8 text rope for manipulating and editing large texts.</content>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
   </entry>
   <entry>
-    <id>https://github.com/TabbyML/tabby#1737158400</id>
-    <title>https://github.com/TabbyML/tabby</title>
-    <link href="https://github.com/TabbyML/tabby" />
+    <id>https://github.com/commonwarexyz/monorepo#1737158400</id>
+    <title>https://github.com/commonwarexyz/monorepo</title>
+    <link href="https://github.com/commonwarexyz/monorepo" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Self-hosted AI coding assistant</content>
+    <content type="text">Commonware Library Primitives and Examples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrivers/bifrost#1737158400</id>
+    <title>https://github.com/chrivers/bifrost</title>
+    <link href="https://github.com/chrivers/bifrost" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Hue Bridge Emulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cross-rs/cross#1737158400</id>
+    <title>https://github.com/cross-rs/cross</title>
+    <link href="https://github.com/cross-rs/cross" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">“Zero setup” cross compilation and “cross testing” of Rust crates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Canop/bacon#1737158400</id>
+    <title>https://github.com/Canop/bacon</title>
+    <link href="https://github.com/Canop/bacon" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">background code checker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1737158400</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow-rs#1737158400</id>
+    <title>https://github.com/apache/arrow-rs</title>
+    <link href="https://github.com/apache/arrow-rs" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Official Rust implementation of Apache Arrow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-rust/nix#1737158400</id>
+    <title>https://github.com/nix-rust/nix</title>
+    <link href="https://github.com/nix-rust/nix" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Rust friendly bindings to *nix APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradedb/paradedb#1737158400</id>
+    <title>https://github.com/paradedb/paradedb</title>
+    <link href="https://github.com/paradedb/paradedb" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Postgres for Search and Analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1737158400</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1737158400</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
   </entry>
 </feed>

@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/yasirkula/UnityNativeGallery#1737158400</id>
-    <title>https://github.com/yasirkula/UnityNativeGallery</title>
-    <link href="https://github.com/yasirkula/UnityNativeGallery" />
+    <id>https://github.com/gree/unity-webview#1737158400</id>
+    <title>https://github.com/gree/unity-webview</title>
+    <link href="https://github.com/gree/unity-webview" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A native Unity plugin to interact with Gallery/Photos on Android &amp; iOS (save and/or load images/videos)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/KhronosGroup/MoltenVK#1737158400</id>
-    <title>https://github.com/KhronosGroup/MoltenVK</title>
-    <link href="https://github.com/KhronosGroup/MoltenVK" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</content>
+    <content type="text" />
   </entry>
   <entry>
     <id>https://github.com/pocketsvg/PocketSVG#1737158400</id>
@@ -31,24 +24,24 @@
     <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
   </entry>
   <entry>
-    <id>https://github.com/zoontek/react-native-permissions#1737158400</id>
-    <title>https://github.com/zoontek/react-native-permissions</title>
-    <link href="https://github.com/zoontek/react-native-permissions" />
+    <id>https://github.com/KhronosGroup/MoltenVK#1737158400</id>
+    <title>https://github.com/KhronosGroup/MoltenVK</title>
+    <link href="https://github.com/KhronosGroup/MoltenVK" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An unified permissions API for React Native on iOS, Android and Windows.</content>
+    <content type="text">MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</content>
   </entry>
   <entry>
-    <id>https://github.com/facebookarchive/pop#1737158400</id>
-    <title>https://github.com/facebookarchive/pop</title>
-    <link href="https://github.com/facebookarchive/pop" />
+    <id>https://github.com/sbmpost/AutoRaise#1737158400</id>
+    <title>https://github.com/sbmpost/AutoRaise</title>
+    <link href="https://github.com/sbmpost/AutoRaise" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An extensible iOS and OS X animation library, useful for physics-based interactions.</content>
+    <content type="text">AutoRaise (and focus) a window when hovering over it with the mouse</content>
   </entry>
   <entry>
-    <id>https://github.com/gree/unity-webview#1737158400</id>
-    <title>https://github.com/gree/unity-webview</title>
-    <link href="https://github.com/gree/unity-webview" />
+    <id>https://github.com/yasirkula/UnityNativeGallery#1737158400</id>
+    <title>https://github.com/yasirkula/UnityNativeGallery</title>
+    <link href="https://github.com/yasirkula/UnityNativeGallery" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text" />
+    <content type="text">A native Unity plugin to interact with Gallery/Photos on Android &amp; iOS (save and/or load images/videos)</content>
   </entry>
 </feed>

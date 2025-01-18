@@ -10,17 +10,17 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/apache/parquet-format#1737158400</id>
-    <title>https://github.com/apache/parquet-format</title>
-    <link href="https://github.com/apache/parquet-format" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Apache Parquet Format</content>
-  </entry>
-  <entry>
     <id>https://github.com/jaegertracing/jaeger-idl#1737158400</id>
     <title>https://github.com/jaegertracing/jaeger-idl</title>
     <link href="https://github.com/jaegertracing/jaeger-idl" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">A set of shared data model definitions used by Jaeger components.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/parquet-format#1737158400</id>
+    <title>https://github.com/apache/parquet-format</title>
+    <link href="https://github.com/apache/parquet-format" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Apache Parquet Format</content>
   </entry>
 </feed>

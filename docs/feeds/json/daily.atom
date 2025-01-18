@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/microsoft/Application-Insights-Workbooks#1737158400</id>
-    <title>https://github.com/microsoft/Application-Insights-Workbooks</title>
-    <link href="https://github.com/microsoft/Application-Insights-Workbooks" />
+    <id>https://github.com/mdn/browser-compat-data#1737158400</id>
+    <title>https://github.com/mdn/browser-compat-data</title>
+    <link href="https://github.com/mdn/browser-compat-data" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Templates for Azure Monitor Workbooks</content>
+    <content type="text">This repository contains compatibility data for Web technologies as displayed on MDN</content>
   </entry>
   <entry>
     <id>https://github.com/upptime/upptime#1737158400</id>
@@ -22,12 +22,5 @@
     <link href="https://github.com/upptime/upptime" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mdn/browser-compat-data#1737158400</id>
-    <title>https://github.com/mdn/browser-compat-data</title>
-    <link href="https://github.com/mdn/browser-compat-data" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">This repository contains compatibility data for Web technologies as displayed on MDN</content>
   </entry>
 </feed>

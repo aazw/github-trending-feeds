@@ -10,81 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/broadinstitute/cromwell#1737158400</id>
-    <title>https://github.com/broadinstitute/cromwell</title>
-    <link href="https://github.com/broadinstitute/cromwell" />
+    <id>https://github.com/apache/spark#1737158400</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments</content>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
   </entry>
   <entry>
-    <id>https://github.com/camunda/feel-scala#1737158400</id>
-    <title>https://github.com/camunda/feel-scala</title>
-    <link href="https://github.com/camunda/feel-scala" />
+    <id>https://github.com/twitter/the-algorithm#1737158400</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">FEEL parser and interpreter written in Scala</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sbt/sbt#1737158400</id>
-    <title>https://github.com/sbt/sbt</title>
-    <link href="https://github.com/sbt/sbt" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">sbt, the interactive build tool</content>
-  </entry>
-  <entry>
-    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1737158400</id>
-    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
-    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Spark: The Definitive Guide's Code Repository</content>
-  </entry>
-  <entry>
-    <id>https://github.com/lichess-org/lila#1737158400</id>
-    <title>https://github.com/lichess-org/lila</title>
-    <link href="https://github.com/lichess-org/lila" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
-  </entry>
-  <entry>
-    <id>https://github.com/chipsalliance/chisel#1737158400</id>
-    <title>https://github.com/chipsalliance/chisel</title>
-    <link href="https://github.com/chipsalliance/chisel" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Chisel: A Modern Hardware Design Language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nightscape/spark-excel#1737158400</id>
-    <title>https://github.com/nightscape/spark-excel</title>
-    <link href="https://github.com/nightscape/spark-excel" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A Spark plugin for reading and writing Excel files</content>
-  </entry>
-  <entry>
-    <id>https://github.com/digital-asset/daml#1737158400</id>
-    <title>https://github.com/digital-asset/daml</title>
-    <link href="https://github.com/digital-asset/daml" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Daml smart contract language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NVIDIA/spark-rapids#1737158400</id>
-    <title>https://github.com/NVIDIA/spark-rapids</title>
-    <link href="https://github.com/NVIDIA/spark-rapids" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Spark RAPIDS plugin - accelerate Apache Spark with GPUs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/JohnSnowLabs/spark-nlp#1737158400</id>
-    <title>https://github.com/JohnSnowLabs/spark-nlp</title>
-    <link href="https://github.com/JohnSnowLabs/spark-nlp" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">State of the Art Natural Language Processing</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/kyuubi#1737158400</id>
-    <title>https://github.com/apache/kyuubi</title>
-    <link href="https://github.com/apache/kyuubi" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
   </entry>
   <entry>
     <id>https://github.com/chipsalliance/rocket-chip#1737158400</id>
@@ -94,11 +31,60 @@
     <content type="text">Rocket Chip Generator</content>
   </entry>
   <entry>
+    <id>https://github.com/joernio/joern#1737158400</id>
+    <title>https://github.com/joernio/joern</title>
+    <link href="https://github.com/joernio/joern" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/Cortex#1737158400</id>
+    <title>https://github.com/TheHive-Project/Cortex</title>
+    <link href="https://github.com/TheHive-Project/Cortex" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Cortex: a Powerful Observable Analysis and Active Response Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1737158400</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1737158400</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1737158400</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/cromwell#1737158400</id>
+    <title>https://github.com/broadinstitute/cromwell</title>
+    <link href="https://github.com/broadinstitute/cromwell" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments</content>
+  </entry>
+  <entry>
     <id>https://github.com/OpenXiangShan/XiangShan#1737158400</id>
     <title>https://github.com/OpenXiangShan/XiangShan</title>
     <link href="https://github.com/OpenXiangShan/XiangShan" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Open-source high-performance RISC-V processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1737158400</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
   </entry>
   <entry>
     <id>https://github.com/scala/scala3#1737158400</id>
@@ -115,52 +101,52 @@
     <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
   </entry>
   <entry>
-    <id>https://github.com/rtyley/bfg-repo-cleaner#1737158400</id>
-    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
-    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <id>https://github.com/wvlet/wvlet#1737158400</id>
+    <title>https://github.com/wvlet/wvlet</title>
+    <link href="https://github.com/wvlet/wvlet" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+    <content type="text">A flow-style query language for SQL engines</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/spark#1737158400</id>
-    <title>https://github.com/apache/spark</title>
-    <link href="https://github.com/apache/spark" />
+    <id>https://github.com/scalameta/metals#1737158400</id>
+    <title>https://github.com/scalameta/metals</title>
+    <link href="https://github.com/scalameta/metals" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+    <content type="text">Scala language server with rich IDE features 🚀</content>
   </entry>
   <entry>
-    <id>https://github.com/playframework/playframework#1737158400</id>
-    <title>https://github.com/playframework/playframework</title>
-    <link href="https://github.com/playframework/playframework" />
+    <id>https://github.com/lichess-org/lila#1737158400</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Community Maintained High Velocity Web Framework For Java and Scala.</content>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
   </entry>
   <entry>
-    <id>https://github.com/scala/scala#1737158400</id>
-    <title>https://github.com/scala/scala</title>
-    <link href="https://github.com/scala/scala" />
+    <id>https://github.com/NVIDIA/spark-rapids#1737158400</id>
+    <title>https://github.com/NVIDIA/spark-rapids</title>
+    <link href="https://github.com/NVIDIA/spark-rapids" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</content>
+    <content type="text">Spark RAPIDS plugin - accelerate Apache Spark with GPUs</content>
   </entry>
   <entry>
-    <id>https://github.com/twitter/the-algorithm#1737158400</id>
-    <title>https://github.com/twitter/the-algorithm</title>
-    <link href="https://github.com/twitter/the-algorithm" />
+    <id>https://github.com/apache/incubator-livy#1737158400</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
   </entry>
   <entry>
-    <id>https://github.com/awslabs/deequ#1737158400</id>
-    <title>https://github.com/awslabs/deequ</title>
-    <link href="https://github.com/awslabs/deequ" />
+    <id>https://github.com/ucb-bar/riscv-torture#1737158400</id>
+    <title>https://github.com/ucb-bar/riscv-torture</title>
+    <link href="https://github.com/ucb-bar/riscv-torture" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.</content>
+    <content type="text">RISC-V Torture Test</content>
   </entry>
   <entry>
-    <id>https://github.com/delta-io/delta#1737158400</id>
-    <title>https://github.com/delta-io/delta</title>
-    <link href="https://github.com/delta-io/delta" />
+    <id>https://github.com/firesim/firesim#1737158400</id>
+    <title>https://github.com/firesim/firesim</title>
+    <link href="https://github.com/firesim/firesim" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+    <content type="text">FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility</content>
   </entry>
 </feed>

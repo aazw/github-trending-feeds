@@ -10,81 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/rails/solid_queue#1737158400</id>
-    <title>https://github.com/rails/solid_queue</title>
-    <link href="https://github.com/rails/solid_queue" />
+    <id>https://github.com/spree/spree#1737158400</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Database-backed Active Job backend</content>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
   </entry>
   <entry>
-    <id>https://github.com/fluent/fluentd#1737158400</id>
-    <title>https://github.com/fluent/fluentd</title>
-    <link href="https://github.com/fluent/fluentd" />
+    <id>https://github.com/Freika/dawarich#1737158400</id>
+    <title>https://github.com/Freika/dawarich</title>
+    <link href="https://github.com/Freika/dawarich" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+    <content type="text">Self-hosted alternative to Google Location History (Google Maps Timeline)</content>
   </entry>
   <entry>
-    <id>https://github.com/ViewComponent/view_component#1737158400</id>
-    <title>https://github.com/ViewComponent/view_component</title>
-    <link href="https://github.com/ViewComponent/view_component" />
+    <id>https://github.com/chatwoot/chatwoot#1737158400</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A framework for building reusable, testable &amp; encapsulated view components in Ruby on Rails.</content>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
   </entry>
   <entry>
-    <id>https://github.com/solidusio/solidus#1737158400</id>
-    <title>https://github.com/solidusio/solidus</title>
-    <link href="https://github.com/solidusio/solidus" />
+    <id>https://github.com/basecamp/kamal#1737158400</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">🛒 Solidus, the open-source eCommerce framework for industry trailblazers.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/faker-ruby/faker#1737158400</id>
-    <title>https://github.com/faker-ruby/faker</title>
-    <link href="https://github.com/faker-ruby/faker" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">A library for generating fake data such as names, addresses, and phone numbers.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/prawnpdf/prawn#1737158400</id>
-    <title>https://github.com/prawnpdf/prawn</title>
-    <link href="https://github.com/prawnpdf/prawn" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Fast, Nimble PDF Writer for Ruby</content>
-  </entry>
-  <entry>
-    <id>https://github.com/paper-trail-gem/paper_trail#1737158400</id>
-    <title>https://github.com/paper-trail-gem/paper_trail</title>
-    <link href="https://github.com/paper-trail-gem/paper_trail" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Track changes to your rails models</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hashicorp/vagrant#1737158400</id>
-    <title>https://github.com/hashicorp/vagrant</title>
-    <link href="https://github.com/hashicorp/vagrant" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Vagrant is a tool for building and distributing development environments.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/chef/chef#1737158400</id>
-    <title>https://github.com/chef/chef</title>
-    <link href="https://github.com/chef/chef" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</content>
-  </entry>
-  <entry>
-    <id>https://github.com/opf/openproject#1737158400</id>
-    <title>https://github.com/opf/openproject</title>
-    <link href="https://github.com/opf/openproject" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">OpenProject is the leading open source project management software.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rubygems/rubygems#1737158400</id>
-    <title>https://github.com/rubygems/rubygems</title>
-    <link href="https://github.com/rubygems/rubygems" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Library packaging and distribution for Ruby.</content>
+    <content type="text">Deploy web apps anywhere.</content>
   </entry>
   <entry>
     <id>https://github.com/rapid7/metasploit-framework#1737158400</id>
@@ -92,6 +43,13 @@
     <link href="https://github.com/rapid7/metasploit-framework" />
     <updated>2025-01-18T00:00:00</updated>
     <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1737158400</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
   </entry>
   <entry>
     <id>https://github.com/rails/rails#1737158400</id>
@@ -108,18 +66,46 @@
     <content type="text">🤖 Dependabot's core logic for creating update PRs.</content>
   </entry>
   <entry>
-    <id>https://github.com/Shopify/liquid#1737158400</id>
-    <title>https://github.com/Shopify/liquid</title>
-    <link href="https://github.com/Shopify/liquid" />
+    <id>https://github.com/CocoaPods/CocoaPods#1737158400</id>
+    <title>https://github.com/CocoaPods/CocoaPods</title>
+    <link href="https://github.com/CocoaPods/CocoaPods" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+    <content type="text">The Cocoa Dependency Manager.</content>
   </entry>
   <entry>
-    <id>https://github.com/mastodon/mastodon#1737158400</id>
-    <title>https://github.com/mastodon/mastodon</title>
-    <link href="https://github.com/mastodon/mastodon" />
+    <id>https://github.com/forem/forem#1737158400</id>
+    <title>https://github.com/forem/forem</title>
+    <link href="https://github.com/forem/forem" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+    <content type="text">For empowering community 🌱</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doorkeeper-gem/doorkeeper#1737158400</id>
+    <title>https://github.com/doorkeeper-gem/doorkeeper</title>
+    <link href="https://github.com/doorkeeper-gem/doorkeeper" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heartcombo/devise#1737158400</id>
+    <title>https://github.com/heartcombo/devise</title>
+    <link href="https://github.com/heartcombo/devise" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/department-of-veterans-affairs/vets-api#1737158400</id>
+    <title>https://github.com/department-of-veterans-affairs/vets-api</title>
+    <link href="https://github.com/department-of-veterans-affairs/vets-api" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">API powering VA.gov</content>
+  </entry>
+  <entry>
+    <id>https://github.com/postalserver/postal#1737158400</id>
+    <title>https://github.com/postalserver/postal</title>
+    <link href="https://github.com/postalserver/postal" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</content>
   </entry>
   <entry>
     <id>https://github.com/sidekiq/sidekiq#1737158400</id>
@@ -129,32 +115,11 @@
     <content type="text">Simple, efficient background processing for Ruby</content>
   </entry>
   <entry>
-    <id>https://github.com/ruby/ruby#1737158400</id>
-    <title>https://github.com/ruby/ruby</title>
-    <link href="https://github.com/ruby/ruby" />
+    <id>https://github.com/carrierwaveuploader/carrierwave#1737158400</id>
+    <title>https://github.com/carrierwaveuploader/carrierwave</title>
+    <link href="https://github.com/carrierwaveuploader/carrierwave" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">The Ruby Programming Language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Homebrew/homebrew-bundle#1737158400</id>
-    <title>https://github.com/Homebrew/homebrew-bundle</title>
-    <link href="https://github.com/Homebrew/homebrew-bundle" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/chatwoot/chatwoot#1737158400</id>
-    <title>https://github.com/chatwoot/chatwoot</title>
-    <link href="https://github.com/chatwoot/chatwoot" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Freika/dawarich#1737158400</id>
-    <title>https://github.com/Freika/dawarich</title>
-    <link href="https://github.com/Freika/dawarich" />
-    <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Self-hosted alternative to Google Location History (Google Maps Timeline)</content>
+    <content type="text">Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks</content>
   </entry>
   <entry>
     <id>https://github.com/fastlane/fastlane#1737158400</id>
@@ -164,17 +129,45 @@
     <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
   </entry>
   <entry>
-    <id>https://github.com/redmine/redmine#1737158400</id>
-    <title>https://github.com/redmine/redmine</title>
-    <link href="https://github.com/redmine/redmine" />
+    <id>https://github.com/maybe-finance/maybe#1737158400</id>
+    <title>https://github.com/maybe-finance/maybe</title>
+    <link href="https://github.com/maybe-finance/maybe" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp</content>
+    <content type="text">The OS for your personal finances</content>
   </entry>
   <entry>
-    <id>https://github.com/spree/spree#1737158400</id>
-    <title>https://github.com/spree/spree</title>
-    <link href="https://github.com/spree/spree" />
+    <id>https://github.com/zammad/zammad#1737158400</id>
+    <title>https://github.com/zammad/zammad</title>
+    <link href="https://github.com/zammad/zammad" />
     <updated>2025-01-18T00:00:00</updated>
-    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+    <content type="text">Zammad is a web based open source helpdesk/customer support system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chef/chef#1737158400</id>
+    <title>https://github.com/chef/chef</title>
+    <link href="https://github.com/chef/chef" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-rb#1737158400</id>
+    <title>https://github.com/DataDog/dd-trace-rb</title>
+    <link href="https://github.com/DataDog/dd-trace-rb" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Datadog Tracing Ruby Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/ruby-lsp#1737158400</id>
+    <title>https://github.com/Shopify/ruby-lsp</title>
+    <link href="https://github.com/Shopify/ruby-lsp" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An opinionated language server for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Cute-Dress/Dress#1737158400</id>
+    <title>https://github.com/Cute-Dress/Dress</title>
+    <link href="https://github.com/Cute-Dress/Dress" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">好耶 是女装 | 备份·接受PR</content>
   </entry>
 </feed>
