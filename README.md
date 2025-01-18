@@ -63,15 +63,15 @@ $ python apps/scrape.py --language go --period "daily" --atom-updated-date "$(da
 
 * -1 ... Unknown Error
 * 0 ... 正常終了
-* 1 ... ConnectionError
-* 2 ... HTTPError
-* 3 ... タイムアウト系 (Timeout, ConnectTimeout, ReadTimeout)
-* 4 ... InvalidURL
-* 5 ... TooManyRedirects
-* 11 ... ステータスコード 400系
-* 12 ... ステータスコード 500系
-* 13 ... ステータスコード 400系、500系以外
-* 21 ... FileNotFoundError
-* 22 ... IsADirectoryError
-* 23 ... PermissionError
-* 24 ... OSError
+* 11 ... InvalidURL
+* 12 ... ConnectionError
+* 13 ... タイムアウト系 (Timeout, ConnectTimeout, ReadTimeout)
+* 14 ... TooManyRedirects
+* 15 ... ステータスコード 400系
+* 16 ... ステータスコード 500系
+* 17 ... ステータスコード 400系、500系以外
+* 18 ... そのほかrequests系のエラー
+* 31 ... FileNotFoundError
+* 32 ... IsADirectoryError
+* 33 ... PermissionError
+* 34 ... OSError
