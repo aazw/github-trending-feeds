@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib3.util.retry import Retry
 import warnings
+from enum import Enum
 
 import click
 import dateparser
@@ -23,6 +24,7 @@ from requests.exceptions import (  # https://requests.readthedocs.io/en/latest/_
 )
 from bs4 import BeautifulSoup
 
+
 # Making Python loggers output all messages to stdout in addition to log file
 # https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log-file
 formatter = logging.Formatter("%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s")
@@ -34,6 +36,23 @@ handler.setFormatter(formatter)
 appLogger = logging.getLogger(__name__)
 appLogger.setLevel(logging.INFO)
 appLogger.addHandler(handler)
+
+
+class ReturnCode(Enum):
+    UNKNOWN_ERROR = -1
+    SUCCESS = 0
+    INVALID_URL_ERROR = 11
+    CONNECTION_ERROR = 12
+    TIMEOUT_ERROR = 13
+    TOO_MANY_REDIRECTS_ERROR = 14
+    HTTP_400_ERROR = 15
+    HTTP_500_ERROR = 16
+    HTTP_ERROR = 17
+    REQUESTS_ERROR = 18
+    FILE_NOT_FOUND_ERROR = 31
+    IS_DIRECTORY_ERROR = 32
+    PERMISSION_ERROR = 33
+    OS_ERROR = 34
 
 
 @click.command()
@@ -65,6 +84,8 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
         #   updated = dateparser.parse(atom_updated_date)
         warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+    ### initialize phase ##############################################################
+
     # url
     url = f"https://github.com/trending/{language}?since={period}"
     appLogger.info(f"generated: url = {url}")
@@ -92,6 +113,8 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
 
     appLogger.info(f"generated: updated = {updated}")
 
+    ### fetch trending phase ##############################################################
+
     res = None
     try:
         # https://qiita.com/toshitanian/items/c28a65fe2f32884e067c
@@ -102,46 +125,49 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
 
         # get page
         res = s.get(url, timeout=timeout)
-        res.raise_for_status()
+        res.raise_for_status()  # HTTPError
 
-    except RequestException as e:
-        appLogger.error(e)
-
-        status_code = e.response.status_code
-        appLogger.error(f"request error ({status_code}): {e}")
+    except HTTPError as e:
+        # HTTPプロトコルに関連するエラー
+        # HTTPステータスコードが 4xx または 5xx の場合に発生する
+        status_code: int = e.response.status_code
+        appLogger.error(f"requests http error ({status_code}): {e}")
 
         appLogger.error("app failed")
         if status_code >= 400 and status_code < 500:
-            sys.exit(11)
+            sys.exit(ReturnCode.HTTP_400_ERROR)
         if status_code >= 500 and status_code < 600:
-            sys.exit(12)
+            sys.exit(ReturnCode.HTTP_500_ERROR)
         else:
-            sys.exit(13)
+            sys.exit(ReturnCode.HTTP_ERROR)
 
-    except ConnectionError as e:
-        appLogger.error(f"requests connection error: {e}")
-        appLogger.error("app failed")
-        sys.exit(11)
-
-    except HTTPError as e:
-        appLogger.error(f"requests http error: {e}")
-        appLogger.error("app failed")
-        sys.exit(2)
-
-    except (Timeout, ConnectTimeout, ReadTimeout) as e:
-        appLogger.error(f"requests timeout error {e}")
-        appLogger.error("app failed")
-        sys.exit(3)
-
-    except InvalidURL as e:
-        appLogger.error(f"requests invalid url error {e}")
-        appLogger.error("app failed")
-        sys.exit(4)
-
-    except TooManyRedirects as e:
+    except TooManyRedirects as e:  # リダイレクトが多すぎる場合に発生
         appLogger.error(f"requests too many redirects error {e}")
         appLogger.error("app failed")
-        sys.exit(5)
+        sys.exit(ReturnCode.TOO_MANY_REDIRECTS_ERROR)
+
+    except (Timeout, ConnectTimeout, ReadTimeout) as e:
+        # ConnectTimeout: 接続確立中のタイムアウト
+        # ReadTimeout: サーバーの応答読み取り中のタイムアウト
+        # Timeout: ConnectTimeout または ReadTimeout の親クラス
+        appLogger.error(f"requests timeout error {e}")
+        appLogger.error("app failed")
+        sys.exit(ReturnCode.TIMEOUT_ERROR)
+
+    except ConnectionError as e:  # サーバーへの接続に失敗した場合に発生
+        appLogger.error(f"requests connection error: {e}")
+        appLogger.error("app failed")
+        sys.exit(ReturnCode.CONNECTION_ERROR)
+
+    except InvalidURL as e:  # URLが無効または不適切な形式の場合に発生
+        appLogger.error(f"requests invalid url error {e}")
+        appLogger.error("app failed")
+        sys.exit(ReturnCode.INVALID_URL_ERROR)
+
+    except RequestException as e:  # requestsの例外の基底クラス
+        appLogger.error(f"request error: {e}")
+        appLogger.error("app failed")
+        sys.exit(ReturnCode.REQUESTS_ERROR)
 
     except Exception as e:  # Unknown Error
         appLogger.error(f"requests unknown error: {e}")
@@ -153,7 +179,35 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
         appLogger.error(traceback.format_tb(e.__traceback__))
 
         appLogger.error("app failed")
-        sys.exit(-1)
+        sys.exit(ReturnCode.UNKNOWN_ERROR)
+
+    # parse DOM
+    soup = BeautifulSoup(res.text, "html.parser")
+    items = soup.select("article.Box-row")
+
+    feeds: list = []
+    for item in reversed(items):
+        # get repository path
+        repository_path = item.select_one("h2 a").get("href")
+        repository_url = f"https://github.com{repository_path}"
+
+        # get description
+        repository_description = None
+        p = item.select_one("p")
+        if p:
+            repository_description = p.get_text()
+            if repository_description:
+                repository_description = repository_description.strip()
+
+        feeds.append(
+            {
+                "repository_path": repository_path,
+                "repository_url": repository_url,
+                "repository_description": repository_description,
+            }
+        )
+
+    ### build ATOM phase ##############################################################
 
     # 以下はATOMのサンプルをChatGPTで生成したもの
     #
@@ -240,22 +294,11 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
     author = ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}author")
     ET.SubElement(author, f"{{{ATOM_NAMESPACE}}}name").text = atom_author
 
-    # parse DOM
-    soup = BeautifulSoup(res.text, "html.parser")
-    items = soup.select("article.Box-row")
-
-    for item in reversed(items):
-        # get repository path
-        repository_path = item.select_one("h2 a").get("href")
-        repository_url = f"https://github.com{repository_path}"
-
-        # get description
-        repository_description = None
-        p = item.select_one("p")
-        if p:
-            repository_description = p.get_text()
-            if repository_description:
-                repository_description = repository_description.strip()
+    # entries
+    for item in reversed(feeds):
+        repository_path = item["repository_path"]
+        repository_url = item["repository_url"]
+        repository_description = item["repository_description"]
 
         # new entry
         entry = ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}entry")
@@ -303,26 +346,26 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
             # 指定されたファイルやディレクトリが見つからない場合
             appLogger.error(f"file not found error: {e}")
             appLogger.error("app failed")
-            sys.exit(21)
+            sys.exit(ReturnCode.FILE_NOT_FOUND_ERROR)
         except IsADirectoryError as e:
             # 指定されたパスがディレクトリの場合
             appLogger.error(f"is a directory error: {e}")
             appLogger.error("app failed")
-            sys.exit(22)
+            sys.exit(ReturnCode.IS_DIRECTORY_ERROR)
         except PermissionError as e:
             # アクセス権限がない場合
             appLogger.error(f"permission error: {e}")
             appLogger.error("app failed")
-            sys.exit(23)
+            sys.exit(ReturnCode.PERMISSION_ERROR)
         except OSError as e:
             # その他のOS関連のエラー (例: I/Oエラー、デバイスエラーなど)
             appLogger.error(f"os error: {e}")
             appLogger.error("app failed")
-            sys.exit(24)
+            sys.exit(ReturnCode.OS_ERROR)
         except Exception as e:
             appLogger.error(f"unknown error: {e}")
             appLogger.error("app failed")
-            sys.exit(-1)
+            sys.exit(ReturnCode.UNKNOWN_ERROR)
 
     appLogger.info("app finished")
 
