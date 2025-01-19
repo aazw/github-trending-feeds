@@ -12,18 +12,18 @@ GitHub Trendingのページをスクレイピングして、RSSリーダー(Inor
 GitHub Actionsで各言語のTrendingの最新情報を取得する.
 
 * Daily
-  * 毎日 11:00 UTC
-    * 20:00 JST
+  * 毎日 15:00 UTC
+    * 24:00 JST
 
 * Weekly
-  * 毎週月曜日 12:00 UTC
-    * 21:00 JST
-  * 12:00 UTCなのは、Dailyの分と処理が重ならないようにするため
+  * 毎週月曜日 16:00 UTC
+    * 25:00 JST
+  * 16:00 UTCなのは、Dailyの分と処理が重ならないようにするため
 
 * Monthly
-  * 毎月1日 13:00 UTC
-    * 22:00 JST
-  * 13:00 UTCなのは、Dailyの分と、時にWeeklyの分とも処理が重ならないようにするため
+  * 毎月1日 17:00 UTC
+    * 26:00 JST
+  * 17:00 UTCなのは、Dailyの分と、時にWeeklyの分とも処理が重ならないようにするため
 
 
 ## Use

@@ -3,7 +3,19 @@ on:
   # Cron job
   schedule:
     # every Monday
-    - cron: '0 12 * * 1' # UTC 12:00 = JST 21:00
+    # - cron: '0 11 * * 1' # UTC 11:00 = JST 20:00
+    # - cron: '0 12 * * 1' # UTC 12:00 = JST 21:00
+    # - cron: '0 13 * * 1' # UTC 13:00 = JST 22:00
+    # - cron: '0 14 * * 1' # UTC 14:00 = JST 23:00
+    # - cron: '0 15 * * 1' # UTC 15:00 = JST 24:00 (00:00)
+    - cron: '0 16 * * 1' # UTC 16:00 = JST 25:00 (01:00)
+    # - cron: '0 17 * * 1' # UTC 17:00 = JST 26:00 (02:00)
+    # - cron: '0 18 * * 1' # UTC 18:00 = JST 27:00 (03:00)
+    # - cron: '0 19 * * 1' # UTC 19:00 = JST 28:00 (04:00)
+    # - cron: '0 20 * * 1' # UTC 20:00 = JST 29:00 (05:00)
+    # - cron: '0 21 * * 1' # UTC 21:00 = JST 30:00 (06:00)
+    # - cron: '0 22 * * 1' # UTC 22:00 = JST 31:00 (07:00)
+    # - cron: '0 23 * * 1' # UTC 23:00 = JST 32:00 (08:00)
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
