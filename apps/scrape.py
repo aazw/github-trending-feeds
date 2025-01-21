@@ -207,6 +207,8 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
             }
         )
 
+    feeds = sorted(feeds, key=lambda x: x["repository_url"])
+
     ### build ATOM phase ##############################################################
 
     # 以下はATOMのサンプルをChatGPTで生成したもの
