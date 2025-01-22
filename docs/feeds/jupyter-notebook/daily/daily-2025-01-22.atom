@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mlabonne/llm-course#1737331200</id>
+    <title>https://github.com/mlabonne/llm-course</title>
+    <link href="https://github.com/mlabonne/llm-course" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python#1737331200</id>
+    <title>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</title>
+    <link href="https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdbourke/pytorch-deep-learning#1737331200</id>
+    <title>https://github.com/mrdbourke/pytorch-deep-learning</title>
+    <link href="https://github.com/mrdbourke/pytorch-deep-learning" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1737331200</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera#1737331200</id>
+    <title>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</title>
+    <link href="https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amanchadha/coursera-deep-learning-specialization#1737331200</id>
+    <title>https://github.com/amanchadha/coursera-deep-learning-specialization</title>
+    <link href="https://github.com/amanchadha/coursera-deep-learning-specialization" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pathwaycom/llm-app#1737331200</id>
+    <title>https://github.com/pathwaycom/llm-app</title>
+    <link href="https://github.com/pathwaycom/llm-app" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/panaversity/learn-agentic-ai#1737331200</id>
+    <title>https://github.com/panaversity/learn-agentic-ai</title>
+    <link href="https://github.com/panaversity/learn-agentic-ai" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Learn Agentic AI using CrewAI, LangChain, LangGraph, and Knowledge Graphs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastai/fastbook#1737331200</id>
+    <title>https://github.com/fastai/fastbook</title>
+    <link href="https://github.com/fastai/fastbook" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The fastai book, published as Jupyter Notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml3#1737331200</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinRL#1737331200</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRL</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRL" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">FinRL: Financial Reinforcement Learning. 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bukosabino/ta#1737331200</id>
+    <title>https://github.com/bukosabino/ta</title>
+    <link href="https://github.com/bukosabino/ta" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Technical Analysis Library using Pandas and Numpy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DjangoPeng/openai-quickstart#1737331200</id>
+    <title>https://github.com/DjangoPeng/openai-quickstart</title>
+    <link href="https://github.com/DjangoPeng/openai-quickstart" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/enpeizhao/CVprojects#1737331200</id>
+    <title>https://github.com/enpeizhao/CVprojects</title>
+    <link href="https://github.com/enpeizhao/CVprojects" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">computer vision projects | 计算机视觉相关好玩的AI项目（Python、C++、embedded system）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1737331200</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1737331200</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+</feed>
