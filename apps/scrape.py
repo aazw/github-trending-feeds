@@ -297,7 +297,7 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
     ET.SubElement(author, f"{{{ATOM_NAMESPACE}}}name").text = atom_author
 
     # entries
-    for item in reversed(feeds):
+    for item in feeds:
         repository_path = item["repository_path"]
         repository_url = item["repository_url"]
         repository_description = item["repository_description"]
