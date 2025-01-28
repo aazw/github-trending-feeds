@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://aazw.github.io/github-trending-feeds/feeds/abap-cds/daily.atom</id>
-  <title>GitHub Trending - abap-cds (daily)</title>
-  <link href="https://aazw.github.io/github-trending-feeds/feeds/abap-cds/daily.atom" rel="self" />
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom</id>
+  <title>GitHub Trending - markdown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
   <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
   <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
-  <updated>2025-01-28T00:00:00</updated>
+  <updated>2025-01-27T00:00:00</updated>
   <author>
     <name>aazw</name>
   </author>
