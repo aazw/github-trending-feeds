@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom</id>
+  <title>GitHub Trending - markdown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OAI/OpenAPI-Specification#1738972800</id>
+    <title>https://github.com/OAI/OpenAPI-Specification</title>
+    <link href="https://github.com/OAI/OpenAPI-Specification" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The OpenAPI Specification Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codecrafters-io/build-your-own-x#1738972800</id>
+    <title>https://github.com/codecrafters-io/build-your-own-x</title>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Master programming by recreating your favorite technologies from scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labuladong/fucking-algorithm#1738972800</id>
+    <title>https://github.com/labuladong/fucking-algorithm</title>
+    <link href="https://github.com/labuladong/fucking-algorithm" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-docs#1738972800</id>
+    <title>https://github.com/microsoft/vscode-docs</title>
+    <link href="https://github.com/microsoft/vscode-docs" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Public documentation for Visual Studio Code</content>
+  </entry>
+</feed>
