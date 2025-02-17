@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/weekly.atom</id>
+  <title>GitHub Trending - jupyter-notebook (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mlabonne/llm-course#1737331200</id>
+    <title>https://github.com/mlabonne/llm-course</title>
+    <link href="https://github.com/mlabonne/llm-course" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vikhyat/moondream#1737331200</id>
+    <title>https://github.com/vikhyat/moondream</title>
+    <link href="https://github.com/vikhyat/moondream" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">tiny vision language model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-cookbook#1737331200</id>
+    <title>https://github.com/datawhalechina/llm-cookbook</title>
+    <link href="https://github.com/datawhalechina/llm-cookbook" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml3#1737331200</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1737331200</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goldmansachs/gs-quant#1737331200</id>
+    <title>https://github.com/goldmansachs/gs-quant</title>
+    <link href="https://github.com/goldmansachs/gs-quant" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Python toolkit for quantitative finance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python#1737331200</id>
+    <title>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</title>
+    <link href="https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ed-donner/llm_engineering#1737331200</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/seamless_communication#1737331200</id>
+    <title>https://github.com/facebookresearch/seamless_communication</title>
+    <link href="https://github.com/facebookresearch/seamless_communication" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Foundational Models for State-of-the-Art Speech and Text Translation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amanchadha/coursera-deep-learning-specialization#1737331200</id>
+    <title>https://github.com/amanchadha/coursera-deep-learning-specialization</title>
+    <link href="https://github.com/amanchadha/coursera-deep-learning-specialization" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1737331200</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dusty-nv/jetson-containers#1737331200</id>
+    <title>https://github.com/dusty-nv/jetson-containers</title>
+    <link href="https://github.com/dusty-nv/jetson-containers" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Machine Learning Containers for NVIDIA Jetson and JetPack-L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/dinov2#1737331200</id>
+    <title>https://github.com/facebookresearch/dinov2</title>
+    <link href="https://github.com/facebookresearch/dinov2" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">PyTorch code and models for the DINOv2 self-supervised learning method.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neonbjb/tortoise-tts#1737331200</id>
+    <title>https://github.com/neonbjb/tortoise-tts</title>
+    <link href="https://github.com/neonbjb/tortoise-tts" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A multi-voice TTS system trained with an emphasis on quality</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mistralai/mistral-inference#1737331200</id>
+    <title>https://github.com/mistralai/mistral-inference</title>
+    <link href="https://github.com/mistralai/mistral-inference" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Official inference library for Mistral models</content>
+  </entry>
+</feed>
