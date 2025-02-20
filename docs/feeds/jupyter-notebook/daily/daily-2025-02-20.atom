@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinRL#1739923200</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRL</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRL" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">FinRL: Financial Reinforcement Learning. 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KindXiaoming/pykan#1739923200</id>
+    <title>https://github.com/KindXiaoming/pykan</title>
+    <link href="https://github.com/KindXiaoming/pykan" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Kolmogorov Arnold Networks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WongKinYiu/yolov7#1739923200</id>
+    <title>https://github.com/WongKinYiu/yolov7</title>
+    <link href="https://github.com/WongKinYiu/yolov7" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml3#1739923200</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphacep/vosk-api#1739923200</id>
+    <title>https://github.com/alphacep/vosk-api</title>
+    <link href="https://github.com/alphacep/vosk-api" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/anthropic-cookbook#1739923200</id>
+    <title>https://github.com/anthropics/anthropic-cookbook</title>
+    <link href="https://github.com/anthropics/anthropic-cookbook" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/courses#1739923200</id>
+    <title>https://github.com/anthropics/courses</title>
+    <link href="https://github.com/anthropics/courses" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Anthropic's educational courses</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-sagemaker-examples#1739923200</id>
+    <title>https://github.com/aws/amazon-sagemaker-examples</title>
+    <link href="https://github.com/aws/amazon-sagemaker-examples" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/fun-rec#1739923200</id>
+    <title>https://github.com/datawhalechina/fun-rec</title>
+    <link href="https://github.com/datawhalechina/fun-rec" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-universe#1739923200</id>
+    <title>https://github.com/datawhalechina/llm-universe</title>
+    <link href="https://github.com/datawhalechina/llm-universe" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/segment-anything#1739923200</id>
+    <title>https://github.com/facebookresearch/segment-anything</title>
+    <link href="https://github.com/facebookresearch/segment-anything" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera#1739923200</id>
+    <title>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</title>
+    <link href="https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1739923200</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/OmniParser#1739923200</id>
+    <title>https://github.com/microsoft/OmniParser</title>
+    <link href="https://github.com/microsoft/OmniParser" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">A simple screen parsing tool towards pure vision based GUI agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/generative-ai-for-beginners#1739923200</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tencentmusic/cube-studio#1739923200</id>
+    <title>https://github.com/tencentmusic/cube-studio</title>
+    <link href="https://github.com/tencentmusic/cube-studio" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，标注平台，自动化标注，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式，deepseek推理</content>
+  </entry>
+  <entry>
+    <id>https://github.com/x4nth055/pythoncode-tutorials#1739923200</id>
+    <title>https://github.com/x4nth055/pythoncode-tutorials</title>
+    <link href="https://github.com/x4nth055/pythoncode-tutorials" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">The Python Code Tutorials</content>
+  </entry>
+</feed>
