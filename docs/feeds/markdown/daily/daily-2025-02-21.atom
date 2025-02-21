@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom</id>
+  <title>GitHub Trending - markdown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Kotlin/KEEP#1740009600</id>
+    <title>https://github.com/Kotlin/KEEP</title>
+    <link href="https://github.com/Kotlin/KEEP" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Kotlin Evolution and Enhancement Process</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OAI/OpenAPI-Specification#1740009600</id>
+    <title>https://github.com/OAI/OpenAPI-Specification</title>
+    <link href="https://github.com/OAI/OpenAPI-Specification" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The OpenAPI Specification Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SAP/styleguides#1740009600</id>
+    <title>https://github.com/SAP/styleguides</title>
+    <link href="https://github.com/SAP/styleguides" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">This repository provides SAP style guides for coding and coding-related topics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexandresanlim/Badges4-README.md-Profile#1740009600</id>
+    <title>https://github.com/alexandresanlim/Badges4-README.md-Profile</title>
+    <link href="https://github.com/alexandresanlim/Badges4-README.md-Profile" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Improve your README.md profile with these amazing badges.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codecrafters-io/build-your-own-x#1740009600</id>
+    <title>https://github.com/codecrafters-io/build-your-own-x</title>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Master programming by recreating your favorite technologies from scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/docs#1740009600</id>
+    <title>https://github.com/docker/docs</title>
+    <link href="https://github.com/docker/docs" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Source repo for Docker's Documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/drknzz/GitHub-Achievements#1740009600</id>
+    <title>https://github.com/drknzz/GitHub-Achievements</title>
+    <link href="https://github.com/drknzz/GitHub-Achievements" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">🔥 A Complete List of GitHub Profile Badges and Achievements 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/ethereum-org-website#1740009600</id>
+    <title>https://github.com/ethereum/ethereum-org-website</title>
+    <link href="https://github.com/ethereum/ethereum-org-website" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Ethereum.org is a primary online resource for the Ethereum community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaywcjlove/linux-command#1740009600</id>
+    <title>https://github.com/jaywcjlove/linux-command</title>
+    <link href="https://github.com/jaywcjlove/linux-command" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labuladong/fucking-algorithm#1740009600</id>
+    <title>https://github.com/labuladong/fucking-algorithm</title>
+    <link href="https://github.com/labuladong/fucking-algorithm" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/content#1740009600</id>
+    <title>https://github.com/mdn/content</title>
+    <link href="https://github.com/mdn/content" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The content behind MDN Web Docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/translated-content#1740009600</id>
+    <title>https://github.com/mdn/translated-content</title>
+    <link href="https://github.com/mdn/translated-content" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The source repository of all translated content for MDN Web Docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-docs#1740009600</id>
+    <title>https://github.com/microsoft/vscode-docs</title>
+    <link href="https://github.com/microsoft/vscode-docs" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Public documentation for Visual Studio Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ppy/osu-wiki#1740009600</id>
+    <title>https://github.com/ppy/osu-wiki</title>
+    <link href="https://github.com/ppy/osu-wiki" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">home of the osu! wiki</content>
+  </entry>
+  <entry>
+    <id>https://github.com/project-trans/MtF-wiki#1740009600</id>
+    <title>https://github.com/project-trans/MtF-wiki</title>
+    <link href="https://github.com/project-trans/MtF-wiki" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">MtF.wiki is a free, open, and continuously updating transgender female knowledge integration site.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift-evolution#1740009600</id>
+    <title>https://github.com/swiftlang/swift-evolution</title>
+    <link href="https://github.com/swiftlang/swift-evolution" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.</content>
+  </entry>
+</feed>

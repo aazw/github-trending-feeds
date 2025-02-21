@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apache/nuttx#1740009600</id>
+    <title>https://github.com/apache/nuttx</title>
+    <link href="https://github.com/apache/nuttx" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Apache NuttX is a mature, real-time embedded operating system (RTOS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arthenica/ffmpeg-kit#1740009600</id>
+    <title>https://github.com/arthenica/ffmpeg-kit</title>
+    <link href="https://github.com/arthenica/ffmpeg-kit" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asg017/sqlite-vec#1740009600</id>
+    <title>https://github.com/asg017/sqlite-vec</title>
+    <link href="https://github.com/asg017/sqlite-vec" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A vector search SQLite extension that runs anywhere!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bol-van/zapret#1740009600</id>
+    <title>https://github.com/bol-van/zapret</title>
+    <link href="https://github.com/bol-van/zapret" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">DPI bypass multi platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/civetweb/civetweb#1740009600</id>
+    <title>https://github.com/civetweb/civetweb</title>
+    <link href="https://github.com/civetweb/civetweb" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Embedded C/C++ web server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1740009600</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-mosquitto/mosquitto#1740009600</id>
+    <title>https://github.com/eclipse-mosquitto/mosquitto</title>
+    <link href="https://github.com/eclipse-mosquitto/mosquitto" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Eclipse Mosquitto - An open source MQTT broker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghaerr/elks#1740009600</id>
+    <title>https://github.com/ghaerr/elks</title>
+    <link href="https://github.com/ghaerr/elks" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Embeddable Linux Kernel Subset - Linux for 8086</content>
+  </entry>
+  <entry>
+    <id>https://github.com/git/git#1740009600</id>
+    <title>https://github.com/git/git</title>
+    <link href="https://github.com/git/git" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lvgl/lvgl#1740009600</id>
+    <title>https://github.com/lvgl/lvgl</title>
+    <link href="https://github.com/lvgl/lvgl" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanopb/nanopb#1740009600</id>
+    <title>https://github.com/nanopb/nanopb</title>
+    <link href="https://github.com/nanopb/nanopb" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Protocol Buffers with small code size</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nrfconnect/sdk-nrf#1740009600</id>
+    <title>https://github.com/nrfconnect/sdk-nrf</title>
+    <link href="https://github.com/nrfconnect/sdk-nrf" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">nRF Connect SDK main repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olikraus/u8g2#1740009600</id>
+    <title>https://github.com/olikraus/u8g2</title>
+    <link href="https://github.com/olikraus/u8g2" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">U8glib library for monochrome displays, version 2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssh/openssh-portable#1740009600</id>
+    <title>https://github.com/openssh/openssh-portable</title>
+    <link href="https://github.com/openssh/openssh-portable" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Portable OpenSSH</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxters168/Pluvia#1740009600</id>
+    <title>https://github.com/oxters168/Pluvia</title>
+    <link href="https://github.com/oxters168/Pluvia" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Lightweight unofficial Steam client for Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pgvector/pgvector#1740009600</id>
+    <title>https://github.com/pgvector/pgvector</title>
+    <link href="https://github.com/pgvector/pgvector" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Open-source vector similarity search for Postgres</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/pico-sdk#1740009600</id>
+    <title>https://github.com/raspberrypi/pico-sdk</title>
+    <link href="https://github.com/raspberrypi/pico-sdk" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/timescale/timescaledb#1740009600</id>
+    <title>https://github.com/timescale/timescaledb</title>
+    <link href="https://github.com/timescale/timescaledb" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A time-series database for high-performance real-time analytics packaged as a Postgres extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmux/tmux#1740009600</id>
+    <title>https://github.com/tmux/tmux</title>
+    <link href="https://github.com/tmux/tmux" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">tmux source code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber/h3#1740009600</id>
+    <title>https://github.com/uber/h3</title>
+    <link href="https://github.com/uber/h3" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Hexagonal hierarchical geospatial indexing system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yugabyte/yugabyte-db#1740009600</id>
+    <title>https://github.com/yugabyte/yugabyte-db</title>
+    <link href="https://github.com/yugabyte/yugabyte-db" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">YugabyteDB - the cloud native distributed SQL database for mission-critical applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zephyrproject-rtos/zephyr#1740009600</id>
+    <title>https://github.com/zephyrproject-rtos/zephyr</title>
+    <link href="https://github.com/zephyrproject-rtos/zephyr" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</content>
+  </entry>
+</feed>
