@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinRL#1740268800</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRL</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRL" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">FinRL: Financial Reinforcement Learning. 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CompVis/stable-diffusion#1740268800</id>
+    <title>https://github.com/CompVis/stable-diffusion</title>
+    <link href="https://github.com/CompVis/stable-diffusion" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A latent text-to-image diffusion model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataExpert-io/data-engineer-handbook#1740268800</id>
+    <title>https://github.com/DataExpert-io/data-engineer-handbook</title>
+    <link href="https://github.com/DataExpert-io/data-engineer-handbook" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">This is a repo with links to everything you'd ever want to learn about data engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1740268800</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SakanaAI/AI-Scientist#1740268800</id>
+    <title>https://github.com/SakanaAI/AI-Scientist</title>
+    <link href="https://github.com/SakanaAI/AI-Scientist" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml3#1740268800</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/courses#1740268800</id>
+    <title>https://github.com/anthropics/courses</title>
+    <link href="https://github.com/anthropics/courses" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Anthropic's educational courses</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codebasics/py#1740268800</id>
+    <title>https://github.com/codebasics/py</title>
+    <link href="https://github.com/codebasics/py" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Repository to store sample python programs for python learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ed-donner/llm_engineering#1740268800</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1740268800</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1740268800</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdbourke/pytorch-deep-learning#1740268800</id>
+    <title>https://github.com/mrdbourke/pytorch-deep-learning</title>
+    <link href="https://github.com/mrdbourke/pytorch-deep-learning" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/CLIP#1740268800</id>
+    <title>https://github.com/openai/CLIP</title>
+    <link href="https://github.com/openai/CLIP" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/srush/GPU-Puzzles#1740268800</id>
+    <title>https://github.com/srush/GPU-Puzzles</title>
+    <link href="https://github.com/srush/GPU-Puzzles" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Solve puzzles. Learn CUDA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/aibrix#1740268800</id>
+    <title>https://github.com/vllm-project/aibrix</title>
+    <link href="https://github.com/vllm-project/aibrix" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Cost-efficient and pluggable Infrastructure components for GenAI inference</content>
+  </entry>
+</feed>
