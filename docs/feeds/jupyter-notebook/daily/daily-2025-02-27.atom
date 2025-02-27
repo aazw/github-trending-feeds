@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azureml-examples#1740441600</id>
+    <title>https://github.com/Azure/azureml-examples</title>
+    <link href="https://github.com/Azure/azureml-examples" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Official community-driven Azure Machine Learning examples, tested with GitHub Actions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataExpert-io/data-engineer-handbook#1740441600</id>
+    <title>https://github.com/DataExpert-io/data-engineer-handbook</title>
+    <link href="https://github.com/DataExpert-io/data-engineer-handbook" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">This is a repo with links to everything you'd ever want to learn about data engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MervinPraison/PraisonAI#1740441600</id>
+    <title>https://github.com/MervinPraison/PraisonAI</title>
+    <link href="https://github.com/MervinPraison/PraisonAI" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1740441600</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/courses#1740441600</id>
+    <title>https://github.com/anthropics/courses</title>
+    <link href="https://github.com/anthropics/courses" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Anthropic's educational courses</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boyu-ai/Hands-on-RL#1740441600</id>
+    <title>https://github.com/boyu-ai/Hands-on-RL</title>
+    <link href="https://github.com/boyu-ai/Hands-on-RL" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">https://hrl.boyuai.com/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1740441600</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ed-donner/llm_engineering#1740441600</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/sam2#1740441600</id>
+    <title>https://github.com/facebookresearch/sam2</title>
+    <link href="https://github.com/facebookresearch/sam2" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1740441600</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain-academy#1740441600</id>
+    <title>https://github.com/langchain-ai/langchain-academy</title>
+    <link href="https://github.com/langchain-ai/langchain-academy" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/meta-llama/llama-cookbook#1740441600</id>
+    <title>https://github.com/meta-llama/llama-cookbook</title>
+    <link href="https://github.com/meta-llama/llama-cookbook" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patchy631/ai-engineering-hub#1740441600</id>
+    <title>https://github.com/patchy631/ai-engineering-hub</title>
+    <link href="https://github.com/patchy631/ai-engineering-hub" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/pycaret/pycaret#1740441600</id>
+    <title>https://github.com/pycaret/pycaret</title>
+    <link href="https://github.com/pycaret/pycaret" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">An open-source, low-code machine learning library in Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sokrypton/ColabFold#1740441600</id>
+    <title>https://github.com/sokrypton/ColabFold</title>
+    <link href="https://github.com/sokrypton/ColabFold" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Making Protein folding accessible to all!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/aibrix#1740441600</id>
+    <title>https://github.com/vllm-project/aibrix</title>
+    <link href="https://github.com/vllm-project/aibrix" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Cost-efficient and pluggable Infrastructure components for GenAI inference</content>
+  </entry>
+</feed>
