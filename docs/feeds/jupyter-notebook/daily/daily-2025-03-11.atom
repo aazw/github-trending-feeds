@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinRL#1741478400</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRL</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRL" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">FinRL: Financial Reinforcement Learning. 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TradeMaster-NTU/TradeMaster#1741478400</id>
+    <title>https://github.com/TradeMaster-NTU/TradeMaster</title>
+    <link href="https://github.com/TradeMaster-NTU/TradeMaster" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning 🔥 ⚡ 🌈</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amanchadha/coursera-deep-learning-specialization#1741478400</id>
+    <title>https://github.com/amanchadha/coursera-deep-learning-specialization</title>
+    <link href="https://github.com/amanchadha/coursera-deep-learning-specialization" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/courses#1741478400</id>
+    <title>https://github.com/anthropics/courses</title>
+    <link href="https://github.com/anthropics/courses" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Anthropic's educational courses</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ed-donner/llm_engineering#1741478400</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastai/fastbook#1741478400</id>
+    <title>https://github.com/fastai/fastbook</title>
+    <link href="https://github.com/fastai/fastbook" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">The fastai book, published as Jupyter Notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fivethirtyeight/data#1741478400</id>
+    <title>https://github.com/fivethirtyeight/data</title>
+    <link href="https://github.com/fivethirtyeight/data" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Data and code behind the articles and graphics at FiveThirtyEight</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1741478400</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera#1741478400</id>
+    <title>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</title>
+    <link href="https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/micrograd#1741478400</id>
+    <title>https://github.com/karpathy/micrograd</title>
+    <link href="https://github.com/karpathy/micrograd" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1741478400</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/community#1741478400</id>
+    <title>https://github.com/kubernetes/community</title>
+    <link href="https://github.com/kubernetes/community" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Kubernetes community content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain-academy#1741478400</id>
+    <title>https://github.com/langchain-ai/langchain-academy</title>
+    <link href="https://github.com/langchain-ai/langchain-academy" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/generative-ai-for-beginners#1741478400</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdbourke/pytorch-deep-learning#1741478400</id>
+    <title>https://github.com/mrdbourke/pytorch-deep-learning</title>
+    <link href="https://github.com/mrdbourke/pytorch-deep-learning" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/panaversity/learn-agentic-ai#1741478400</id>
+    <title>https://github.com/panaversity/learn-agentic-ai</title>
+    <link href="https://github.com/panaversity/learn-agentic-ai" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Learn Agentic AI using Autogen, CrewAI, LangGraph, and Knowledge Graphs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patchy631/ai-engineering-hub#1741478400</id>
+    <title>https://github.com/patchy631/ai-engineering-hub</title>
+    <link href="https://github.com/patchy631/ai-engineering-hub" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>
