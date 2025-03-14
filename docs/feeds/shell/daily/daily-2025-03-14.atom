@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LondheShubham153/kubestarter#1741824000</id>
+    <title>https://github.com/LondheShubham153/kubestarter</title>
+    <link href="https://github.com/LondheShubham153/kubestarter" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">This is a Repository to get you started with Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1741824000</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1741824000</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1741824000</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/calogica/dbt-expectations#1741824000</id>
+    <title>https://github.com/calogica/dbt-expectations</title>
+    <link href="https://github.com/calogica/dbt-expectations" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Port(ish) of Great Expectations to dbt test macros</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/windows#1741824000</id>
+    <title>https://github.com/dockur/windows</title>
+    <link href="https://github.com/dockur/windows" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Windows inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fuzhengwei/CodeGuide#1741824000</id>
+    <title>https://github.com/fuzhengwei/CodeGuide</title>
+    <link href="https://github.com/fuzhengwei/CodeGuide" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/self-hosted#1741824000</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1741824000</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-docs#1741824000</id>
+    <title>https://github.com/langgenius/dify-docs</title>
+    <link href="https://github.com/langgenius/dify-docs" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">The open-source repo for docs.dify.ai</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n-hosting#1741824000</id>
+    <title>https://github.com/n8n-io/n8n-hosting</title>
+    <link href="https://github.com/n8n-io/n8n-hosting" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Example of self-hosting n8n in various environments like docker, kubernetes, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicolaka/netshoot#1741824000</id>
+    <title>https://github.com/nicolaka/netshoot</title>
+    <link href="https://github.com/nicolaka/netshoot" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">a Docker + Kubernetes network trouble-shooting swiss-army container</content>
+  </entry>
+  <entry>
+    <id>https://github.com/npryce/adr-tools#1741824000</id>
+    <title>https://github.com/npryce/adr-tools</title>
+    <link href="https://github.com/npryce/adr-tools" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Command-line tools for working with Architecture Decision Records</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1741824000</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1741824000</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/public#1741824000</id>
+    <title>https://github.com/openconfig/public</title>
+    <link href="https://github.com/openconfig/public" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Repository for publishing OpenConfig models, documentation, and other material for the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oracle/docker-images#1741824000</id>
+    <title>https://github.com/oracle/docker-images</title>
+    <link href="https://github.com/oracle/docker-images" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Official source of container configurations, images, and examples for Oracle products and projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rbenv/rbenv#1741824000</id>
+    <title>https://github.com/rbenv/rbenv</title>
+    <link href="https://github.com/rbenv/rbenv" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Manage your app's Ruby environment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/super-linter/super-linter#1741824000</id>
+    <title>https://github.com/super-linter/super-linter</title>
+    <link href="https://github.com/super-linter/super-linter" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Combination of multiple linters to run as a GitHub Action or standalone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1741824000</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ublue-os/bluefin#1741824000</id>
+    <title>https://github.com/ublue-os/bluefin</title>
+    <link href="https://github.com/ublue-os/bluefin" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">The next generation Linux workstation, designed for reliability, performance, and sustainability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuaotian/go-cursor-help#1741824000</id>
+    <title>https://github.com/yuaotian/go-cursor-help</title>
+    <link href="https://github.com/yuaotian/go-cursor-help" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</content>
+  </entry>
+</feed>
