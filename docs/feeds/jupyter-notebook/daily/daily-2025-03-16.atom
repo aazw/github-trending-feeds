@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MervinPraison/PraisonAI#1741996800</id>
+    <title>https://github.com/MervinPraison/PraisonAI</title>
+    <link href="https://github.com/MervinPraison/PraisonAI" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp#1741996800</id>
+    <title>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</title>
+    <link href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Course Files for Complete Python 3 Bootcamp Course on Udemy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SakanaAI/AI-Scientist#1741996800</id>
+    <title>https://github.com/SakanaAI/AI-Scientist</title>
+    <link href="https://github.com/SakanaAI/AI-Scientist" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml2#1741996800</id>
+    <title>https://github.com/ageron/handson-ml2</title>
+    <link href="https://github.com/ageron/handson-ml2" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dusty-nv/jetson-containers#1741996800</id>
+    <title>https://github.com/dusty-nv/jetson-containers</title>
+    <link href="https://github.com/dusty-nv/jetson-containers" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Machine Learning Containers for NVIDIA Jetson and JetPack-L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/sam2#1741996800</id>
+    <title>https://github.com/facebookresearch/sam2</title>
+    <link href="https://github.com/facebookresearch/sam2" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fchollet/deep-learning-with-python-notebooks#1741996800</id>
+    <title>https://github.com/fchollet/deep-learning-with-python-notebooks</title>
+    <link href="https://github.com/fchollet/deep-learning-with-python-notebooks" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Jupyter notebooks for the code samples of the book "Deep Learning with Python"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-deepmind/gemma#1741996800</id>
+    <title>https://github.com/google-deepmind/gemma</title>
+    <link href="https://github.com/google-deepmind/gemma" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Gemma open-weight LLM library, from Google DeepMind</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-deepmind/mujoco#1741996800</id>
+    <title>https://github.com/google-deepmind/mujoco</title>
+    <link href="https://github.com/google-deepmind/mujoco" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Multi-Joint dynamics with Contact. A general purpose physics simulator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1741996800</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-research/google-research#1741996800</id>
+    <title>https://github.com/google-research/google-research</title>
+    <link href="https://github.com/google-research/google-research" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Google Research</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1741996800</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-llama/llama-cookbook#1741996800</id>
+    <title>https://github.com/meta-llama/llama-cookbook</title>
+    <link href="https://github.com/meta-llama/llama-cookbook" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roboflow/notebooks#1741996800</id>
+    <title>https://github.com/roboflow/notebooks</title>
+    <link href="https://github.com/roboflow/notebooks" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.</content>
+  </entry>
+</feed>
