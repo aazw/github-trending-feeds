@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/weekly.atom</id>
+  <title>GitHub Trending - c (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course#1741564800</id>
+    <title>https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course</title>
+    <link href="https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FWGS/xash3d-fwgs#1741564800</id>
+    <title>https://github.com/FWGS/xash3d-fwgs</title>
+    <link href="https://github.com/FWGS/xash3d-fwgs" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Xash3D FWGS engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Genymobile/scrcpy#1741564800</id>
+    <title>https://github.com/Genymobile/scrcpy</title>
+    <link href="https://github.com/Genymobile/scrcpy" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Display and control your Android device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Unity#1741564800</id>
+    <title>https://github.com/ThrowTheSwitch/Unity</title>
+    <link href="https://github.com/ThrowTheSwitch/Unity" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Simple unit testing for C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VirusTotal/yara#1741564800</id>
+    <title>https://github.com/VirusTotal/yara</title>
+    <link href="https://github.com/VirusTotal/yara" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The pattern matching swiss knife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asg017/sqlite-vec#1741564800</id>
+    <title>https://github.com/asg017/sqlite-vec</title>
+    <link href="https://github.com/asg017/sqlite-vec" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A vector search SQLite extension that runs anywhere!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brunodev85/winlator#1741564800</id>
+    <title>https://github.com/brunodev85/winlator</title>
+    <link href="https://github.com/brunodev85/winlator" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Android application for running Windows applications with Wine and Box86/Box64</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coturn/coturn#1741564800</id>
+    <title>https://github.com/coturn/coturn</title>
+    <link href="https://github.com/coturn/coturn" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">coturn TURN server project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/curl/curl#1741564800</id>
+    <title>https://github.com/curl/curl</title>
+    <link href="https://github.com/curl/curl" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</content>
+  </entry>
+  <entry>
+    <id>https://github.com/floooh/sokol#1741564800</id>
+    <title>https://github.com/floooh/sokol</title>
+    <link href="https://github.com/floooh/sokol" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">minimal cross-platform standalone C headers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/security-research#1741564800</id>
+    <title>https://github.com/google/security-research</title>
+    <link href="https://github.com/google/security-research" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kingToolbox/WindTerm#1741564800</id>
+    <title>https://github.com/kingToolbox/WindTerm</title>
+    <link href="https://github.com/kingToolbox/WindTerm" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/littlefs-project/littlefs#1741564800</id>
+    <title>https://github.com/littlefs-project/littlefs</title>
+    <link href="https://github.com/littlefs-project/littlefs" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A little fail-safe filesystem designed for microcontrollers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lvgl/lvgl#1741564800</id>
+    <title>https://github.com/lvgl/lvgl</title>
+    <link href="https://github.com/lvgl/lvgl" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/micropython/micropython#1741564800</id>
+    <title>https://github.com/micropython/micropython</title>
+    <link href="https://github.com/micropython/micropython" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n64decomp/sm64#1741564800</id>
+    <title>https://github.com/n64decomp/sm64</title>
+    <link href="https://github.com/n64decomp/sm64" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A Super Mario 64 decompilation, brought to you by a bunch of clever folks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicbarker/clay#1741564800</id>
+    <title>https://github.com/nicbarker/clay</title>
+    <link href="https://github.com/nicbarker/clay" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">High performance UI layout library in C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pr3y/Bruce#1741564800</id>
+    <title>https://github.com/pr3y/Bruce</title>
+    <link href="https://github.com/pr3y/Bruce" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Predatory ESP32 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raysan5/raylib#1741564800</id>
+    <title>https://github.com/raysan5/raylib</title>
+    <link href="https://github.com/raysan5/raylib" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A simple and easy-to-use library to enjoy videogames programming</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/redis#1741564800</id>
+    <title>https://github.com/redis/redis</title>
+    <link href="https://github.com/redis/redis" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/robertdavidgraham/masscan#1741564800</id>
+    <title>https://github.com/robertdavidgraham/masscan</title>
+    <link href="https://github.com/robertdavidgraham/masscan" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tsoding/nob.h#1741564800</id>
+    <title>https://github.com/tsoding/nob.h</title>
+    <link href="https://github.com/tsoding/nob.h" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Header only library for writing build recipes in C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vedderb/bldc#1741564800</id>
+    <title>https://github.com/vedderb/bldc</title>
+    <link href="https://github.com/vedderb/bldc" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The VESC motor control firmware</content>
+  </entry>
+</feed>
