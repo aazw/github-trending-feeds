@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ageron/handson-ml2#1742342400</id>
+    <title>https://github.com/ageron/handson-ml2</title>
+    <link href="https://github.com/ageron/handson-ml2" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alirezadir/Machine-Learning-Interviews#1742342400</id>
+    <title>https://github.com/alirezadir/Machine-Learning-Interviews</title>
+    <link href="https://github.com/alirezadir/Machine-Learning-Interviews" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">This repo is meant to serve as a guide for Machine Learning/AI technical interviews.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/amazon-bedrock-samples#1742342400</id>
+    <title>https://github.com/aws-samples/amazon-bedrock-samples</title>
+    <link href="https://github.com/aws-samples/amazon-bedrock-samples" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-sagemaker-examples#1742342400</id>
+    <title>https://github.com/aws/amazon-sagemaker-examples</title>
+    <link href="https://github.com/aws/amazon-sagemaker-examples" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1742342400</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/sam2#1742342400</id>
+    <title>https://github.com/facebookresearch/sam2</title>
+    <link href="https://github.com/facebookresearch/sam2" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1742342400</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/graviraja/MLOps-Basics#1742342400</id>
+    <title>https://github.com/graviraja/MLOps-Basics</title>
+    <link href="https://github.com/graviraja/MLOps-Basics" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/jackfrued/Python-100-Days#1742342400</id>
+    <title>https://github.com/jackfrued/Python-100-Days</title>
+    <link href="https://github.com/jackfrued/Python-100-Days" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Python - 100天从新手到大师</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1742342400</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/community#1742342400</id>
+    <title>https://github.com/kubernetes/community</title>
+    <link href="https://github.com/kubernetes/community" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Kubernetes community content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1742342400</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mistralai/mistral-inference#1742342400</id>
+    <title>https://github.com/mistralai/mistral-inference</title>
+    <link href="https://github.com/mistralai/mistral-inference" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Official inference library for Mistral models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitmath/1806#1742342400</id>
+    <title>https://github.com/mitmath/1806</title>
+    <link href="https://github.com/mitmath/1806" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">18.06 course at MIT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patchy631/ai-engineering-hub#1742342400</id>
+    <title>https://github.com/patchy631/ai-engineering-hub</title>
+    <link href="https://github.com/patchy631/ai-engineering-hub" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rasbt/machine-learning-book#1742342400</id>
+    <title>https://github.com/rasbt/machine-learning-book</title>
+    <link href="https://github.com/rasbt/machine-learning-book" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Code Repository for Machine Learning with PyTorch and Scikit-Learn</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sokrypton/ColabFold#1742342400</id>
+    <title>https://github.com/sokrypton/ColabFold</title>
+    <link href="https://github.com/sokrypton/ColabFold" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Making Protein folding accessible to all!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/x4nth055/pythoncode-tutorials#1742342400</id>
+    <title>https://github.com/x4nth055/pythoncode-tutorials</title>
+    <link href="https://github.com/x4nth055/pythoncode-tutorials" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">The Python Code Tutorials</content>
+  </entry>
+</feed>
