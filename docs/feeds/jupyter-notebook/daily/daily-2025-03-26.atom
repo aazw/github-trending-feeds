@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinRobot#1742774400</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRobot</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRobot" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azureml-examples#1742774400</id>
+    <title>https://github.com/Azure/azureml-examples</title>
+    <link href="https://github.com/Azure/azureml-examples" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Official community-driven Azure Machine Learning examples, tested with GitHub Actions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1742774400</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1742774400</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp#1742774400</id>
+    <title>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</title>
+    <link href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Course Files for Complete Python 3 Bootcamp Course on Udemy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WASasquatch/was-node-suite-comfyui#1742774400</id>
+    <title>https://github.com/WASasquatch/was-node-suite-comfyui</title>
+    <link href="https://github.com/WASasquatch/was-node-suite-comfyui" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">An extensive node suite for ComfyUI with over 210 new nodes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amanchadha/coursera-deep-learning-specialization#1742774400</id>
+    <title>https://github.com/amanchadha/coursera-deep-learning-specialization</title>
+    <link href="https://github.com/amanchadha/coursera-deep-learning-specialization" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chiphuyen/aie-book#1742774400</id>
+    <title>https://github.com/chiphuyen/aie-book</title>
+    <link href="https://github.com/chiphuyen/aie-book" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-ai-edge/mediapipe-samples#1742774400</id>
+    <title>https://github.com/google-ai-edge/mediapipe-samples</title>
+    <link href="https://github.com/google-ai-edge/mediapipe-samples" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera#1742774400</id>
+    <title>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</title>
+    <link href="https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jakevdp/PythonDataScienceHandbook#1742774400</id>
+    <title>https://github.com/jakevdp/PythonDataScienceHandbook</title>
+    <link href="https://github.com/jakevdp/PythonDataScienceHandbook" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Python Data Science Handbook: full text in Jupyter Notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/micrograd#1742774400</id>
+    <title>https://github.com/karpathy/micrograd</title>
+    <link href="https://github.com/karpathy/micrograd" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain-academy#1742774400</id>
+    <title>https://github.com/langchain-ai/langchain-academy</title>
+    <link href="https://github.com/langchain-ai/langchain-academy" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/ai-agents-for-beginners#1742774400</id>
+    <title>https://github.com/microsoft/ai-agents-for-beginners</title>
+    <link href="https://github.com/microsoft/ai-agents-for-beginners" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">10 Lessons to Get Started Building AI Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/generative-ai-for-beginners#1742774400</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb-developer/GenAI-Showcase#1742774400</id>
+    <title>https://github.com/mongodb-developer/GenAI-Showcase</title>
+    <link href="https://github.com/mongodb-developer/GenAI-Showcase" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">GenAI Cookbook</content>
+  </entry>
+  <entry>
+    <id>https://github.com/topoteretes/cognee#1742774400</id>
+    <title>https://github.com/topoteretes/cognee</title>
+    <link href="https://github.com/topoteretes/cognee" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Reliable LLM Memory for AI Applications and AI Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wesm/pydata-book#1742774400</id>
+    <title>https://github.com/wesm/pydata-book</title>
+    <link href="https://github.com/wesm/pydata-book" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media</content>
+  </entry>
+</feed>
