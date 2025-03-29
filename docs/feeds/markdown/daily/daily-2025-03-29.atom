@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom</id>
+  <title>GitHub Trending - markdown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OAI/OpenAPI-Specification#1743033600</id>
+    <title>https://github.com/OAI/OpenAPI-Specification</title>
+    <link href="https://github.com/OAI/OpenAPI-Specification" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The OpenAPI Specification Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SAP/styleguides#1743033600</id>
+    <title>https://github.com/SAP/styleguides</title>
+    <link href="https://github.com/SAP/styleguides" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">This repository provides SAP style guides for coding and coding-related topics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adambard/learnxinyminutes-docs#1743033600</id>
+    <title>https://github.com/adambard/learnxinyminutes-docs</title>
+    <link href="https://github.com/adambard/learnxinyminutes-docs" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Code documentation written as code! How novel and totally my idea!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexandresanlim/Badges4-README.md-Profile#1743033600</id>
+    <title>https://github.com/alexandresanlim/Badges4-README.md-Profile</title>
+    <link href="https://github.com/alexandresanlim/Badges4-README.md-Profile" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Improve your README.md profile with these amazing badges.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codecrafters-io/build-your-own-x#1743033600</id>
+    <title>https://github.com/codecrafters-io/build-your-own-x</title>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Master programming by recreating your favorite technologies from scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/ethereum-org-website#1743033600</id>
+    <title>https://github.com/ethereum/ethereum-org-website</title>
+    <link href="https://github.com/ethereum/ethereum-org-website" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Ethereum.org is a primary online resource for the Ethereum community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaywcjlove/linux-command#1743033600</id>
+    <title>https://github.com/jaywcjlove/linux-command</title>
+    <link href="https://github.com/jaywcjlove/linux-command" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labuladong/fucking-algorithm#1743033600</id>
+    <title>https://github.com/labuladong/fucking-algorithm</title>
+    <link href="https://github.com/labuladong/fucking-algorithm" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mdn/content#1743033600</id>
+    <title>https://github.com/mdn/content</title>
+    <link href="https://github.com/mdn/content" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The content behind MDN Web Docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-docs#1743033600</id>
+    <title>https://github.com/microsoft/vscode-docs</title>
+    <link href="https://github.com/microsoft/vscode-docs" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Public documentation for Visual Studio Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ppy/osu-wiki#1743033600</id>
+    <title>https://github.com/ppy/osu-wiki</title>
+    <link href="https://github.com/ppy/osu-wiki" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">home of the osu! wiki</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift-evolution#1743033600</id>
+    <title>https://github.com/swiftlang/swift-evolution</title>
+    <link href="https://github.com/swiftlang/swift-evolution" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tldr-pages/tldr#1743033600</id>
+    <title>https://github.com/tldr-pages/tldr</title>
+    <link href="https://github.com/tldr-pages/tldr" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">📚 Collaborative cheatsheets for console commands</content>
+  </entry>
+</feed>
