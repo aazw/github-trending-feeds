@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/weekly.atom</id>
+  <title>GitHub Trending - ruby (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Freika/dawarich#1742774400</id>
+    <title>https://github.com/Freika/dawarich</title>
+    <link href="https://github.com/Freika/dawarich" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Self-hostable alternative to Google Location History (Google Maps Timeline)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/brew#1742774400</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SAML-Toolkits/ruby-saml#1742774400</id>
+    <title>https://github.com/SAML-Toolkits/ruby-saml</title>
+    <link href="https://github.com/SAML-Toolkits/ruby-saml" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">SAML SSO for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1742774400</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexrudall/ruby-openai#1742774400</id>
+    <title>https://github.com/alexrudall/ruby-openai</title>
+    <link href="https://github.com/alexrudall/ruby-openai" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1742774400</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/citation-style-language/styles#1742774400</id>
+    <title>https://github.com/citation-style-language/styles</title>
+    <link href="https://github.com/citation-style-language/styles" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Official repository for Citation Style Language (CSL) citation styles.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1742774400</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluentd#1742774400</id>
+    <title>https://github.com/fluent/fluentd</title>
+    <link href="https://github.com/fluent/fluentd" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freeCodeCamp/devdocs#1742774400</id>
+    <title>https://github.com/freeCodeCamp/devdocs</title>
+    <link href="https://github.com/freeCodeCamp/devdocs" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">API Documentation Browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-linguist/linguist#1742774400</id>
+    <title>https://github.com/github-linguist/linguist</title>
+    <link href="https://github.com/github-linguist/linguist" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/explore#1742774400</id>
+    <title>https://github.com/github/explore</title>
+    <link href="https://github.com/github/explore" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Community-curated topic and collection pages on GitHub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huginn/huginn#1742774400</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kilimchoi/engineering-blogs#1742774400</id>
+    <title>https://github.com/kilimchoi/engineering-blogs</title>
+    <link href="https://github.com/kilimchoi/engineering-blogs" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A curated list of engineering blogs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1742774400</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prawnpdf/prawn#1742774400</id>
+    <title>https://github.com/prawnpdf/prawn</title>
+    <link href="https://github.com/prawnpdf/prawn" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Fast, Nimble PDF Writer for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rails/rails#1742774400</id>
+    <title>https://github.com/rails/rails</title>
+    <link href="https://github.com/rails/rails" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Ruby on Rails</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1742774400</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rswag/rswag#1742774400</id>
+    <title>https://github.com/rswag/rswag</title>
+    <link href="https://github.com/rswag/rswag" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Seamlessly adds a Swagger to Rails-based API's</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidekiq/sidekiq#1742774400</id>
+    <title>https://github.com/sidekiq/sidekiq</title>
+    <link href="https://github.com/sidekiq/sidekiq" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Simple, efficient background processing for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teamcapybara/capybara#1742774400</id>
+    <title>https://github.com/teamcapybara/capybara</title>
+    <link href="https://github.com/teamcapybara/capybara" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Acceptance test framework for web applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wpscanteam/wpscan#1742774400</id>
+    <title>https://github.com/wpscanteam/wpscan</title>
+    <link href="https://github.com/wpscanteam/wpscan" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com</content>
+  </entry>
+</feed>

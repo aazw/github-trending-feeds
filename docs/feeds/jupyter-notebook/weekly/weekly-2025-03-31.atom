@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/weekly.atom</id>
+  <title>GitHub Trending - jupyter-notebook (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1741564800</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/anthropic-cookbook#1741564800</id>
+    <title>https://github.com/anthropics/anthropic-cookbook</title>
+    <link href="https://github.com/anthropics/anthropic-cookbook" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evidentlyai/evidently#1741564800</id>
+    <title>https://github.com/evidentlyai/evidently</title>
+    <link href="https://github.com/evidentlyai/evidently" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fivethirtyeight/data#1741564800</id>
+    <title>https://github.com/fivethirtyeight/data</title>
+    <link href="https://github.com/fivethirtyeight/data" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Data and code behind the articles and graphics at FiveThirtyEight</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackfrued/Python-100-Days#1741564800</id>
+    <title>https://github.com/jackfrued/Python-100-Days</title>
+    <link href="https://github.com/jackfrued/Python-100-Days" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Python - 100天从新手到大师</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1741564800</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/AI-For-Beginners#1741564800</id>
+    <title>https://github.com/microsoft/AI-For-Beginners</title>
+    <link href="https://github.com/microsoft/AI-For-Beginners" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">12 Weeks, 24 Lessons, AI for All!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PhiCookBook#1741564800</id>
+    <title>https://github.com/microsoft/PhiCookBook</title>
+    <link href="https://github.com/microsoft/PhiCookBook" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mistralai/cookbook#1741564800</id>
+    <title>https://github.com/mistralai/cookbook</title>
+    <link href="https://github.com/mistralai/cookbook" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/nlp-with-transformers/notebooks#1741564800</id>
+    <title>https://github.com/nlp-with-transformers/notebooks</title>
+    <link href="https://github.com/nlp-with-transformers/notebooks" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Jupyter notebooks for the Natural Language Processing with Transformers book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/panaversity/learn-agentic-ai#1741564800</id>
+    <title>https://github.com/panaversity/learn-agentic-ai</title>
+    <link href="https://github.com/panaversity/learn-agentic-ai" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Learn Agentic AI using Autogen, CrewAI, LangGraph, and Knowledge Graphs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patchy631/ai-engineering-hub#1741564800</id>
+    <title>https://github.com/patchy631/ai-engineering-hub</title>
+    <link href="https://github.com/patchy631/ai-engineering-hub" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/pathwaycom/llm-app#1741564800</id>
+    <title>https://github.com/pathwaycom/llm-app</title>
+    <link href="https://github.com/pathwaycom/llm-app" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shap/shap#1741564800</id>
+    <title>https://github.com/shap/shap</title>
+    <link href="https://github.com/shap/shap" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A game theoretic approach to explain the output of any machine learning model.</content>
+  </entry>
+</feed>
