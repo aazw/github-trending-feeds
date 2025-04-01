@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/monthly.atom</id>
+  <title>GitHub Trending - jupyter-notebook (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinRL#1740787200</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRL</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRL" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">FinRL: Financial Reinforcement Learning. 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1740787200</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen2.5-VL#1740787200</id>
+    <title>https://github.com/QwenLM/Qwen2.5-VL</title>
+    <link href="https://github.com/QwenLM/Qwen2.5-VL" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml3#1740787200</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aimacode/aima-python#1740787200</id>
+    <title>https://github.com/aimacode/aima-python</title>
+    <link href="https://github.com/aimacode/aima-python" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphacep/vosk-api#1740787200</id>
+    <title>https://github.com/alphacep/vosk-api</title>
+    <link href="https://github.com/alphacep/vosk-api" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/courses#1740787200</id>
+    <title>https://github.com/anthropics/courses</title>
+    <link href="https://github.com/anthropics/courses" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Anthropic's educational courses</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/easy-rl#1740787200</id>
+    <title>https://github.com/datawhalechina/easy-rl</title>
+    <link href="https://github.com/datawhalechina/easy-rl" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-cookbook#1740787200</id>
+    <title>https://github.com/datawhalechina/llm-cookbook</title>
+    <link href="https://github.com/datawhalechina/llm-cookbook" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-universe#1740787200</id>
+    <title>https://github.com/datawhalechina/llm-universe</title>
+    <link href="https://github.com/datawhalechina/llm-universe" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1740787200</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ed-donner/llm_engineering#1740787200</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastai/fastbook#1740787200</id>
+    <title>https://github.com/fastai/fastbook</title>
+    <link href="https://github.com/fastai/fastbook" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">The fastai book, published as Jupyter Notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1740787200</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/open_deep_research#1740787200</id>
+    <title>https://github.com/langchain-ai/open_deep_research</title>
+    <link href="https://github.com/langchain-ai/open_deep_research" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/AI-For-Beginners#1740787200</id>
+    <title>https://github.com/microsoft/AI-For-Beginners</title>
+    <link href="https://github.com/microsoft/AI-For-Beginners" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">12 Weeks, 24 Lessons, AI for All!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/OmniParser#1740787200</id>
+    <title>https://github.com/microsoft/OmniParser</title>
+    <link href="https://github.com/microsoft/OmniParser" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A simple screen parsing tool towards pure vision based GUI agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neo4j-labs/llm-graph-builder#1740787200</id>
+    <title>https://github.com/neo4j-labs/llm-graph-builder</title>
+    <link href="https://github.com/neo4j-labs/llm-graph-builder" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Neo4j graph construction from unstructured data using LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roboflow/notebooks#1740787200</id>
+    <title>https://github.com/roboflow/notebooks</title>
+    <link href="https://github.com/roboflow/notebooks" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/suno-ai/bark#1740787200</id>
+    <title>https://github.com/suno-ai/bark</title>
+    <link href="https://github.com/suno-ai/bark" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">🔊 Text-Prompted Generative Audio Model</content>
+  </entry>
+</feed>

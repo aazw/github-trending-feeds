@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/monthly.atom</id>
+  <title>GitHub Trending - c++ (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/78/xiaozhi-esp32#1740787200</id>
+    <title>https://github.com/78/xiaozhi-esp32</title>
+    <link href="https://github.com/78/xiaozhi-esp32" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Build your own AI friend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ClickHouse/ClickHouse#1740787200</id>
+    <title>https://github.com/ClickHouse/ClickHouse</title>
+    <link href="https://github.com/ClickHouse/ClickHouse" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">ClickHouse® is a real-time analytics database management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LadybirdBrowser/ladybird#1740787200</id>
+    <title>https://github.com/LadybirdBrowser/ladybird</title>
+    <link href="https://github.com/LadybirdBrowser/ladybird" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Truly independent web browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT-LLM#1740787200</id>
+    <title>https://github.com/NVIDIA/TensorRT-LLM</title>
+    <link href="https://github.com/NVIDIA/TensorRT-LLM" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cutlass#1740787200</id>
+    <title>https://github.com/NVIDIA/cutlass</title>
+    <link href="https://github.com/NVIDIA/cutlass" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">CUDA Templates for Linear Algebra Subroutines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nccl#1740787200</id>
+    <title>https://github.com/NVIDIA/nccl</title>
+    <link href="https://github.com/NVIDIA/nccl" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Optimized primitives for collective multi-GPU communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ValveSoftware/source-sdk-2013#1740787200</id>
+    <title>https://github.com/ValveSoftware/source-sdk-2013</title>
+    <link href="https://github.com/ValveSoftware/source-sdk-2013" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">The 2013 edition of the Source SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/MNN#1740787200</id>
+    <title>https://github.com/alibaba/MNN</title>
+    <link href="https://github.com/alibaba/MNN" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ashishps1/awesome-low-level-design#1740787200</id>
+    <title>https://github.com/ashishps1/awesome-low-level-design</title>
+    <link href="https://github.com/ashishps1/awesome-low-level-design" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Learn Low Level Design (LLD) and prepare for interviews using free resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electron/electron#1740787200</id>
+    <title>https://github.com/electron/electron</title>
+    <link href="https://github.com/electron/electron" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Build cross-platform desktop apps with JavaScript, HTML, and CSS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/whisper.cpp#1740787200</id>
+    <title>https://github.com/ggerganov/whisper.cpp</title>
+    <link href="https://github.com/ggerganov/whisper.cpp" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Port of OpenAI's Whisper model in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/ggml#1740787200</id>
+    <title>https://github.com/ggml-org/ggml</title>
+    <link href="https://github.com/ggml-org/ggml" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Tensor library for machine learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.cpp#1740787200</id>
+    <title>https://github.com/ggml-org/llama.cpp</title>
+    <link href="https://github.com/ggml-org/llama.cpp" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">LLM inference in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot#1740787200</id>
+    <title>https://github.com/godotengine/godot</title>
+    <link href="https://github.com/godotengine/godot" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Godot Engine – Multi-platform 2D and 3D game engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc#1740787200</id>
+    <title>https://github.com/grpc/grpc</title>
+    <link href="https://github.com/grpc/grpc" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jomjol/AI-on-the-edge-device#1740787200</id>
+    <title>https://github.com/jomjol/AI-on-the-edge-device</title>
+    <link href="https://github.com/jomjol/AI-on-the-edge-device" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k2-fsa/sherpa-onnx#1740787200</id>
+    <title>https://github.com/k2-fsa/sherpa-onnx</title>
+    <link href="https://github.com/k2-fsa/sherpa-onnx" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meshtastic/firmware#1740787200</id>
+    <title>https://github.com/meshtastic/firmware</title>
+    <link href="https://github.com/meshtastic/firmware" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/onnxruntime#1740787200</id>
+    <title>https://github.com/microsoft/onnxruntime</title>
+    <link href="https://github.com/microsoft/onnxruntime" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/terminal#1740787200</id>
+    <title>https://github.com/microsoft/terminal</title>
+    <link href="https://github.com/microsoft/terminal" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">The new Windows Terminal and the original Windows console host, all in the same place!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nomic-ai/gpt4all#1740787200</id>
+    <title>https://github.com/nomic-ai/gpt4all</title>
+    <link href="https://github.com/nomic-ai/gpt4all" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zhongyang219/TrafficMonitor#1740787200</id>
+    <title>https://github.com/zhongyang219/TrafficMonitor</title>
+    <link href="https://github.com/zhongyang219/TrafficMonitor" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</content>
+  </entry>
+</feed>
