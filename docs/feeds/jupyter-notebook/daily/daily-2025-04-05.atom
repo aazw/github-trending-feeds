@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1743724800</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MervinPraison/PraisonAI#1743724800</id>
+    <title>https://github.com/MervinPraison/PraisonAI</title>
+    <link href="https://github.com/MervinPraison/PraisonAI" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp#1743724800</id>
+    <title>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</title>
+    <link href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Course Files for Complete Python 3 Bootcamp Course on Udemy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tanu-N-Prabhu/Python#1743724800</id>
+    <title>https://github.com/Tanu-N-Prabhu/Python</title>
+    <link href="https://github.com/Tanu-N-Prabhu/Python" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">This repository helps you understand python from the scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WongKinYiu/yolov7#1743724800</id>
+    <title>https://github.com/WongKinYiu/yolov7</title>
+    <link href="https://github.com/WongKinYiu/yolov7" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml2#1743724800</id>
+    <title>https://github.com/ageron/handson-ml2</title>
+    <link href="https://github.com/ageron/handson-ml2" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/anthropic-cookbook#1743724800</id>
+    <title>https://github.com/anthropics/anthropic-cookbook</title>
+    <link href="https://github.com/anthropics/anthropic-cookbook" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/courses#1743724800</id>
+    <title>https://github.com/anthropics/courses</title>
+    <link href="https://github.com/anthropics/courses" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Anthropic's educational courses</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/prompt-eng-interactive-tutorial#1743724800</id>
+    <title>https://github.com/anthropics/prompt-eng-interactive-tutorial</title>
+    <link href="https://github.com/anthropics/prompt-eng-interactive-tutorial" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Anthropic's Interactive Prompt Engineering Tutorial</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-sagemaker-examples#1743724800</id>
+    <title>https://github.com/aws/amazon-sagemaker-examples</title>
+    <link href="https://github.com/aws/amazon-sagemaker-examples" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chiphuyen/aie-book#1743724800</id>
+    <title>https://github.com/chiphuyen/aie-book</title>
+    <link href="https://github.com/chiphuyen/aie-book" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1743724800</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1743724800</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/ai-agents-for-beginners#1743724800</id>
+    <title>https://github.com/microsoft/ai-agents-for-beginners</title>
+    <link href="https://github.com/microsoft/ai-agents-for-beginners" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">10 Lessons to Get Started Building AI Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pyannote/pyannote-audio#1743724800</id>
+    <title>https://github.com/pyannote/pyannote-audio</title>
+    <link href="https://github.com/pyannote/pyannote-audio" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shap/shap#1743724800</id>
+    <title>https://github.com/shap/shap</title>
+    <link href="https://github.com/shap/shap" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A game theoretic approach to explain the output of any machine learning model.</content>
+  </entry>
+</feed>
