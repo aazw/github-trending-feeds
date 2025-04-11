@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/78/xiaozhi-esp32#1744243200</id>
+    <title>https://github.com/78/xiaozhi-esp32</title>
+    <link href="https://github.com/78/xiaozhi-esp32" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Build your own AI friend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT-LLM#1744243200</id>
+    <title>https://github.com/NVIDIA/TensorRT-LLM</title>
+    <link href="https://github.com/NVIDIA/TensorRT-LLM" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TigerVNC/tigervnc#1744243200</id>
+    <title>https://github.com/TigerVNC/tigervnc</title>
+    <link href="https://github.com/TigerVNC/tigervnc" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">High performance, multi-platform VNC client and server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YimMenu/YimMenuV2#1744243200</id>
+    <title>https://github.com/YimMenu/YimMenuV2</title>
+    <link href="https://github.com/YimMenu/YimMenuV2" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Unfinished WIP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow#1744243200</id>
+    <title>https://github.com/apache/arrow</title>
+    <link href="https://github.com/apache/arrow" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/async-profiler/async-profiler#1744243200</id>
+    <title>https://github.com/async-profiler/async-profiler</title>
+    <link href="https://github.com/async-profiler/async-profiler" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catchorg/Catch2#1744243200</id>
+    <title>https://github.com/catchorg/Catch2</title>
+    <link href="https://github.com/catchorg/Catch2" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chriskohlhoff/asio#1744243200</id>
+    <title>https://github.com/chriskohlhoff/asio</title>
+    <link href="https://github.com/chriskohlhoff/asio" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Asio C++ Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electron/electron#1744243200</id>
+    <title>https://github.com/electron/electron</title>
+    <link href="https://github.com/electron/electron" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Build cross-platform desktop apps with JavaScript, HTML, and CSS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/envoy#1744243200</id>
+    <title>https://github.com/envoyproxy/envoy</title>
+    <link href="https://github.com/envoyproxy/envoy" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Cloud-native high-performance edge/middle/service proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react-native#1744243200</id>
+    <title>https://github.com/facebook/react-native</title>
+    <link href="https://github.com/facebook/react-native" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A framework for building native applications using React</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/faiss#1744243200</id>
+    <title>https://github.com/facebookresearch/faiss</title>
+    <link href="https://github.com/facebookresearch/faiss" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A library for efficient similarity search and clustering of dense vectors.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firebase/firebase-ios-sdk#1744243200</id>
+    <title>https://github.com/firebase/firebase-ios-sdk</title>
+    <link href="https://github.com/firebase/firebase-ios-sdk" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Firebase SDK for Apple App Development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.cpp#1744243200</id>
+    <title>https://github.com/ggml-org/llama.cpp</title>
+    <link href="https://github.com/ggml-org/llama.cpp" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">LLM inference in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/onnxruntime-genai#1744243200</id>
+    <title>https://github.com/microsoft/onnxruntime-genai</title>
+    <link href="https://github.com/microsoft/onnxruntime-genai" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Generative AI extensions for onnxruntime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/momo5502/emulator#1744243200</id>
+    <title>https://github.com/momo5502/emulator</title>
+    <link href="https://github.com/momo5502/emulator" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">🪅 Windows User Space Emulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/project-chip/connectedhomeip#1744243200</id>
+    <title>https://github.com/project-chip/connectedhomeip</title>
+    <link href="https://github.com/project-chip/connectedhomeip" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protocolbuffers/protobuf#1744243200</id>
+    <title>https://github.com/protocolbuffers/protobuf</title>
+    <link href="https://github.com/protocolbuffers/protobuf" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Protocol Buffers - Google's data interchange format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pybind/pybind11#1744243200</id>
+    <title>https://github.com/pybind/pybind11</title>
+    <link href="https://github.com/pybind/pybind11" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Seamless operability between C++11 and Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-navigation/navigation2#1744243200</id>
+    <title>https://github.com/ros-navigation/navigation2</title>
+    <link href="https://github.com/ros-navigation/navigation2" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">ROS 2 Navigation Framework and System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift#1744243200</id>
+    <title>https://github.com/swiftlang/swift</title>
+    <link href="https://github.com/swiftlang/swift" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The Swift Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tesseract-ocr/tesseract#1744243200</id>
+    <title>https://github.com/tesseract-ocr/tesseract</title>
+    <link href="https://github.com/tesseract-ocr/tesseract" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Tesseract Open Source OCR Engine (main repository)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xtensor-stack/xtensor#1744243200</id>
+    <title>https://github.com/xtensor-stack/xtensor</title>
+    <link href="https://github.com/xtensor-stack/xtensor" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">C++ tensors with broadcasting and lazy computing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yhirose/cpp-httplib#1744243200</id>
+    <title>https://github.com/yhirose/cpp-httplib</title>
+    <link href="https://github.com/yhirose/cpp-httplib" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A C++ header-only HTTP/HTTPS server and client library</content>
+  </entry>
+</feed>
