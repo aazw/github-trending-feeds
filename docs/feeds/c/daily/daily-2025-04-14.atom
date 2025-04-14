@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/86Box/86Box#1744502400</id>
+    <title>https://github.com/86Box/86Box</title>
+    <link href="https://github.com/86Box/86Box" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Emulator of x86-based machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BasedHardware/omi#1744502400</id>
+    <title>https://github.com/BasedHardware/omi</title>
+    <link href="https://github.com/BasedHardware/omi" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">AI wearables. Put it on, speak, transcribe, automatically</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Genymobile/scrcpy#1744502400</id>
+    <title>https://github.com/Genymobile/scrcpy</title>
+    <link href="https://github.com/Genymobile/scrcpy" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Display and control your Android device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GuijiAI/HeyGem.ai#1744502400</id>
+    <title>https://github.com/GuijiAI/HeyGem.ai</title>
+    <link href="https://github.com/GuijiAI/HeyGem.ai" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Klipper3d/klipper#1744502400</id>
+    <title>https://github.com/Klipper3d/klipper</title>
+    <link href="https://github.com/Klipper3d/klipper" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Klipper is a 3d-printer firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bol-van/zapret#1744502400</id>
+    <title>https://github.com/bol-van/zapret</title>
+    <link href="https://github.com/bol-van/zapret" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">DPI bypass multi platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-idf#1744502400</id>
+    <title>https://github.com/espressif/esp-idf</title>
+    <link href="https://github.com/espressif/esp-idf" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/git/git#1744502400</id>
+    <title>https://github.com/git/git</title>
+    <link href="https://github.com/git/git" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libretro/RetroArch#1744502400</id>
+    <title>https://github.com/libretro/RetroArch</title>
+    <link href="https://github.com/libretro/RetroArch" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libsdl-org/SDL#1744502400</id>
+    <title>https://github.com/libsdl-org/SDL</title>
+    <link href="https://github.com/libsdl-org/SDL" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Simple Directmedia Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libuv/libuv#1744502400</id>
+    <title>https://github.com/libuv/libuv</title>
+    <link href="https://github.com/libuv/libuv" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Cross-platform asynchronous I/O</content>
+  </entry>
+  <entry>
+    <id>https://github.com/madler/zlib#1744502400</id>
+    <title>https://github.com/madler/zlib</title>
+    <link href="https://github.com/madler/zlib" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">A massively spiffy yet delicately unobtrusive compression library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mgba-emu/mgba#1744502400</id>
+    <title>https://github.com/mgba-emu/mgba</title>
+    <link href="https://github.com/mgba-emu/mgba" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">mGBA Game Boy Advance Emulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mpv-player/mpv#1744502400</id>
+    <title>https://github.com/mpv-player/mpv</title>
+    <link href="https://github.com/mpv-player/mpv" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">🎥 Command line media player</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwall/john#1744502400</id>
+    <title>https://github.com/openwall/john</title>
+    <link href="https://github.com/openwall/john" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pbatard/rufus#1744502400</id>
+    <title>https://github.com/pbatard/rufus</title>
+    <link href="https://github.com/pbatard/rufus" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">The Reliable USB Formatting Utility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pr3y/Bruce#1744502400</id>
+    <title>https://github.com/pr3y/Bruce</title>
+    <link href="https://github.com/pr3y/Bruce" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Predatory ESP32 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raysan5/raylib#1744502400</id>
+    <title>https://github.com/raysan5/raylib</title>
+    <link href="https://github.com/raysan5/raylib" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">A simple and easy-to-use library to enjoy videogames programming</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tsoding/musializer#1744502400</id>
+    <title>https://github.com/tsoding/musializer</title>
+    <link href="https://github.com/tsoding/musializer" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Music Visualizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ventoy/Ventoy#1744502400</id>
+    <title>https://github.com/ventoy/Ventoy</title>
+    <link href="https://github.com/ventoy/Ventoy" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">A new bootable USB solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zmkfirmware/zmk#1744502400</id>
+    <title>https://github.com/zmkfirmware/zmk</title>
+    <link href="https://github.com/zmkfirmware/zmk" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">ZMK Firmware Repository</content>
+  </entry>
+</feed>
