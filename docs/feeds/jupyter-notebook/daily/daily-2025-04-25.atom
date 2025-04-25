@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/Cosmos#1745366400</id>
+    <title>https://github.com/NVIDIA/Cosmos</title>
+    <link href="https://github.com/NVIDIA/Cosmos" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SakanaAI/AI-Scientist#1745366400</id>
+    <title>https://github.com/SakanaAI/AI-Scientist</title>
+    <link href="https://github.com/SakanaAI/AI-Scientist" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aburkov/theLMbook#1745366400</id>
+    <title>https://github.com/aburkov/theLMbook</title>
+    <link href="https://github.com/aburkov/theLMbook" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">This is the official repository for The Hundred-Page Language Models Book by Andriy Burkov</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alirezadir/Machine-Learning-Interviews#1745366400</id>
+    <title>https://github.com/alirezadir/Machine-Learning-Interviews</title>
+    <link href="https://github.com/alirezadir/Machine-Learning-Interviews" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">This repo is meant to serve as a guide for Machine Learning/AI technical interviews.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/anthropic-cookbook#1745366400</id>
+    <title>https://github.com/anthropics/anthropic-cookbook</title>
+    <link href="https://github.com/anthropics/anthropic-cookbook" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/courses#1745366400</id>
+    <title>https://github.com/anthropics/courses</title>
+    <link href="https://github.com/anthropics/courses" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Anthropic's educational courses</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/prompt-eng-interactive-tutorial#1745366400</id>
+    <title>https://github.com/anthropics/prompt-eng-interactive-tutorial</title>
+    <link href="https://github.com/anthropics/prompt-eng-interactive-tutorial" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Anthropic's Interactive Prompt Engineering Tutorial</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/amazon-bedrock-samples#1745366400</id>
+    <title>https://github.com/aws-samples/amazon-bedrock-samples</title>
+    <link href="https://github.com/aws-samples/amazon-bedrock-samples" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/fun-rec#1745366400</id>
+    <title>https://github.com/datawhalechina/fun-rec</title>
+    <link href="https://github.com/datawhalechina/fun-rec" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/gemma-cookbook#1745366400</id>
+    <title>https://github.com/google-gemini/gemma-cookbook</title>
+    <link href="https://github.com/google-gemini/gemma-cookbook" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A collection of guides and examples for the Gemma open models from Google.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-research/google-research#1745366400</id>
+    <title>https://github.com/google-research/google-research</title>
+    <link href="https://github.com/google-research/google-research" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Google Research</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/diffusion-models-class#1745366400</id>
+    <title>https://github.com/huggingface/diffusion-models-class</title>
+    <link href="https://github.com/huggingface/diffusion-models-class" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Materials for the Hugging Face Diffusion Models Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackfrued/Python-100-Days#1745366400</id>
+    <title>https://github.com/jackfrued/Python-100-Days</title>
+    <link href="https://github.com/jackfrued/Python-100-Days" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Python - 100天从新手到大师</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/ai-agents-for-beginners#1745366400</id>
+    <title>https://github.com/microsoft/ai-agents-for-beginners</title>
+    <link href="https://github.com/microsoft/ai-agents-for-beginners" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">10 Lessons to Get Started Building AI Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/generative-ai-for-beginners#1745366400</id>
+    <title>https://github.com/microsoft/generative-ai-for-beginners</title>
+    <link href="https://github.com/microsoft/generative-ai-for-beginners" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python#1745366400</id>
+    <title>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</title>
+    <link href="https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/topoteretes/cognee#1745366400</id>
+    <title>https://github.com/topoteretes/cognee</title>
+    <link href="https://github.com/topoteretes/cognee" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Memory for AI Agents in 5 lines of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vandijklab/cell2sentence#1745366400</id>
+    <title>https://github.com/vandijklab/cell2sentence</title>
+    <link href="https://github.com/vandijklab/cell2sentence" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Cell2Sentence: Teaching Large Language Models the Language of Biology</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/aibrix#1745366400</id>
+    <title>https://github.com/vllm-project/aibrix</title>
+    <link href="https://github.com/vllm-project/aibrix" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Cost-efficient and pluggable Infrastructure components for GenAI inference</content>
+  </entry>
+</feed>
