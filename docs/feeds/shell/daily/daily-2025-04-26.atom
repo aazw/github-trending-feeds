@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/VSCodium/vscodium#1745539200</id>
+    <title>https://github.com/VSCodium/vscodium</title>
+    <link href="https://github.com/VSCodium/vscodium" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">binary releases of VS Code without MS branding/telemetry/licensing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-install#1745539200</id>
+    <title>https://github.com/XTLS/Xray-install</title>
+    <link href="https://github.com/XTLS/Xray-install" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Easiest way to install &amp; upgrade Xray</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aaddrick/claude-desktop-debian#1745539200</id>
+    <title>https://github.com/aaddrick/claude-desktop-debian</title>
+    <link href="https://github.com/aaddrick/claude-desktop-debian" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Claude Desktop for Debian-based Linux distributions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonbabenko/pre-commit-terraform#1745539200</id>
+    <title>https://github.com/antonbabenko/pre-commit-terraform</title>
+    <link href="https://github.com/antonbabenko/pre-commit-terraform" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">pre-commit git hooks to take care of Terraform configurations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awesome-jellyfin/awesome-jellyfin#1745539200</id>
+    <title>https://github.com/awesome-jellyfin/awesome-jellyfin</title>
+    <link href="https://github.com/awesome-jellyfin/awesome-jellyfin" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-mwaa-local-runner#1745539200</id>
+    <title>https://github.com/aws/aws-mwaa-local-runner</title>
+    <link href="https://github.com/aws/aws-mwaa-local-runner" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1745539200</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1745539200</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker-mailserver/docker-mailserver#1745539200</id>
+    <title>https://github.com/docker-mailserver/docker-mailserver</title>
+    <link href="https://github.com/docker-mailserver/docker-mailserver" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/self-hosted#1745539200</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/docker-otel-lgtm#1745539200</id>
+    <title>https://github.com/grafana/docker-otel-lgtm</title>
+    <link href="https://github.com/grafana/docker-otel-lgtm" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">OpenTelemetry backend in a Docker image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nelvko/clash-for-linux-install#1745539200</id>
+    <title>https://github.com/nelvko/clash-for-linux-install</title>
+    <link href="https://github.com/nelvko/clash-for-linux-install" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">😼 优雅地部署、使用基于 clash/mihomo 的代理环境</content>
+  </entry>
+  <entry>
+    <id>https://github.com/npryce/adr-tools#1745539200</id>
+    <title>https://github.com/npryce/adr-tools</title>
+    <link href="https://github.com/npryce/adr-tools" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Command-line tools for working with Architecture Decision Records</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1745539200</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/public#1745539200</id>
+    <title>https://github.com/openconfig/public</title>
+    <link href="https://github.com/openconfig/public" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Repository for publishing OpenConfig models, documentation, and other material for the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1745539200</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rbenv/rbenv#1745539200</id>
+    <title>https://github.com/rbenv/rbenv</title>
+    <link href="https://github.com/rbenv/rbenv" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Manage your app's Ruby environment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/super-linter/super-linter#1745539200</id>
+    <title>https://github.com/super-linter/super-linter</title>
+    <link href="https://github.com/super-linter/super-linter" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Combination of multiple linters to run as a GitHub Action or standalone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1745539200</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/winapps-org/winapps#1745539200</id>
+    <title>https://github.com/winapps-org/winapps</title>
+    <link href="https://github.com/winapps-org/winapps" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/</content>
+  </entry>
+</feed>
