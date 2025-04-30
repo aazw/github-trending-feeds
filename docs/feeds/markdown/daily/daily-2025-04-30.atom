@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom</id>
+  <title>GitHub Trending - markdown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/codecrafters-io/build-your-own-x#1745884800</id>
+    <title>https://github.com/codecrafters-io/build-your-own-x</title>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Master programming by recreating your favorite technologies from scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/ethereum-org-website#1745884800</id>
+    <title>https://github.com/ethereum/ethereum-org-website</title>
+    <link href="https://github.com/ethereum/ethereum-org-website" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Ethereum.org is a primary online resource for the Ethereum community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-docs#1745884800</id>
+    <title>https://github.com/microsoft/vscode-docs</title>
+    <link href="https://github.com/microsoft/vscode-docs" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Public documentation for Visual Studio Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satoshilabs/slips#1745884800</id>
+    <title>https://github.com/satoshilabs/slips</title>
+    <link href="https://github.com/satoshilabs/slips" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">SatoshiLabs Improvement Proposals</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tldr-pages/tldr#1745884800</id>
+    <title>https://github.com/tldr-pages/tldr</title>
+    <link href="https://github.com/tldr-pages/tldr" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">📚 Collaborative cheatsheets for console commands</content>
+  </entry>
+</feed>
