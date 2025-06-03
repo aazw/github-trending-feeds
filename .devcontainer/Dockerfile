@@ -26,7 +26,7 @@ ARG NPM_RENOVATE_VERSION=40.40.1
 
 # for pip tools
 ARG PIP_PIP_VERSION=25.1.1
-ARG PIP_UV_VERSION=0.7.9
+ARG PIP_UV_VERSION=0.7.10
 
 # ##########################################################################################
 # builder images
