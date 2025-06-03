@@ -79,6 +79,10 @@
     {
       "matchFileNames": [".github/workflows/*.yaml"],
       "groupName": "githubactions"
+    },
+    {
+      "matchFileNames": ["requirements.txt"],
+      "groupName": "python"
     }
   ]
 }
