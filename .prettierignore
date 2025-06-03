@@ -1,2 +1,4 @@
 *.md
 **/*.md
+docs
+docs/*
