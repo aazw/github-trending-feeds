@@ -6,7 +6,7 @@
 # 14 (Forky)
 
 # for main image
-ARG DOCKER_PYTHON_VERSION=3.13.3-bookworm
+ARG DOCKER_PYTHON_VERSION=3.13.4-bookworm
 
 # for builder images
 ARG DOCKER_GO_VERSION=1.24.3-bookworm
@@ -22,11 +22,11 @@ ARG GO_GO_TASK_VERSION=v3.43.3
 
 # for npm tools
 ARG NPM_PRETTIER_VERSION=3.5.3
-ARG NPM_RENOVATE_VERSION=40.40.1
+ARG NPM_RENOVATE_VERSION=40.42.2
 
 # for pip tools
 ARG PIP_PIP_VERSION=25.1.1
-ARG PIP_UV_VERSION=0.7.10
+ARG PIP_UV_VERSION=0.7.11
 
 # ##########################################################################################
 # builder images
