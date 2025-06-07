@@ -1,4 +1,0 @@
-click==8.2.1
-requests==2.32.3
-beautifulsoup4==4.13.4
-dateparser==1.2.1

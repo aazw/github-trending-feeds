@@ -16,7 +16,7 @@ while read language; do
 
 		# 一時的なエラーなどで取得が失敗すると、後続の取得まで全部できなくなるので、ここだけset -eを解除
 		set +e
-		python apps/scrape.py \
+		uv run apps/scrape.py \
 			--language "${language}" \
 			--period "daily" \
 			--atom-updated-date "$(date -I)T00:00:00" \

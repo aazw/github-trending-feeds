@@ -29,18 +29,18 @@ GitHub Actionsで各言語のTrendingの最新情報を取得する.
 ## Use
 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ```bash
-python apps/scrape.py 
+uv run apps/scrape.py 
       --language   go \
       --period daily \
       --output     ./daily.atom
 ```
 
 ```bash
-$ python apps/scrape.py --help
+$ uv run apps/scrape.py --help
 2024-12-26 14:20:01,055 - /workspaces/github-trending-feeds/apps/scrape.py:176 - INFO - start app
 Usage: scrape.py [OPTIONS]
 
@@ -56,7 +56,15 @@ Options:
 ```
 
 ```bash
-$ python apps/scrape.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
+$ uv run apps/scrape.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
+```
+
+```bash
+$ uv run apps/unique_list.py --dir docs --output urls.txt
+```
+
+```bash
+$ uv run apps/new_link.py --atom docs/feeds/go/daily.atom --urls urls.tx
 ```
 
 ## Return Code / Exit Status
