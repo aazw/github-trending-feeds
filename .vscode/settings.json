@@ -44,6 +44,7 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true
   },
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
   "python.analysis.extraPaths": [
     "/venv/lib/python3.11/site-packages/",
     "/workspaces/github-trending-feeds/.venv/lib/python3.13/site-packages/",
