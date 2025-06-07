@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "emeraldwalk.runonsave",
+    "ms-azuretools.vscode-containers",
+    "ms-azuretools.vscode-docker",
+    "ms-python.python",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "tamasfe.even-better-toml"
+  ]
+}

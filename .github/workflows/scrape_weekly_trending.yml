@@ -26,8 +26,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: pip install 
-        run: pip install -r ./requirements.txt
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: install packages
+        run: uv sync
 
       - name: scraping trending
         run: ./scripts/scrape_weekly_trending.sh
@@ -40,7 +43,7 @@ jobs:
             mkdir -p "$(dirname $atom)/weekly"
             cp "${atom}" "$(dirname $atom)/weekly/weekly-${d}.atom"
           done
-          
+
       - name: Create new commit
         run: |
           git config user.name  github-actions
@@ -49,4 +52,3 @@ jobs:
           git add ./docs/feeds/
           git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
           git push
-  
