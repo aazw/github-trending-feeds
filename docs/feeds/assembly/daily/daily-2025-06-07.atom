@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/assembly/daily.atom</id>
+  <title>GitHub Trending - assembly (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/assembly/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BLAKE3-team/BLAKE3#1749168000</id>
+    <title>https://github.com/BLAKE3-team/BLAKE3</title>
+    <link href="https://github.com/BLAKE3-team/BLAKE3" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">the official Rust and C implementations of the BLAKE3 cryptographic hash function</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/MIOpen#1749168000</id>
+    <title>https://github.com/ROCm/MIOpen</title>
+    <link href="https://github.com/ROCm/MIOpen" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">AMD's Machine Intelligence Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/hipBLASLt#1749168000</id>
+    <title>https://github.com/ROCm/hipBLASLt</title>
+    <link href="https://github.com/ROCm/hipBLASLt" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpinalHDL/VexRiscv#1749168000</id>
+    <title>https://github.com/SpinalHDL/VexRiscv</title>
+    <link href="https://github.com/SpinalHDL/VexRiscv" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A FPGA friendly 32 bit RISC-V CPU implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-crypto#1749168000</id>
+    <title>https://github.com/apple/swift-crypto</title>
+    <link href="https://github.com/apple/swift-crypto" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-nio-ssl#1749168000</id>
+    <title>https://github.com/apple/swift-nio-ssl</title>
+    <link href="https://github.com/apple/swift-nio-ssl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">TLS Support for SwiftNIO, based on BoringSSL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/context#1749168000</id>
+    <title>https://github.com/boostorg/context</title>
+    <link href="https://github.com/boostorg/context" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/chrislgarry/Apollo-11#1749168000</id>
+    <title>https://github.com/chrislgarry/Apollo-11</title>
+    <link href="https://github.com/chrislgarry/Apollo-11" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-dl#1749168000</id>
+    <title>https://github.com/espressif/esp-dl</title>
+    <link href="https://github.com/espressif/esp-dl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Espressif deep-learning library for AIoT applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/giaf/blasfeo#1749168000</id>
+    <title>https://github.com/giaf/blasfeo</title>
+    <link href="https://github.com/giaf/blasfeo" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Basic linear algebra subroutines for embedded optimization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leachim6/hello-world#1749168000</id>
+    <title>https://github.com/leachim6/hello-world</title>
+    <link href="https://github.com/leachim6/hello-world" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netwide-assembler/nasm#1749168000</id>
+    <title>https://github.com/netwide-assembler/nasm</title>
+    <link href="https://github.com/netwide-assembler/nasm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A cross-platform x86 assembler with an Intel-like syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cva6#1749168000</id>
+    <title>https://github.com/openhwgroup/cva6</title>
+    <link href="https://github.com/openhwgroup/cva6" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pret/pokecrystal#1749168000</id>
+    <title>https://github.com/pret/pokecrystal</title>
+    <link href="https://github.com/pret/pokecrystal" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Disassembly of Pokémon Crystal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscvarchive/riscv-v-spec#1749168000</id>
+    <title>https://github.com/riscvarchive/riscv-v-spec</title>
+    <link href="https://github.com/riscvarchive/riscv-v-spec" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Working draft of the proposed RISC-V V vector extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vxunderground/MalwareSourceCode#1749168000</id>
+    <title>https://github.com/vxunderground/MalwareSourceCode</title>
+    <link href="https://github.com/vxunderground/MalwareSourceCode" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Collection of malware source code for a variety of platforms in an array of different programming languages.</content>
+  </entry>
+</feed>

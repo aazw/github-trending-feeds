@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom</id>
+  <title>GitHub Trending - xslt (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LOLBAS-Project/LOLBAS#1749168000</id>
+    <title>https://github.com/LOLBAS-Project/LOLBAS</title>
+    <link href="https://github.com/LOLBAS-Project/LOLBAS" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenSCAP/openscap#1749168000</id>
+    <title>https://github.com/OpenSCAP/openscap</title>
+    <link href="https://github.com/OpenSCAP/openscap" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">NIST Certified SCAP 1.2 toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uri-templates/uritemplate-test#1749168000</id>
+    <title>https://github.com/uri-templates/uritemplate-test</title>
+    <link href="https://github.com/uri-templates/uritemplate-test" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Tests for URI Template implementations</content>
+  </entry>
+</feed>

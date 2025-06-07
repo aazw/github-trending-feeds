@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/typespec/daily.atom</id>
+  <title>GitHub Trending - typespec (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/typespec/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-rest-api-specs#1749168000</id>
+    <title>https://github.com/Azure/azure-rest-api-specs</title>
+    <link href="https://github.com/Azure/azure-rest-api-specs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The source for REST API specifications for Microsoft Azure.</content>
+  </entry>
+</feed>

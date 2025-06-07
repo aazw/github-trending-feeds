@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/glsl/daily.atom</id>
+  <title>GitHub Trending - glsl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/glsl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/KhronosGroup/SPIRV-Cross#1749168000</id>
+    <title>https://github.com/KhronosGroup/SPIRV-Cross</title>
+    <link href="https://github.com/KhronosGroup/SPIRV-Cross" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SaschaWillems/Vulkan#1749168000</id>
+    <title>https://github.com/SaschaWillems/Vulkan</title>
+    <link href="https://github.com/SaschaWillems/Vulkan" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">C++ examples for the Vulkan graphics API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cizia64/CrossMix-OS#1749168000</id>
+    <title>https://github.com/cizia64/CrossMix-OS</title>
+    <link href="https://github.com/cizia64/CrossMix-OS" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Enhanced OS for the TrimUI Smart Pro</content>
+  </entry>
+</feed>

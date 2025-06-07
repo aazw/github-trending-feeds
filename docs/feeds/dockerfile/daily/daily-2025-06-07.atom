@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Anduin2017/HowToCook#1749168000</id>
+    <title>https://github.com/Anduin2017/HowToCook</title>
+    <link href="https://github.com/Anduin2017/HowToCook" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/windows-powershell-docs#1749168000</id>
+    <title>https://github.com/MicrosoftDocs/windows-powershell-docs</title>
+    <link href="https://github.com/MicrosoftDocs/windows-powershell-docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1749168000</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware#1749168000</id>
+    <title>https://github.com/autowarefoundation/autoware</title>
+    <link href="https://github.com/autowarefoundation/autoware" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/symfony-docker#1749168000</id>
+    <title>https://github.com/dunglas/symfony-docker</title>
+    <link href="https://github.com/dunglas/symfony-docker" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goldbergyoni/nodebestpractices#1749168000</id>
+    <title>https://github.com/goldbergyoni/nodebestpractices</title>
+    <link href="https://github.com/goldbergyoni/nodebestpractices" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">✅ The Node.js best practices list (July 2024)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1749168000</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k8s-operatorhub/community-operators#1749168000</id>
+    <title>https://github.com/k8s-operatorhub/community-operators</title>
+    <link href="https://github.com/k8s-operatorhub/community-operators" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock#1749168000</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-remote-release#1749168000</id>
+    <title>https://github.com/microsoft/vscode-remote-release</title>
+    <link href="https://github.com/microsoft/vscode-remote-release" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1749168000</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/piyushsachdeva/CKA-2024#1749168000</id>
+    <title>https://github.com/piyushsachdeva/CKA-2024</title>
+    <link href="https://github.com/piyushsachdeva/CKA-2024" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/postgis/docker-postgis#1749168000</id>
+    <title>https://github.com/postgis/docker-postgis</title>
+    <link href="https://github.com/postgis/docker-postgis" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Docker image for PostGIS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub#1749168000</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+</feed>

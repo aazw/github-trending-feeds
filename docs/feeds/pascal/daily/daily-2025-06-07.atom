@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom</id>
+  <title>GitHub Trending - pascal (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HeidiSQL/HeidiSQL#1749168000</id>
+    <title>https://github.com/HeidiSQL/HeidiSQL</title>
+    <link href="https://github.com/HeidiSQL/HeidiSQL" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Runixe786/MD3-Windows#1749168000</id>
+    <title>https://github.com/Runixe786/MD3-Windows</title>
+    <link href="https://github.com/Runixe786/MD3-Windows" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Material you widgets for your windows desktop, adaptable with wallpaper colors with both light &amp; dark modes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danieleteti/delphimvcframework#1749168000</id>
+    <title>https://github.com/danieleteti/delphimvcframework</title>
+    <link href="https://github.com/danieleteti/delphimvcframework" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">DMVCFramework (for short) is a popular and powerful framework for WEB API in Delphi. Supports RESTful and JSON-RPC WEB APIs development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrsoftware/issrc#1749168000</id>
+    <title>https://github.com/jrsoftware/issrc</title>
+    <link href="https://github.com/jrsoftware/issrc" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stascorp/rdpwrap#1749168000</id>
+    <title>https://github.com/stascorp/rdpwrap</title>
+    <link href="https://github.com/stascorp/rdpwrap" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">RDP Wrapper Library</content>
+  </entry>
+</feed>

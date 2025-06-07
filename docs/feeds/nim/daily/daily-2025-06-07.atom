@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom</id>
+  <title>GitHub Trending - nim (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nim-lang/Nim#1749168000</id>
+    <title>https://github.com/nim-lang/Nim</title>
+    <link href="https://github.com/nim-lang/Nim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/nimble#1749168000</id>
+    <title>https://github.com/nim-lang/nimble</title>
+    <link href="https://github.com/nim-lang/nimble" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Package manager for the Nim programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zedeus/nitter#1749168000</id>
+    <title>https://github.com/zedeus/nitter</title>
+    <link href="https://github.com/zedeus/nitter" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Alternative Twitter front-end</content>
+  </entry>
+</feed>

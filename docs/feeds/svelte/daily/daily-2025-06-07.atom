@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/svelte/daily.atom</id>
+  <title>GitHub Trending - svelte (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/svelte/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CriticalMoments/CMSaasStarter#1749168000</id>
+    <title>https://github.com/CriticalMoments/CMSaasStarter</title>
+    <link href="https://github.com/CriticalMoments/CMSaasStarter" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Figma-Linux/figma-linux#1749168000</id>
+    <title>https://github.com/Figma-Linux/figma-linux</title>
+    <link href="https://github.com/Figma-Linux/figma-linux" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoodiesHQ/headscale-admin#1749168000</id>
+    <title>https://github.com/GoodiesHQ/headscale-admin</title>
+    <link href="https://github.com/GoodiesHQ/headscale-admin" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Admin Web Interface for juanfont/headscale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RockinChaos/Shiru#1749168000</id>
+    <title>https://github.com/RockinChaos/Shiru</title>
+    <link href="https://github.com/RockinChaos/Shiru" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SikandarJODD/svelte-animations#1749168000</id>
+    <title>https://github.com/SikandarJODD/svelte-animations</title>
+    <link href="https://github.com/SikandarJODD/svelte-animations" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS &amp; Framer Motion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huntabyte/shadcn-svelte#1749168000</id>
+    <title>https://github.com/huntabyte/shadcn-svelte</title>
+    <link href="https://github.com/huntabyte/shadcn-svelte" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">shadcn/ui, but for Svelte. ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mathesar-foundation/mathesar#1749168000</id>
+    <title>https://github.com/mathesar-foundation/mathesar</title>
+    <link href="https://github.com/mathesar-foundation/mathesar" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pluja/whishper#1749168000</id>
+    <title>https://github.com/pluja/whishper</title>
+    <link href="https://github.com/pluja/whishper" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rajnandan1/kener#1749168000</id>
+    <title>https://github.com/rajnandan1/kener</title>
+    <link href="https://github.com/rajnandan1/kener" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Stunning status pages, batteries included!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/saadeghi/daisyui#1749168000</id>
+    <title>https://github.com/saadeghi/daisyui</title>
+    <link href="https://github.com/saadeghi/daisyui" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stemrollerapp/stemroller#1749168000</id>
+    <title>https://github.com/stemrollerapp/stemroller</title>
+    <link href="https://github.com/stemrollerapp/stemroller" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Isolate vocals, drums, bass, and other instrumental stems from any song</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taikoxyz/taiko-mono#1749168000</id>
+    <title>https://github.com/taikoxyz/taiko-mono</title>
+    <link href="https://github.com/taikoxyz/taiko-mono" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Taiko Alethia based rollup protocol 🥁</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vkurko/calendar#1749168000</id>
+    <title>https://github.com/vkurko/calendar</title>
+    <link href="https://github.com/vkurko/calendar" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views</content>
+  </entry>
+</feed>

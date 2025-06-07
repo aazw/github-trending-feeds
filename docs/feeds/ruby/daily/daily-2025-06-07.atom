@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Homebrew/brew#1749168000</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-core#1749168000</id>
+    <title>https://github.com/Homebrew/homebrew-core</title>
+    <link href="https://github.com/Homebrew/homebrew-core" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🍻 Default formulae for the missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1749168000</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crmne/ruby_llm#1749168000</id>
+    <title>https://github.com/crmne/ruby_llm</title>
+    <link href="https://github.com/crmne/ruby_llm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama &amp; compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming &amp; Rails integration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/department-of-veterans-affairs/vets-api#1749168000</id>
+    <title>https://github.com/department-of-veterans-affairs/vets-api</title>
+    <link href="https://github.com/department-of-veterans-affairs/vets-api" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">API powering VA.gov</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dependabot/dependabot-core#1749168000</id>
+    <title>https://github.com/dependabot/dependabot-core</title>
+    <link href="https://github.com/dependabot/dependabot-core" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🤖 Dependabot's core logic for creating update PRs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1749168000</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/forem/forem#1749168000</id>
+    <title>https://github.com/forem/forem</title>
+    <link href="https://github.com/forem/forem" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">For empowering community 🌱</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heartcombo/devise#1749168000</id>
+    <title>https://github.com/heartcombo/devise</title>
+    <link href="https://github.com/heartcombo/devise" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huginn/huginn#1749168000</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instructure/canvas-lms#1749168000</id>
+    <title>https://github.com/instructure/canvas-lms</title>
+    <link href="https://github.com/instructure/canvas-lms" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The open LMS by Instructure, Inc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kilimchoi/engineering-blogs#1749168000</id>
+    <title>https://github.com/kilimchoi/engineering-blogs</title>
+    <link href="https://github.com/kilimchoi/engineering-blogs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A curated list of engineering blogs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/ruby-sdk#1749168000</id>
+    <title>https://github.com/modelcontextprotocol/ruby-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/ruby-sdk" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1749168000</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pglombardo/PasswordPusher#1749168000</id>
+    <title>https://github.com/pglombardo/PasswordPusher</title>
+    <link href="https://github.com/pglombardo/PasswordPusher" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. Track who, what and when with full audit logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rack/rack#1749168000</id>
+    <title>https://github.com/rack/rack</title>
+    <link href="https://github.com/rack/rack" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A modular Ruby web server interface.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rails/rails#1749168000</id>
+    <title>https://github.com/rails/rails</title>
+    <link href="https://github.com/rails/rails" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Ruby on Rails</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1749168000</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redmine/redmine#1749168000</id>
+    <title>https://github.com/redmine/redmine</title>
+    <link href="https://github.com/redmine/redmine" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/varvet/pundit#1749168000</id>
+    <title>https://github.com/varvet/pundit</title>
+    <link href="https://github.com/varvet/pundit" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Minimal authorization through OO design and pure Ruby classes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zammad/zammad#1749168000</id>
+    <title>https://github.com/zammad/zammad</title>
+    <link href="https://github.com/zammad/zammad" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Zammad is a web based open source helpdesk/customer support system</content>
+  </entry>
+</feed>

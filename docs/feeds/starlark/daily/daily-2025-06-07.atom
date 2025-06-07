@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom</id>
+  <title>GitHub Trending - starlark (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1749168000</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_python#1749168000</id>
+    <title>https://github.com/bazel-contrib/rules_python</title>
+    <link href="https://github.com/bazel-contrib/rules_python" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Bazel Python Rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/toolchains_llvm#1749168000</id>
+    <title>https://github.com/bazel-contrib/toolchains_llvm</title>
+    <link href="https://github.com/bazel-contrib/toolchains_llvm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">LLVM toolchain for bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/apple_support#1749168000</id>
+    <title>https://github.com/bazelbuild/apple_support</title>
+    <link href="https://github.com/bazelbuild/apple_support" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Apple support for Bazel rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-central-registry#1749168000</id>
+    <title>https://github.com/bazelbuild/bazel-central-registry</title>
+    <link href="https://github.com/bazelbuild/bazel-central-registry" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The central registry of Bazel modules for the Bzlmod external dependency system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-skylib#1749168000</id>
+    <title>https://github.com/bazelbuild/bazel-skylib</title>
+    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Common useful functions and rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/examples#1749168000</id>
+    <title>https://github.com/bazelbuild/examples</title>
+    <link href="https://github.com/bazelbuild/examples" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Examples for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_swift#1749168000</id>
+    <title>https://github.com/bazelbuild/rules_swift</title>
+    <link href="https://github.com/bazelbuild/rules_swift" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Bazel rules to build Swift on Apple and Linux platforms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/xds#1749168000</id>
+    <title>https://github.com/cncf/xds</title>
+    <link href="https://github.com/cncf/xds" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">xDS API Working Group</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethpandaops/optimism-package#1749168000</id>
+    <title>https://github.com/ethpandaops/optimism-package</title>
+    <link href="https://github.com/ethpandaops/optimism-package" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A kurtosis package for deploying an optimistic rollup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/bazel-common#1749168000</id>
+    <title>https://github.com/google/bazel-common</title>
+    <link href="https://github.com/google/bazel-common" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Common functionality for Google's open-source libraries that are built with bazel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/cel-spec#1749168000</id>
+    <title>https://github.com/google/cel-spec</title>
+    <link href="https://github.com/google/cel-spec" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Common Expression Language -- specification and binary representation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/googleapis#1749168000</id>
+    <title>https://github.com/googleapis/googleapis</title>
+    <link href="https://github.com/googleapis/googleapis" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Public interface definitions of Google APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-proto#1749168000</id>
+    <title>https://github.com/grpc/grpc-proto</title>
+    <link href="https://github.com/grpc/grpc-proto" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/gnoi#1749168000</id>
+    <title>https://github.com/openconfig/gnoi</title>
+    <link href="https://github.com/openconfig/gnoi" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tilt-dev/tilt-extensions#1749168000</id>
+    <title>https://github.com/tilt-dev/tilt-extensions</title>
+    <link href="https://github.com/tilt-dev/tilt-extensions" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Extensions for Tilt</content>
+  </entry>
+</feed>

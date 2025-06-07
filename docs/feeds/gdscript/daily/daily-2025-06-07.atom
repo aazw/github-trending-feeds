@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</id>
+  <title>GitHub Trending - gdscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HungryProton/scatter#1749168000</id>
+    <title>https://github.com/HungryProton/scatter</title>
+    <link href="https://github.com/HungryProton/scatter" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Godot engine addon to randomly fill an area with props or other scenes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Maran23/script-ide#1749168000</id>
+    <title>https://github.com/Maran23/script-ide</title>
+    <link href="https://github.com/Maran23/script-ide" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Script-IDE is a plugin for Godot. It transforms the Script UI into an IDE like UI. Tabs are used for navigating between scripts. The default Outline got an overhaul and now shows all members of the script (not just methods) with unique icons for faster navigation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Phazorknight/Cogito#1749168000</id>
+    <title>https://github.com/Phazorknight/Cogito</title>
+    <link href="https://github.com/Phazorknight/Cogito" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Immersive Sim Template Project for GODOT 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheDuckCow/godot-road-generator#1749168000</id>
+    <title>https://github.com/TheDuckCow/godot-road-generator</title>
+    <link href="https://github.com/TheDuckCow/godot-road-generator" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A godot plugin for creating 3D highways and streets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePat02/BehaviourToolkit#1749168000</id>
+    <title>https://github.com/ThePat02/BehaviourToolkit</title>
+    <link href="https://github.com/ThePat02/BehaviourToolkit" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of tools for AI Behaviour in the Godot 4 Game Engine!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dialogic-godot/dialogic#1749168000</id>
+    <title>https://github.com/dialogic-godot/dialogic</title>
+    <link href="https://github.com/dialogic-godot/dialogic" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ee0pdt/Godot-MCP#1749168000</id>
+    <title>https://github.com/ee0pdt/Godot-MCP</title>
+    <link href="https://github.com/ee0pdt/Godot-MCP" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An MCP for Godot that lets you create and edit games in the Godot game engine with tools like Claude</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot-demo-projects#1749168000</id>
+    <title>https://github.com/godotengine/godot-demo-projects</title>
+    <link href="https://github.com/godotengine/godot-demo-projects" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Demonstration and Template Projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbrlabs/Lorien#1749168000</id>
+    <title>https://github.com/mbrlabs/Lorien</title>
+    <link href="https://github.com/mbrlabs/Lorien" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pablogila/TileMapDual#1749168000</id>
+    <title>https://github.com/pablogila/TileMapDual</title>
+    <link href="https://github.com/pablogila/TileMapDual" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An automatic, real-time dual-grid tileset system for Godot</content>
+  </entry>
+</feed>

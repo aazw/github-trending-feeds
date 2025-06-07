@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ArduPilot/ardupilot#1749168000</id>
+    <title>https://github.com/ArduPilot/ardupilot</title>
+    <link href="https://github.com/ArduPilot/ardupilot" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">ArduPlane, ArduCopter, ArduRover, ArduSub source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntelRealSense/librealsense#1749168000</id>
+    <title>https://github.com/IntelRealSense/librealsense</title>
+    <link href="https://github.com/IntelRealSense/librealsense" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Intel® RealSense™ SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JoeyDeVries/LearnOpenGL#1749168000</id>
+    <title>https://github.com/JoeyDeVries/LearnOpenGL</title>
+    <link href="https://github.com/JoeyDeVries/LearnOpenGL" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MaaAssistantArknights/MaaAssistantArknights#1749168000</id>
+    <title>https://github.com/MaaAssistantArknights/MaaAssistantArknights</title>
+    <link href="https://github.com/MaaAssistantArknights/MaaAssistantArknights" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT-LLM#1749168000</id>
+    <title>https://github.com/NVIDIA/TensorRT-LLM</title>
+    <link href="https://github.com/NVIDIA/TensorRT-LLM" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nccl#1749168000</id>
+    <title>https://github.com/NVIDIA/nccl</title>
+    <link href="https://github.com/NVIDIA/nccl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Optimized primitives for collective multi-GPU communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PX4/PX4-Autopilot#1749168000</id>
+    <title>https://github.com/PX4/PX4-Autopilot</title>
+    <link href="https://github.com/PX4/PX4-Autopilot" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">PX4 Autopilot Software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YuriSizuku/OnscripterYuri#1749168000</id>
+    <title>https://github.com/YuriSizuku/OnscripterYuri</title>
+    <link href="https://github.com/YuriSizuku/OnscripterYuri" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An enhancement ONScripter project porting to many platforms, especially web.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ai-dynamo/nixl#1749168000</id>
+    <title>https://github.com/ai-dynamo/nixl</title>
+    <link href="https://github.com/ai-dynamo/nixl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">NVIDIA Inference Xfer Library (NIXL)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_universe#1749168000</id>
+    <title>https://github.com/autowarefoundation/autoware_universe</title>
+    <link href="https://github.com/autowarefoundation/autoware_universe" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ceph/ceph#1749168000</id>
+    <title>https://github.com/ceph/ceph</title>
+    <link href="https://github.com/ceph/ceph" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Ceph is a distributed object, block, and file storage platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electron/electron#1749168000</id>
+    <title>https://github.com/electron/electron</title>
+    <link href="https://github.com/electron/electron" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Build cross-platform desktop apps with JavaScript, HTML, and CSS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/envoy#1749168000</id>
+    <title>https://github.com/envoyproxy/envoy</title>
+    <link href="https://github.com/envoyproxy/envoy" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Cloud-native high-performance edge/middle/service proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/folly#1749168000</id>
+    <title>https://github.com/facebook/folly</title>
+    <link href="https://github.com/facebook/folly" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An open-source C++ library developed and used at Facebook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/or-tools#1749168000</id>
+    <title>https://github.com/google/or-tools</title>
+    <link href="https://github.com/google/or-tools" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Google's Operations Research tools:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kvcache-ai/Mooncake#1749168000</id>
+    <title>https://github.com/kvcache-ai/Mooncake</title>
+    <link href="https://github.com/kvcache-ai/Mooncake" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/onnxruntime#1749168000</id>
+    <title>https://github.com/microsoft/onnxruntime</title>
+    <link href="https://github.com/microsoft/onnxruntime" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nlohmann/json#1749168000</id>
+    <title>https://github.com/nlohmann/json</title>
+    <link href="https://github.com/nlohmann/json" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">JSON for Modern C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/project-chip/connectedhomeip#1749168000</id>
+    <title>https://github.com/project-chip/connectedhomeip</title>
+    <link href="https://github.com/project-chip/connectedhomeip" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protocolbuffers/protobuf#1749168000</id>
+    <title>https://github.com/protocolbuffers/protobuf</title>
+    <link href="https://github.com/protocolbuffers/protobuf" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Protocol Buffers - Google's data interchange format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qgis/QGIS#1749168000</id>
+    <title>https://github.com/qgis/QGIS</title>
+    <link href="https://github.com/qgis/QGIS" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/telegramdesktop/tdesktop#1749168000</id>
+    <title>https://github.com/telegramdesktop/tdesktop</title>
+    <link href="https://github.com/telegramdesktop/tdesktop" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Telegram Desktop messaging app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/v8/v8#1749168000</id>
+    <title>https://github.com/v8/v8</title>
+    <link href="https://github.com/v8/v8" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The official mirror of the V8 Git repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yhirose/cpp-httplib#1749168000</id>
+    <title>https://github.com/yhirose/cpp-httplib</title>
+    <link href="https://github.com/yhirose/cpp-httplib" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A C++ header-only HTTP/HTTPS server and client library</content>
+  </entry>
+</feed>

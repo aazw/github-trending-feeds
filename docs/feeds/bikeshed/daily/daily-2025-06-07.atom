@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bikeshed/daily.atom</id>
+  <title>GitHub Trending - bikeshed (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/explainers-by-googlers/local-network-access#1749168000</id>
+    <title>https://github.com/explainers-by-googlers/local-network-access</title>
+    <link href="https://github.com/explainers-by-googlers/local-network-access" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A proposal to restrict sites from accessing a users' local network without permission</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gpuweb/gpuweb#1749168000</id>
+    <title>https://github.com/gpuweb/gpuweb</title>
+    <link href="https://github.com/gpuweb/gpuweb" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Where the GPU for the Web work happens!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/csswg-drafts#1749168000</id>
+    <title>https://github.com/w3c/csswg-drafts</title>
+    <link href="https://github.com/w3c/csswg-drafts" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">CSS Working Group Editor Drafts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/webappsec-permissions-policy#1749168000</id>
+    <title>https://github.com/w3c/webappsec-permissions-policy</title>
+    <link href="https://github.com/w3c/webappsec-permissions-policy" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A mechanism to selectively enable and disable browser features and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/webextensions#1749168000</id>
+    <title>https://github.com/w3c/webextensions</title>
+    <link href="https://github.com/w3c/webextensions" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Charter and administrivia for the WebExtensions Community Group (WECG)</content>
+  </entry>
+</feed>

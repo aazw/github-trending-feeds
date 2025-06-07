@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom</id>
+  <title>GitHub Trending - yaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/hackclub/dns#1749168000</id>
+    <title>https://github.com/hackclub/dns</title>
+    <link href="https://github.com/hackclub/dns" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🕹 Manage Hack Club's DNS through a GitHub repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3s-io/k3s-ansible#1749168000</id>
+    <title>https://github.com/k3s-io/k3s-ansible</title>
+    <link href="https://github.com/k3s-io/k3s-ansible" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/kubeflow/manifests#1749168000</id>
+    <title>https://github.com/kubeflow/manifests</title>
+    <link href="https://github.com/kubeflow/manifests" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Kubeflow Deployment Manifests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mustache/spec#1749168000</id>
+    <title>https://github.com/mustache/spec</title>
+    <link href="https://github.com/mustache/spec" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Mustache spec.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usnistgov/macos_security#1749168000</id>
+    <title>https://github.com/usnistgov/macos_security</title>
+    <link href="https://github.com/usnistgov/macos_security" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">macOS Security Compliance Project</content>
+  </entry>
+</feed>

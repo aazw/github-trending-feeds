@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1749168000</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andymass/vim-matchup#1749168000</id>
+    <title>https://github.com/andymass/vim-matchup</title>
+    <link href="https://github.com/andymass/vim-matchup" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1749168000</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cespare/vim-toml#1749168000</id>
+    <title>https://github.com/cespare/vim-toml</title>
+    <link href="https://github.com/cespare/vim-toml" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Vim syntax for TOML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1749168000</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/easymotion/vim-easymotion#1749168000</id>
+    <title>https://github.com/easymotion/vim-easymotion</title>
+    <link href="https://github.com/easymotion/vim-easymotion" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Vim motions on speed!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1749168000</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1749168000</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leafgarland/typescript-vim#1749168000</id>
+    <title>https://github.com/leafgarland/typescript-vim</title>
+    <link href="https://github.com/leafgarland/typescript-vim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Typescript syntax files for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ludovicchabant/vim-gutentags#1749168000</id>
+    <title>https://github.com/ludovicchabant/vim-gutentags</title>
+    <link href="https://github.com/ludovicchabant/vim-gutentags" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A Vim plugin that manages your tag files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/macvim-dev/macvim#1749168000</id>
+    <title>https://github.com/macvim-dev/macvim</title>
+    <link href="https://github.com/macvim-dev/macvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Vim - the text editor - for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1749168000</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1749168000</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1749168000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1749168000</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomasr/molokai#1749168000</id>
+    <title>https://github.com/tomasr/molokai</title>
+    <link href="https://github.com/tomasr/molokai" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Molokai color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-endwise#1749168000</id>
+    <title>https://github.com/tpope/vim-endwise</title>
+    <link href="https://github.com/tpope/vim-endwise" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">endwise.vim: Wisely add</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1749168000</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vital.vim#1749168000</id>
+    <title>https://github.com/vim-jp/vital.vim</title>
+    <link href="https://github.com/vim-jp/vital.vim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A comprehensive Vim utility functions for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1749168000</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig.vim#1749168000</id>
+    <title>https://github.com/ziglang/zig.vim</title>
+    <link href="https://github.com/ziglang/zig.vim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Vim configuration for Zig</content>
+  </entry>
+</feed>

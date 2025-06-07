@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dart/daily.atom</id>
+  <title>GitHub Trending - dart (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dart/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GhostenEditor/Ghosten-Player#1749168000</id>
+    <title>https://github.com/GhostenEditor/Ghosten-Player</title>
+    <link href="https://github.com/GhostenEditor/Ghosten-Player" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">📺一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 / A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GopeedLab/gopeed#1749168000</id>
+    <title>https://github.com/GopeedLab/gopeed</title>
+    <link href="https://github.com/GopeedLab/gopeed" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A modern download manager that supports all platforms. Built with Golang and Flutter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Solido/awesome-flutter#1749168000</id>
+    <title>https://github.com/Solido/awesome-flutter</title>
+    <link href="https://github.com/Solido/awesome-flutter" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/academind/flutter-complete-guide-course-resources#1749168000</id>
+    <title>https://github.com/academind/flutter-complete-guide-course-resources</title>
+    <link href="https://github.com/academind/flutter-complete-guide-course-resources" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Course resources (code snapshots &amp; slides) for our complete Flutter &amp; Dart course (https://acad.link/flutter).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chen08209/FlClash#1749168000</id>
+    <title>https://github.com/chen08209/FlClash</title>
+    <link href="https://github.com/chen08209/FlClash" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/daodao97/chatmcp#1749168000</id>
+    <title>https://github.com/daodao97/chatmcp</title>
+    <link href="https://github.com/daodao97/chatmcp" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dart-lang/sdk#1749168000</id>
+    <title>https://github.com/dart-lang/sdk</title>
+    <link href="https://github.com/dart-lang/sdk" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ente-io/ente#1749168000</id>
+    <title>https://github.com/ente-io/ente</title>
+    <link href="https://github.com/ente-io/ente" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flutter/flutter#1749168000</id>
+    <title>https://github.com/flutter/flutter</title>
+    <link href="https://github.com/flutter/flutter" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Flutter makes it easy and fast to build beautiful apps for mobile and beyond</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flutter/packages#1749168000</id>
+    <title>https://github.com/flutter/packages</title>
+    <link href="https://github.com/flutter/packages" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of useful packages maintained by the Flutter team</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluttergems/awesome-open-source-flutter-apps#1749168000</id>
+    <title>https://github.com/fluttergems/awesome-open-source-flutter-apps</title>
+    <link href="https://github.com/fluttergems/awesome-open-source-flutter-apps" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A curated list of awesome open source Flutter apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fzyzcjy/flutter_rust_bridge#1749168000</id>
+    <title>https://github.com/fzyzcjy/flutter_rust_bridge</title>
+    <link href="https://github.com/fzyzcjy/flutter_rust_bridge" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krille-chan/fluffychat#1749168000</id>
+    <title>https://github.com/krille-chan/fluffychat</title>
+    <link href="https://github.com/krille-chan/fluffychat" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The cutest instant messenger in the [matrix]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/mobile#1749168000</id>
+    <title>https://github.com/lichess-org/mobile</title>
+    <link href="https://github.com/lichess-org/mobile" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">New Lichess mobile app in Flutter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/media-kit/media-kit#1749168000</id>
+    <title>https://github.com/media-kit/media-kit</title>
+    <link href="https://github.com/media-kit/media-kit" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A cross-platform video player &amp; audio player for Flutter &amp; Dart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitesh77/Best-Flutter-UI-Templates#1749168000</id>
+    <title>https://github.com/mitesh77/Best-Flutter-UI-Templates</title>
+    <link href="https://github.com/mitesh77/Best-Flutter-UI-Templates" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">completely free for everyone. Its build-in Flutter Dart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/niuhuan/jasmine#1749168000</id>
+    <title>https://github.com/niuhuan/jasmine</title>
+    <link href="https://github.com/niuhuan/jasmine" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A comic browser，support Android / iOS / MacOS / Windows / Linux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/niuhuan/kobi#1749168000</id>
+    <title>https://github.com/niuhuan/kobi</title>
+    <link href="https://github.com/niuhuan/kobi" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">拷贝漫画客户端</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shorebirdtech/shorebird#1749168000</id>
+    <title>https://github.com/shorebirdtech/shorebird</title>
+    <link href="https://github.com/shorebirdtech/shorebird" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Code Push for Flutter and other tools for Flutter businesses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/singerdmx/flutter-quill#1749168000</id>
+    <title>https://github.com/singerdmx/flutter-quill</title>
+    <link href="https://github.com/singerdmx/flutter-quill" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Rich text editor for Flutter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncfusion/flutter-widgets#1749168000</id>
+    <title>https://github.com/syncfusion/flutter-widgets</title>
+    <link href="https://github.com/syncfusion/flutter-widgets" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Syncfusion Flutter widgets libraries include high quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vicolo-dev/chrono#1749168000</id>
+    <title>https://github.com/vicolo-dev/chrono</title>
+    <link href="https://github.com/vicolo-dev/chrono" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A modern and powerful clock, alarms, timer and stopwatch app for Android!</content>
+  </entry>
+</feed>

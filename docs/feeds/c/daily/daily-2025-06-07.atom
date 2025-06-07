@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DaveGamble/cJSON#1749168000</id>
+    <title>https://github.com/DaveGamble/cJSON</title>
+    <link href="https://github.com/DaveGamble/cJSON" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Ultralightweight JSON parser in ANSI C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mbed-TLS/mbedtls#1749168000</id>
+    <title>https://github.com/Mbed-TLS/mbedtls</title>
+    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenEtherCATsociety/SOEM#1749168000</id>
+    <title>https://github.com/OpenEtherCATsociety/SOEM</title>
+    <link href="https://github.com/OpenEtherCATsociety/SOEM" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Simple Open Source EtherCAT Master</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TEN-framework/ten-framework#1749168000</id>
+    <title>https://github.com/TEN-framework/ten-framework</title>
+    <link href="https://github.com/TEN-framework/ten-framework" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Open-source framework for conversational voice AI agents.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Unity#1749168000</id>
+    <title>https://github.com/ThrowTheSwitch/Unity</title>
+    <link href="https://github.com/ThrowTheSwitch/Unity" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Simple unit testing for C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1749168000</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coreutils/coreutils#1749168000</id>
+    <title>https://github.com/coreutils/coreutils</title>
+    <link href="https://github.com/coreutils/coreutils" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">upstream mirror</content>
+  </entry>
+  <entry>
+    <id>https://github.com/curl/curl#1749168000</id>
+    <title>https://github.com/curl/curl</title>
+    <link href="https://github.com/curl/curl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-mosquitto/mosquitto#1749168000</id>
+    <title>https://github.com/eclipse-mosquitto/mosquitto</title>
+    <link href="https://github.com/eclipse-mosquitto/mosquitto" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Eclipse Mosquitto - An open source MQTT broker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-idf#1749168000</id>
+    <title>https://github.com/espressif/esp-idf</title>
+    <link href="https://github.com/espressif/esp-idf" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firedancer-io/firedancer#1749168000</id>
+    <title>https://github.com/firedancer-io/firedancer</title>
+    <link href="https://github.com/firedancer-io/firedancer" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Firedancer is Jump Crypto's Solana validator software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lvgl/lvgl#1749168000</id>
+    <title>https://github.com/lvgl/lvgl</title>
+    <link href="https://github.com/lvgl/lvgl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/madler/zlib#1749168000</id>
+    <title>https://github.com/madler/zlib</title>
+    <link href="https://github.com/madler/zlib" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A massively spiffy yet delicately unobtrusive compression library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanopb/nanopb#1749168000</id>
+    <title>https://github.com/nanopb/nanopb</title>
+    <link href="https://github.com/nanopb/nanopb" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Protocol Buffers with small code size</content>
+  </entry>
+  <entry>
+    <id>https://github.com/obsproject/obs-studio#1749168000</id>
+    <title>https://github.com/obsproject/obs-studio</title>
+    <link href="https://github.com/obsproject/obs-studio" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">OBS Studio - Free and open source software for live streaming and screen recording</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssl/openssl#1749168000</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">TLS/SSL and crypto library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redcanaryco/atomic-red-team#1749168000</id>
+    <title>https://github.com/redcanaryco/atomic-red-team</title>
+    <link href="https://github.com/redcanaryco/atomic-red-team" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Small and highly portable detection tests based on MITRE's ATT&amp;CK.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/robertdavidgraham/masscan#1749168000</id>
+    <title>https://github.com/robertdavidgraham/masscan</title>
+    <link href="https://github.com/robertdavidgraham/masscan" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/systemd/systemd#1749168000</id>
+    <title>https://github.com/systemd/systemd</title>
+    <link href="https://github.com/systemd/systemd" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The systemd System and Service Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taosdata/TDengine#1749168000</id>
+    <title>https://github.com/taosdata/TDengine</title>
+    <link href="https://github.com/taosdata/TDengine" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios</content>
+  </entry>
+  <entry>
+    <id>https://github.com/timescale/timescaledb#1749168000</id>
+    <title>https://github.com/timescale/timescaledb</title>
+    <link href="https://github.com/timescale/timescaledb" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A time-series database for high-performance real-time analytics packaged as a Postgres extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/torvalds/linux#1749168000</id>
+    <title>https://github.com/torvalds/linux</title>
+    <link href="https://github.com/torvalds/linux" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Linux kernel source tree</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wolfSSL/wolfssl#1749168000</id>
+    <title>https://github.com/wolfSSL/wolfssl</title>
+    <link href="https://github.com/wolfSSL/wolfssl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3!</content>
+  </entry>
+</feed>

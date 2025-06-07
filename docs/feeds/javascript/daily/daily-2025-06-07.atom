@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/javascript/daily.atom</id>
+  <title>GitHub Trending - javascript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/javascript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ConardLi/easy-dataset#1749168000</id>
+    <title>https://github.com/ConardLi/easy-dataset</title>
+    <link href="https://github.com/ConardLi/easy-dataset" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A powerful tool for creating fine-tuning datasets for LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bgstaal/multipleWindow3dScene#1749168000</id>
+    <title>https://github.com/bgstaal/multipleWindow3dScene</title>
+    <link href="https://github.com/bgstaal/multipleWindow3dScene" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chinese-poetry/chinese-poetry#1749168000</id>
+    <title>https://github.com/chinese-poetry/chinese-poetry</title>
+    <link href="https://github.com/chinese-poetry/chinese-poetry" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dequelabs/axe-core#1749168000</id>
+    <title>https://github.com/dequelabs/axe-core</title>
+    <link href="https://github.com/dequelabs/axe-core" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Accessibility engine for automated Web UI testing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/drawdb-io/drawdb#1749168000</id>
+    <title>https://github.com/drawdb-io/drawdb</title>
+    <link href="https://github.com/drawdb-io/drawdb" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Free, simple, and intuitive online database diagram editor and SQL generator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorhill/uBlock#1749168000</id>
+    <title>https://github.com/gorhill/uBlock</title>
+    <link href="https://github.com/gorhill/uBlock" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/transformers.js#1749168000</id>
+    <title>https://github.com/huggingface/transformers.js</title>
+    <link href="https://github.com/huggingface/transformers.js" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meshery/meshery#1749168000</id>
+    <title>https://github.com/meshery/meshery</title>
+    <link href="https://github.com/meshery/meshery" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Meshery, the cloud native manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/monaco-editor#1749168000</id>
+    <title>https://github.com/microsoft/monaco-editor</title>
+    <link href="https://github.com/microsoft/monaco-editor" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A browser based code editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdoob/three.js#1749168000</id>
+    <title>https://github.com/mrdoob/three.js</title>
+    <link href="https://github.com/mrdoob/three.js" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">JavaScript 3D Library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nhn/tui.image-editor#1749168000</id>
+    <title>https://github.com/nhn/tui.image-editor</title>
+    <link href="https://github.com/nhn/tui.image-editor" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/poloclub/transformer-explainer#1749168000</id>
+    <title>https://github.com/poloclub/transformer-explainer</title>
+    <link href="https://github.com/poloclub/transformer-explainer" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei-templates#1749168000</id>
+    <title>https://github.com/projectdiscovery/nuclei-templates</title>
+    <link href="https://github.com/projectdiscovery/nuclei-templates" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Community curated list of templates for the nuclei engine to find security vulnerabilities.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-server#1749168000</id>
+    <title>https://github.com/rabbitmq/rabbitmq-server</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-server" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Open source RabbitMQ: core server and tier 1 (built-in) plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/songquanpeng/one-api#1749168000</id>
+    <title>https://github.com/songquanpeng/one-api</title>
+    <link href="https://github.com/songquanpeng/one-api" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">LLM API 管理 &amp; 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management &amp; key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/strudel#1749168000</id>
+    <title>https://github.com/tidalcycles/strudel</title>
+    <link href="https://github.com/tidalcycles/strudel" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usebruno/bruno#1749168000</id>
+    <title>https://github.com/usebruno/bruno</title>
+    <link href="https://github.com/usebruno/bruno" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xszyou/Fay#1749168000</id>
+    <title>https://github.com/xszyou/Fay</title>
+    <link href="https://github.com/xszyou/Fay" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。</content>
+  </entry>
+</feed>

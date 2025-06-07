@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/html/daily.atom</id>
+  <title>GitHub Trending - html (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/html/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OWASP/ASVS#1749168000</id>
+    <title>https://github.com/OWASP/ASVS</title>
+    <link href="https://github.com/OWASP/ASVS" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Application Security Verification Standard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheKing-OfTime/YandexMusicModClient#1749168000</id>
+    <title>https://github.com/TheKing-OfTime/YandexMusicModClient</title>
+    <link href="https://github.com/TheKing-OfTime/YandexMusicModClient" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Modification for Yandex Music Desktop application to add some features</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/boost#1749168000</id>
+    <title>https://github.com/boostorg/boost</title>
+    <link href="https://github.com/boostorg/boost" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Super-project for modularized Boost</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes#1749168000</id>
+    <title>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</title>
+    <link href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">吴恩达老师的机器学习课程个人笔记</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fengdu78/deeplearning_ai_books#1749168000</id>
+    <title>https://github.com/fengdu78/deeplearning_ai_books</title>
+    <link href="https://github.com/fengdu78/deeplearning_ai_books" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/styleguide#1749168000</id>
+    <title>https://github.com/google/styleguide</title>
+    <link href="https://github.com/google/styleguide" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Style guides for Google-originated open-source projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gustavoguanabara/html-css#1749168000</id>
+    <title>https://github.com/gustavoguanabara/html-css</title>
+    <link href="https://github.com/gustavoguanabara/html-css" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Curso de HTML5 e CSS3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/htmlstreamofficial/preline#1749168000</id>
+    <title>https://github.com/htmlstreamofficial/preline</title>
+    <link href="https://github.com/htmlstreamofficial/preline" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes#1749168000</id>
+    <title>https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes</title>
+    <link href="https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phil-opp/blog_os#1749168000</id>
+    <title>https://github.com/phil-opp/blog_os</title>
+    <link href="https://github.com/phil-opp/blog_os" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Writing an OS in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/themesberg/flowbite#1749168000</id>
+    <title>https://github.com/themesberg/flowbite</title>
+    <link href="https://github.com/themesberg/flowbite" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Open-source UI component library and front-end development framework based on Tailwind CSS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wdndev/llm_interview_note#1749168000</id>
+    <title>https://github.com/wdndev/llm_interview_note</title>
+    <link href="https://github.com/wdndev/llm_interview_note" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题</content>
+  </entry>
+  <entry>
+    <id>https://github.com/whatwg/html#1749168000</id>
+    <title>https://github.com/whatwg/html</title>
+    <link href="https://github.com/whatwg/html" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">HTML Standard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yogeshojha/rengine#1749168000</id>
+    <title>https://github.com/yogeshojha/rengine</title>
+    <link href="https://github.com/yogeshojha/rengine" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…</content>
+  </entry>
+</feed>

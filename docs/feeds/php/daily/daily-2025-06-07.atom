@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom</id>
+  <title>GitHub Trending - php (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BookStackApp/BookStack#1749168000</id>
+    <title>https://github.com/BookStackApp/BookStack</title>
+    <link href="https://github.com/BookStackApp/BookStack" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A platform to create documentation/wiki content built with PHP &amp; Laravel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Dolibarr/dolibarr#1749168000</id>
+    <title>https://github.com/Dolibarr/dolibarr</title>
+    <link href="https://github.com/Dolibarr/dolibarr" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EasyCorp/EasyAdminBundle#1749168000</id>
+    <title>https://github.com/EasyCorp/EasyAdminBundle</title>
+    <link href="https://github.com/EasyCorp/EasyAdminBundle" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PHPOffice/PHPWord#1749168000</id>
+    <title>https://github.com/PHPOffice/PHPWord</title>
+    <link href="https://github.com/PHPOffice/PHPWord" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A pure PHP library for reading and writing word processing documents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PrestaShop/PrestaShop#1749168000</id>
+    <title>https://github.com/PrestaShop/PrestaShop</title>
+    <link href="https://github.com/PrestaShop/PrestaShop" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">PrestaShop is the universal open-source software platform to build your e-commerce solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WordPress/wordpress-develop#1749168000</id>
+    <title>https://github.com/WordPress/wordpress-develop</title>
+    <link href="https://github.com/WordPress/wordpress-develop" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/barryvdh/laravel-debugbar#1749168000</id>
+    <title>https://github.com/barryvdh/laravel-debugbar</title>
+    <link href="https://github.com/barryvdh/laravel-debugbar" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Debugbar for Laravel (Integrates PHP Debug Bar)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/SecLists#1749168000</id>
+    <title>https://github.com/danielmiessler/SecLists</title>
+    <link href="https://github.com/danielmiessler/SecLists" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/filamentphp/filament#1749168000</id>
+    <title>https://github.com/filamentphp/filament</title>
+    <link href="https://github.com/filamentphp/filament" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gecche/laravel-multidomain#1749168000</id>
+    <title>https://github.com/gecche/laravel-multidomain</title>
+    <link href="https://github.com/gecche/laravel-multidomain" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A Laravel extension for using a laravel application on a multi domain setting</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glpi-project/glpi#1749168000</id>
+    <title>https://github.com/glpi-project/glpi</title>
+    <link href="https://github.com/glpi-project/glpi" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-api-php-client#1749168000</id>
+    <title>https://github.com/googleapis/google-api-php-client</title>
+    <link href="https://github.com/googleapis/google-api-php-client" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A PHP client library for accessing Google APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grokability/snipe-it#1749168000</id>
+    <title>https://github.com/grokability/snipe-it</title>
+    <link href="https://github.com/grokability/snipe-it" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A free open source IT asset/license management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/guzzle/guzzle#1749168000</id>
+    <title>https://github.com/guzzle/guzzle</title>
+    <link href="https://github.com/guzzle/guzzle" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Guzzle, an extensible PHP HTTP client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laravel/framework#1749168000</id>
+    <title>https://github.com/laravel/framework</title>
+    <link href="https://github.com/laravel/framework" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Laravel Framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matomo-org/matomo#1749168000</id>
+    <title>https://github.com/matomo-org/matomo</title>
+    <link href="https://github.com/matomo-org/matomo" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites &amp; apps. Star us on GitHub ⭐️ – Pull Requests welcome!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/server#1749168000</id>
+    <title>https://github.com/nextcloud/server</title>
+    <link href="https://github.com/nextcloud/server" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">☁️ Nextcloud server, a safe home for all your data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roundcube/roundcubemail#1749168000</id>
+    <title>https://github.com/roundcube/roundcubemail</title>
+    <link href="https://github.com/roundcube/roundcubemail" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Roundcube Webmail suite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shopware/shopware#1749168000</id>
+    <title>https://github.com/shopware/shopware</title>
+    <link href="https://github.com/shopware/shopware" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/statamic/cms#1749168000</id>
+    <title>https://github.com/statamic/cms</title>
+    <link href="https://github.com/statamic/cms" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The core Laravel CMS Composer package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/symfony/symfony#1749168000</id>
+    <title>https://github.com/symfony/symfony</title>
+    <link href="https://github.com/symfony/symfony" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Symfony PHP framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/wp-cli#1749168000</id>
+    <title>https://github.com/wp-cli/wp-cli</title>
+    <link href="https://github.com/wp-cli/wp-cli" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">⚙️ WP-CLI framework</content>
+  </entry>
+</feed>

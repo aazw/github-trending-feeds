@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/daily.atom</id>
+  <title>GitHub Trending - rich-text-format (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ckeditor/ckeditor4#1749168000</id>
+    <title>https://github.com/ckeditor/ckeditor4</title>
+    <link href="https://github.com/ckeditor/ckeditor4" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ckeditor/ckeditor5#1749168000</id>
+    <title>https://github.com/ckeditor/ckeditor5</title>
+    <link href="https://github.com/ckeditor/ckeditor5" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/foundation#1749168000</id>
+    <title>https://github.com/cncf/foundation</title>
+    <link href="https://github.com/cncf/foundation" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mathoudebine/turing-smart-screen-python#1749168000</id>
+    <title>https://github.com/mathoudebine/turing-smart-screen-python</title>
+    <link href="https://github.com/mathoudebine/turing-smart-screen-python" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/TemplateStudio#1749168000</id>
+    <title>https://github.com/microsoft/TemplateStudio</title>
+    <link href="https://github.com/microsoft/TemplateStudio" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Template Studio accelerates the creation of new WinUI 3, WPF, and UWP apps using a wizard-based experience.</content>
+  </entry>
+</feed>

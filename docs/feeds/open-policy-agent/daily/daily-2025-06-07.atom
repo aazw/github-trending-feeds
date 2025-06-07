@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/open-policy-agent/daily.atom</id>
+  <title>GitHub Trending - open-policy-agent (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/open-policy-agent/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-policy#1749168000</id>
+    <title>https://github.com/Azure/azure-policy</title>
+    <link href="https://github.com/Azure/azure-policy" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Repository for Azure Resource Policy built-in definitions and samples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Checkmarx/kics#1749168000</id>
+    <title>https://github.com/Checkmarx/kics</title>
+    <link href="https://github.com/Checkmarx/kics" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy-checks#1749168000</id>
+    <title>https://github.com/aquasecurity/trivy-checks</title>
+    <link href="https://github.com/aquasecurity/trivy-checks" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/semantic-conventions#1749168000</id>
+    <title>https://github.com/open-telemetry/semantic-conventions</title>
+    <link href="https://github.com/open-telemetry/semantic-conventions" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Defines standards for generating consistent, accessible telemetry across a variety of domains</content>
+  </entry>
+</feed>

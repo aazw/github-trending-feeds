@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/batchfile/daily.atom</id>
+  <title>GitHub Trending - batchfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/batchfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-cosmos-db-emulator-docker#1749168000</id>
+    <title>https://github.com/Azure/azure-cosmos-db-emulator-docker</title>
+    <link href="https://github.com/Azure/azure-cosmos-db-emulator-docker" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repo serves as hub for managing issues, gathering feedback, and having discussions regarding the Cosmos DB Emulator Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CesiumGS/3d-tiles#1749168000</id>
+    <title>https://github.com/CesiumGS/3d-tiles</title>
+    <link href="https://github.com/CesiumGS/3d-tiles" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Specification for streaming massive heterogeneous 3D geospatial datasets 🌎</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Flowseal/zapret-discord-youtube#1749168000</id>
+    <title>https://github.com/Flowseal/zapret-discord-youtube</title>
+    <link href="https://github.com/Flowseal/zapret-discord-youtube" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/GreatScottyMac/roo-code-memory-bank#1749168000</id>
+    <title>https://github.com/GreatScottyMac/roo-code-memory-bank</title>
+    <link href="https://github.com/GreatScottyMac/roo-code-memory-bank" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🧠 Roo Code Memory Bank: Seamless project context in Roo Code. No more repetition, just continuous development!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RockBlack-VPN/ip-address#1749168000</id>
+    <title>https://github.com/RockBlack-VPN/ip-address</title>
+    <link href="https://github.com/RockBlack-VPN/ip-address" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">ip address - Youtube, Instagtam, Twitter, Netflix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Systems-Modeling/SysML-v2-Release#1749168000</id>
+    <title>https://github.com/Systems-Modeling/SysML-v2-Release</title>
+    <link href="https://github.com/Systems-Modeling/SysML-v2-Release" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The latest incremental release of SysML v2. Start here.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VirtualHotBar/HotPEToolBox#1749168000</id>
+    <title>https://github.com/VirtualHotBar/HotPEToolBox</title>
+    <link href="https://github.com/VirtualHotBar/HotPEToolBox" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">一个纯净、强大、优雅的WinPE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/enhorse/java-interview#1749168000</id>
+    <title>https://github.com/enhorse/java-interview</title>
+    <link href="https://github.com/enhorse/java-interview" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Вопросы и ответы к интервью Java разработчика</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lstprjct/IDM-Activation-Script#1749168000</id>
+    <title>https://github.com/lstprjct/IDM-Activation-Script</title>
+    <link href="https://github.com/lstprjct/IDM-Activation-Script" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">IDM Activation &amp; Trail Reset Script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mon5termatt/medicat_installer#1749168000</id>
+    <title>https://github.com/mon5termatt/medicat_installer</title>
+    <link href="https://github.com/mon5termatt/medicat_installer" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Medicat Installer Repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mozilla/policy-templates#1749168000</id>
+    <title>https://github.com/mozilla/policy-templates</title>
+    <link href="https://github.com/mozilla/policy-templates" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Policy Templates for Firefox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis-windows/redis-windows#1749168000</id>
+    <title>https://github.com/redis-windows/redis-windows</title>
+    <link href="https://github.com/redis-windows/redis-windows" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Redis 6.0.20 6.2.18 7.0.15 7.2.8 7.4.3 8.0.0 for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim-win32-installer#1749168000</id>
+    <title>https://github.com/vim/vim-win32-installer</title>
+    <link href="https://github.com/vim/vim-win32-installer" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Vim Win32 Installer</content>
+  </entry>
+</feed>

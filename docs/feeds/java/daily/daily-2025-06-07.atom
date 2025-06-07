@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom</id>
+  <title>GitHub Trending - java (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-java#1749168000</id>
+    <title>https://github.com/Azure/azure-sdk-for-java</title>
+    <link href="https://github.com/Azure/azure-sdk-for-java" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CodePhiliaX/Chat2DB#1749168000</id>
+    <title>https://github.com/CodePhiliaX/Chat2DB</title>
+    <link href="https://github.com/CodePhiliaX/Chat2DB" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DragonKingpin/Hydra#1749168000</id>
+    <title>https://github.com/DragonKingpin/Hydra</title>
+    <link href="https://github.com/DragonKingpin/Hydra" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Hydra九头龙，面向PB级别知识库取数、情报系统、数据平台、大规模控制调度系统。建设云计算资源管理、任务/服务统一调度、数仓、微服务化、中台基建系统化能力。——以实现大规模分布式爬虫搜索引擎为例。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JetBrains/intellij-community#1749168000</id>
+    <title>https://github.com/JetBrains/intellij-community</title>
+    <link href="https://github.com/JetBrains/intellij-community" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">IntelliJ IDEA Community Edition &amp; IntelliJ Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Snailclimb/JavaGuide#1749168000</id>
+    <title>https://github.com/Snailclimb/JavaGuide</title>
+    <link href="https://github.com/Snailclimb/JavaGuide" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Stirling-Tools/Stirling-PDF#1749168000</id>
+    <title>https://github.com/Stirling-Tools/Stirling-PDF</title>
+    <link href="https://github.com/Stirling-Tools/Stirling-PDF" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">#1 Locally hosted web application that allows you to perform various operations on PDF files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/nacos#1749168000</id>
+    <title>https://github.com/alibaba/nacos</title>
+    <link href="https://github.com/alibaba/nacos" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/flink-cdc#1749168000</id>
+    <title>https://github.com/apache/flink-cdc</title>
+    <link href="https://github.com/apache/flink-cdc" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Flink CDC is a streaming data integration tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/nifi#1749168000</id>
+    <title>https://github.com/apache/nifi</title>
+    <link href="https://github.com/apache/nifi" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Apache NiFi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/shardingsphere#1749168000</id>
+    <title>https://github.com/apache/shardingsphere</title>
+    <link href="https://github.com/apache/shardingsphere" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awsdocs/aws-doc-sdk-examples#1749168000</id>
+    <title>https://github.com/awsdocs/aws-doc-sdk-examples</title>
+    <link href="https://github.com/awsdocs/aws-doc-sdk-examples" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dataease/dataease#1749168000</id>
+    <title>https://github.com/dataease/dataease</title>
+    <link href="https://github.com/dataease/dataease" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/debezium/debezium#1749168000</id>
+    <title>https://github.com/debezium/debezium</title>
+    <link href="https://github.com/debezium/debezium" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flyway/flyway#1749168000</id>
+    <title>https://github.com/flyway/flyway</title>
+    <link href="https://github.com/flyway/flyway" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Flyway by Redgate • Database Migrations Made Easy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googlesamples/mlkit#1749168000</id>
+    <title>https://github.com/googlesamples/mlkit</title>
+    <link href="https://github.com/googlesamples/mlkit" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hkhcoder/vprofile-project#1749168000</id>
+    <title>https://github.com/hkhcoder/vprofile-project</title>
+    <link href="https://github.com/hkhcoder/vprofile-project" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/jeecgboot/JeecgBoot#1749168000</id>
+    <title>https://github.com/jeecgboot/JeecgBoot</title>
+    <link href="https://github.com/jeecgboot/JeecgBoot" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🔥集成完善AIGC应用的低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design&amp;Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joey-zhou/xiaozhi-esp32-server-java#1749168000</id>
+    <title>https://github.com/joey-zhou/xiaozhi-esp32-server-java</title>
+    <link href="https://github.com/joey-zhou/xiaozhi-esp32-server-java" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kestra-io/kestra#1749168000</id>
+    <title>https://github.com/kestra-io/kestra</title>
+    <link href="https://github.com/kestra-io/kestra" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain4j/langchain4j#1749168000</id>
+    <title>https://github.com/langchain4j/langchain4j</title>
+    <link href="https://github.com/langchain4j/langchain4j" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Java version of LangChain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netty/netty#1749168000</id>
+    <title>https://github.com/netty/netty</title>
+    <link href="https://github.com/netty/netty" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Netty project - an event-driven asynchronous network application framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tencentmusic/supersonic#1749168000</id>
+    <title>https://github.com/tencentmusic/supersonic</title>
+    <link href="https://github.com/tencentmusic/supersonic" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.</content>
+  </entry>
+</feed>

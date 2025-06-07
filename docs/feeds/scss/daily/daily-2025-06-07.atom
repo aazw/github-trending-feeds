@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scss/daily.atom</id>
+  <title>GitHub Trending - scss (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scss/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AboutRSS/ALL-about-RSS#1749168000</id>
+    <title>https://github.com/AboutRSS/ALL-about-RSS</title>
+    <link href="https://github.com/AboutRSS/ALL-about-RSS" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A list of RSS related stuff: tools, services, communities and tutorials, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Hacker0x01/hacker101#1749168000</id>
+    <title>https://github.com/Hacker0x01/hacker101</title>
+    <link href="https://github.com/Hacker0x01/hacker101" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Source code for Hacker101.com - a free online web and mobile security class.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ileriayo/markdown-badges#1749168000</id>
+    <title>https://github.com/Ileriayo/markdown-badges</title>
+    <link href="https://github.com/Ileriayo/markdown-badges" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Badges for your personal developer branding, profile, and projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RyanFitzgerald/devportfolio#1749168000</id>
+    <title>https://github.com/RyanFitzgerald/devportfolio</title>
+    <link href="https://github.com/RyanFitzgerald/devportfolio" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andrewbanchich/forty-jekyll-theme#1749168000</id>
+    <title>https://github.com/andrewbanchich/forty-jekyll-theme</title>
+    <link href="https://github.com/andrewbanchich/forty-jekyll-theme" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A Jekyll version of the "Forty" theme by HTML5 UP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaselambda/makefiletutorial#1749168000</id>
+    <title>https://github.com/chaselambda/makefiletutorial</title>
+    <link href="https://github.com/chaselambda/makefiletutorial" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Learn make by example</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conventional-commits/conventionalcommits.org#1749168000</id>
+    <title>https://github.com/conventional-commits/conventionalcommits.org</title>
+    <link href="https://github.com/conventional-commits/conventionalcommits.org" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The conventional commits specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/creativetimofficial/soft-ui-dashboard#1749168000</id>
+    <title>https://github.com/creativetimofficial/soft-ui-dashboard</title>
+    <link href="https://github.com/creativetimofficial/soft-ui-dashboard" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/just-the-docs/just-the-docs#1749168000</id>
+    <title>https://github.com/just-the-docs/just-the-docs</title>
+    <link href="https://github.com/just-the-docs/just-the-docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maildev/maildev#1749168000</id>
+    <title>https://github.com/maildev/maildev</title>
+    <link href="https://github.com/maildev/maildev" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">📫 SMTP Server + Web Interface for viewing and testing emails during development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/odoo/design-themes#1749168000</id>
+    <title>https://github.com/odoo/design-themes</title>
+    <link href="https://github.com/odoo/design-themes" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/overhangio/tutor-indigo#1749168000</id>
+    <title>https://github.com/overhangio/tutor-indigo</title>
+    <link href="https://github.com/overhangio/tutor-indigo" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An elegant, customizable theme for Open edX</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pages-themes/minimal#1749168000</id>
+    <title>https://github.com/pages-themes/minimal</title>
+    <link href="https://github.com/pages-themes/minimal" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Minimal is a Jekyll theme for GitHub Pages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/selectize/selectize.js#1749168000</id>
+    <title>https://github.com/selectize/selectize.js</title>
+    <link href="https://github.com/selectize/selectize.js" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift-org-website#1749168000</id>
+    <title>https://github.com/swiftlang/swift-org-website</title>
+    <link href="https://github.com/swiftlang/swift-org-website" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Swift.org website</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thingsym/hugo-theme-techdoc#1749168000</id>
+    <title>https://github.com/thingsym/hugo-theme-techdoc</title>
+    <link href="https://github.com/thingsym/hugo-theme-techdoc" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Techdoc is a Hugo Theme for technical documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uswds/uswds#1749168000</id>
+    <title>https://github.com/uswds/uswds</title>
+    <link href="https://github.com/uswds/uswds" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zerostaticthemes/jekyll-serif-theme#1749168000</id>
+    <title>https://github.com/zerostaticthemes/jekyll-serif-theme</title>
+    <link href="https://github.com/zerostaticthemes/jekyll-serif-theme" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Serif is a multi page business theme for Jekyll.</content>
+  </entry>
+</feed>

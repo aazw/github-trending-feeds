@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/objective-c/daily.atom</id>
+  <title>GitHub Trending - objective-c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AliSoftware/OHHTTPStubs#1749168000</id>
+    <title>https://github.com/AliSoftware/OHHTTPStubs</title>
+    <link href="https://github.com/AliSoftware/OHHTTPStubs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BranchMetrics/ios-branch-deep-linking-attribution#1749168000</id>
+    <title>https://github.com/BranchMetrics/ios-branch-deep-linking-attribution</title>
+    <link href="https://github.com/BranchMetrics/ios-branch-deep-linking-attribution" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user onboarding, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CocoaLumberjack/CocoaLumberjack#1749168000</id>
+    <title>https://github.com/CocoaLumberjack/CocoaLumberjack</title>
+    <link href="https://github.com/CocoaLumberjack/CocoaLumberjack" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS and watchOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OneSignal/OneSignal-iOS-SDK#1749168000</id>
+    <title>https://github.com/OneSignal/OneSignal-iOS-SDK</title>
+    <link href="https://github.com/OneSignal/OneSignal-iOS-SDK" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImage#1749168000</id>
+    <title>https://github.com/SDWebImage/SDWebImage</title>
+    <link href="https://github.com/SDWebImage/SDWebImage" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Asynchronous image downloader with cache support as a UIImageView category</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adjust/ios_sdk#1749168000</id>
+    <title>https://github.com/adjust/ios_sdk</title>
+    <link href="https://github.com/adjust/ios_sdk" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This is the iOS SDK of</content>
+  </entry>
+  <entry>
+    <id>https://github.com/braze-inc/braze-swift-sdk#1749168000</id>
+    <title>https://github.com/braze-inc/braze-swift-sdk</title>
+    <link href="https://github.com/braze-inc/braze-swift-sdk" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bugsnag/bugsnag-cocoa#1749168000</id>
+    <title>https://github.com/bugsnag/bugsnag-cocoa</title>
+    <link href="https://github.com/bugsnag/bugsnag-cocoa" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">BugSnag error monitoring &amp; exception reporter for iOS, macOS, tvOS and watchOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/GoogleSignIn-iOS#1749168000</id>
+    <title>https://github.com/google/GoogleSignIn-iOS</title>
+    <link href="https://github.com/google/GoogleSignIn-iOS" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Enables iOS and macOS apps to sign in with Google.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/GoogleUtilities#1749168000</id>
+    <title>https://github.com/google/GoogleUtilities</title>
+    <link href="https://github.com/google/GoogleUtilities" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/google/gtm-session-fetcher#1749168000</id>
+    <title>https://github.com/google/gtm-session-fetcher</title>
+    <link href="https://github.com/google/gtm-session-fetcher" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Google Toolbox for Mac - Session Fetcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/promises#1749168000</id>
+    <title>https://github.com/google/promises</title>
+    <link href="https://github.com/google/promises" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/michaeltyson/TPKeyboardAvoiding#1749168000</id>
+    <title>https://github.com/michaeltyson/TPKeyboardAvoiding</title>
+    <link href="https://github.com/michaeltyson/TPKeyboardAvoiding" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A drop-in universal solution for moving text fields out of the way of the keyboard in iOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openid/AppAuth-iOS#1749168000</id>
+    <title>https://github.com/openid/AppAuth-iOS</title>
+    <link href="https://github.com/openid/AppAuth-iOS" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/realm/realm-swift#1749168000</id>
+    <title>https://github.com/realm/realm-swift</title>
+    <link href="https://github.com/realm/realm-swift" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Realm is a mobile database: a replacement for Core Data &amp; SQLite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/segmentio/analytics-ios#1749168000</id>
+    <title>https://github.com/segmentio/analytics-ios</title>
+    <link href="https://github.com/segmentio/analytics-ios" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The hassle-free way to integrate analytics into any iOS application.</content>
+  </entry>
+</feed>

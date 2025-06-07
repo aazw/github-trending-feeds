@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/qml/daily.atom</id>
+  <title>GitHub Trending - qml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/qml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Keyitdev/sddm-astronaut-theme#1749168000</id>
+    <title>https://github.com/Keyitdev/sddm-astronaut-theme</title>
+    <link href="https://github.com/Keyitdev/sddm-astronaut-theme" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Series of modern looking themes for SDDM.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alicevision/Meshroom#1749168000</id>
+    <title>https://github.com/alicevision/Meshroom</title>
+    <link href="https://github.com/alicevision/Meshroom" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Node-based Visual Programming Toolbox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/status-desktop#1749168000</id>
+    <title>https://github.com/status-im/status-desktop</title>
+    <link href="https://github.com/status-im/status-desktop" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Status Desktop client made in Nim &amp; QML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vinceliuice/WhiteSur-kde#1749168000</id>
+    <title>https://github.com/vinceliuice/WhiteSur-kde</title>
+    <link href="https://github.com/vinceliuice/WhiteSur-kde" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">MacOS big sur theme for kde plasma</content>
+  </entry>
+</feed>

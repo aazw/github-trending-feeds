@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/objective-c++/daily.atom</id>
+  <title>GitHub Trending - objective-c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/KhronosGroup/MoltenVK#1749168000</id>
+    <title>https://github.com/KhronosGroup/MoltenVK</title>
+    <link href="https://github.com/KhronosGroup/MoltenVK" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lessica/TrollRecorder#1749168000</id>
+    <title>https://github.com/Lessica/TrollRecorder</title>
+    <link href="https://github.com/Lessica/TrollRecorder" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">(i18n/CLI) Not the first, but the best phone call recorder with TrollStore.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/callstackincubator/ai#1749168000</id>
+    <title>https://github.com/callstackincubator/ai</title>
+    <link href="https://github.com/callstackincubator/ai" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">On-device LLM execution in React Native with Vercel AI SDK compatibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookarchive/pop#1749168000</id>
+    <title>https://github.com/facebookarchive/pop</title>
+    <link href="https://github.com/facebookarchive/pop" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An extensible iOS and OS X animation library, useful for physics-based interactions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gree/unity-webview#1749168000</id>
+    <title>https://github.com/gree/unity-webview</title>
+    <link href="https://github.com/gree/unity-webview" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/pocketsvg/PocketSVG#1749168000</id>
+    <title>https://github.com/pocketsvg/PocketSVG</title>
+    <link href="https://github.com/pocketsvg/PocketSVG" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yasirkula/UnityNativeGallery#1749168000</id>
+    <title>https://github.com/yasirkula/UnityNativeGallery</title>
+    <link href="https://github.com/yasirkula/UnityNativeGallery" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A native Unity plugin to interact with Gallery/Photos on Android &amp; iOS (save and/or load images/videos)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zoontek/react-native-permissions#1749168000</id>
+    <title>https://github.com/zoontek/react-native-permissions</title>
+    <link href="https://github.com/zoontek/react-native-permissions" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An unified permissions API for React Native on iOS, Android and Windows.</content>
+  </entry>
+</feed>

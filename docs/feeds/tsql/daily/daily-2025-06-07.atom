@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tsql/daily.atom</id>
+  <title>GitHub Trending - tsql (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tsql/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amachanic/sp_whoisactive#1749168000</id>
+    <title>https://github.com/amachanic/sp_whoisactive</title>
+    <link href="https://github.com/amachanic/sp_whoisactive" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">sp_whoisactive</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cisagov/cset#1749168000</id>
+    <title>https://github.com/cisagov/cset</title>
+    <link href="https://github.com/cisagov/cset" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Cybersecurity Evaluation Tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/fhir-server#1749168000</id>
+    <title>https://github.com/microsoft/fhir-server</title>
+    <link href="https://github.com/microsoft/fhir-server" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A service that implements the FHIR standard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/umbraco/UmbracoDocs#1749168000</id>
+    <title>https://github.com/umbraco/UmbracoDocs</title>
+    <link href="https://github.com/umbraco/UmbracoDocs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The official Umbraco Documentation</content>
+  </entry>
+</feed>

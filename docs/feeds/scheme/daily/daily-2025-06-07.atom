@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scheme/daily.atom</id>
+  <title>GitHub Trending - scheme (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scheme/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/totvs/tds-vscode#1749168000</id>
+    <title>https://github.com/totvs/tds-vscode</title>
+    <link href="https://github.com/totvs/tds-vscode" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Totvs Developer Studio for vscode</content>
+  </entry>
+</feed>

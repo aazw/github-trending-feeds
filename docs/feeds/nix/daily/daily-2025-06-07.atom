@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Mic92/sops-nix#1749168000</id>
+    <title>https://github.com/Mic92/sops-nix</title>
+    <link href="https://github.com/Mic92/sops-nix" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Atomic secret provisioning for NixOS based on sops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Misterio77/nix-starter-configs#1749168000</id>
+    <title>https://github.com/Misterio77/nix-starter-configs</title>
+    <link href="https://github.com/Misterio77/nix-starter-configs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nix.dev#1749168000</id>
+    <title>https://github.com/NixOS/nix.dev</title>
+    <link href="https://github.com/NixOS/nix.dev" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Official documentation for getting things done with Nix.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1749168000</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cachix/devenv#1749168000</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaotic-cx/nyx#1749168000</id>
+    <title>https://github.com/chaotic-cx/nyx</title>
+    <link href="https://github.com/chaotic-cx/nyx" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixOS-WSL#1749168000</id>
+    <title>https://github.com/nix-community/NixOS-WSL</title>
+    <link href="https://github.com/nix-community/NixOS-WSL" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">NixOS on WSL [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1749168000</id>
+    <title>https://github.com/nix-community/disko</title>
+    <link href="https://github.com/nix-community/disko" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/fenix#1749168000</id>
+    <title>https://github.com/nix-community/fenix</title>
+    <link href="https://github.com/nix-community/fenix" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @zmitchell]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/infra#1749168000</id>
+    <title>https://github.com/nix-community/infra</title>
+    <link href="https://github.com/nix-community/infra" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">nix-community infrastructure [maintainer=@zowoq]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nix-on-droid#1749168000</id>
+    <title>https://github.com/nix-community/nix-on-droid</title>
+    <link href="https://github.com/nix-community/nix-on-droid" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1749168000</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/stylix#1749168000</id>
+    <title>https://github.com/nix-community/stylix</title>
+    <link href="https://github.com/nix-community/stylix" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/notthebee/nix-config#1749168000</id>
+    <title>https://github.com/notthebee/nix-config</title>
+    <link href="https://github.com/notthebee/nix-config" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Configuration files for my NixOS and nix-darwin machines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryantm/agenix#1749168000</id>
+    <title>https://github.com/ryantm/agenix</title>
+    <link href="https://github.com/ryantm/agenix" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">age-encrypted secrets for NixOS and Home manager</content>
+  </entry>
+</feed>

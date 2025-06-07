@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BerriAI/litellm#1749168000</id>
+    <title>https://github.com/BerriAI/litellm</title>
+    <link href="https://github.com/BerriAI/litellm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HKUDS/LightRAG#1749168000</id>
+    <title>https://github.com/HKUDS/LightRAG</title>
+    <link href="https://github.com/HKUDS/LightRAG" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">"LightRAG: Simple and Fast Retrieval-Augmented Generation"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PKU-YuanGroup/UniWorld-V1#1749168000</id>
+    <title>https://github.com/PKU-YuanGroup/UniWorld-V1</title>
+    <link href="https://github.com/PKU-YuanGroup/UniWorld-V1" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Significant-Gravitas/AutoGPT#1749168000</id>
+    <title>https://github.com/Significant-Gravitas/AutoGPT</title>
+    <link href="https://github.com/Significant-Gravitas/AutoGPT" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coleam00/Archon#1749168000</id>
+    <title>https://github.com/coleam00/Archon</title>
+    <link href="https://github.com/coleam00/Archon" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepsense-ai/ragbits#1749168000</id>
+    <title>https://github.com/deepsense-ai/ragbits</title>
+    <link href="https://github.com/deepsense-ai/ragbits" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Building blocks for rapid development of GenAI applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fishaudio/fish-speech#1749168000</id>
+    <title>https://github.com/fishaudio/fish-speech</title>
+    <link href="https://github.com/fishaudio/fish-speech" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">SOTA Open Source TTS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frdel/agent-zero#1749168000</id>
+    <title>https://github.com/frdel/agent-zero</title>
+    <link href="https://github.com/frdel/agent-zero" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Agent Zero AI framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/lerobot#1749168000</id>
+    <title>https://github.com/huggingface/lerobot</title>
+    <link href="https://github.com/huggingface/lerobot" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lastmile-ai/mcp-agent#1749168000</id>
+    <title>https://github.com/lastmile-ai/mcp-agent</title>
+    <link href="https://github.com/lastmile-ai/mcp-agent" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Build effective agents using Model Context Protocol and simple workflow patterns</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nautechsystems/nautilus_trader#1749168000</id>
+    <title>https://github.com/nautechsystems/nautilus_trader</title>
+    <link href="https://github.com/nautechsystems/nautilus_trader" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A high-performance algorithmic trading platform and event-driven backtester</content>
+  </entry>
+  <entry>
+    <id>https://github.com/psf/black#1749168000</id>
+    <title>https://github.com/psf/black</title>
+    <link href="https://github.com/psf/black" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The uncompromising Python code formatter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pytorch/pytorch#1749168000</id>
+    <title>https://github.com/pytorch/pytorch</title>
+    <link href="https://github.com/pytorch/pytorch" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Tensors and Dynamic neural networks in Python with strong GPU acceleration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/real-stanford/diffusion_policy#1749168000</id>
+    <title>https://github.com/real-stanford/diffusion_policy</title>
+    <link href="https://github.com/real-stanford/diffusion_policy" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scrapy/scrapy#1749168000</id>
+    <title>https://github.com/scrapy/scrapy</title>
+    <link href="https://github.com/scrapy/scrapy" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Scrapy, a fast high-level web crawling &amp; scraping framework for Python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stanfordnlp/dspy#1749168000</id>
+    <title>https://github.com/stanfordnlp/dspy</title>
+    <link href="https://github.com/stanfordnlp/dspy" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">DSPy: The framework for programming—not prompting—language models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swisskyrepo/PayloadsAllTheThings#1749168000</id>
+    <title>https://github.com/swisskyrepo/PayloadsAllTheThings</title>
+    <link href="https://github.com/swisskyrepo/PayloadsAllTheThings" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A list of useful payloads and bypass for Web Application Security and Pentest/CTF</content>
+  </entry>
+  <entry>
+    <id>https://github.com/topoteretes/cognee#1749168000</id>
+    <title>https://github.com/topoteretes/cognee</title>
+    <link href="https://github.com/topoteretes/cognee" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Memory for AI Agents in 5 lines of code</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AnswerDotAI/fasthtml#1749168000</id>
+    <title>https://github.com/AnswerDotAI/fasthtml</title>
+    <link href="https://github.com/AnswerDotAI/fasthtml" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The fastest way to create an HTML app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lifelong-Robot-Learning/LIBERO#1749168000</id>
+    <title>https://github.com/Lifelong-Robot-Learning/LIBERO</title>
+    <link href="https://github.com/Lifelong-Robot-Learning/LIBERO" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Benchmarking Knowledge Transfer in Lifelong Robot Learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1749168000</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/RAG_Techniques#1749168000</id>
+    <title>https://github.com/NirDiamant/RAG_Techniques</title>
+    <link href="https://github.com/NirDiamant/RAG_Techniques" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen2.5-VL#1749168000</id>
+    <title>https://github.com/QwenLM/Qwen2.5-VL</title>
+    <link href="https://github.com/QwenLM/Qwen2.5-VL" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WongKinYiu/yolov7#1749168000</id>
+    <title>https://github.com/WongKinYiu/yolov7</title>
+    <link href="https://github.com/WongKinYiu/yolov7" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/superset#1749168000</id>
+    <title>https://github.com/apache/superset</title>
+    <link href="https://github.com/apache/superset" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Apache Superset is a Data Visualization and Data Exploration Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/easy-rl#1749168000</id>
+    <title>https://github.com/datawhalechina/easy-rl</title>
+    <link href="https://github.com/datawhalechina/easy-rl" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1749168000</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dusty-nv/jetson-containers#1749168000</id>
+    <title>https://github.com/dusty-nv/jetson-containers</title>
+    <link href="https://github.com/dusty-nv/jetson-containers" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Machine Learning Containers for NVIDIA Jetson and JetPack-L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/segment-anything#1749168000</id>
+    <title>https://github.com/facebookresearch/segment-anything</title>
+    <link href="https://github.com/facebookresearch/segment-anything" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-deepmind/deepmind-research#1749168000</id>
+    <title>https://github.com/google-deepmind/deepmind-research</title>
+    <link href="https://github.com/google-deepmind/deepmind-research" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repository contains implementations and illustrative code to accompany DeepMind publications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackfrued/Python-100-Days#1749168000</id>
+    <title>https://github.com/jackfrued/Python-100-Days</title>
+    <link href="https://github.com/jackfrued/Python-100-Days" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Python - 100天从新手到大师</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/gateway-api-inference-extension#1749168000</id>
+    <title>https://github.com/kubernetes-sigs/gateway-api-inference-extension</title>
+    <link href="https://github.com/kubernetes-sigs/gateway-api-inference-extension" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Gateway API Inference Extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1749168000</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rasbt/LLMs-from-scratch#1749168000</id>
+    <title>https://github.com/rasbt/LLMs-from-scratch</title>
+    <link href="https://github.com/rasbt/LLMs-from-scratch" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Implement a ChatGPT-like LLM in PyTorch from scratch, step by step</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python#1749168000</id>
+    <title>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</title>
+    <link href="https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unslothai/notebooks#1749168000</id>
+    <title>https://github.com/unslothai/notebooks</title>
+    <link href="https://github.com/unslothai/notebooks" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.</content>
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom</id>
+  <title>GitHub Trending - tcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Digilent/digilent-xdc#1749168000</id>
+    <title>https://github.com/Digilent/digilent-xdc</title>
+    <link href="https://github.com/Digilent/digilent-xdc" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of Master XDC files for Digilent FPGA and Zynq boards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Digilent/vivado-boards#1749168000</id>
+    <title>https://github.com/Digilent/vivado-boards</title>
+    <link href="https://github.com/Digilent/vivado-boards" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/device-tree-xlnx#1749168000</id>
+    <title>https://github.com/Xilinx/device-tree-xlnx</title>
+    <link href="https://github.com/Xilinx/device-tree-xlnx" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Linux device tree generator for the Xilinx SDK (Vivado &gt; 2014.1)</content>
+  </entry>
+</feed>

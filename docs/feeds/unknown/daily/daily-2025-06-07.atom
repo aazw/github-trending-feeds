@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom</id>
+  <title>GitHub Trending - unknown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CocoaPods/Specs#1749168000</id>
+    <title>https://github.com/CocoaPods/Specs</title>
+    <link href="https://github.com/CocoaPods/Specs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The CocoaPods Master Repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KenneyNL/Adobe-Alternatives#1749168000</id>
+    <title>https://github.com/KenneyNL/Adobe-Alternatives</title>
+    <link href="https://github.com/KenneyNL/Adobe-Alternatives" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A list of alternatives for Adobe software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SimplifyJobs/New-Grad-Positions#1749168000</id>
+    <title>https://github.com/SimplifyJobs/New-Grad-Positions</title>
+    <link href="https://github.com/SimplifyJobs/New-Grad-Positions" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of full time roles in SWE, Quant, and PM for new grads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SimplifyJobs/Summer2025-Internships#1749168000</id>
+    <title>https://github.com/SimplifyJobs/Summer2025-Internships</title>
+    <link href="https://github.com/SimplifyJobs/Summer2025-Internships" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Collection of Summer 2025 tech internships!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/friuns2/BlackFriday-GPTs-Prompts#1749168000</id>
+    <title>https://github.com/friuns2/BlackFriday-GPTs-Prompts</title>
+    <link href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">List of free GPTs that doesn't require plus subscription</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwasham/coding-interview-university#1749168000</id>
+    <title>https://github.com/jwasham/coding-interview-university</title>
+    <link href="https://github.com/jwasham/coding-interview-university" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A complete computer science study plan to become a software engineer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-copilot-release#1749168000</id>
+    <title>https://github.com/microsoft/vscode-copilot-release</title>
+    <link href="https://github.com/microsoft/vscode-copilot-release" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Feedback on GitHub Copilot Chat UX in Visual Studio Code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milanm/DevOps-Roadmap#1749168000</id>
+    <title>https://github.com/milanm/DevOps-Roadmap</title>
+    <link href="https://github.com/milanm/DevOps-Roadmap" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">DevOps Roadmap for 2025. with learning resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mlabonne/llm-course#1749168000</id>
+    <title>https://github.com/mlabonne/llm-course</title>
+    <link href="https://github.com/mlabonne/llm-course" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/practical-tutorials/project-based-learning#1749168000</id>
+    <title>https://github.com/practical-tutorials/project-based-learning</title>
+    <link href="https://github.com/practical-tutorials/project-based-learning" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Curated list of project-based tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/punkpeye/awesome-mcp-servers#1749168000</id>
+    <title>https://github.com/punkpeye/awesome-mcp-servers</title>
+    <link href="https://github.com/punkpeye/awesome-mcp-servers" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of MCP servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skills/hello-github-actions#1749168000</id>
+    <title>https://github.com/skills/hello-github-actions</title>
+    <link href="https://github.com/skills/hello-github-actions" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Create a GitHub Action and use it in a workflow.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skills/introduction-to-github#1749168000</id>
+    <title>https://github.com/skills/introduction-to-github</title>
+    <link href="https://github.com/skills/introduction-to-github" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Get started using GitHub in less than an hour.</content>
+  </entry>
+</feed>

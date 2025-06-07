@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom</id>
+  <title>GitHub Trending - gherkin (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NHSDigital/personal-demographics-service-api#1749168000</id>
+    <title>https://github.com/NHSDigital/personal-demographics-service-api</title>
+    <link href="https://github.com/NHSDigital/personal-demographics-service-api" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Specifications for NHS Digital APIs provided on the API Management Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sdkman/sdkman-cli#1749168000</id>
+    <title>https://github.com/sdkman/sdkman-cli</title>
+    <link href="https://github.com/sdkman/sdkman-cli" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The SDKMAN! Command Line Interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/search-replace-command#1749168000</id>
+    <title>https://github.com/wp-cli/search-replace-command</title>
+    <link href="https://github.com/wp-cli/search-replace-command" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Searches/replaces strings in the database.</content>
+  </entry>
+</feed>

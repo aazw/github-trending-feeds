@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom</id>
+  <title>GitHub Trending - systemverilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/adam-maj/tiny-gpu#1749168000</id>
+    <title>https://github.com/adam-maj/tiny-gpu</title>
+    <link href="https://github.com/adam-maj/tiny-gpu" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/ibex#1749168000</id>
+    <title>https://github.com/lowRISC/ibex</title>
+    <link href="https://github.com/lowRISC/ibex" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/opentitan#1749168000</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/cheriot-ibex#1749168000</id>
+    <title>https://github.com/microsoft/cheriot-ibex</title>
+    <link href="https://github.com/microsoft/cheriot-ibex" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">cheriot-ibex is a RTL implementation of CHERIoT ISA based on LowRISC's Ibex core.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cvw#1749168000</id>
+    <title>https://github.com/openhwgroup/cvw</title>
+    <link href="https://github.com/openhwgroup/cvw" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi#1749168000</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+</feed>

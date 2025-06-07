@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/svg/daily.atom</id>
+  <title>GitHub Trending - svg (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/svg/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tandpfun/skill-icons#1749168000</id>
+    <title>https://github.com/tandpfun/skill-icons</title>
+    <link href="https://github.com/tandpfun/skill-icons" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Showcase your skills on your Github readme or resumé with ease ✨</content>
+  </entry>
+</feed>

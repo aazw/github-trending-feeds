@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom</id>
+  <title>GitHub Trending - clojure (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/clj-kondo/clj-kondo#1749168000</id>
+    <title>https://github.com/clj-kondo/clj-kondo</title>
+    <link href="https://github.com/clj-kondo/clj-kondo" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Static analyzer and linter for Clojure code that sparks joy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cognitect-labs/test-runner#1749168000</id>
+    <title>https://github.com/cognitect-labs/test-runner</title>
+    <link href="https://github.com/cognitect-labs/test-runner" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A test runner for clojure.test</content>
+  </entry>
+  <entry>
+    <id>https://github.com/logseq/logseq#1749168000</id>
+    <title>https://github.com/logseq/logseq</title>
+    <link href="https://github.com/logseq/logseq" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metabase/metabase#1749168000</id>
+    <title>https://github.com/metabase/metabase</title>
+    <link href="https://github.com/metabase/metabase" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊</content>
+  </entry>
+  <entry>
+    <id>https://github.com/penpot/penpot#1749168000</id>
+    <title>https://github.com/penpot/penpot</title>
+    <link href="https://github.com/penpot/penpot" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tonsky/FiraCode#1749168000</id>
+    <title>https://github.com/tonsky/FiraCode</title>
+    <link href="https://github.com/tonsky/FiraCode" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Free monospaced font with programming ligatures</content>
+  </entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cap-cds/daily.atom</id>
+  <title>GitHub Trending - cap-cds (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cap-cds/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SAP-samples/fiori-elements-feature-showcase#1749168000</id>
+    <title>https://github.com/SAP-samples/fiori-elements-feature-showcase</title>
+    <link href="https://github.com/SAP-samples/fiori-elements-feature-showcase" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Sample application that demonstrates and documents a broad variety of features of SAP Fiori elements for OData V4. Developers can play around with the new features and learn how to implement them.</content>
+  </entry>
+</feed>

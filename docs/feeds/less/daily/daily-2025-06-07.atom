@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/less/daily.atom</id>
+  <title>GitHub Trending - less (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/less/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Remix-Design/RemixIcon#1749168000</id>
+    <title>https://github.com/Remix-Design/RemixIcon</title>
+    <link href="https://github.com/Remix-Design/RemixIcon" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Open source neutral style icon system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/userstyles#1749168000</id>
+    <title>https://github.com/catppuccin/userstyles</title>
+    <link href="https://github.com/catppuccin/userstyles" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🖌 Soothing pastel userstyles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jerrykuku/luci-theme-argon#1749168000</id>
+    <title>https://github.com/jerrykuku/luci-theme-argon</title>
+    <link href="https://github.com/jerrykuku/luci-theme-argon" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.</content>
+  </entry>
+</feed>

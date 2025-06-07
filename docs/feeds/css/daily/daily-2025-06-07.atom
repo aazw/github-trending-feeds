@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom</id>
+  <title>GitHub Trending - css (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Diolinux/PhotoGIMP#1749168000</id>
+    <title>https://github.com/Diolinux/PhotoGIMP</title>
+    <link href="https://github.com/Diolinux/PhotoGIMP" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A Patch for GIMP 3+ for Photoshop Users</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Zproger/bspwm-dotfiles#1749168000</id>
+    <title>https://github.com/Zproger/bspwm-dotfiles</title>
+    <link href="https://github.com/Zproger/bspwm-dotfiles" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A minimalistic Arch Linux build that is designed to make your development easier and faster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/animate-css/animate.css#1749168000</id>
+    <title>https://github.com/animate-css/animate.css</title>
+    <link href="https://github.com/animate-css/animate.css" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dhg/Skeleton#1749168000</id>
+    <title>https://github.com/dhg/Skeleton</title>
+    <link href="https://github.com/dhg/Skeleton" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgthms/bulma#1749168000</id>
+    <title>https://github.com/jgthms/bulma</title>
+    <link href="https://github.com/jgthms/bulma" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Modern CSS framework based on Flexbox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jothepro/doxygen-awesome-css#1749168000</id>
+    <title>https://github.com/jothepro/doxygen-awesome-css</title>
+    <link href="https://github.com/jothepro/doxygen-awesome-css" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Custom CSS theme for doxygen html-documentation with lots of customization parameters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/picocss/pico#1749168000</id>
+    <title>https://github.com/picocss/pico</title>
+    <link href="https://github.com/picocss/pico" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Minimal CSS Framework for semantic HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primefaces/primereact#1749168000</id>
+    <title>https://github.com/primefaces/primereact</title>
+    <link href="https://github.com/primefaces/primereact" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Most Complete React UI Component Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primefaces/primevue-examples#1749168000</id>
+    <title>https://github.com/primefaces/primevue-examples</title>
+    <link href="https://github.com/primefaces/primevue-examples" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">PrimeVue Example Projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/refact0r/midnight-discord#1749168000</id>
+    <title>https://github.com/refact0r/midnight-discord</title>
+    <link href="https://github.com/refact0r/midnight-discord" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">a dark, customizable discord theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-petclinic#1749168000</id>
+    <title>https://github.com/spring-projects/spring-petclinic</title>
+    <link href="https://github.com/spring-projects/spring-petclinic" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A sample Spring-based application</content>
+  </entry>
+  <entry>
+    <id>https://github.com/themesberg/flowbite-svelte#1749168000</id>
+    <title>https://github.com/themesberg/flowbite-svelte</title>
+    <link href="https://github.com/themesberg/flowbite-svelte" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Official Svelte components built for Flowbite and Tailwind CSS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yakimka/python_interview_questions#1749168000</id>
+    <title>https://github.com/yakimka/python_interview_questions</title>
+    <link href="https://github.com/yakimka/python_interview_questions" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Вопросы для подготовки к интервью на позицию Python Developer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zalando/restful-api-guidelines#1749168000</id>
+    <title>https://github.com/zalando/restful-api-guidelines</title>
+    <link href="https://github.com/zalando/restful-api-guidelines" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A model set of guidelines for RESTful APIs and Events, created by Zalando</content>
+  </entry>
+</feed>

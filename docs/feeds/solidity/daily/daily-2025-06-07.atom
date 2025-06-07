@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/solidity/daily.atom</id>
+  <title>GitHub Trending - solidity (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/solidity/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AmazingAng/WTF-Solidity#1749168000</id>
+    <title>https://github.com/AmazingAng/WTF-Solidity</title>
+    <link href="https://github.com/AmazingAng/WTF-Solidity" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Layr-Labs/eigenlayer-contracts#1749168000</id>
+    <title>https://github.com/Layr-Labs/eigenlayer-contracts</title>
+    <link href="https://github.com/Layr-Labs/eigenlayer-contracts" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Contracts of EigenLayer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MetaMask/delegation-framework#1749168000</id>
+    <title>https://github.com/MetaMask/delegation-framework</title>
+    <link href="https://github.com/MetaMask/delegation-framework" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The contracts that power the Delegation Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1749168000</id>
+    <title>https://github.com/OpenZeppelin/openzeppelin-contracts</title>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades#1749168000</id>
+    <title>https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades</title>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Foundry library for deploying and managing upgradeable contracts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaulRBerg/prb-math#1749168000</id>
+    <title>https://github.com/PaulRBerg/prb-math</title>
+    <link href="https://github.com/PaulRBerg/prb-math" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Solidity library for advanced fixed-point math</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ProjectOpenSea/seaport#1749168000</id>
+    <title>https://github.com/ProjectOpenSea/seaport</title>
+    <link href="https://github.com/ProjectOpenSea/seaport" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/v2-periphery#1749168000</id>
+    <title>https://github.com/Uniswap/v2-periphery</title>
+    <link href="https://github.com/Uniswap/v2-periphery" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🎚 Peripheral smart contracts for interacting with Uniswap V2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Vectorized/solady#1749168000</id>
+    <title>https://github.com/Vectorized/solady</title>
+    <link href="https://github.com/Vectorized/solady" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Optimized Solidity snippets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aave-dao/aave-v3-origin#1749168000</id>
+    <title>https://github.com/aave-dao/aave-v3-origin</title>
+    <link href="https://github.com/aave-dao/aave-v3-origin" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Aave v3.3 protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bnb-chain/BEPs#1749168000</id>
+    <title>https://github.com/bnb-chain/BEPs</title>
+    <link href="https://github.com/bnb-chain/BEPs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">BNB Evolution Proposals</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cowprotocol/contracts#1749168000</id>
+    <title>https://github.com/cowprotocol/contracts</title>
+    <link href="https://github.com/cowprotocol/contracts" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Smart contracts for the Gnosis Protocol v2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dapphub/ds-test#1749168000</id>
+    <title>https://github.com/dapphub/ds-test</title>
+    <link href="https://github.com/dapphub/ds-test" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Assertions, equality checks and other test helpers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/ERCs#1749168000</id>
+    <title>https://github.com/ethereum/ERCs</title>
+    <link href="https://github.com/ethereum/ERCs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Ethereum Request for Comment repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/forge-std#1749168000</id>
+    <title>https://github.com/foundry-rs/forge-std</title>
+    <link href="https://github.com/foundry-rs/forge-std" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/transmissions11/solmate#1749168000</id>
+    <title>https://github.com/transmissions11/solmate</title>
+    <link href="https://github.com/transmissions11/solmate" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Modern, opinionated, and gas optimized building blocks for smart contract development.</content>
+  </entry>
+</feed>

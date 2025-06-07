@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/llvm/daily.atom</id>
+  <title>GitHub Trending - llvm (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/llvm/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/KomiMoe/Arkari#1749168000</id>
+    <title>https://github.com/KomiMoe/Arkari</title>
+    <link href="https://github.com/KomiMoe/Arkari" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Yet another llvm based obfuscator based on goron.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arm/arm-toolchain#1749168000</id>
+    <title>https://github.com/arm/arm-toolchain</title>
+    <link href="https://github.com/arm/arm-toolchain" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/intel/llvm#1749168000</id>
+    <title>https://github.com/intel/llvm</title>
+    <link href="https://github.com/intel/llvm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/llvm/llvm-project#1749168000</id>
+    <title>https://github.com/llvm/llvm-project</title>
+    <link href="https://github.com/llvm/llvm-project" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</content>
+  </entry>
+</feed>

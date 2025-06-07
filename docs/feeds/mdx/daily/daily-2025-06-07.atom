@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mdx/daily.atom</id>
+  <title>GitHub Trending - mdx (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mdx/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/YunoHost/doc#1749168000</id>
+    <title>https://github.com/YunoHost/doc</title>
+    <link href="https://github.com/YunoHost/doc" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">YunoHost documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aptos-labs/developer-docs#1749168000</id>
+    <title>https://github.com/aptos-labs/developer-docs</title>
+    <link href="https://github.com/aptos-labs/developer-docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Source for the Aptos developer docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ava-labs/builders-hub#1749168000</id>
+    <title>https://github.com/ava-labs/builders-hub</title>
+    <link href="https://github.com/ava-labs/builders-hub" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Avalanche Builders Hub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/base/web#1749168000</id>
+    <title>https://github.com/base/web</title>
+    <link href="https://github.com/base/web" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bluesky-social/atproto-website#1749168000</id>
+    <title>https://github.com/bluesky-social/atproto-website</title>
+    <link href="https://github.com/bluesky-social/atproto-website" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cpinitiative/usaco-guide#1749168000</id>
+    <title>https://github.com/cpinitiative/usaco-guide</title>
+    <link href="https://github.com/cpinitiative/usaco-guide" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dair-ai/Prompt-Engineering-Guide#1749168000</id>
+    <title>https://github.com/dair-ai/Prompt-Engineering-Guide</title>
+    <link href="https://github.com/dair-ai/Prompt-Engineering-Guide" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/e2b-dev/code-interpreter#1749168000</id>
+    <title>https://github.com/e2b-dev/code-interpreter</title>
+    <link href="https://github.com/e2b-dev/code-interpreter" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Python &amp; JS/TS SDK for running AI-generated code/code interpreting in your AI app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/docs#1749168000</id>
+    <title>https://github.com/ethereum-optimism/docs</title>
+    <link href="https://github.com/ethereum-optimism/docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Optimism Developer Docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/sentry-docs#1749168000</id>
+    <title>https://github.com/getsentry/sentry-docs</title>
+    <link href="https://github.com/getsentry/sentry-docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Sentry's documentation (and tools to build it)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/deep-rl-class#1749168000</id>
+    <title>https://github.com/huggingface/deep-rl-class</title>
+    <link href="https://github.com/huggingface/deep-rl-class" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">This repo contains the Hugging Face Deep Reinforcement Learning Course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meshtastic/meshtastic#1749168000</id>
+    <title>https://github.com/meshtastic/meshtastic</title>
+    <link href="https://github.com/meshtastic/meshtastic" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Meshtastic project website and documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/playwright.dev#1749168000</id>
+    <title>https://github.com/microsoft/playwright.dev</title>
+    <link href="https://github.com/microsoft/playwright.dev" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Documentation website for Playwright</content>
+  </entry>
+  <entry>
+    <id>https://github.com/newrelic/docs-website#1749168000</id>
+    <title>https://github.com/newrelic/docs-website</title>
+    <link href="https://github.com/newrelic/docs-website" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Source code for @newrelic docs. We welcome pull requests and questions on our docs!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ngrok/ngrok-docs#1749168000</id>
+    <title>https://github.com/ngrok/ngrok-docs</title>
+    <link href="https://github.com/ngrok/ngrok-docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">ngrok's official documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-cookbook#1749168000</id>
+    <title>https://github.com/openai/openai-cookbook</title>
+    <link href="https://github.com/openai/openai-cookbook" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Examples and guides for using the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainbow-me/rainbowkit#1749168000</id>
+    <title>https://github.com/rainbow-me/rainbowkit</title>
+    <link href="https://github.com/rainbow-me/rainbowkit" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The best way to connect a wallet 🌈 🧰</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri-docs#1749168000</id>
+    <title>https://github.com/tauri-apps/tauri-docs</title>
+    <link href="https://github.com/tauri-apps/tauri-docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The source for all Tauri project documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twbs/bootstrap#1749168000</id>
+    <title>https://github.com/twbs/bootstrap</title>
+    <link href="https://github.com/twbs/bootstrap" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uidotdev/usehooks#1749168000</id>
+    <title>https://github.com/uidotdev/usehooks</title>
+    <link href="https://github.com/uidotdev/usehooks" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A collection of modern, server-safe React hooks – from the ui.dev team</content>
+  </entry>
+</feed>

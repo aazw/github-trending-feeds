@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Glimesh/broadcast-box#1749168000</id>
+    <title>https://github.com/Glimesh/broadcast-box</title>
+    <link href="https://github.com/Glimesh/broadcast-box" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A broadcast, in a box.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akuity/kargo#1749168000</id>
+    <title>https://github.com/akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Application lifecycle orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1749168000</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1749168000</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1749168000</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/karpenter-provider-aws#1749168000</id>
+    <title>https://github.com/aws/karpenter-provider-aws</title>
+    <link href="https://github.com/aws/karpenter-provider-aws" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coredns/coredns#1749168000</id>
+    <title>https://github.com/coredns/coredns</title>
+    <link href="https://github.com/coredns/coredns" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">CoreDNS is a DNS server that chains plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1749168000</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gocolly/colly#1749168000</id>
+    <title>https://github.com/gocolly/colly</title>
+    <link href="https://github.com/gocolly/colly" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Elegant Scraper and Crawler Framework for Golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goharbor/harbor#1749168000</id>
+    <title>https://github.com/goharbor/harbor</title>
+    <link href="https://github.com/goharbor/harbor" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An open source trusted cloud native registry project that stores, signs, and scans content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-api-go-client#1749168000</id>
+    <title>https://github.com/googleapis/google-api-go-client</title>
+    <link href="https://github.com/googleapis/google-api-go-client" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Auto-generated Google APIs for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gophish/gophish#1749168000</id>
+    <title>https://github.com/gophish/gophish</title>
+    <link href="https://github.com/gophish/gophish" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Open-Source Phishing Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gravitational/teleport#1749168000</id>
+    <title>https://github.com/gravitational/teleport</title>
+    <link href="https://github.com/gravitational/teleport" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The easiest, and most secure way to access and protect all of your infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1749168000</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1749168000</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1749168000</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Configure external DNS servers dynamically from Kubernetes resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1749168000</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-plugin-daemon#1749168000</id>
+    <title>https://github.com/langgenius/dify-plugin-daemon</title>
+    <link href="https://github.com/langgenius/dify-plugin-daemon" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1749168000</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1749168000</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentofu/opentofu#1749168000</id>
+    <title>https://github.com/opentofu/opentofu</title>
+    <link href="https://github.com/opentofu/opentofu" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">OpenTofu lets you declaratively manage your cloud infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pion/webrtc#1749168000</id>
+    <title>https://github.com/pion/webrtc</title>
+    <link href="https://github.com/pion/webrtc" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Pure Go implementation of the WebRTC API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadow1ng/fscan#1749168000</id>
+    <title>https://github.com/shadow1ng/fscan</title>
+    <link href="https://github.com/shadow1ng/fscan" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</content>
+  </entry>
+</feed>

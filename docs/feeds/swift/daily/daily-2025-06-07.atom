@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom</id>
+  <title>GitHub Trending - swift (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alamofire/Alamofire#1749168000</id>
+    <title>https://github.com/Alamofire/Alamofire</title>
+    <link href="https://github.com/Alamofire/Alamofire" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Elegant HTTP Networking in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AzureAD/microsoft-authentication-library-for-objc#1749168000</id>
+    <title>https://github.com/AzureAD/microsoft-authentication-library-for-objc</title>
+    <link href="https://github.com/AzureAD/microsoft-authentication-library-for-objc" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Microsoft Authentication Library (MSAL) for iOS and macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/dd-sdk-ios#1749168000</id>
+    <title>https://github.com/DataDog/dd-sdk-ios</title>
+    <link href="https://github.com/DataDog/dd-sdk-ios" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Datadog SDK for iOS - Swift and Objective-C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airbnb/lottie-ios#1749168000</id>
+    <title>https://github.com/airbnb/lottie-ios</title>
+    <link href="https://github.com/airbnb/lottie-ios" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An iOS library to natively render After Effects vector animations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-nio#1749168000</id>
+    <title>https://github.com/apple/swift-nio</title>
+    <link href="https://github.com/apple/swift-nio" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/element-hq/element-x-ios#1749168000</id>
+    <title>https://github.com/element-hq/element-x-ios</title>
+    <link href="https://github.com/element-hq/element-x-ios" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/sentry-cocoa#1749168000</id>
+    <title>https://github.com/getsentry/sentry-cocoa</title>
+    <link href="https://github.com/getsentry/sentry-cocoa" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The official Sentry SDK for iOS, tvOS, macOS, watchOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gonzalezreal/swift-markdown-ui#1749168000</id>
+    <title>https://github.com/gonzalezreal/swift-markdown-ui</title>
+    <link href="https://github.com/gonzalezreal/swift-markdown-ui" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Display and customize Markdown text in SwiftUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/swift-sdk#1749168000</id>
+    <title>https://github.com/modelcontextprotocol/swift-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/swift-sdk" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The official Swift SDK for Model Context Protocol servers and clients. Maintained in collaboration with @loopwork-ai.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-composable-architecture#1749168000</id>
+    <title>https://github.com/pointfreeco/swift-composable-architecture</title>
+    <link href="https://github.com/pointfreeco/swift-composable-architecture" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-dependencies#1749168000</id>
+    <title>https://github.com/pointfreeco/swift-dependencies</title>
+    <link href="https://github.com/pointfreeco/swift-dependencies" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A dependency management library inspired by SwiftUI's "environment."</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-snapshot-testing#1749168000</id>
+    <title>https://github.com/pointfreeco/swift-snapshot-testing</title>
+    <link href="https://github.com/pointfreeco/swift-snapshot-testing" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">📸 Delightful Swift snapshot testing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rxhanson/Rectangle#1749168000</id>
+    <title>https://github.com/rxhanson/Rectangle</title>
+    <link href="https://github.com/rxhanson/Rectangle" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Move and resize windows on macOS with keyboard shortcuts and snap areas</content>
+  </entry>
+  <entry>
+    <id>https://github.com/securing/IOSSecuritySuite#1749168000</id>
+    <title>https://github.com/securing/IOSSecuritySuite</title>
+    <link href="https://github.com/securing/IOSSecuritySuite" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">iOS platform security &amp; anti-tampering Swift library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/siteline/swiftui-introspect#1749168000</id>
+    <title>https://github.com/siteline/swiftui-introspect</title>
+    <link href="https://github.com/siteline/swiftui-introspect" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Introspect underlying UIKit/AppKit components from SwiftUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift-syntax#1749168000</id>
+    <title>https://github.com/swiftlang/swift-syntax</title>
+    <link href="https://github.com/swiftlang/swift-syntax" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tuist/tuist#1749168000</id>
+    <title>https://github.com/tuist/tuist</title>
+    <link href="https://github.com/tuist/tuist" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A virtual platform team for mobile devs who ship</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vapor/vapor#1749168000</id>
+    <title>https://github.com/vapor/vapor</title>
+    <link href="https://github.com/vapor/vapor" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">💧 A server-side Swift HTTP web framework.</content>
+  </entry>
+</feed>

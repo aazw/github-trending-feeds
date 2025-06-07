@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/InfinityLoop1308/PipePipe#1749168000</id>
+    <title>https://github.com/InfinityLoop1308/PipePipe</title>
+    <link href="https://github.com/InfinityLoop1308/PipePipe" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Joshua-Riek/ubuntu-rockchip#1749168000</id>
+    <title>https://github.com/Joshua-Riek/ubuntu-rockchip</title>
+    <link href="https://github.com/Joshua-Riek/ubuntu-rockchip" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Ubuntu for Rockchip RK35XX Devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen3#1749168000</id>
+    <title>https://github.com/QwenLM/Qwen3</title>
+    <link href="https://github.com/QwenLM/Qwen3" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VSCodium/vscodium#1749168000</id>
+    <title>https://github.com/VSCodium/vscodium</title>
+    <link href="https://github.com/VSCodium/vscodium" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">binary releases of VS Code without MS branding/telemetry/licensing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/angristan/openvpn-install#1749168000</id>
+    <title>https://github.com/angristan/openvpn-install</title>
+    <link href="https://github.com/angristan/openvpn-install" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/claude-code#1749168000</id>
+    <title>https://github.com/anthropics/claude-code</title>
+    <link href="https://github.com/anthropics/claude-code" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/git-secrets#1749168000</id>
+    <title>https://github.com/awslabs/git-secrets</title>
+    <link href="https://github.com/awslabs/git-secrets" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Prevents you from committing secrets and credentials into git repositories</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dylanaraps/neofetch#1749168000</id>
+    <title>https://github.com/dylanaraps/neofetch</title>
+    <link href="https://github.com/dylanaraps/neofetch" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🖼️ A command-line system information tool written in bash 3.2+</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gpakosz/.tmux#1749168000</id>
+    <title>https://github.com/gpakosz/.tmux</title>
+    <link href="https://github.com/gpakosz/.tmux" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with 💛🩷💙🖤❤️🤍</content>
+  </entry>
+  <entry>
+    <id>https://github.com/graphql/graphql-spec#1749168000</id>
+    <title>https://github.com/graphql/graphql-spec</title>
+    <link href="https://github.com/graphql/graphql-spec" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">GraphQL is a query language and execution engine tied to any backend service.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laude-institute/terminal-bench#1749168000</id>
+    <title>https://github.com/laude-institute/terminal-bench</title>
+    <link href="https://github.com/laude-institute/terminal-bench" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A benchmark for LLMs on complicated tasks in the terminal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/longhorn/longhorn#1749168000</id>
+    <title>https://github.com/longhorn/longhorn</title>
+    <link href="https://github.com/longhorn/longhorn" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Cloud-Native distributed storage built on and for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moovweb/gvm#1749168000</id>
+    <title>https://github.com/moovweb/gvm</title>
+    <link href="https://github.com/moovweb/gvm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Go Version Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1749168000</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/orangepi-xunlong/orangepi-build#1749168000</id>
+    <title>https://github.com/orangepi-xunlong/orangepi-build</title>
+    <link href="https://github.com/orangepi-xunlong/orangepi-build" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Orange Pi build for H2+, H3, H5, H6, H616, RK3328, RK3399 and RK3588(s)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1749168000</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuaotian/go-cursor-help#1749168000</id>
+    <title>https://github.com/yuaotian/go-cursor-help</title>
+    <link href="https://github.com/yuaotian/go-cursor-help" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.</content>
+  </entry>
+</feed>

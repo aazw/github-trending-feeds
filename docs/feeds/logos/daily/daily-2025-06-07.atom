@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/logos/daily.atom</id>
+  <title>GitHub Trending - logos (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/logos/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/YTLitePlus/YTLitePlus#1749168000</id>
+    <title>https://github.com/YTLitePlus/YTLitePlus</title>
+    <link href="https://github.com/YTLitePlus/YTLitePlus" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dayanch96/YTLite#1749168000</id>
+    <title>https://github.com/dayanch96/YTLite</title>
+    <link href="https://github.com/dayanch96/YTLite" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A flexible enhancer for YouTube on iOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jjolano/shadow#1749168000</id>
+    <title>https://github.com/jjolano/shadow</title>
+    <link href="https://github.com/jjolano/shadow" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A jailbreak detection bypass for modern iOS jailbreaks.</content>
+  </entry>
+</feed>

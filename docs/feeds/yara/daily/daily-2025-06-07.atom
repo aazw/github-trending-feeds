@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/yara/daily.atom</id>
+  <title>GitHub Trending - yara (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/yara/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Neo23x0/signature-base#1749168000</id>
+    <title>https://github.com/Neo23x0/signature-base</title>
+    <link href="https://github.com/Neo23x0/signature-base" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">YARA signature and IOC database for my scanners and tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Yara-Rules/rules#1749168000</id>
+    <title>https://github.com/Yara-Rules/rules</title>
+    <link href="https://github.com/Yara-Rules/rules" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Repository of yara rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/protections-artifacts#1749168000</id>
+    <title>https://github.com/elastic/protections-artifacts</title>
+    <link href="https://github.com/elastic/protections-artifacts" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Elastic Security detection content for Endpoint</content>
+  </entry>
+</feed>

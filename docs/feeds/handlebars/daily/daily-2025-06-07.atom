@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/handlebars/daily.atom</id>
+  <title>GitHub Trending - handlebars (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/handlebars/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CrunchyData/postgres-operator-examples#1749168000</id>
+    <title>https://github.com/CrunchyData/postgres-operator-examples</title>
+    <link href="https://github.com/CrunchyData/postgres-operator-examples" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akeneo/pim-api-docs#1749168000</id>
+    <title>https://github.com/akeneo/pim-api-docs</title>
+    <link href="https://github.com/akeneo/pim-api-docs" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Akeneo Web API documentation (contributions are welcomed!)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/mdBook#1749168000</id>
+    <title>https://github.com/catppuccin/mdBook</title>
+    <link href="https://github.com/catppuccin/mdBook" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🎊 Soothing pastel theme for mdBook</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/integrations#1749168000</id>
+    <title>https://github.com/elastic/integrations</title>
+    <link href="https://github.com/elastic/integrations" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vscode-codicons#1749168000</id>
+    <title>https://github.com/microsoft/vscode-codicons</title>
+    <link href="https://github.com/microsoft/vscode-codicons" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The icon font for Visual Studio Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-unofficial/patterns#1749168000</id>
+    <title>https://github.com/rust-unofficial/patterns</title>
+    <link href="https://github.com/rust-unofficial/patterns" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A catalogue of Rust design patterns, anti-patterns and idioms</content>
+  </entry>
+</feed>

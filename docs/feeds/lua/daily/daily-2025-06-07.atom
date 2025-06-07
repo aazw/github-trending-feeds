@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Kong/kong#1749168000</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1749168000</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/apisix#1749168000</id>
+    <title>https://github.com/apache/apisix</title>
+    <link href="https://github.com/apache/apisix" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/b0o/incline.nvim#1749168000</id>
+    <title>https://github.com/b0o/incline.nvim</title>
+    <link href="https://github.com/b0o/incline.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🎈 Floating statuslines for Neovim, winbar alternative</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1749168000</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/flash.nvim#1749168000</id>
+    <title>https://github.com/folke/flash.nvim</title>
+    <link href="https://github.com/folke/flash.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Navigate your code with search labels, enhanced character motions and Treesitter integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1749168000</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/snacks.nvim#1749168000</id>
+    <title>https://github.com/folke/snacks.nvim</title>
+    <link href="https://github.com/folke/snacks.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">🍿 A collection of QoL plugins for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greggh/claude-code.nvim#1749168000</id>
+    <title>https://github.com/greggh/claude-code.nvim</title>
+    <link href="https://github.com/greggh/claude-code.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Seamless integration between Claude Code AI assistant and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/luarocks/luarocks#1749168000</id>
+    <title>https://github.com/luarocks/luarocks</title>
+    <link href="https://github.com/luarocks/luarocks" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">LuaRocks is the package manager for the Lua programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1749168000</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntop/ntopng#1749168000</id>
+    <title>https://github.com/ntop/ntopng</title>
+    <link href="https://github.com/ntop/ntopng" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Web-based Traffic and Security Network Traffic Monitoring</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-java/nvim-java#1749168000</id>
+    <title>https://github.com/nvim-java/nvim-java</title>
+    <link href="https://github.com/nvim-java/nvim-java" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Painless Java in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1749168000</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lualine/lualine.nvim#1749168000</id>
+    <title>https://github.com/nvim-lualine/lualine.nvim</title>
+    <link href="https://github.com/nvim-lualine/lualine.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">A blazing fast and easy to configure neovim statusline plugin written in pure lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olimorris/codecompanion.nvim#1749168000</id>
+    <title>https://github.com/olimorris/codecompanion.nvim</title>
+    <link href="https://github.com/olimorris/codecompanion.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">✨ AI-powered coding, seamlessly in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shahrilnet/remote_lua_loader#1749168000</id>
+    <title>https://github.com/shahrilnet/remote_lua_loader</title>
+    <link href="https://github.com/shahrilnet/remote_lua_loader" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1749168000</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/oil.nvim#1749168000</id>
+    <title>https://github.com/stevearc/oil.nvim</title>
+    <link href="https://github.com/stevearc/oil.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Neovim file explorer: edit your filesystem like a buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1749168000</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-06-06T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>
