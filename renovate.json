@@ -81,7 +81,7 @@
       "groupName": "githubactions"
     },
     {
-      "matchFileNames": ["requirements.txt"],
+      "matchFileNames": ["pyproject.toml", ".python-version", "uv.lock"],
       "groupName": "python"
     }
   ]
