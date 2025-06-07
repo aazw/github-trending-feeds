@@ -29,7 +29,7 @@ GitHub Actionsで各言語のTrendingの最新情報を取得する.
 ## Use
 
 ```bash
-uv sync
+uv sync --link-mode=copy
 ```
 
 ```bash
