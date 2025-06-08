@@ -19,9 +19,21 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      skip_scrape:
+        description: "Scrape ジョブを飛ばす？"
+        type: boolean  # UI はトグルスイッチになる
+        default: false # 未指定なら通常実行
 
 jobs:
   scrape_github_trending:
+    if: ${{ 
+          ( github.event_name != 'workflow_dispatch' ) ||
+          ( 
+            github.event_name == 'workflow_dispatch' &&
+            !fromJson(github.event.inputs.skip_scrape || 'false') 
+          )
+        }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
