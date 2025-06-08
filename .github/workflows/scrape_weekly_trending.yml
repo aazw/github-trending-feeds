@@ -1,4 +1,4 @@
-name: scrape_weekly_trending
+name: scrape_trending_weekly
 on:
   # Cron job
   schedule:
@@ -33,7 +33,7 @@ jobs:
         run: uv sync --link-mode=copy
 
       - name: scraping trending
-        run: ./scripts/scrape_weekly_trending.sh
+        run: ./scripts/scrape_trending_weekly.sh
 
       - name: copy atoms
         run: |
