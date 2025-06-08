@@ -74,6 +74,12 @@ jobs:
         run: uv sync --link-mode=copy
       - name: Unique links
         run: uv run apps/new_arrivals.py --dir docs --period daily --urls urls.txt --format atom --output docs/new-arrivals/daily.atom
+      - name: Copy atom
+        run: |
+          d=$(date -I)
+
+          mkdir -p "docs/new-arrivals/daily"
+          cp docs/new-arrivals/daily.atom docs/new-arrivals/daily/daily-${d}.atom
       - name: Create new commit
         run: |
           git config user.name  github-actions
@@ -83,6 +89,7 @@ jobs:
           # 変更があるときだけ add/commit/push
           if ! git diff --quiet -- docs/new-arrivals/daily.atom ; then
             git add docs/new-arrivals/daily.atom
+            git add docs/new-arrivals/daily/
             git commit -m "add/update the file about daily trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
             git push
           fi
