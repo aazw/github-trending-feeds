@@ -17,8 +17,8 @@ tasks:
       - ./scripts/remove_ds_store.sh
     silent: true
 
-  pip_freeze:
+  uv_sync:
     dir: "{{ .TASKFILE_DIR }}"
     cmds:
-      - pip freeze > requirements.txt
+      - uv sync --link-mode=copy
     silent: true
