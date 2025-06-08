@@ -11,7 +11,7 @@ cd ${SCRIPT_DIR}/..
 # Looping through the content of a file in Bash
 # https://stackoverflow.com/questions/1521462/looping-through-the-content-of-a-file-in-bash
 while read language; do
-	# urls.txtで各行冒頭『#』でコメントアウトできるようにした
+	# languages.txtで各行冒頭『#』でコメントアウトできるようにした
 	if [[ ! $language =~ ^# ]]; then
 
 		# 一時的なエラーなどで取得が失敗すると、後続の取得まで全部できなくなるので、ここだけset -eを解除
@@ -25,4 +25,4 @@ while read language; do
 
 		sleep 1 # 1s
 	fi
-done <./urls.txt
+done <./languages.txt
