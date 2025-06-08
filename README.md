@@ -64,7 +64,7 @@ $ uv run apps/unique_list.py --dir docs --output urls.txt
 ```
 
 ```bash
-$ uv run apps/new_link.py --atom docs/feeds/go/daily.atom --urls urls.tx
+$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.tx
 ```
 
 ## Return Code / Exit Status
