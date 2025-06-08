@@ -63,8 +63,8 @@ jobs:
       - scrape_github_trending
     if: |
       always() &&
-      !contains(needs.*.result, 'failure') && # 失敗が 1 つでもあれば止める
-      !contains(needs.*.result, 'cancelled')  # キャンセルも止める
+      !contains(needs.*.result, 'failure') &&
+      !contains(needs.*.result, 'cancelled')
     steps:
       - name: Checkout
         uses: actions/checkout@v4
