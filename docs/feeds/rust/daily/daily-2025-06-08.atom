@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/EricLBuehler/mistral.rs#1749340800</id>
-    <title>https://github.com/EricLBuehler/mistral.rs</title>
-    <link href="https://github.com/EricLBuehler/mistral.rs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Blazingly fast LLM inference.</content>
-  </entry>
-  <entry>
     <id>https://github.com/GreptimeTeam/greptimedb#1749340800</id>
     <title>https://github.com/GreptimeTeam/greptimedb</title>
     <link href="https://github.com/GreptimeTeam/greptimedb" />
@@ -24,18 +17,11 @@
     <content type="text">Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.</content>
   </entry>
   <entry>
-    <id>https://github.com/ai-dynamo/dynamo#1749340800</id>
-    <title>https://github.com/ai-dynamo/dynamo</title>
-    <link href="https://github.com/ai-dynamo/dynamo" />
+    <id>https://github.com/ankitects/anki#1749340800</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Datacenter Scale Distributed Inference Serving Framework</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aptos-labs/aptos-core#1749340800</id>
-    <title>https://github.com/aptos-labs/aptos-core</title>
-    <link href="https://github.com/aptos-labs/aptos-core" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</content>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
   </entry>
   <entry>
     <id>https://github.com/astral-sh/ruff#1749340800</id>
@@ -45,74 +31,81 @@
     <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
   </entry>
   <entry>
-    <id>https://github.com/astral-sh/uv#1749340800</id>
-    <title>https://github.com/astral-sh/uv</title>
-    <link href="https://github.com/astral-sh/uv" />
+    <id>https://github.com/bevyengine/bevy#1749340800</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
   </entry>
   <entry>
-    <id>https://github.com/aws/amazon-q-developer-cli#1749340800</id>
-    <title>https://github.com/aws/amazon-q-developer-cli</title>
-    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <id>https://github.com/dtolnay/cxx#1749340800</id>
+    <title>https://github.com/dtolnay/cxx</title>
+    <link href="https://github.com/dtolnay/cxx" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">✨ Agentic chat experience in your terminal. Build applications using natural language.</content>
+    <content type="text">Safe interop between Rust and C++</content>
   </entry>
   <entry>
-    <id>https://github.com/block/goose#1749340800</id>
-    <title>https://github.com/block/goose</title>
-    <link href="https://github.com/block/goose" />
+    <id>https://github.com/gfx-rs/wgpu#1749340800</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
   </entry>
   <entry>
-    <id>https://github.com/chroma-core/chroma#1749340800</id>
-    <title>https://github.com/chroma-core/chroma</title>
-    <link href="https://github.com/chroma-core/chroma" />
+    <id>https://github.com/huggingface/candle#1749340800</id>
+    <title>https://github.com/huggingface/candle</title>
+    <link href="https://github.com/huggingface/candle" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">the AI-native open-source embedding database</content>
+    <content type="text">Minimalist ML framework for Rust</content>
   </entry>
   <entry>
-    <id>https://github.com/firecracker-microvm/firecracker#1749340800</id>
-    <title>https://github.com/firecracker-microvm/firecracker</title>
-    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <id>https://github.com/librespot-org/librespot#1749340800</id>
+    <title>https://github.com/librespot-org/librespot</title>
+    <link href="https://github.com/librespot-org/librespot" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Secure and fast microVMs for serverless computing.</content>
+    <content type="text">Open Source Spotify client library</content>
   </entry>
   <entry>
-    <id>https://github.com/foundry-rs/foundry#1749340800</id>
-    <title>https://github.com/foundry-rs/foundry</title>
-    <link href="https://github.com/foundry-rs/foundry" />
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1749340800</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</content>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
   </entry>
   <entry>
-    <id>https://github.com/huggingface/text-embeddings-inference#1749340800</id>
-    <title>https://github.com/huggingface/text-embeddings-inference</title>
-    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <id>https://github.com/modrinth/code#1749340800</id>
+    <title>https://github.com/modrinth/code</title>
+    <link href="https://github.com/modrinth/code" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A blazing fast inference solution for text embeddings models</content>
+    <content type="text">The Modrinth monorepo containing all code which powers Modrinth!</content>
   </entry>
   <entry>
-    <id>https://github.com/launchbadge/sqlx#1749340800</id>
-    <title>https://github.com/launchbadge/sqlx</title>
-    <link href="https://github.com/launchbadge/sqlx" />
+    <id>https://github.com/neondatabase/neon#1749340800</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
   </entry>
   <entry>
-    <id>https://github.com/risingwavelabs/risingwave#1749340800</id>
-    <title>https://github.com/risingwavelabs/risingwave</title>
-    <link href="https://github.com/risingwavelabs/risingwave" />
+    <id>https://github.com/openobserve/openobserve#1749340800</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Stream processing and management platform.</content>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
   </entry>
   <entry>
-    <id>https://github.com/rustdesk/rustdesk#1749340800</id>
-    <title>https://github.com/rustdesk/rustdesk</title>
-    <link href="https://github.com/rustdesk/rustdesk" />
+    <id>https://github.com/rust-lang/rust#1749340800</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1749340800</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
   </entry>
   <entry>
     <id>https://github.com/skyzh/mini-lsm#1749340800</id>
@@ -122,18 +115,18 @@
     <content type="text">A course of building an LSM-Tree storage engine (database) in a week.</content>
   </entry>
   <entry>
-    <id>https://github.com/solana-foundation/anchor#1749340800</id>
-    <title>https://github.com/solana-foundation/anchor</title>
-    <link href="https://github.com/solana-foundation/anchor" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">⚓ Solana Sealevel Framework</content>
-  </entry>
-  <entry>
     <id>https://github.com/tensorzero/tensorzero#1749340800</id>
     <title>https://github.com/tensorzero/tensorzero</title>
     <link href="https://github.com/tensorzero/tensorzero" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1749340800</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
   </entry>
   <entry>
     <id>https://github.com/tracel-ai/burn#1749340800</id>
@@ -143,17 +136,10 @@
     <content type="text">Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.</content>
   </entry>
   <entry>
-    <id>https://github.com/tree-sitter/tree-sitter#1749340800</id>
-    <title>https://github.com/tree-sitter/tree-sitter</title>
-    <link href="https://github.com/tree-sitter/tree-sitter" />
+    <id>https://github.com/unionlabs/union#1749340800</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An incremental parsing system for programming tools</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tursodatabase/limbo#1749340800</id>
-    <title>https://github.com/tursodatabase/limbo</title>
-    <link href="https://github.com/tursodatabase/limbo" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Limbo is a project to build the next evolution of SQLite.</content>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
   </entry>
 </feed>

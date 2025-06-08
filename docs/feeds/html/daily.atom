@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/AeolusUX/ArkOS-R3XS#1749340800</id>
+    <title>https://github.com/AeolusUX/ArkOS-R3XS</title>
+    <link href="https://github.com/AeolusUX/ArkOS-R3XS" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S</content>
+  </entry>
+  <entry>
     <id>https://github.com/TheOdinProject/css-exercises#1749340800</id>
     <title>https://github.com/TheOdinProject/css-exercises</title>
     <link href="https://github.com/TheOdinProject/css-exercises" />
@@ -17,39 +24,46 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/alex-shpak/hugo-book#1749340800</id>
-    <title>https://github.com/alex-shpak/hugo-book</title>
-    <link href="https://github.com/alex-shpak/hugo-book" />
+    <id>https://github.com/academicpages/academicpages.github.io#1749340800</id>
+    <title>https://github.com/academicpages/academicpages.github.io</title>
+    <link href="https://github.com/academicpages/academicpages.github.io" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Hugo documentation theme as simple as plain book</content>
+    <content type="text">Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.</content>
   </entry>
   <entry>
-    <id>https://github.com/daattali/beautiful-jekyll#1749340800</id>
-    <title>https://github.com/daattali/beautiful-jekyll</title>
-    <link href="https://github.com/daattali/beautiful-jekyll" />
+    <id>https://github.com/adityatelange/hugo-PaperMod#1749340800</id>
+    <title>https://github.com/adityatelange/hugo-PaperMod</title>
+    <link href="https://github.com/adityatelange/hugo-PaperMod" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com</content>
+    <content type="text">A fast, clean, responsive Hugo theme.</content>
   </entry>
   <entry>
-    <id>https://github.com/erew123/alltalk_tts#1749340800</id>
-    <title>https://github.com/erew123/alltalk_tts</title>
-    <link href="https://github.com/erew123/alltalk_tts" />
+    <id>https://github.com/alshedivat/al-folio#1749340800</id>
+    <title>https://github.com/alshedivat/al-folio</title>
+    <link href="https://github.com/alshedivat/al-folio" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.</content>
+    <content type="text">A beautiful, simple, clean, and responsive Jekyll theme for academics</content>
   </entry>
   <entry>
-    <id>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes#1749340800</id>
-    <title>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</title>
-    <link href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes" />
+    <id>https://github.com/apna-college/Delta#1749340800</id>
+    <title>https://github.com/apna-college/Delta</title>
+    <link href="https://github.com/apna-college/Delta" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">吴恩达老师的机器学习课程个人笔记</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/gustavoguanabara/html-css#1749340800</id>
-    <title>https://github.com/gustavoguanabara/html-css</title>
-    <link href="https://github.com/gustavoguanabara/html-css" />
+    <id>https://github.com/cf-pages/Telegraph-Image#1749340800</id>
+    <title>https://github.com/cf-pages/Telegraph-Image</title>
+    <link href="https://github.com/cf-pages/Telegraph-Image" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Curso de HTML5 e CSS3</content>
+    <content type="text">Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/fonts#1749340800</id>
+    <title>https://github.com/google/fonts</title>
+    <link href="https://github.com/google/fonts" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Font files available from Google Fonts, and a public issue tracker for all things Google Fonts</content>
   </entry>
   <entry>
     <id>https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes#1749340800</id>
@@ -59,20 +73,6 @@
     <content type="text">AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)</content>
   </entry>
   <entry>
-    <id>https://github.com/mdn/learning-area#1749340800</id>
-    <title>https://github.com/mdn/learning-area</title>
-    <link href="https://github.com/mdn/learning-area" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">GitHub repo for the MDN Learning Area.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/CopilotStudioSamples#1749340800</id>
-    <title>https://github.com/microsoft/CopilotStudioSamples</title>
-    <link href="https://github.com/microsoft/CopilotStudioSamples" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
     <id>https://github.com/microsoft/ML-For-Beginners#1749340800</id>
     <title>https://github.com/microsoft/ML-For-Beginners</title>
     <link href="https://github.com/microsoft/ML-For-Beginners" />
@@ -80,45 +80,38 @@
     <content type="text">12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</content>
   </entry>
   <entry>
-    <id>https://github.com/nunocoracao/blowfish#1749340800</id>
-    <title>https://github.com/nunocoracao/blowfish</title>
-    <link href="https://github.com/nunocoracao/blowfish" />
+    <id>https://github.com/ossu/computer-science#1749340800</id>
+    <title>https://github.com/ossu/computer-science</title>
+    <link href="https://github.com/ossu/computer-science" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Personal Website &amp; Blog Theme for Hugo</content>
+    <content type="text">🎓 Path to a free self-taught education in Computer Science!</content>
   </entry>
   <entry>
-    <id>https://github.com/pdf2htmlEX/pdf2htmlEX#1749340800</id>
-    <title>https://github.com/pdf2htmlEX/pdf2htmlEX</title>
-    <link href="https://github.com/pdf2htmlEX/pdf2htmlEX" />
+    <id>https://github.com/robiningelbrecht/statistics-for-strava#1749340800</id>
+    <title>https://github.com/robiningelbrecht/statistics-for-strava</title>
+    <link href="https://github.com/robiningelbrecht/statistics-for-strava" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Convert PDF to HTML without losing text or format.</content>
+    <content type="text">Self-hosted, open-source dashboard for your Strava data.</content>
   </entry>
   <entry>
-    <id>https://github.com/wdndev/llm_interview_note#1749340800</id>
-    <title>https://github.com/wdndev/llm_interview_note</title>
-    <link href="https://github.com/wdndev/llm_interview_note" />
+    <id>https://github.com/square/retrofit#1749340800</id>
+    <title>https://github.com/square/retrofit</title>
+    <link href="https://github.com/square/retrofit" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题</content>
+    <content type="text">A type-safe HTTP client for Android and the JVM</content>
   </entry>
   <entry>
-    <id>https://github.com/wesbos/JavaScript30#1749340800</id>
-    <title>https://github.com/wesbos/JavaScript30</title>
-    <link href="https://github.com/wesbos/JavaScript30" />
+    <id>https://github.com/ultrasecurity/Storm-Breaker#1749340800</id>
+    <title>https://github.com/ultrasecurity/Storm-Breaker</title>
+    <link href="https://github.com/ultrasecurity/Storm-Breaker" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">30 Day Vanilla JS Challenge</content>
+    <content type="text">Social engineering tool [Access Webcam &amp; Microphone &amp; Location Finder] With {Py,JS,PHP}</content>
   </entry>
   <entry>
-    <id>https://github.com/windmill-labs/windmill#1749340800</id>
-    <title>https://github.com/windmill-labs/windmill</title>
-    <link href="https://github.com/windmill-labs/windmill" />
+    <id>https://github.com/yangzongzhuan/RuoYi#1749340800</id>
+    <title>https://github.com/yangzongzhuan/RuoYi</title>
+    <link href="https://github.com/yangzongzhuan/RuoYi" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/xlang-ai/Spider2#1749340800</id>
-    <title>https://github.com/xlang-ai/Spider2</title>
-    <link href="https://github.com/xlang-ai/Spider2" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">[ICLR 2025 Oral] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows</content>
+    <content type="text">🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用</content>
   </entry>
 </feed>

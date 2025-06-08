@@ -9,4 +9,18 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-resume#1749340800</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-resume</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-resume" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A Bootstrap 4 resume/CV theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nigelpoulton/getting-started-k8s#1749340800</id>
+    <title>https://github.com/nigelpoulton/getting-started-k8s</title>
+    <link href="https://github.com/nigelpoulton/getting-started-k8s" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Code and YAML files for Getting Started with Kubernetes video course on Pluralsight</content>
+  </entry>
 </feed>

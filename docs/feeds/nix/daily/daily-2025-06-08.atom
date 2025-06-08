@@ -10,32 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Gaming-Linux-FR/GLF-OS#1749340800</id>
-    <title>https://github.com/Gaming-Linux-FR/GLF-OS</title>
-    <link href="https://github.com/Gaming-Linux-FR/GLF-OS" />
+    <id>https://github.com/Andrey0189/nixos-config-reborn#1749340800</id>
+    <title>https://github.com/Andrey0189/nixos-config-reborn</title>
+    <link href="https://github.com/Andrey0189/nixos-config-reborn" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
+    <content type="text">❄️ Ampersand's redesigned NixOS Config</content>
   </entry>
   <entry>
-    <id>https://github.com/Mic92/sops-nix#1749340800</id>
-    <title>https://github.com/Mic92/sops-nix</title>
-    <link href="https://github.com/Mic92/sops-nix" />
+    <id>https://github.com/Frost-Phoenix/nixos-config#1749340800</id>
+    <title>https://github.com/Frost-Phoenix/nixos-config</title>
+    <link href="https://github.com/Frost-Phoenix/nixos-config" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Atomic secret provisioning for NixOS based on sops</content>
+    <content type="text">❄️ NixOs / Hyprland rice with Home-Manager ❄️</content>
   </entry>
   <entry>
-    <id>https://github.com/Misterio77/nix-starter-configs#1749340800</id>
-    <title>https://github.com/Misterio77/nix-starter-configs</title>
-    <link href="https://github.com/Misterio77/nix-starter-configs" />
+    <id>https://github.com/NixOS/nixos-hardware#1749340800</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NixOS/nix.dev#1749340800</id>
-    <title>https://github.com/NixOS/nix.dev</title>
-    <link href="https://github.com/NixOS/nix.dev" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Official documentation for getting things done with Nix.</content>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
   </entry>
   <entry>
     <id>https://github.com/NixOS/nixpkgs#1749340800</id>
@@ -45,25 +38,11 @@
     <content type="text">Nix Packages collection &amp; NixOS</content>
   </entry>
   <entry>
-    <id>https://github.com/NotAShelf/nvf#1749340800</id>
-    <title>https://github.com/NotAShelf/nvf</title>
-    <link href="https://github.com/NotAShelf/nvf" />
+    <id>https://github.com/catppuccin/nix#1749340800</id>
+    <title>https://github.com/catppuccin/nix</title>
+    <link href="https://github.com/catppuccin/nix" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS</content>
-  </entry>
-  <entry>
-    <id>https://github.com/astro/microvm.nix#1749340800</id>
-    <title>https://github.com/astro/microvm.nix</title>
-    <link href="https://github.com/astro/microvm.nix" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">NixOS MicroVMs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cachix/devenv#1749340800</id>
-    <title>https://github.com/cachix/devenv</title>
-    <link href="https://github.com/cachix/devenv" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</content>
+    <content type="text">❄️ Soothing pastel theme for Nix</content>
   </entry>
   <entry>
     <id>https://github.com/dustinlyons/nixos-config#1749340800</id>
@@ -78,6 +57,13 @@
     <link href="https://github.com/fufexan/dotfiles" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">NixOS system config &amp; Home-Manager user config</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hercules-ci/flake-parts#1749340800</id>
+    <title>https://github.com/hercules-ci/flake-parts</title>
+    <link href="https://github.com/hercules-ci/flake-parts" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">❄️ Simplify Nix Flakes with the module system</content>
   </entry>
   <entry>
     <id>https://github.com/k3d3/claude-desktop-linux-flake#1749340800</id>
@@ -99,6 +85,13 @@
     <link href="https://github.com/nix-community/NixOS-WSL" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">NixOS on WSL [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/docker-nixpkgs#1749340800</id>
+    <title>https://github.com/nix-community/docker-nixpkgs</title>
+    <link href="https://github.com/nix-community/docker-nixpkgs" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">docker images from nixpkgs [maintainer=@zimbatm]</content>
   </entry>
   <entry>
     <id>https://github.com/nix-community/home-manager#1749340800</id>
@@ -127,6 +120,20 @@
     <link href="https://github.com/nvmd/nixos-raspberrypi" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Nix flake for a fully declarative NixOS on Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryan4yin/nixos-and-flakes-book#1749340800</id>
+    <title>https://github.com/ryan4yin/nixos-and-flakes-book</title>
+    <link href="https://github.com/ryan4yin/nixos-and-flakes-book" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🛠️ ❤️ Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryantm/agenix#1749340800</id>
+    <title>https://github.com/ryantm/agenix</title>
+    <link href="https://github.com/ryantm/agenix" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">age-encrypted secrets for NixOS and Home manager</content>
   </entry>
   <entry>
     <id>https://github.com/sodiboo/niri-flake#1749340800</id>

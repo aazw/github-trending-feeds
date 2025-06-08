@@ -10,18 +10,39 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Demizo/Daily_You#1749340800</id>
-    <title>https://github.com/Demizo/Daily_You</title>
-    <link href="https://github.com/Demizo/Daily_You" />
+    <id>https://github.com/DJDoubleD/refreezer#1749340800</id>
+    <title>https://github.com/DJDoubleD/refreezer</title>
+    <link href="https://github.com/DJDoubleD/refreezer" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Every day is worth remembering...</content>
+    <content type="text">An alternative Deezer music streaming &amp; downloading client, based on Freezer.</content>
   </entry>
   <entry>
-    <id>https://github.com/academind/flutter-complete-guide-course-resources#1749340800</id>
-    <title>https://github.com/academind/flutter-complete-guide-course-resources</title>
-    <link href="https://github.com/academind/flutter-complete-guide-course-resources" />
+    <id>https://github.com/ImranR98/Obtainium#1749340800</id>
+    <title>https://github.com/ImranR98/Obtainium</title>
+    <link href="https://github.com/ImranR98/Obtainium" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Course resources (code snapshots &amp; slides) for our complete Flutter &amp; Dart course (https://acad.link/flutter).</content>
+    <content type="text">Get Android app updates straight from the source.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KaringX/karing#1749340800</id>
+    <title>https://github.com/KaringX/karing</title>
+    <link href="https://github.com/KaringX/karing" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Simple &amp; Powerful proxy utility, Support routing rules for clash/sing-box</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Predidit/Kazumi#1749340800</id>
+    <title>https://github.com/Predidit/Kazumi</title>
+    <link href="https://github.com/Predidit/Kazumi" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReVanced/revanced-manager#1749340800</id>
+    <title>https://github.com/ReVanced/revanced-manager</title>
+    <link href="https://github.com/ReVanced/revanced-manager" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">💊 Application to use ReVanced on Android</content>
   </entry>
   <entry>
     <id>https://github.com/anandnet/Harmony-Music#1749340800</id>
@@ -29,13 +50,6 @@
     <link href="https://github.com/anandnet/Harmony-Music" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">A cross platform App for streaming Music</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cake-tech/cake_wallet#1749340800</id>
-    <title>https://github.com/cake-tech/cake_wallet</title>
-    <link href="https://github.com/cake-tech/cake_wallet" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com</content>
   </entry>
   <entry>
     <id>https://github.com/chen08209/FlClash#1749340800</id>
@@ -52,25 +66,11 @@
     <content type="text">ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).</content>
   </entry>
   <entry>
-    <id>https://github.com/ente-io/ente#1749340800</id>
-    <title>https://github.com/ente-io/ente</title>
-    <link href="https://github.com/ente-io/ente" />
+    <id>https://github.com/dart-lang/sdk#1749340800</id>
+    <title>https://github.com/dart-lang/sdk</title>
+    <link href="https://github.com/dart-lang/sdk" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/felangel/bloc#1749340800</id>
-    <title>https://github.com/felangel/bloc</title>
-    <link href="https://github.com/felangel/bloc" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A predictable state management library that helps implement the BLoC design pattern</content>
-  </entry>
-  <entry>
-    <id>https://github.com/firebase/flutterfire#1749340800</id>
-    <title>https://github.com/firebase/flutterfire</title>
-    <link href="https://github.com/firebase/flutterfire" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🔥 A collection of Firebase plugins for Flutter apps.</content>
+    <content type="text">The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.</content>
   </entry>
   <entry>
     <id>https://github.com/flutter/samples#1749340800</id>
@@ -80,25 +80,39 @@
     <content type="text">A collection of Flutter examples and demos</content>
   </entry>
   <entry>
-    <id>https://github.com/fzyzcjy/flutter_rust_bridge#1749340800</id>
-    <title>https://github.com/fzyzcjy/flutter_rust_bridge</title>
-    <link href="https://github.com/fzyzcjy/flutter_rust_bridge" />
+    <id>https://github.com/forus-labs/forui#1749340800</id>
+    <title>https://github.com/forus-labs/forui</title>
+    <link href="https://github.com/forus-labs/forui" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Flutter/Dart &lt;-&gt; Rust binding generator, feature-rich, but seamless and simple.</content>
+    <content type="text">Forus Lab's Flutter UI library</content>
   </entry>
   <entry>
-    <id>https://github.com/getsentry/sentry-dart#1749340800</id>
-    <title>https://github.com/getsentry/sentry-dart</title>
-    <link href="https://github.com/getsentry/sentry-dart" />
+    <id>https://github.com/gokadzev/Musify#1749340800</id>
+    <title>https://github.com/gokadzev/Musify</title>
+    <link href="https://github.com/gokadzev/Musify" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Sentry SDK for Dart and Flutter</content>
+    <content type="text">Unlock the full potential of music: Stream effortlessly with one app!</content>
   </entry>
   <entry>
-    <id>https://github.com/krille-chan/fluffychat#1749340800</id>
-    <title>https://github.com/krille-chan/fluffychat</title>
-    <link href="https://github.com/krille-chan/fluffychat" />
+    <id>https://github.com/hiddify/hiddify-app#1749340800</id>
+    <title>https://github.com/hiddify/hiddify-app</title>
+    <link href="https://github.com/hiddify/hiddify-app" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The cutest instant messenger in the [matrix]</content>
+    <content type="text">Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jing332/AListFlutter#1749340800</id>
+    <title>https://github.com/jing332/AListFlutter</title>
+    <link href="https://github.com/jing332/AListFlutter" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">AList 安卓版本，APK安装即用，无需Root或Termux。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/mobile#1749340800</id>
+    <title>https://github.com/lichess-org/mobile</title>
+    <link href="https://github.com/lichess-org/mobile" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">New Lichess mobile app in Flutter</content>
   </entry>
   <entry>
     <id>https://github.com/localsend/localsend#1749340800</id>
@@ -108,25 +122,11 @@
     <content type="text">An open-source cross-platform alternative to AirDrop</content>
   </entry>
   <entry>
-    <id>https://github.com/niuhuan/jasmine#1749340800</id>
-    <title>https://github.com/niuhuan/jasmine</title>
-    <link href="https://github.com/niuhuan/jasmine" />
+    <id>https://github.com/rrousselGit/riverpod#1749340800</id>
+    <title>https://github.com/rrousselGit/riverpod</title>
+    <link href="https://github.com/rrousselGit/riverpod" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A comic browser，support Android / iOS / MacOS / Windows / Linux.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/niuhuan/kobi#1749340800</id>
-    <title>https://github.com/niuhuan/kobi</title>
-    <link href="https://github.com/niuhuan/kobi" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">拷贝漫画客户端</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tommyxchow/frosty#1749340800</id>
-    <title>https://github.com/tommyxchow/frosty</title>
-    <link href="https://github.com/tommyxchow/frosty" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.</content>
+    <content type="text">A reactive caching and data-binding framework. Riverpod makes working with asynchronous code a breeze.</content>
   </entry>
   <entry>
     <id>https://github.com/wanghongenpin/proxypin#1749340800</id>

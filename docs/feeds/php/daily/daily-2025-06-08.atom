@@ -24,18 +24,25 @@
     <content type="text">Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.</content>
   </entry>
   <entry>
+    <id>https://github.com/LycheeOrg/Lychee#1749340800</id>
+    <title>https://github.com/LycheeOrg/Lychee</title>
+    <link href="https://github.com/LycheeOrg/Lychee" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#1749340800</id>
+    <title>https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass</title>
+    <link href="https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.</content>
+  </entry>
+  <entry>
     <id>https://github.com/PHP-CS-Fixer/PHP-CS-Fixer#1749340800</id>
     <title>https://github.com/PHP-CS-Fixer/PHP-CS-Fixer</title>
     <link href="https://github.com/PHP-CS-Fixer/PHP-CS-Fixer" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">A tool to automatically fix PHP Coding Standards issues</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PrestaShop/PrestaShop#1749340800</id>
-    <title>https://github.com/PrestaShop/PrestaShop</title>
-    <link href="https://github.com/PrestaShop/PrestaShop" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">PrestaShop is the universal open-source software platform to build your e-commerce solution.</content>
   </entry>
   <entry>
     <id>https://github.com/alextselegidis/easyappointments#1749340800</id>
@@ -52,108 +59,94 @@
     <content type="text">🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉</content>
   </entry>
   <entry>
-    <id>https://github.com/brufdev/many-notes#1749340800</id>
-    <title>https://github.com/brufdev/many-notes</title>
-    <link href="https://github.com/brufdev/many-notes" />
+    <id>https://github.com/cedar2025/Xboard#1749340800</id>
+    <title>https://github.com/cedar2025/Xboard</title>
+    <link href="https://github.com/cedar2025/Xboard" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Markdown note-taking web application designed for simplicity</content>
+    <content type="text">High-performance panel based on V2board secondary development supporting new protocols and new features</content>
   </entry>
   <entry>
-    <id>https://github.com/coollabsio/coolify#1749340800</id>
-    <title>https://github.com/coollabsio/coolify</title>
-    <link href="https://github.com/coollabsio/coolify" />
+    <id>https://github.com/danielmiessler/SecLists#1749340800</id>
+    <title>https://github.com/danielmiessler/SecLists</title>
+    <link href="https://github.com/danielmiessler/SecLists" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.</content>
+    <content type="text">SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</content>
   </entry>
   <entry>
-    <id>https://github.com/doctrine/orm#1749340800</id>
-    <title>https://github.com/doctrine/orm</title>
-    <link href="https://github.com/doctrine/orm" />
+    <id>https://github.com/danog/MadelineProto#1749340800</id>
+    <title>https://github.com/danog/MadelineProto</title>
+    <link href="https://github.com/danog/MadelineProto" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Doctrine Object Relational Mapper (ORM)</content>
+    <content type="text">Async PHP client API for the telegram MTProto protocol</content>
   </entry>
   <entry>
-    <id>https://github.com/espocrm/espocrm#1749340800</id>
-    <title>https://github.com/espocrm/espocrm</title>
-    <link href="https://github.com/espocrm/espocrm" />
+    <id>https://github.com/ellite/Wallos#1749340800</id>
+    <title>https://github.com/ellite/Wallos</title>
+    <link href="https://github.com/ellite/Wallos" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">EspoCRM – Open Source CRM Application</content>
+    <content type="text">Wallos: Open-Source Personal Subscription Tracker</content>
   </entry>
   <entry>
-    <id>https://github.com/getgrav/grav#1749340800</id>
-    <title>https://github.com/getgrav/grav</title>
-    <link href="https://github.com/getgrav/grav" />
+    <id>https://github.com/filamentphp/filament#1749340800</id>
+    <title>https://github.com/filamentphp/filament</title>
+    <link href="https://github.com/filamentphp/filament" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony</content>
+    <content type="text">A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.</content>
   </entry>
   <entry>
-    <id>https://github.com/glpi-project/glpi#1749340800</id>
-    <title>https://github.com/glpi-project/glpi</title>
-    <link href="https://github.com/glpi-project/glpi" />
+    <id>https://github.com/firefly-iii/firefly-iii#1749340800</id>
+    <title>https://github.com/firefly-iii/firefly-iii</title>
+    <link href="https://github.com/firefly-iii/firefly-iii" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.</content>
+    <content type="text">Firefly III: a personal finances manager</content>
   </entry>
   <entry>
-    <id>https://github.com/grokability/snipe-it#1749340800</id>
-    <title>https://github.com/grokability/snipe-it</title>
-    <link href="https://github.com/grokability/snipe-it" />
+    <id>https://github.com/livewire/livewire#1749340800</id>
+    <title>https://github.com/livewire/livewire</title>
+    <link href="https://github.com/livewire/livewire" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A free open source IT asset/license management system</content>
+    <content type="text">A full-stack framework for Laravel that takes the pain out of building dynamic UIs.</content>
   </entry>
   <entry>
-    <id>https://github.com/guzzle/guzzle#1749340800</id>
-    <title>https://github.com/guzzle/guzzle</title>
-    <link href="https://github.com/guzzle/guzzle" />
+    <id>https://github.com/nextcloud/all-in-one#1749340800</id>
+    <title>https://github.com/nextcloud/all-in-one</title>
+    <link href="https://github.com/nextcloud/all-in-one" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Guzzle, an extensible PHP HTTP client</content>
+    <content type="text">📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.</content>
   </entry>
   <entry>
-    <id>https://github.com/larastan/larastan#1749340800</id>
-    <title>https://github.com/larastan/larastan</title>
-    <link href="https://github.com/larastan/larastan" />
+    <id>https://github.com/nextcloud/server#1749340800</id>
+    <title>https://github.com/nextcloud/server</title>
+    <link href="https://github.com/nextcloud/server" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">⚗️ Adds code analysis to Laravel improving developer productivity and code quality.</content>
+    <content type="text">☁️ Nextcloud server, a safe home for all your data</content>
   </entry>
   <entry>
-    <id>https://github.com/magento/magento2#1749340800</id>
-    <title>https://github.com/magento/magento2</title>
-    <link href="https://github.com/magento/magento2" />
+    <id>https://github.com/opencart/opencart#1749340800</id>
+    <title>https://github.com/opencart/opencart</title>
+    <link href="https://github.com/opencart/opencart" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.</content>
+    <content type="text">A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.</content>
   </entry>
   <entry>
-    <id>https://github.com/matomo-org/matomo#1749340800</id>
-    <title>https://github.com/matomo-org/matomo</title>
-    <link href="https://github.com/matomo-org/matomo" />
+    <id>https://github.com/phpmyadmin/phpmyadmin#1749340800</id>
+    <title>https://github.com/phpmyadmin/phpmyadmin</title>
+    <link href="https://github.com/phpmyadmin/phpmyadmin" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites &amp; apps. Star us on GitHub ⭐️ – Pull Requests welcome!</content>
+    <content type="text">A web interface for MySQL and MariaDB</content>
   </entry>
   <entry>
-    <id>https://github.com/pyrohost/pyrodactyl#1749340800</id>
-    <title>https://github.com/pyrohost/pyrodactyl</title>
-    <link href="https://github.com/pyrohost/pyrodactyl" />
+    <id>https://github.com/phpstan/phpstan#1749340800</id>
+    <title>https://github.com/phpstan/phpstan</title>
+    <link href="https://github.com/phpstan/phpstan" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.</content>
+    <content type="text">PHP Static Analysis Tool - discover bugs in your code without running it!</content>
   </entry>
   <entry>
-    <id>https://github.com/rectorphp/rector#1749340800</id>
-    <title>https://github.com/rectorphp/rector</title>
-    <link href="https://github.com/rectorphp/rector" />
+    <id>https://github.com/portabilis/i-educar#1749340800</id>
+    <title>https://github.com/portabilis/i-educar</title>
+    <link href="https://github.com/portabilis/i-educar" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Instant Upgrades and Automated Refactoring of any PHP 5.3+ code</content>
-  </entry>
-  <entry>
-    <id>https://github.com/symfony/symfony#1749340800</id>
-    <title>https://github.com/symfony/symfony</title>
-    <link href="https://github.com/symfony/symfony" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Symfony PHP framework</content>
-  </entry>
-  <entry>
-    <id>https://github.com/twigphp/Twig#1749340800</id>
-    <title>https://github.com/twigphp/Twig</title>
-    <link href="https://github.com/twigphp/Twig" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Twig, the flexible, fast, and secure template language for PHP</content>
+    <content type="text">Lançando o maior software livre de educação do Brasil!</content>
   </entry>
 </feed>

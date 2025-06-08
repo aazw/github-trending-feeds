@@ -10,25 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/Azure-Samples/aks-store-demo#1749340800</id>
+    <title>https://github.com/Azure-Samples/aks-store-demo</title>
+    <link href="https://github.com/Azure-Samples/aks-store-demo" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Sample microservices app for AKS demos, tutorials, and experiments</content>
+  </entry>
+  <entry>
     <id>https://github.com/Azure-Samples/get-started-with-ai-agents#1749340800</id>
     <title>https://github.com/Azure-Samples/get-started-with-ai-agents</title>
     <link href="https://github.com/Azure-Samples/get-started-with-ai-agents" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Azure-Samples/get-started-with-ai-chat#1749340800</id>
-    <title>https://github.com/Azure-Samples/get-started-with-ai-chat</title>
-    <link href="https://github.com/Azure-Samples/get-started-with-ai-chat" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Basic sample for deploying chat web apps with Azure AI Foundry and SDKs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app#1749340800</id>
-    <title>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
-    <link href="https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB</content>
   </entry>
   <entry>
     <id>https://github.com/Azure-Samples/openai-chat-app-quickstart#1749340800</id>
@@ -43,13 +36,6 @@
     <link href="https://github.com/Azure/ALZ-Bicep" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Azure/GPT-RAG#1749340800</id>
-    <title>https://github.com/Azure/GPT-RAG</title>
-    <link href="https://github.com/Azure/GPT-RAG" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&amp;A experiences.</content>
   </entry>
   <entry>
     <id>https://github.com/Azure/azure-quickstart-templates#1749340800</id>
@@ -71,26 +57,5 @@
     <link href="https://github.com/Azure/bicep-registry-modules" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Bicep registry modules</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SonarSource/sonar-scanning-examples#1749340800</id>
-    <title>https://github.com/SonarSource/sonar-scanning-examples</title>
-    <link href="https://github.com/SonarSource/sonar-scanning-examples" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Shows how to use the Scanners</content>
-  </entry>
-  <entry>
-    <id>https://github.com/github-copilot-resources/copilot-metrics-viewer#1749340800</id>
-    <title>https://github.com/github-copilot-resources/copilot-metrics-viewer</title>
-    <link href="https://github.com/github-copilot-resources/copilot-metrics-viewer" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/azure-container-apps#1749340800</id>
-    <title>https://github.com/microsoft/azure-container-apps</title>
-    <link href="https://github.com/microsoft/azure-container-apps" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Roadmap and issues for Azure Container Apps</content>
   </entry>
 </feed>

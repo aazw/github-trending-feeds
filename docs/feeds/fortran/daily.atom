@@ -10,34 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/GEOS-ESM/MAPL#1749340800</id>
-    <title>https://github.com/GEOS-ESM/MAPL</title>
-    <link href="https://github.com/GEOS-ESM/MAPL" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere#1749340800</id>
-    <title>https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere</title>
-    <link href="https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The GFDL atmos_cubed_sphere dynamical core code</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OpenFAST/openfast#1749340800</id>
-    <title>https://github.com/OpenFAST/openfast</title>
-    <link href="https://github.com/OpenFAST/openfast" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cp2k/cp2k#1749340800</id>
-    <title>https://github.com/cp2k/cp2k</title>
-    <link href="https://github.com/cp2k/cp2k" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Quantum chemistry and solid state physics software package</content>
-  </entry>
-  <entry>
     <id>https://github.com/earth-system-radiation/rte-rrtmgp#1749340800</id>
     <title>https://github.com/earth-system-radiation/rte-rrtmgp</title>
     <link href="https://github.com/earth-system-radiation/rte-rrtmgp" />

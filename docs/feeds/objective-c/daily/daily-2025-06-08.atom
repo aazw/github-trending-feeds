@@ -10,32 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/AFNetworking/AFNetworking#1749340800</id>
-    <title>https://github.com/AFNetworking/AFNetworking</title>
-    <link href="https://github.com/AFNetworking/AFNetworking" />
+    <id>https://github.com/MustangYM/WeChatExtension-ForMac#1749340800</id>
+    <title>https://github.com/MustangYM/WeChatExtension-ForMac</title>
+    <link href="https://github.com/MustangYM/WeChatExtension-ForMac" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A delightful networking framework for iOS, macOS, watchOS, and tvOS.</content>
+    <content type="text">A plugin for Mac WeChat</content>
   </entry>
   <entry>
-    <id>https://github.com/AliSoftware/OHHTTPStubs#1749340800</id>
-    <title>https://github.com/AliSoftware/OHHTTPStubs</title>
-    <link href="https://github.com/AliSoftware/OHHTTPStubs" />
+    <id>https://github.com/PojavLauncherTeam/PojavLauncher_iOS#1749340800</id>
+    <title>https://github.com/PojavLauncherTeam/PojavLauncher_iOS</title>
+    <link href="https://github.com/PojavLauncherTeam/PojavLauncher_iOS" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/BranchMetrics/ios-branch-deep-linking-attribution#1749340800</id>
-    <title>https://github.com/BranchMetrics/ios-branch-deep-linking-attribution</title>
-    <link href="https://github.com/BranchMetrics/ios-branch-deep-linking-attribution" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user onboarding, and more.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/FLEXTool/FLEX#1749340800</id>
-    <title>https://github.com/FLEXTool/FLEX</title>
-    <link href="https://github.com/FLEXTool/FLEX" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An in-app debugging and exploration tool for iOS</content>
+    <content type="text">A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for iOS/iPadOS platform.</content>
   </entry>
   <entry>
     <id>https://github.com/SDWebImage/SDWebImage#1749340800</id>
@@ -45,67 +31,46 @@
     <content type="text">Asynchronous image downloader with cache support as a UIImageView category</content>
   </entry>
   <entry>
-    <id>https://github.com/adjust/ios_sdk#1749340800</id>
-    <title>https://github.com/adjust/ios_sdk</title>
-    <link href="https://github.com/adjust/ios_sdk" />
+    <id>https://github.com/braintree/braintree-ios-drop-in#1749340800</id>
+    <title>https://github.com/braintree/braintree-ios-drop-in</title>
+    <link href="https://github.com/braintree/braintree-ios-drop-in" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">This is the iOS SDK of</content>
+    <content type="text">Braintree Drop-in for iOS</content>
   </entry>
   <entry>
-    <id>https://github.com/braze-inc/braze-swift-sdk#1749340800</id>
-    <title>https://github.com/braze-inc/braze-swift-sdk</title>
-    <link href="https://github.com/braze-inc/braze-swift-sdk" />
+    <id>https://github.com/mapbox/mapbox-events-ios#1749340800</id>
+    <title>https://github.com/mapbox/mapbox-events-ios</title>
+    <link href="https://github.com/mapbox/mapbox-events-ios" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS</content>
+    <content type="text">Mapbox Events Framework for iOS</content>
   </entry>
   <entry>
-    <id>https://github.com/bugsnag/bugsnag-cocoa#1749340800</id>
-    <title>https://github.com/bugsnag/bugsnag-cocoa</title>
-    <link href="https://github.com/bugsnag/bugsnag-cocoa" />
+    <id>https://github.com/nolanw/HTMLReader#1749340800</id>
+    <title>https://github.com/nolanw/HTMLReader</title>
+    <link href="https://github.com/nolanw/HTMLReader" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">BugSnag error monitoring &amp; exception reporter for iOS, macOS, tvOS and watchOS</content>
+    <content type="text">A WHATWG-compliant HTML parser in Objective-C.</content>
   </entry>
   <entry>
-    <id>https://github.com/google/GoogleSignIn-iOS#1749340800</id>
-    <title>https://github.com/google/GoogleSignIn-iOS</title>
-    <link href="https://github.com/google/GoogleSignIn-iOS" />
+    <id>https://github.com/objective-see/LuLu#1749340800</id>
+    <title>https://github.com/objective-see/LuLu</title>
+    <link href="https://github.com/objective-see/LuLu" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Enables iOS and macOS apps to sign in with Google.</content>
+    <content type="text">LuLu is the free open-source macOS firewall</content>
   </entry>
   <entry>
-    <id>https://github.com/google/GoogleUtilities#1749340800</id>
-    <title>https://github.com/google/GoogleUtilities</title>
-    <link href="https://github.com/google/GoogleUtilities" />
+    <id>https://github.com/opa334/TrollStore#1749340800</id>
+    <title>https://github.com/opa334/TrollStore</title>
+    <link href="https://github.com/opa334/TrollStore" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</content>
   </entry>
   <entry>
-    <id>https://github.com/google/gtm-session-fetcher#1749340800</id>
-    <title>https://github.com/google/gtm-session-fetcher</title>
-    <link href="https://github.com/google/gtm-session-fetcher" />
+    <id>https://github.com/pinterest/PINRemoteImage#1749340800</id>
+    <title>https://github.com/pinterest/PINRemoteImage</title>
+    <link href="https://github.com/pinterest/PINRemoteImage" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Google Toolbox for Mac - Session Fetcher</content>
-  </entry>
-  <entry>
-    <id>https://github.com/google/promises#1749340800</id>
-    <title>https://github.com/google/promises</title>
-    <link href="https://github.com/google/promises" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nicklockwood/FXBlurView#1749340800</id>
-    <title>https://github.com/nicklockwood/FXBlurView</title>
-    <link href="https://github.com/nicklockwood/FXBlurView" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">[DEPRECATED]</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openid/AppAuth-iOS#1749340800</id>
-    <title>https://github.com/openid/AppAuth-iOS</title>
-    <link href="https://github.com/openid/AppAuth-iOS" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.</content>
+    <content type="text">A thread safe, performant, feature rich image fetcher</content>
   </entry>
   <entry>
     <id>https://github.com/segmentio/analytics-ios#1749340800</id>
@@ -115,10 +80,31 @@
     <content type="text">The hassle-free way to integrate analytics into any iOS application.</content>
   </entry>
   <entry>
-    <id>https://github.com/sunnyyoung/WeChatTweak-macOS#1749340800</id>
-    <title>https://github.com/sunnyyoung/WeChatTweak-macOS</title>
-    <link href="https://github.com/sunnyyoung/WeChatTweak-macOS" />
+    <id>https://github.com/soffes/SAMKeychain#1749340800</id>
+    <title>https://github.com/soffes/SAMKeychain</title>
+    <link href="https://github.com/soffes/SAMKeychain" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨</content>
+    <content type="text">Simple Objective-C wrapper for the keychain that works on Mac and iOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/specta/expecta#1749340800</id>
+    <title>https://github.com/specta/expecta</title>
+    <link href="https://github.com/specta/expecta" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A Matcher Framework for Objective-C/Cocoa</content>
+  </entry>
+  <entry>
+    <id>https://github.com/specta/specta#1749340800</id>
+    <title>https://github.com/specta/specta</title>
+    <link href="https://github.com/specta/specta" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A light-weight TDD / BDD framework for Objective-C &amp; Cocoa</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stripe/stripe-terminal-ios#1749340800</id>
+    <title>https://github.com/stripe/stripe-terminal-ios</title>
+    <link href="https://github.com/stripe/stripe-terminal-ios" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Stripe Terminal iOS SDK</content>
   </entry>
 </feed>

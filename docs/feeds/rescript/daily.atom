@@ -10,31 +10,10 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples#1749340800</id>
-    <title>https://github.com/Xilinx/Vitis-HLS-Introductory-Examples</title>
-    <link href="https://github.com/Xilinx/Vitis-HLS-Introductory-Examples" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
     <id>https://github.com/juspay/hyperswitch-control-center#1749340800</id>
     <title>https://github.com/juspay/hyperswitch-control-center</title>
     <link href="https://github.com/juspay/hyperswitch-control-center" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Open sourced control center for managing Hyperswitch - an open sourced payment switch.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/juspay/hyperswitch-web#1749340800</id>
-    <title>https://github.com/juspay/hyperswitch-web</title>
-    <link href="https://github.com/juspay/hyperswitch-web" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Hyperswitch Web SDK: A Rescript powered React library for seamless payment integration and customization.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rescript-lang/rescript#1749340800</id>
-    <title>https://github.com/rescript-lang/rescript</title>
-    <link href="https://github.com/rescript-lang/rescript" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.</content>
   </entry>
 </feed>

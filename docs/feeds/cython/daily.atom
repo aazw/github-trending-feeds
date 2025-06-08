@@ -23,11 +23,4 @@
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Python wrapper for TA-Lib (http://ta-lib.org/).</content>
   </entry>
-  <entry>
-    <id>https://github.com/openai/mujoco-py#1749340800</id>
-    <title>https://github.com/openai/mujoco-py</title>
-    <link href="https://github.com/openai/mujoco-py" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.</content>
-  </entry>
 </feed>

@@ -17,11 +17,18 @@
     <content type="text">程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</content>
   </entry>
   <entry>
-    <id>https://github.com/OWASP/wstg#1749340800</id>
-    <title>https://github.com/OWASP/wstg</title>
-    <link href="https://github.com/OWASP/wstg" />
+    <id>https://github.com/YanWenKun/ComfyUI-Docker#1749340800</id>
+    <title>https://github.com/YanWenKun/ComfyUI-Docker</title>
+    <link href="https://github.com/YanWenKun/ComfyUI-Docker" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+    <content type="text">🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexbelgium/hassio-addons#1749340800</id>
+    <title>https://github.com/alexbelgium/hassio-addons</title>
+    <link href="https://github.com/alexbelgium/hassio-addons" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">My homeassistant addons</content>
   </entry>
   <entry>
     <id>https://github.com/autowarefoundation/autoware#1749340800</id>
@@ -38,6 +45,13 @@
     <content type="text">Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository</content>
   </entry>
   <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1749340800</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Official container images for .NET</content>
+  </entry>
+  <entry>
     <id>https://github.com/dunglas/symfony-docker#1749340800</id>
     <title>https://github.com/dunglas/symfony-docker</title>
     <link href="https://github.com/dunglas/symfony-docker" />
@@ -52,53 +66,11 @@
     <content type="text">Getting Started with Go on Heroku.</content>
   </entry>
   <entry>
-    <id>https://github.com/jauderho/dockerfiles#1749340800</id>
-    <title>https://github.com/jauderho/dockerfiles</title>
-    <link href="https://github.com/jauderho/dockerfiles" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Dockerfiles of things</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jaywcjlove/reference#1749340800</id>
-    <title>https://github.com/jaywcjlove/reference</title>
-    <link href="https://github.com/jaywcjlove/reference" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">为开发人员分享快速参考备忘清单(速查表)</content>
-  </entry>
-  <entry>
     <id>https://github.com/kubernetes-sigs/contributor-playground#1749340800</id>
     <title>https://github.com/kubernetes-sigs/contributor-playground</title>
     <link href="https://github.com/kubernetes-sigs/contributor-playground" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/odoo/docker#1749340800</id>
-    <title>https://github.com/odoo/docker</title>
-    <link href="https://github.com/odoo/docker" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/oxsecurity/megalinter#1749340800</id>
-    <title>https://github.com/oxsecurity/megalinter</title>
-    <link href="https://github.com/oxsecurity/megalinter" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/piyushsachdeva/CKA-2024#1749340800</id>
-    <title>https://github.com/piyushsachdeva/CKA-2024</title>
-    <link href="https://github.com/piyushsachdeva/CKA-2024" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/streetsidesoftware/cspell-cli#1749340800</id>
-    <title>https://github.com/streetsidesoftware/cspell-cli</title>
-    <link href="https://github.com/streetsidesoftware/cspell-cli" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">CSpell command line spell checker.</content>
   </entry>
   <entry>
     <id>https://github.com/vulhub/vulhub#1749340800</id>

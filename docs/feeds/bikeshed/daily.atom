@@ -17,18 +17,25 @@
     <content type="text">Attribution Reporting API</content>
   </entry>
   <entry>
-    <id>https://github.com/explainers-by-googlers/local-network-access#1749340800</id>
-    <title>https://github.com/explainers-by-googlers/local-network-access</title>
-    <link href="https://github.com/explainers-by-googlers/local-network-access" />
+    <id>https://github.com/WICG/first-party-sets#1749340800</id>
+    <title>https://github.com/WICG/first-party-sets</title>
+    <link href="https://github.com/WICG/first-party-sets" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A proposal to restrict sites from accessing a users' local network without permission</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/gpuweb/gpuweb#1749340800</id>
-    <title>https://github.com/gpuweb/gpuweb</title>
-    <link href="https://github.com/gpuweb/gpuweb" />
+    <id>https://github.com/WICG/turtledove#1749340800</id>
+    <title>https://github.com/WICG/turtledove</title>
+    <link href="https://github.com/WICG/turtledove" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Where the GPU for the Web work happens!</content>
+    <content type="text">TURTLEDOVE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immersive-web/webxr#1749340800</id>
+    <title>https://github.com/immersive-web/webxr</title>
+    <link href="https://github.com/immersive-web/webxr" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Repository for the WebXR Device API Specification.</content>
   </entry>
   <entry>
     <id>https://github.com/patcg-individual-drafts/topics#1749340800</id>
@@ -36,19 +43,5 @@
     <link href="https://github.com/patcg-individual-drafts/topics" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">The Topics API</content>
-  </entry>
-  <entry>
-    <id>https://github.com/w3c/csswg-drafts#1749340800</id>
-    <title>https://github.com/w3c/csswg-drafts</title>
-    <link href="https://github.com/w3c/csswg-drafts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">CSS Working Group Editor Drafts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/w3c/webappsec-permissions-policy#1749340800</id>
-    <title>https://github.com/w3c/webappsec-permissions-policy</title>
-    <link href="https://github.com/w3c/webappsec-permissions-policy" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A mechanism to selectively enable and disable browser features and APIs</content>
   </entry>
 </feed>

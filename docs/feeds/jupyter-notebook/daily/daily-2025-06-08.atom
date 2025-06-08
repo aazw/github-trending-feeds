@@ -10,32 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Arize-ai/phoenix#1749340800</id>
-    <title>https://github.com/Arize-ai/phoenix</title>
-    <link href="https://github.com/Arize-ai/phoenix" />
+    <id>https://github.com/AI4Finance-Foundation/FinRL#1749340800</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRL</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRL" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AI Observability &amp; Evaluation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/IDEA-Research/Grounded-SAM-2#1749340800</id>
-    <title>https://github.com/IDEA-Research/Grounded-SAM-2</title>
-    <link href="https://github.com/IDEA-Research/Grounded-SAM-2" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2</content>
-  </entry>
-  <entry>
-    <id>https://github.com/MahmoudAshraf97/whisper-diarization#1749340800</id>
-    <title>https://github.com/MahmoudAshraf97/whisper-diarization</title>
-    <link href="https://github.com/MahmoudAshraf97/whisper-diarization" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper</content>
-  </entry>
-  <entry>
-    <id>https://github.com/NirDiamant/GenAI_Agents#1749340800</id>
-    <title>https://github.com/NirDiamant/GenAI_Agents</title>
-    <link href="https://github.com/NirDiamant/GenAI_Agents" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+    <content type="text">FinRL®: Financial Reinforcement Learning. 🔥</content>
   </entry>
   <entry>
     <id>https://github.com/NirDiamant/RAG_Techniques#1749340800</id>
@@ -45,11 +24,25 @@
     <content type="text">This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.</content>
   </entry>
   <entry>
-    <id>https://github.com/QwenLM/Qwen2.5-VL#1749340800</id>
-    <title>https://github.com/QwenLM/Qwen2.5-VL</title>
-    <link href="https://github.com/QwenLM/Qwen2.5-VL" />
+    <id>https://github.com/OpenBMB/MiniCPM#1749340800</id>
+    <title>https://github.com/OpenBMB/MiniCPM</title>
+    <link href="https://github.com/OpenBMB/MiniCPM" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</content>
+    <content type="text">MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp#1749340800</id>
+    <title>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp</title>
+    <link href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Course Files for Complete Python 3 Bootcamp Course on Udemy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ageron/handson-ml3#1749340800</id>
+    <title>https://github.com/ageron/handson-ml3</title>
+    <link href="https://github.com/ageron/handson-ml3" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
   </entry>
   <entry>
     <id>https://github.com/alphacep/vosk-api#1749340800</id>
@@ -59,32 +52,18 @@
     <content type="text">Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node</content>
   </entry>
   <entry>
-    <id>https://github.com/anthropics/prompt-eng-interactive-tutorial#1749340800</id>
-    <title>https://github.com/anthropics/prompt-eng-interactive-tutorial</title>
-    <link href="https://github.com/anthropics/prompt-eng-interactive-tutorial" />
+    <id>https://github.com/anthropics/anthropic-cookbook#1749340800</id>
+    <title>https://github.com/anthropics/anthropic-cookbook</title>
+    <link href="https://github.com/anthropics/anthropic-cookbook" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Anthropic's Interactive Prompt Engineering Tutorial</content>
+    <content type="text">A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/superset#1749340800</id>
-    <title>https://github.com/apache/superset</title>
-    <link href="https://github.com/apache/superset" />
+    <id>https://github.com/digitalinnovationone/dio-lab-open-source#1749340800</id>
+    <title>https://github.com/digitalinnovationone/dio-lab-open-source</title>
+    <link href="https://github.com/digitalinnovationone/dio-lab-open-source" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Apache Superset is a Data Visualization and Data Exploration Platform</content>
-  </entry>
-  <entry>
-    <id>https://github.com/datawhalechina/llm-cookbook#1749340800</id>
-    <title>https://github.com/datawhalechina/llm-cookbook</title>
-    <link href="https://github.com/datawhalechina/llm-cookbook" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
-  </entry>
-  <entry>
-    <id>https://github.com/datawhalechina/llm-universe#1749340800</id>
-    <title>https://github.com/datawhalechina/llm-universe</title>
-    <link href="https://github.com/datawhalechina/llm-universe" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</content>
+    <content type="text">Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.</content>
   </entry>
   <entry>
     <id>https://github.com/dusty-nv/jetson-containers#1749340800</id>
@@ -94,18 +73,39 @@
     <content type="text">Machine Learning Containers for NVIDIA Jetson and JetPack-L4T</content>
   </entry>
   <entry>
-    <id>https://github.com/facebookresearch/segment-anything#1749340800</id>
-    <title>https://github.com/facebookresearch/segment-anything</title>
-    <link href="https://github.com/facebookresearch/segment-anything" />
+    <id>https://github.com/ed-donner/llm_engineering#1749340800</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
   </entry>
   <entry>
-    <id>https://github.com/fastai/fastbook#1749340800</id>
-    <title>https://github.com/fastai/fastbook</title>
-    <link href="https://github.com/fastai/fastbook" />
+    <id>https://github.com/goldmansachs/gs-quant#1749340800</id>
+    <title>https://github.com/goldmansachs/gs-quant</title>
+    <link href="https://github.com/goldmansachs/gs-quant" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The fastai book, published as Jupyter Notebooks</content>
+    <content type="text">Python toolkit for quantitative finance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/graviraja/MLOps-Basics#1749340800</id>
+    <title>https://github.com/graviraja/MLOps-Basics</title>
+    <link href="https://github.com/graviraja/MLOps-Basics" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera#1749340800</id>
+    <title>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</title>
+    <link href="https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hustvl/4DGaussians#1749340800</id>
+    <title>https://github.com/hustvl/4DGaussians</title>
+    <link href="https://github.com/hustvl/4DGaussians" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering</content>
   </entry>
   <entry>
     <id>https://github.com/jackfrued/Python-100-Days#1749340800</id>
@@ -115,11 +115,18 @@
     <content type="text">Python - 100天从新手到大师</content>
   </entry>
   <entry>
-    <id>https://github.com/langchain-ai/langchain#1749340800</id>
-    <title>https://github.com/langchain-ai/langchain</title>
-    <link href="https://github.com/langchain-ai/langchain" />
+    <id>https://github.com/karpathy/micrograd#1749340800</id>
+    <title>https://github.com/karpathy/micrograd</title>
+    <link href="https://github.com/karpathy/micrograd" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+    <content type="text">A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maxim5/cs229-2018-autumn#1749340800</id>
+    <title>https://github.com/maxim5/cs229-2018-autumn</title>
+    <link href="https://github.com/maxim5/cs229-2018-autumn" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">All notes and materials for the CS229: Machine Learning course by Stanford University</content>
   </entry>
   <entry>
     <id>https://github.com/unslothai/notebooks#1749340800</id>
@@ -127,5 +134,12 @@
     <link href="https://github.com/unslothai/notebooks" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wilsonfreitas/awesome-quant#1749340800</id>
+    <title>https://github.com/wilsonfreitas/awesome-quant</title>
+    <link href="https://github.com/wilsonfreitas/awesome-quant" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)</content>
   </entry>
 </feed>

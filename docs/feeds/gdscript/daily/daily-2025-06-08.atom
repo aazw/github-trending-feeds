@@ -17,39 +17,25 @@
     <content type="text">Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</content>
   </entry>
   <entry>
+    <id>https://github.com/Maran23/script-ide#1749340800</id>
+    <title>https://github.com/Maran23/script-ide</title>
+    <link href="https://github.com/Maran23/script-ide" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Script-IDE is a plugin for Godot. It transforms the Script UI into an IDE like UI. Tabs are used for navigating between scripts. The default Outline got an overhaul and now shows all members of the script (not just methods) with unique icons for faster navigation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MewPurPur/GodSVG#1749340800</id>
+    <title>https://github.com/MewPurPur/GodSVG</title>
+    <link href="https://github.com/MewPurPur/GodSVG" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.</content>
+  </entry>
+  <entry>
     <id>https://github.com/Orama-Interactive/Pixelorama#1749340800</id>
     <title>https://github.com/Orama-Interactive/Pixelorama</title>
     <link href="https://github.com/Orama-Interactive/Pixelorama" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Phazorknight/Cogito#1749340800</id>
-    <title>https://github.com/Phazorknight/Cogito</title>
-    <link href="https://github.com/Phazorknight/Cogito" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Immersive Sim Template Project for GODOT 4</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Quaint-Studios/Reia#1749340800</id>
-    <title>https://github.com/Quaint-Studios/Reia</title>
-    <link href="https://github.com/Quaint-Studios/Reia" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">RPG game action-adventure MMO built with Godot, Rust, and Zig.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/TheDuckCow/godot-road-generator#1749340800</id>
-    <title>https://github.com/TheDuckCow/godot-road-generator</title>
-    <link href="https://github.com/TheDuckCow/godot-road-generator" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A godot plugin for creating 3D highways and streets.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ThePat02/BehaviourToolkit#1749340800</id>
-    <title>https://github.com/ThePat02/BehaviourToolkit</title>
-    <link href="https://github.com/ThePat02/BehaviourToolkit" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A collection of tools for AI Behaviour in the Godot 4 Game Engine!</content>
   </entry>
   <entry>
     <id>https://github.com/bitbrain/beehave#1749340800</id>
@@ -85,19 +71,5 @@
     <link href="https://github.com/godotengine/godot-demo-projects" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Demonstration and Template Projects</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mbrlabs/Lorien#1749340800</id>
-    <title>https://github.com/mbrlabs/Lorien</title>
-    <link href="https://github.com/mbrlabs/Lorien" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ramokz/phantom-camera#1749340800</id>
-    <title>https://github.com/ramokz/phantom-camera</title>
-    <link href="https://github.com/ramokz/phantom-camera" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">👻🎥 Control the movement and dynamically tween 2D &amp; 3D cameras. Built for Godot 4. Inspired by Cinemachine.</content>
   </entry>
 </feed>

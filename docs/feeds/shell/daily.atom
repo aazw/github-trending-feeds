@@ -10,25 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/007revad/Synology_HDD_db#1749340800</id>
-    <title>https://github.com/007revad/Synology_HDD_db</title>
-    <link href="https://github.com/007revad/Synology_HDD_db" />
+    <id>https://github.com/AbdBarho/stable-diffusion-webui-docker#1749340800</id>
+    <title>https://github.com/AbdBarho/stable-diffusion-webui-docker</title>
+    <link href="https://github.com/AbdBarho/stable-diffusion-webui-docker" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more</content>
+    <content type="text">Easy Docker setup for Stable Diffusion with user-friendly UI</content>
   </entry>
   <entry>
-    <id>https://github.com/JamesTurland/JimsGarage#1749340800</id>
-    <title>https://github.com/JamesTurland/JimsGarage</title>
-    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <id>https://github.com/JaKooLit/Arch-Hyprland#1749340800</id>
+    <title>https://github.com/JaKooLit/Arch-Hyprland</title>
+    <link href="https://github.com/JaKooLit/Arch-Hyprland" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Homelab Goodies</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ONLYOFFICE/Docker-DocumentServer#1749340800</id>
-    <title>https://github.com/ONLYOFFICE/Docker-DocumentServer</title>
-    <link href="https://github.com/ONLYOFFICE/Docker-DocumentServer" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.</content>
+    <content type="text">For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros</content>
   </entry>
   <entry>
     <id>https://github.com/QwenLM/Qwen3#1749340800</id>
@@ -38,32 +31,18 @@
     <content type="text">Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
   </entry>
   <entry>
-    <id>https://github.com/ROCm/ROCm#1749340800</id>
-    <title>https://github.com/ROCm/ROCm</title>
-    <link href="https://github.com/ROCm/ROCm" />
+    <id>https://github.com/RROrg/rr#1749340800</id>
+    <title>https://github.com/RROrg/rr</title>
+    <link href="https://github.com/RROrg/rr" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+    <content type="text">Redpill Recovery (arpl-i18n)</content>
   </entry>
   <entry>
-    <id>https://github.com/Sergeydigl3/zapret-discord-youtube-linux#1749340800</id>
-    <title>https://github.com/Sergeydigl3/zapret-discord-youtube-linux</title>
-    <link href="https://github.com/Sergeydigl3/zapret-discord-youtube-linux" />
+    <id>https://github.com/VSCodium/vscodium#1749340800</id>
+    <title>https://github.com/VSCodium/vscodium</title>
+    <link href="https://github.com/VSCodium/vscodium" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Shuffle/Shuffle#1749340800</id>
-    <title>https://github.com/Shuffle/Shuffle</title>
-    <link href="https://github.com/Shuffle/Shuffle" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/adi1090x/plymouth-themes#1749340800</id>
-    <title>https://github.com/adi1090x/plymouth-themes</title>
-    <link href="https://github.com/adi1090x/plymouth-themes" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A huge collection (80+) of plymouth themes ported from android bootanimations</content>
+    <content type="text">binary releases of VS Code without MS branding/telemetry/licensing</content>
   </entry>
   <entry>
     <id>https://github.com/anthropics/claude-code#1749340800</id>
@@ -73,20 +52,6 @@
     <content type="text">Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</content>
   </entry>
   <entry>
-    <id>https://github.com/bats-core/bats-core#1749340800</id>
-    <title>https://github.com/bats-core/bats-core</title>
-    <link href="https://github.com/bats-core/bats-core" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Bash Automated Testing System</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bioconda/bioconda-recipes#1749340800</id>
-    <title>https://github.com/bioconda/bioconda-recipes</title>
-    <link href="https://github.com/bioconda/bioconda-recipes" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Conda recipes for the bioconda channel.</content>
-  </entry>
-  <entry>
     <id>https://github.com/catppuccin/tmux#1749340800</id>
     <title>https://github.com/catppuccin/tmux</title>
     <link href="https://github.com/catppuccin/tmux" />
@@ -94,11 +59,25 @@
     <content type="text">💽 Soothing pastel theme for Tmux</content>
   </entry>
   <entry>
-    <id>https://github.com/laude-institute/terminal-bench#1749340800</id>
-    <title>https://github.com/laude-institute/terminal-bench</title>
-    <link href="https://github.com/laude-institute/terminal-bench" />
+    <id>https://github.com/itdoginfo/podkop#1749340800</id>
+    <title>https://github.com/itdoginfo/podkop</title>
+    <link href="https://github.com/itdoginfo/podkop" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A benchmark for LLMs on complicated tasks in the terminal</content>
+    <content type="text">Dev podkop</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itzg/docker-minecraft-server#1749340800</id>
+    <title>https://github.com/itzg/docker-minecraft-server</title>
+    <link href="https://github.com/itzg/docker-minecraft-server" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/j-hc/revanced-magisk-module#1749340800</id>
+    <title>https://github.com/j-hc/revanced-magisk-module</title>
+    <link href="https://github.com/j-hc/revanced-magisk-module" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Extensive ReVanced builder. Builds both modules and APKs. Updated daily.</content>
   </entry>
   <entry>
     <id>https://github.com/nvm-sh/nvm#1749340800</id>
@@ -108,18 +87,18 @@
     <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
   </entry>
   <entry>
-    <id>https://github.com/openshift/release#1749340800</id>
-    <title>https://github.com/openshift/release</title>
-    <link href="https://github.com/openshift/release" />
+    <id>https://github.com/pi-hole/docker-pi-hole#1749340800</id>
+    <title>https://github.com/pi-hole/docker-pi-hole</title>
+    <link href="https://github.com/pi-hole/docker-pi-hole" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Release tooling for OpenShift</content>
+    <content type="text">Pi-hole in a docker container</content>
   </entry>
   <entry>
-    <id>https://github.com/termux/termux-packages#1749340800</id>
-    <title>https://github.com/termux/termux-packages</title>
-    <link href="https://github.com/termux/termux-packages" />
+    <id>https://github.com/pi-hole/pi-hole#1749340800</id>
+    <title>https://github.com/pi-hole/pi-hole</title>
+    <link href="https://github.com/pi-hole/pi-hole" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A package build system for Termux.</content>
+    <content type="text">A black hole for Internet advertisements</content>
   </entry>
   <entry>
     <id>https://github.com/yuaotian/go-cursor-help#1749340800</id>

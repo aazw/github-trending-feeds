@@ -17,88 +17,60 @@
     <content type="text">Just enough OS for KODI</content>
   </entry>
   <entry>
-    <id>https://github.com/dbt-labs/dbt-codegen#1749340800</id>
-    <title>https://github.com/dbt-labs/dbt-codegen</title>
-    <link href="https://github.com/dbt-labs/dbt-codegen" />
+    <id>https://github.com/ROCKNIX/distribution#1749340800</id>
+    <title>https://github.com/ROCKNIX/distribution</title>
+    <link href="https://github.com/ROCKNIX/distribution" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Macros that generate dbt code</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/dbt-labs/dbt-utils#1749340800</id>
-    <title>https://github.com/dbt-labs/dbt-utils</title>
-    <link href="https://github.com/dbt-labs/dbt-utils" />
+    <id>https://github.com/WerWolv/Tesla-Menu#1749340800</id>
+    <title>https://github.com/WerWolv/Tesla-Menu</title>
+    <link href="https://github.com/WerWolv/Tesla-Menu" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Utility functions for dbt projects.</content>
+    <content type="text">The Nintendo Switch overlay menu</content>
   </entry>
   <entry>
-    <id>https://github.com/foostan/crkbd#1749340800</id>
-    <title>https://github.com/foostan/crkbd</title>
-    <link href="https://github.com/foostan/crkbd" />
+    <id>https://github.com/cncf/people#1749340800</id>
+    <title>https://github.com/cncf/people</title>
+    <link href="https://github.com/cncf/people" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+    <content type="text">Stores the data that will populate the various people listings on cncf.io</content>
   </entry>
   <entry>
-    <id>https://github.com/freebsd/freebsd-ports#1749340800</id>
-    <title>https://github.com/freebsd/freebsd-ports</title>
-    <link href="https://github.com/freebsd/freebsd-ports" />
+    <id>https://github.com/motioneye-project/motioneyeos#1749340800</id>
+    <title>https://github.com/motioneye-project/motioneyeos</title>
+    <link href="https://github.com/motioneye-project/motioneyeos" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">FreeBSD ports tree (read-only mirror)</content>
+    <content type="text">A Video Surveillance OS For Single-board Computers</content>
   </entry>
   <entry>
-    <id>https://github.com/geneontology/go-ontology#1749340800</id>
-    <title>https://github.com/geneontology/go-ontology</title>
-    <link href="https://github.com/geneontology/go-ontology" />
+    <id>https://github.com/mxe/mxe#1749340800</id>
+    <title>https://github.com/mxe/mxe</title>
+    <link href="https://github.com/mxe/mxe" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Source ontology files for the Gene Ontology</content>
+    <content type="text">MXE (M cross environment)</content>
   </entry>
   <entry>
-    <id>https://github.com/golang-standards/project-layout#1749340800</id>
-    <title>https://github.com/golang-standards/project-layout</title>
-    <link href="https://github.com/golang-standards/project-layout" />
+    <id>https://github.com/openwrt/packages#1749340800</id>
+    <title>https://github.com/openwrt/packages</title>
+    <link href="https://github.com/openwrt/packages" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Standard Go Project Layout</content>
+    <content type="text">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</content>
   </entry>
   <entry>
-    <id>https://github.com/manna-harbour/miryoku#1749340800</id>
-    <title>https://github.com/manna-harbour/miryoku</title>
-    <link href="https://github.com/manna-harbour/miryoku" />
+    <id>https://github.com/pulumi/pulumi-random#1749340800</id>
+    <title>https://github.com/pulumi/pulumi-random</title>
+    <link href="https://github.com/pulumi/pulumi-random" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.</content>
+    <content type="text">A Pulumi provider that safely enables randomness for resources</content>
   </entry>
   <entry>
-    <id>https://github.com/ninenines/erlang.mk#1749340800</id>
-    <title>https://github.com/ninenines/erlang.mk</title>
-    <link href="https://github.com/ninenines/erlang.mk" />
+    <id>https://github.com/richfelker/musl-cross-make#1749340800</id>
+    <title>https://github.com/richfelker/musl-cross-make</title>
+    <link href="https://github.com/richfelker/musl-cross-make" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A build tool for Erlang that just works.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-proto#1749340800</id>
-    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
-    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
-  </entry>
-  <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1749340800</id>
-    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
-    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sigstore/protobuf-specs#1749340800</id>
-    <title>https://github.com/sigstore/protobuf-specs</title>
-    <link href="https://github.com/sigstore/protobuf-specs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Sigstore's Protocol Buffer specifications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/twilio/twilio-oai#1749340800</id>
-    <title>https://github.com/twilio/twilio-oai</title>
-    <link href="https://github.com/twilio/twilio-oai" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Twilio OpenAPI Specification</content>
+    <content type="text">Simple makefile-based build for musl cross compiler</content>
   </entry>
   <entry>
     <id>https://github.com/uber-go/guide#1749340800</id>
@@ -108,17 +80,17 @@
     <content type="text">The Uber Go Style Guide.</content>
   </entry>
   <entry>
-    <id>https://github.com/ucan-lab/docker-laravel#1749340800</id>
-    <title>https://github.com/ucan-lab/docker-laravel</title>
-    <link href="https://github.com/ucan-lab/docker-laravel" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🐳 Build a simple laravel development environment with Docker Compose.</content>
-  </entry>
-  <entry>
     <id>https://github.com/upbound/build#1749340800</id>
     <title>https://github.com/upbound/build</title>
     <link href="https://github.com/upbound/build" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Upbound build and CI scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wodby/docker4wordpress#1749340800</id>
+    <title>https://github.com/wodby/docker4wordpress</title>
+    <link href="https://github.com/wodby/docker4wordpress" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Docker-based WordPress stack</content>
   </entry>
 </feed>

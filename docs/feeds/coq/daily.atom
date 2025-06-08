@@ -9,18 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/AbsInt/CompCert#1749340800</id>
-    <title>https://github.com/AbsInt/CompCert</title>
-    <link href="https://github.com/AbsInt/CompCert" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The CompCert formally-verified C compiler</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rocq-community/coq-ext-lib#1749340800</id>
-    <title>https://github.com/rocq-community/coq-ext-lib</title>
-    <link href="https://github.com/rocq-community/coq-ext-lib" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A library of Coq definitions, theorems, and tactics. [maintainers=@gmalecha,@liyishuai]</content>
-  </entry>
 </feed>

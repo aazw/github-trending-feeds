@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/BetterDiscord/Installer#1749340800</id>
-    <title>https://github.com/BetterDiscord/Installer</title>
-    <link href="https://github.com/BetterDiscord/Installer" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.</content>
-  </entry>
-  <entry>
     <id>https://github.com/ChurchApps/FreeShow#1749340800</id>
     <title>https://github.com/ChurchApps/FreeShow</title>
     <link href="https://github.com/ChurchApps/FreeShow" />
@@ -24,25 +17,46 @@
     <content type="text">FreeShow is a free and open-source, user-friendly presenter software.</content>
   </entry>
   <entry>
-    <id>https://github.com/EddieHubCommunity/good-first-issue-finder#1749340800</id>
-    <title>https://github.com/EddieHubCommunity/good-first-issue-finder</title>
-    <link href="https://github.com/EddieHubCommunity/good-first-issue-finder" />
+    <id>https://github.com/CriticalMoments/CMSaasStarter#1749340800</id>
+    <title>https://github.com/CriticalMoments/CMSaasStarter</title>
+    <link href="https://github.com/CriticalMoments/CMSaasStarter" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Issue-Crawler for GitHub based on Sveltekit</content>
+    <content type="text">A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.</content>
   </entry>
   <entry>
-    <id>https://github.com/GoodiesHQ/headscale-admin#1749340800</id>
-    <title>https://github.com/GoodiesHQ/headscale-admin</title>
-    <link href="https://github.com/GoodiesHQ/headscale-admin" />
+    <id>https://github.com/PuruVJ/macos-web#1749340800</id>
+    <title>https://github.com/PuruVJ/macos-web</title>
+    <link href="https://github.com/PuruVJ/macos-web" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Admin Web Interface for juanfont/headscale</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/SikandarJODD/svelte-animations#1749340800</id>
-    <title>https://github.com/SikandarJODD/svelte-animations</title>
-    <link href="https://github.com/SikandarJODD/svelte-animations" />
+    <id>https://github.com/ReVanced/revanced-website#1749340800</id>
+    <title>https://github.com/ReVanced/revanced-website</title>
+    <link href="https://github.com/ReVanced/revanced-website" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS &amp; Framer Motion</content>
+    <content type="text">🌐 Website for ReVanced</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SOH69/mm_radio#1749340800</id>
+    <title>https://github.com/SOH69/mm_radio</title>
+    <link href="https://github.com/SOH69/mm_radio" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A Radio Script for Fivem Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThaUnknown/miru#1749340800</id>
+    <title>https://github.com/ThaUnknown/miru</title>
+    <link href="https://github.com/ThaUnknown/miru" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheOnlyWayUp/WattpadDownloader#1749340800</id>
+    <title>https://github.com/TheOnlyWayUp/WattpadDownloader</title>
+    <link href="https://github.com/TheOnlyWayUp/WattpadDownloader" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Wattpad Books to EPUB Files. 🪙Download Paid Stories! Metadata and Cover Support 🏷️, Lightweight Frontend 🐇, Dockerized 🐳, Rapid Generation ⚡, API Support 🌐</content>
   </entry>
   <entry>
     <id>https://github.com/cmudig/AutoProfiler#1749340800</id>
@@ -52,18 +66,11 @@
     <content type="text">Automatically profile dataframes in the Jupyter sidebar</content>
   </entry>
   <entry>
-    <id>https://github.com/dbgate/dbgate#1749340800</id>
-    <title>https://github.com/dbgate/dbgate</title>
-    <link href="https://github.com/dbgate/dbgate" />
+    <id>https://github.com/dora-team/dora.dev#1749340800</id>
+    <title>https://github.com/dora-team/dora.dev</title>
+    <link href="https://github.com/dora-team/dora.dev" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gurucomputing/headscale-ui#1749340800</id>
-    <title>https://github.com/gurucomputing/headscale-ui</title>
-    <link href="https://github.com/gurucomputing/headscale-ui" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A web frontend for the headscale Tailscale-compatible coordination server</content>
+    <content type="text">Public-facing knowledge site: https://dora.dev</content>
   </entry>
   <entry>
     <id>https://github.com/huntabyte/shadcn-svelte#1749340800</id>
@@ -73,18 +80,18 @@
     <content type="text">shadcn/ui, but for Svelte. ✨</content>
   </entry>
   <entry>
-    <id>https://github.com/imputnet/cobalt#1749340800</id>
-    <title>https://github.com/imputnet/cobalt</title>
-    <link href="https://github.com/imputnet/cobalt" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">best way to save what you love</content>
-  </entry>
-  <entry>
     <id>https://github.com/marcusolsson/obsidian-projects#1749340800</id>
     <title>https://github.com/marcusolsson/obsidian-projects</title>
     <link href="https://github.com/marcusolsson/obsidian-projects" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Plain text project planning in Obsidian</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mathesar-foundation/mathesar#1749340800</id>
+    <title>https://github.com/mathesar-foundation/mathesar</title>
+    <link href="https://github.com/mathesar-foundation/mathesar" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.</content>
   </entry>
   <entry>
     <id>https://github.com/matt8707/ha-fusion#1749340800</id>
@@ -94,6 +101,13 @@
     <content type="text">A modern, easy-to-use and performant custom Home Assistant dashboard</content>
   </entry>
   <entry>
+    <id>https://github.com/mistweaverco/bananas#1749340800</id>
+    <title>https://github.com/mistweaverco/bananas</title>
+    <link href="https://github.com/mistweaverco/bananas" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.</content>
+  </entry>
+  <entry>
     <id>https://github.com/pluja/whishper#1749340800</id>
     <title>https://github.com/pluja/whishper</title>
     <link href="https://github.com/pluja/whishper" />
@@ -101,18 +115,11 @@
     <content type="text">Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!</content>
   </entry>
   <entry>
-    <id>https://github.com/rajnandan1/kener#1749340800</id>
-    <title>https://github.com/rajnandan1/kener</title>
-    <link href="https://github.com/rajnandan1/kener" />
+    <id>https://github.com/rishikanthc/Scriberr#1749340800</id>
+    <title>https://github.com/rishikanthc/Scriberr</title>
+    <link href="https://github.com/rishikanthc/Scriberr" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Stunning status pages, batteries included!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/saadeghi/daisyui#1749340800</id>
-    <title>https://github.com/saadeghi/daisyui</title>
-    <link href="https://github.com/saadeghi/daisyui" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</content>
+    <content type="text">Self-hosted AI audio transcription</content>
   </entry>
   <entry>
     <id>https://github.com/satisfactorymodding/SatisfactoryModManager#1749340800</id>
@@ -122,11 +129,11 @@
     <content type="text">A mod manager for easy installation of mods and modloader for Satisfactory</content>
   </entry>
   <entry>
-    <id>https://github.com/seanmorley15/AdventureLog#1749340800</id>
-    <title>https://github.com/seanmorley15/AdventureLog</title>
-    <link href="https://github.com/seanmorley15/AdventureLog" />
+    <id>https://github.com/skyline69/balatro-mod-manager#1749340800</id>
+    <title>https://github.com/skyline69/balatro-mod-manager</title>
+    <link href="https://github.com/skyline69/balatro-mod-manager" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Self-hostable travel tracker and trip planner.</content>
+    <content type="text">Balatro Mod Manager by Skyline</content>
   </entry>
   <entry>
     <id>https://github.com/stemrollerapp/stemroller#1749340800</id>
@@ -136,11 +143,11 @@
     <content type="text">Isolate vocals, drums, bass, and other instrumental stems from any song</content>
   </entry>
   <entry>
-    <id>https://github.com/sveltejs/svelte.dev#1749340800</id>
-    <title>https://github.com/sveltejs/svelte.dev</title>
-    <link href="https://github.com/sveltejs/svelte.dev" />
+    <id>https://github.com/threlte/threlte#1749340800</id>
+    <title>https://github.com/threlte/threlte</title>
+    <link href="https://github.com/threlte/threlte" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Svelte omnisite</content>
+    <content type="text">3D framework for Svelte</content>
   </entry>
   <entry>
     <id>https://github.com/vkurko/calendar#1749340800</id>

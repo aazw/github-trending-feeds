@@ -24,24 +24,10 @@
     <content type="text">An extensible iOS and OS X animation library, useful for physics-based interactions.</content>
   </entry>
   <entry>
-    <id>https://github.com/gree/unity-webview#1749340800</id>
-    <title>https://github.com/gree/unity-webview</title>
-    <link href="https://github.com/gree/unity-webview" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
     <id>https://github.com/pocketsvg/PocketSVG#1749340800</id>
     <title>https://github.com/pocketsvg/PocketSVG</title>
     <link href="https://github.com/pocketsvg/PocketSVG" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
-  </entry>
-  <entry>
-    <id>https://github.com/yasirkula/UnityNativeGallery#1749340800</id>
-    <title>https://github.com/yasirkula/UnityNativeGallery</title>
-    <link href="https://github.com/yasirkula/UnityNativeGallery" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A native Unity plugin to interact with Gallery/Photos on Android &amp; iOS (save and/or load images/videos)</content>
   </entry>
 </feed>

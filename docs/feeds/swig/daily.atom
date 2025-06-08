@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/tpaviot/pythonocc-core#1749340800</id>
-    <title>https://github.com/tpaviot/pythonocc-core</title>
-    <link href="https://github.com/tpaviot/pythonocc-core" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Python package for 3D geometry CAD/BIM/CAM</content>
-  </entry>
 </feed>

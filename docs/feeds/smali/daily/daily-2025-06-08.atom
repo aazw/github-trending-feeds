@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/AhMyth/AhMyth-Android-RAT#1749340800</id>
+    <title>https://github.com/AhMyth/AhMyth-Android-RAT</title>
+    <link href="https://github.com/AhMyth/AhMyth-Android-RAT" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Android Remote Administration Tool</content>
+  </entry>
+  <entry>
     <id>https://github.com/Morsmalleo/AhMyth#1749340800</id>
     <title>https://github.com/Morsmalleo/AhMyth</title>
     <link href="https://github.com/Morsmalleo/AhMyth" />
@@ -17,10 +24,31 @@
     <content type="text">Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT</content>
   </entry>
   <entry>
+    <id>https://github.com/bluemods/Bluecord#1749340800</id>
+    <title>https://github.com/bluemods/Bluecord</title>
+    <link href="https://github.com/bluemods/Bluecord" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Source Code for Bluecord</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phhusson/treble_experimentations#1749340800</id>
+    <title>https://github.com/phhusson/treble_experimentations</title>
+    <link href="https://github.com/phhusson/treble_experimentations" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Notes about tinkering with Android Project Treble</content>
+  </entry>
+  <entry>
     <id>https://github.com/qidian55/bilibilitv1.6.6-repair#1749340800</id>
     <title>https://github.com/qidian55/bilibilitv1.6.6-repair</title>
     <link href="https://github.com/qidian55/bilibilitv1.6.6-repair" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">尝试修复经典的 bilibili tv 1.6.6 版本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vtosters/lite#1749340800</id>
+    <title>https://github.com/vtosters/lite</title>
+    <link href="https://github.com/vtosters/lite" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Модифицированный клиент VK</content>
   </entry>
 </feed>

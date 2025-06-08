@@ -9,4 +9,18 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/Olical/conjure#1749340800</id>
+    <title>https://github.com/Olical/conjure</title>
+    <link href="https://github.com/Olical/conjure" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggandor/leap.nvim#1749340800</id>
+    <title>https://github.com/ggandor/leap.nvim</title>
+    <link href="https://github.com/ggandor/leap.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Neovim's answer to the mouse 🦘</content>
+  </entry>
 </feed>

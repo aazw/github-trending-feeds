@@ -10,11 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/HEPLean/PhysLean#1749340800</id>
-    <title>https://github.com/HEPLean/PhysLean</title>
-    <link href="https://github.com/HEPLean/PhysLean" />
+    <id>https://github.com/ImperialCollegeLondon/FLT#1749340800</id>
+    <title>https://github.com/ImperialCollegeLondon/FLT</title>
+    <link href="https://github.com/ImperialCollegeLondon/FLT" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A project to digitalise results from physics into Lean.</content>
+    <content type="text">Ongoing Lean formalisation of the proof of Fermat's Last Theorem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/ProofWidgets4#1749340800</id>
+    <title>https://github.com/leanprover-community/ProofWidgets4</title>
+    <link href="https://github.com/leanprover-community/ProofWidgets4" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Helper toolkit for creating your own Lean 4 UserWidgets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/aesop#1749340800</id>
+    <title>https://github.com/leanprover-community/aesop</title>
+    <link href="https://github.com/leanprover-community/aesop" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">White-box automation for Lean 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/batteries#1749340800</id>
+    <title>https://github.com/leanprover-community/batteries</title>
+    <link href="https://github.com/leanprover-community/batteries" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The "batteries included" extended library for the Lean programming language and theorem prover</content>
   </entry>
   <entry>
     <id>https://github.com/leanprover-community/mathlib4#1749340800</id>
@@ -22,6 +43,13 @@
     <link href="https://github.com/leanprover-community/mathlib4" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">The math library of Lean 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leanprover-community/quote4#1749340800</id>
+    <title>https://github.com/leanprover-community/quote4</title>
+    <link href="https://github.com/leanprover-community/quote4" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Intuitive, type-safe expression quotations for Lean 4.</content>
   </entry>
   <entry>
     <id>https://github.com/leanprover/fp-lean#1749340800</id>

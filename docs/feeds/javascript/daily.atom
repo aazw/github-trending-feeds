@@ -10,39 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/DavidHDev/react-bits#1749340800</id>
-    <title>https://github.com/DavidHDev/react-bits</title>
-    <link href="https://github.com/DavidHDev/react-bits" />
+    <id>https://github.com/betaflight/betaflight-configurator#1749340800</id>
+    <title>https://github.com/betaflight/betaflight-configurator</title>
+    <link href="https://github.com/betaflight/betaflight-configurator" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces.</content>
+    <content type="text">Cross platform configuration tool for the Betaflight firmware</content>
   </entry>
   <entry>
-    <id>https://github.com/advplyr/audiobookshelf#1749340800</id>
-    <title>https://github.com/advplyr/audiobookshelf</title>
-    <link href="https://github.com/advplyr/audiobookshelf" />
+    <id>https://github.com/end-4/dots-hyprland#1749340800</id>
+    <title>https://github.com/end-4/dots-hyprland</title>
+    <link href="https://github.com/end-4/dots-hyprland" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Self-hosted audiobook and podcast server</content>
+    <content type="text">cooking...</content>
   </entry>
   <entry>
-    <id>https://github.com/bgstaal/multipleWindow3dScene#1749340800</id>
-    <title>https://github.com/bgstaal/multipleWindow3dScene</title>
-    <link href="https://github.com/bgstaal/multipleWindow3dScene" />
+    <id>https://github.com/expressjs/express#1749340800</id>
+    <title>https://github.com/expressjs/express</title>
+    <link href="https://github.com/expressjs/express" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dcloudio/uni-app#1749340800</id>
-    <title>https://github.com/dcloudio/uni-app</title>
-    <link href="https://github.com/dcloudio/uni-app" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A cross-platform framework using Vue.js</content>
-  </entry>
-  <entry>
-    <id>https://github.com/drawdb-io/drawdb#1749340800</id>
-    <title>https://github.com/drawdb-io/drawdb</title>
-    <link href="https://github.com/drawdb-io/drawdb" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Free, simple, and intuitive online database diagram editor and SQL generator.</content>
+    <content type="text">Fast, unopinionated, minimalist web framework for node.</content>
   </entry>
   <entry>
     <id>https://github.com/eyaltoledano/claude-task-master#1749340800</id>
@@ -52,6 +38,13 @@
     <content type="text">An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.</content>
   </entry>
   <entry>
+    <id>https://github.com/facebook/react#1749340800</id>
+    <title>https://github.com/facebook/react</title>
+    <link href="https://github.com/facebook/react" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The library for web and native user interfaces.</content>
+  </entry>
+  <entry>
     <id>https://github.com/gorhill/uBlock#1749340800</id>
     <title>https://github.com/gorhill/uBlock</title>
     <link href="https://github.com/gorhill/uBlock" />
@@ -59,18 +52,11 @@
     <content type="text">uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</content>
   </entry>
   <entry>
-    <id>https://github.com/huggingface/transformers.js-examples#1749340800</id>
-    <title>https://github.com/huggingface/transformers.js-examples</title>
-    <link href="https://github.com/huggingface/transformers.js-examples" />
+    <id>https://github.com/jerryc127/hexo-theme-butterfly#1749340800</id>
+    <title>https://github.com/jerryc127/hexo-theme-butterfly</title>
+    <link href="https://github.com/jerryc127/hexo-theme-butterfly" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A collection of 🤗 Transformers.js demos and example applications</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jerosoler/Drawflow#1749340800</id>
-    <title>https://github.com/jerosoler/Drawflow</title>
-    <link href="https://github.com/jerosoler/Drawflow" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Simple flow library 🖥️🖱️</content>
+    <content type="text">🦋 A Hexo Theme: Butterfly</content>
   </entry>
   <entry>
     <id>https://github.com/juliangarnier/anime#1749340800</id>
@@ -80,18 +66,18 @@
     <content type="text">JavaScript animation engine</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/monaco-editor#1749340800</id>
-    <title>https://github.com/microsoft/monaco-editor</title>
-    <link href="https://github.com/microsoft/monaco-editor" />
+    <id>https://github.com/kolbytn/mindcraft#1749340800</id>
+    <title>https://github.com/kolbytn/mindcraft</title>
+    <link href="https://github.com/kolbytn/mindcraft" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A browser based code editor</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/mozilla/pdf.js#1749340800</id>
-    <title>https://github.com/mozilla/pdf.js</title>
-    <link href="https://github.com/mozilla/pdf.js" />
+    <id>https://github.com/nextcloud/spreed#1749340800</id>
+    <title>https://github.com/nextcloud/spreed</title>
+    <link href="https://github.com/nextcloud/spreed" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">PDF Reader in JavaScript</content>
+    <content type="text">🗨️ Nextcloud Talk – chat, video &amp; audio calls for Nextcloud</content>
   </entry>
   <entry>
     <id>https://github.com/projectdiscovery/nuclei-templates#1749340800</id>
@@ -101,24 +87,24 @@
     <content type="text">Community curated list of templates for the nuclei engine to find security vulnerabilities.</content>
   </entry>
   <entry>
-    <id>https://github.com/tidalcycles/strudel#1749340800</id>
-    <title>https://github.com/tidalcycles/strudel</title>
-    <link href="https://github.com/tidalcycles/strudel" />
+    <id>https://github.com/saadpasta/developerFolio#1749340800</id>
+    <title>https://github.com/saadpasta/developerFolio</title>
+    <link href="https://github.com/saadpasta/developerFolio" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript</content>
+    <content type="text">🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)</content>
   </entry>
   <entry>
-    <id>https://github.com/webpack/webpack#1749340800</id>
-    <title>https://github.com/webpack/webpack</title>
-    <link href="https://github.com/webpack/webpack" />
+    <id>https://github.com/tangyoha/telegram_media_downloader#1749340800</id>
+    <title>https://github.com/tangyoha/telegram_media_downloader</title>
+    <link href="https://github.com/tangyoha/telegram_media_downloader" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</content>
+    <content type="text">基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file</content>
   </entry>
   <entry>
-    <id>https://github.com/xszyou/Fay#1749340800</id>
-    <title>https://github.com/xszyou/Fay</title>
-    <link href="https://github.com/xszyou/Fay" />
+    <id>https://github.com/xifangczy/cat-catch#1749340800</id>
+    <title>https://github.com/xifangczy/cat-catch</title>
+    <link href="https://github.com/xifangczy/cat-catch" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。</content>
+    <content type="text">猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension</content>
   </entry>
 </feed>

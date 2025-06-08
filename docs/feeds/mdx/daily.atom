@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/ClickHouse/clickhouse-docs#1749340800</id>
+    <title>https://github.com/ClickHouse/clickhouse-docs</title>
+    <link href="https://github.com/ClickHouse/clickhouse-docs" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Official documentation for ClickHouse</content>
+  </entry>
+  <entry>
     <id>https://github.com/Comfy-Org/docs#1749340800</id>
     <title>https://github.com/Comfy-Org/docs</title>
     <link href="https://github.com/Comfy-Org/docs" />
@@ -17,53 +24,25 @@
     <content type="text">Documentation for ComfyUI</content>
   </entry>
   <entry>
-    <id>https://github.com/NethermindEth/starknet.go#1749340800</id>
-    <title>https://github.com/NethermindEth/starknet.go</title>
-    <link href="https://github.com/NethermindEth/starknet.go" />
+    <id>https://github.com/MetaMask/metamask-docs#1749340800</id>
+    <title>https://github.com/MetaMask/metamask-docs</title>
+    <link href="https://github.com/MetaMask/metamask-docs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Golang Library for StarkNet/Cairo</content>
+    <content type="text">Developer documentation for MetaMask</content>
   </entry>
   <entry>
-    <id>https://github.com/ava-labs/builders-hub#1749340800</id>
-    <title>https://github.com/ava-labs/builders-hub</title>
-    <link href="https://github.com/ava-labs/builders-hub" />
+    <id>https://github.com/dair-ai/Prompt-Engineering-Guide#1749340800</id>
+    <title>https://github.com/dair-ai/Prompt-Engineering-Guide</title>
+    <link href="https://github.com/dair-ai/Prompt-Engineering-Guide" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Avalanche Builders Hub</content>
+    <content type="text">🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</content>
   </entry>
   <entry>
-    <id>https://github.com/cloudflare/cloudflare-docs#1749340800</id>
-    <title>https://github.com/cloudflare/cloudflare-docs</title>
-    <link href="https://github.com/cloudflare/cloudflare-docs" />
+    <id>https://github.com/elevenlabs/elevenlabs-docs#1749340800</id>
+    <title>https://github.com/elevenlabs/elevenlabs-docs</title>
+    <link href="https://github.com/elevenlabs/elevenlabs-docs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Cloudflare’s documentation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/drizzle-team/drizzle-orm-docs#1749340800</id>
-    <title>https://github.com/drizzle-team/drizzle-orm-docs</title>
-    <link href="https://github.com/drizzle-team/drizzle-orm-docs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Drizzle ORM documentation website</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ethereum-optimism/docs#1749340800</id>
-    <title>https://github.com/ethereum-optimism/docs</title>
-    <link href="https://github.com/ethereum-optimism/docs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Optimism Developer Docs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/getsentry/sentry-docs#1749340800</id>
-    <title>https://github.com/getsentry/sentry-docs</title>
-    <link href="https://github.com/getsentry/sentry-docs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Sentry's documentation (and tools to build it)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hackclub/putting-the-you-in-cpu#1749340800</id>
-    <title>https://github.com/hackclub/putting-the-you-in-cpu</title>
-    <link href="https://github.com/hackclub/putting-the-you-in-cpu" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A technical explainer by @kognise of how your computer runs programs, from start to finish.</content>
+    <content type="text">Documentation for elevenlabs.io/docs</content>
   </entry>
   <entry>
     <id>https://github.com/huggingface/agents-course#1749340800</id>
@@ -73,11 +52,11 @@
     <content type="text">This repository contains the Hugging Face Agents Course.</content>
   </entry>
   <entry>
-    <id>https://github.com/ionic-team/capacitor-docs#1749340800</id>
-    <title>https://github.com/ionic-team/capacitor-docs</title>
-    <link href="https://github.com/ionic-team/capacitor-docs" />
+    <id>https://github.com/magicuidesign/magicui#1749340800</id>
+    <title>https://github.com/magicuidesign/magicui</title>
+    <link href="https://github.com/magicuidesign/magicui" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
+    <content type="text">UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</content>
   </entry>
   <entry>
     <id>https://github.com/meshtastic/meshtastic#1749340800</id>
@@ -85,13 +64,6 @@
     <link href="https://github.com/meshtastic/meshtastic" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Meshtastic project website and documentation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mintlify/starter#1749340800</id>
-    <title>https://github.com/mintlify/starter</title>
-    <link href="https://github.com/mintlify/starter" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">📖 The starter kit for your Mintlify docs</content>
   </entry>
   <entry>
     <id>https://github.com/npm/documentation#1749340800</id>
@@ -108,13 +80,6 @@
     <content type="text">Examples and guides for using the OpenAI API</content>
   </entry>
   <entry>
-    <id>https://github.com/prisma/docs#1749340800</id>
-    <title>https://github.com/prisma/docs</title>
-    <link href="https://github.com/prisma/docs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">📚 Prisma Documentation</content>
-  </entry>
-  <entry>
     <id>https://github.com/react-native-elements/react-native-elements#1749340800</id>
     <title>https://github.com/react-native-elements/react-native-elements</title>
     <link href="https://github.com/react-native-elements/react-native-elements" />
@@ -122,11 +87,25 @@
     <content type="text">Cross-Platform React Native UI Toolkit</content>
   </entry>
   <entry>
-    <id>https://github.com/solana-foundation/solana-com#1749340800</id>
-    <title>https://github.com/solana-foundation/solana-com</title>
-    <link href="https://github.com/solana-foundation/solana-com" />
+    <id>https://github.com/reown-com/reown-docs#1749340800</id>
+    <title>https://github.com/reown-com/reown-docs</title>
+    <link href="https://github.com/reown-com/reown-docs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The solana.com website.</content>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/shuding/cobe#1749340800</id>
+    <title>https://github.com/shuding/cobe</title>
+    <link href="https://github.com/shuding/cobe" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">5kB WebGL globe lib.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shuding/nextra-docs-template#1749340800</id>
+    <title>https://github.com/shuding/nextra-docs-template</title>
+    <link href="https://github.com/shuding/nextra-docs-template" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Nextra docs template</content>
   </entry>
   <entry>
     <id>https://github.com/tailwindlabs/tailwindcss.com#1749340800</id>
@@ -148,5 +127,12 @@
     <link href="https://github.com/withastro/docs" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Astro documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yangshun/front-end-interview-handbook#1749340800</id>
+    <title>https://github.com/yangshun/front-end-interview-handbook</title>
+    <link href="https://github.com/yangshun/front-end-interview-handbook" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🌐 Front End interview preparation materials for busy engineers (updated for 2025)</content>
   </entry>
 </feed>

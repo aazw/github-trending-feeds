@@ -10,27 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Neo23x0/signature-base#1749340800</id>
-    <title>https://github.com/Neo23x0/signature-base</title>
-    <link href="https://github.com/Neo23x0/signature-base" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">YARA signature and IOC database for my scanners and tools</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Yara-Rules/rules#1749340800</id>
-    <title>https://github.com/Yara-Rules/rules</title>
-    <link href="https://github.com/Yara-Rules/rules" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Repository of yara rules</content>
-  </entry>
-  <entry>
-    <id>https://github.com/elastic/protections-artifacts#1749340800</id>
-    <title>https://github.com/elastic/protections-artifacts</title>
-    <link href="https://github.com/elastic/protections-artifacts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Elastic Security detection content for Endpoint</content>
-  </entry>
-  <entry>
     <id>https://github.com/magicsword-io/LOLDrivers#1749340800</id>
     <title>https://github.com/magicsword-io/LOLDrivers</title>
     <link href="https://github.com/magicsword-io/LOLDrivers" />

@@ -17,6 +17,20 @@
     <content type="text">The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA</content>
   </entry>
   <entry>
+    <id>https://github.com/VoronDesign/VoronUsers#1749340800</id>
+    <title>https://github.com/VoronDesign/VoronUsers</title>
+    <link href="https://github.com/VoronDesign/VoronUsers" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Voron Community mods</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dppdppd/The-Boardgame-Insert-Toolkit#1749340800</id>
+    <title>https://github.com/dppdppd/The-Boardgame-Insert-Toolkit</title>
+    <link href="https://github.com/dppdppd/The-Boardgame-Insert-Toolkit" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">This OpenSCAD library was created to make it easy to create board game inserts with lids for either horizontal or vertical storage, without any programming required.</content>
+  </entry>
+  <entry>
     <id>https://github.com/jazwa/rackstack#1749340800</id>
     <title>https://github.com/jazwa/rackstack</title>
     <link href="https://github.com/jazwa/rackstack" />

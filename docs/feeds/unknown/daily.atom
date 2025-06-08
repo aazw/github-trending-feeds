@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/Rem0o/FanControl.Releases#1749340800</id>
+    <title>https://github.com/Rem0o/FanControl.Releases</title>
+    <link href="https://github.com/Rem0o/FanControl.Releases" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</content>
+  </entry>
+  <entry>
     <id>https://github.com/The-Cool-Coders/Project-Ideas-And-Resources#1749340800</id>
     <title>https://github.com/The-Cool-Coders/Project-Ideas-And-Resources</title>
     <link href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources" />
@@ -17,25 +24,11 @@
     <content type="text">A Collection of application ideas that can be used to improve your coding skills ❤.</content>
   </entry>
   <entry>
-    <id>https://github.com/TianxingChen/Embodied-AI-Guide#1749340800</id>
-    <title>https://github.com/TianxingChen/Embodied-AI-Guide</title>
-    <link href="https://github.com/TianxingChen/Embodied-AI-Guide" />
+    <id>https://github.com/dotnet/docs#1749340800</id>
+    <title>https://github.com/dotnet/docs</title>
+    <link href="https://github.com/dotnet/docs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">[Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Universidade-Livre/ciencia-da-computacao#1749340800</id>
-    <title>https://github.com/Universidade-Livre/ciencia-da-computacao</title>
-    <link href="https://github.com/Universidade-Livre/ciencia-da-computacao" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🎓 Um caminho para a educação autodidata em Ciência da Computação!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/devcontainers/spec#1749340800</id>
-    <title>https://github.com/devcontainers/spec</title>
-    <link href="https://github.com/devcontainers/spec" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Development Containers: Use a container as a full-featured development environment.</content>
+    <content type="text">This repository contains .NET Documentation.</content>
   </entry>
   <entry>
     <id>https://github.com/friuns2/BlackFriday-GPTs-Prompts#1749340800</id>
@@ -59,13 +52,6 @@
     <content type="text">Bootstrap Kubernetes the hard way. No scripts.</content>
   </entry>
   <entry>
-    <id>https://github.com/lydiahallie/javascript-questions#1749340800</id>
-    <title>https://github.com/lydiahallie/javascript-questions</title>
-    <link href="https://github.com/lydiahallie/javascript-questions" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A long list of (advanced) JavaScript questions, and their explanations ✨</content>
-  </entry>
-  <entry>
     <id>https://github.com/mlabonne/llm-course#1749340800</id>
     <title>https://github.com/mlabonne/llm-course</title>
     <link href="https://github.com/mlabonne/llm-course" />
@@ -73,11 +59,11 @@
     <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
   </entry>
   <entry>
-    <id>https://github.com/mtdvio/every-programmer-should-know#1749340800</id>
-    <title>https://github.com/mtdvio/every-programmer-should-know</title>
-    <link href="https://github.com/mtdvio/every-programmer-should-know" />
+    <id>https://github.com/mouredev/hello-git#1749340800</id>
+    <title>https://github.com/mouredev/hello-git</title>
+    <link href="https://github.com/mouredev/hello-git" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A collection of (mostly) technical things every software developer should know about</content>
+    <content type="text">Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes.</content>
   </entry>
   <entry>
     <id>https://github.com/practical-tutorials/project-based-learning#1749340800</id>
@@ -87,10 +73,17 @@
     <content type="text">Curated list of project-based tutorials</content>
   </entry>
   <entry>
-    <id>https://github.com/punkpeye/awesome-mcp-servers#1749340800</id>
-    <title>https://github.com/punkpeye/awesome-mcp-servers</title>
-    <link href="https://github.com/punkpeye/awesome-mcp-servers" />
+    <id>https://github.com/skills/introduction-to-github#1749340800</id>
+    <title>https://github.com/skills/introduction-to-github</title>
+    <link href="https://github.com/skills/introduction-to-github" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A collection of MCP servers.</content>
+    <content type="text">Get started using GitHub in less than an hour.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zijie0/HumanSystemOptimization#1749340800</id>
+    <title>https://github.com/zijie0/HumanSystemOptimization</title>
+    <link href="https://github.com/zijie0/HumanSystemOptimization" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">健康学习到150岁 - 人体系统调优不完全指南</content>
   </entry>
 </feed>

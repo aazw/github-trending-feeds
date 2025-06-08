@@ -24,6 +24,13 @@
     <content type="text" />
   </entry>
   <entry>
+    <id>https://github.com/goonstation/goonstation#1749340800</id>
+    <title>https://github.com/goonstation/goonstation</title>
+    <link href="https://github.com/goonstation/goonstation" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Repository for the Goonstation branch of SS13</content>
+  </entry>
+  <entry>
     <id>https://github.com/tgstation/tgstation#1749340800</id>
     <title>https://github.com/tgstation/tgstation</title>
     <link href="https://github.com/tgstation/tgstation" />

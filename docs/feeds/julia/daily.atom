@@ -30,18 +30,4 @@
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Documentation with Documenter.jl and VitePress</content>
   </entry>
-  <entry>
-    <id>https://github.com/MakieOrg/Makie.jl#1749340800</id>
-    <title>https://github.com/MakieOrg/Makie.jl</title>
-    <link href="https://github.com/MakieOrg/Makie.jl" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Interactive data visualizations and plotting in Julia</content>
-  </entry>
-  <entry>
-    <id>https://github.com/QuantumSavory/QuantumClifford.jl#1749340800</id>
-    <title>https://github.com/QuantumSavory/QuantumClifford.jl</title>
-    <link href="https://github.com/QuantumSavory/QuantumClifford.jl" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Clifford circuits, graph states, and other quantum Stabilizer formalism tools.</content>
-  </entry>
 </feed>

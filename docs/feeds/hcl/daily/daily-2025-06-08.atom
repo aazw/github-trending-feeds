@@ -10,25 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1749340800</id>
-    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
-    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <id>https://github.com/GoogleCloudPlatform/terraform-genai-doc-summarization#1749340800</id>
+    <title>https://github.com/GoogleCloudPlatform/terraform-genai-doc-summarization</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraform-genai-doc-summarization" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints#1749340800</id>
-    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints</title>
-    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Configure and deploy complete EKS clusters.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons#1749340800</id>
-    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons</title>
-    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints-addons" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Terraform module which provisions addons on Amazon EKS clusters</content>
+    <content type="text">Summarizes document using OCR and Vertex Generative AI LLM</content>
   </entry>
   <entry>
     <id>https://github.com/btkrausen/hashicorp#1749340800</id>
@@ -38,52 +24,80 @@
     <content type="text">Random code for HashiCorp related projects, training, etc.</content>
   </entry>
   <entry>
-    <id>https://github.com/github-aws-runners/terraform-aws-github-runner#1749340800</id>
-    <title>https://github.com/github-aws-runners/terraform-aws-github-runner</title>
-    <link href="https://github.com/github-aws-runners/terraform-aws-github-runner" />
+    <id>https://github.com/cloudposse/terraform-aws-backup#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-backup</title>
+    <link href="https://github.com/cloudposse/terraform-aws-backup" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Terraform module for scalable GitHub action runners on AWS</content>
+    <content type="text">Terraform module to provision AWS Backup, a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services such as EBS volumes, RDS databases, DynamoDB tables, EFS file systems, and AWS Storage Gateway volumes.</content>
   </entry>
   <entry>
-    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1749340800</id>
-    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+    <content type="text">Terraform module to easily provision CloudFront CDN backed by an S3 origin</content>
   </entry>
   <entry>
-    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1749340800</id>
-    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <id>https://github.com/cloudposse/terraform-aws-codebuild#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-codebuild</title>
+    <link href="https://github.com/cloudposse/terraform-aws-codebuild" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+    <content type="text">Terraform Module to easily leverage AWS CodeBuild for Continuous Integration</content>
   </entry>
   <entry>
-    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1749340800</id>
-    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <id>https://github.com/cloudposse/terraform-aws-documentdb-cluster#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-documentdb-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-documentdb-cluster" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+    <content type="text">Terraform module to provision a DocumentDB cluster on AWS</content>
   </entry>
   <entry>
-    <id>https://github.com/terraform-aws-modules/terraform-aws-rds#1749340800</id>
-    <title>https://github.com/terraform-aws-modules/terraform-aws-rds</title>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds" />
+    <id>https://github.com/cloudposse/terraform-aws-efs#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Terraform module to create AWS RDS resources 🇺🇦</content>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
   </entry>
   <entry>
-    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1749340800</id>
-    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
   </entry>
   <entry>
-    <id>https://github.com/terraform-google-modules/terraform-example-foundation#1749340800</id>
-    <title>https://github.com/terraform-google-modules/terraform-example-foundation</title>
-    <link href="https://github.com/terraform-google-modules/terraform-example-foundation" />
+    <id>https://github.com/cloudposse/terraform-aws-sso#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-sso</title>
+    <link href="https://github.com/cloudposse/terraform-aws-sso" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Shows how the CFT modules can be composed to build a secure cloud foundation</content>
+    <content type="text">Terraform module to configure AWS Single Sign-On (SSO)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1749340800</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1749340800</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ec2-instance#1749340800</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ec2-instance</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ec2-instance" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Terraform module to create AWS EC2 instance(s) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-composer#1749340800</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-composer</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-composer" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Manages Cloud Composer v1 and v2 along with option to manage networking</content>
   </entry>
 </feed>

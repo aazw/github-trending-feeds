@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Courseplay/Courseplay_FS25#1749340800</id>
-    <title>https://github.com/Courseplay/Courseplay_FS25</title>
-    <link href="https://github.com/Courseplay/Courseplay_FS25" />
+    <id>https://github.com/LazyVim/LazyVim#1749340800</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Courseplay for Farming Simulator 2025</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Facepunch/garrysmod#1749340800</id>
-    <title>https://github.com/Facepunch/garrysmod</title>
-    <link href="https://github.com/Facepunch/garrysmod" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Sandbox mod for the Source Engine</content>
+    <content type="text">Neovim config for the lazy</content>
   </entry>
   <entry>
     <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1749340800</id>
@@ -38,13 +31,6 @@
     <content type="text">Performant, batteries-included completion plugin for Neovim</content>
   </entry>
   <entry>
-    <id>https://github.com/Stephan-S/FS25_AutoDrive#1749340800</id>
-    <title>https://github.com/Stephan-S/FS25_AutoDrive</title>
-    <link href="https://github.com/Stephan-S/FS25_AutoDrive" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">FS25 version of the AutoDrive mod</content>
-  </entry>
-  <entry>
     <id>https://github.com/ThePrimeagen/init.lua#1749340800</id>
     <title>https://github.com/ThePrimeagen/init.lua</title>
     <link href="https://github.com/ThePrimeagen/init.lua" />
@@ -52,11 +38,32 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/apache/apisix#1749340800</id>
-    <title>https://github.com/apache/apisix</title>
-    <link href="https://github.com/apache/apisix" />
+    <id>https://github.com/ThePrimeagen/vim-be-good#1749340800</id>
+    <title>https://github.com/ThePrimeagen/vim-be-good</title>
+    <link href="https://github.com/ThePrimeagen/vim-be-good" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+    <content type="text">vim-be-good is a nvim plugin designed to make you better at Vim Movements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beyond-all-reason/Beyond-All-Reason#1749340800</id>
+    <title>https://github.com/beyond-all-reason/Beyond-All-Reason</title>
+    <link href="https://github.com/beyond-all-reason/Beyond-All-Reason" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Main game repository for Beyond All Reason.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/nvim#1749340800</id>
+    <title>https://github.com/catppuccin/nvim</title>
+    <link href="https://github.com/catppuccin/nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1749340800</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
   </entry>
   <entry>
     <id>https://github.com/greggh/claude-code.nvim#1749340800</id>
@@ -66,32 +73,18 @@
     <content type="text">Seamless integration between Claude Code AI assistant and Neovim</content>
   </entry>
   <entry>
-    <id>https://github.com/ibhagwan/fzf-lua#1749340800</id>
-    <title>https://github.com/ibhagwan/fzf-lua</title>
-    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <id>https://github.com/iDvel/rime-ice#1749340800</id>
+    <title>https://github.com/iDvel/rime-ice</title>
+    <link href="https://github.com/iDvel/rime-ice" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Improved fzf.vim written in lua</content>
+    <content type="text">Rime 配置：雾凇拼音 | 长期维护的简体词库</content>
   </entry>
   <entry>
-    <id>https://github.com/jdhao/nvim-config#1749340800</id>
-    <title>https://github.com/jdhao/nvim-config</title>
-    <link href="https://github.com/jdhao/nvim-config" />
+    <id>https://github.com/koreader/koreader#1749340800</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...</content>
-  </entry>
-  <entry>
-    <id>https://github.com/loki79uk/FS25_UniversalAutoload#1749340800</id>
-    <title>https://github.com/loki79uk/FS25_UniversalAutoload</title>
-    <link href="https://github.com/loki79uk/FS25_UniversalAutoload" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Mod for FS25. Please download latest release below.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/luarocks/luarocks#1749340800</id>
-    <title>https://github.com/luarocks/luarocks</title>
-    <link href="https://github.com/luarocks/luarocks" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">LuaRocks is the package manager for the Lua programming language.</content>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
   </entry>
   <entry>
     <id>https://github.com/nvim-lua/kickstart.nvim#1749340800</id>
@@ -108,6 +101,13 @@
     <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
   </entry>
   <entry>
+    <id>https://github.com/nvim-neorg/neorg#1749340800</id>
+    <title>https://github.com/nvim-neorg/neorg</title>
+    <link href="https://github.com/nvim-neorg/neorg" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Modernity meets insane extensibility. The future of organizing your life in Neovim.</content>
+  </entry>
+  <entry>
     <id>https://github.com/olimorris/codecompanion.nvim#1749340800</id>
     <title>https://github.com/olimorris/codecompanion.nvim</title>
     <link href="https://github.com/olimorris/codecompanion.nvim" />
@@ -115,18 +115,11 @@
     <content type="text">✨ AI-powered coding, seamlessly in Neovim</content>
   </entry>
   <entry>
-    <id>https://github.com/rebelot/kanagawa.nvim#1749340800</id>
-    <title>https://github.com/rebelot/kanagawa.nvim</title>
-    <link href="https://github.com/rebelot/kanagawa.nvim" />
+    <id>https://github.com/opentibiabr/canary#1749340800</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/shahrilnet/remote_lua_loader#1749340800</id>
-    <title>https://github.com/shahrilnet/remote_lua_loader</title>
-    <link href="https://github.com/shahrilnet/remote_lua_loader" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Canary Server 14.x for OpenTibia community.</content>
   </entry>
   <entry>
     <id>https://github.com/sphamba/smear-cursor.nvim#1749340800</id>
@@ -136,11 +129,11 @@
     <content type="text">🌠 Neovim plugin to animate the cursor with a smear effect in all terminals</content>
   </entry>
   <entry>
-    <id>https://github.com/tris203/precognition.nvim#1749340800</id>
-    <title>https://github.com/tris203/precognition.nvim</title>
-    <link href="https://github.com/tris203/precognition.nvim" />
+    <id>https://github.com/typecraft-dev/dotfiles#1749340800</id>
+    <title>https://github.com/typecraft-dev/dotfiles</title>
+    <link href="https://github.com/typecraft-dev/dotfiles" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.</content>
+    <content type="text" />
   </entry>
   <entry>
     <id>https://github.com/xiaorouji/openwrt-passwall#1749340800</id>
@@ -150,10 +143,17 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/zbirenbaum/copilot.lua#1749340800</id>
-    <title>https://github.com/zbirenbaum/copilot.lua</title>
-    <link href="https://github.com/zbirenbaum/copilot.lua" />
+    <id>https://github.com/xiaorouji/openwrt-passwall2#1749340800</id>
+    <title>https://github.com/xiaorouji/openwrt-passwall2</title>
+    <link href="https://github.com/xiaorouji/openwrt-passwall2" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Github Copilot</content>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1749340800</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
   </entry>
 </feed>

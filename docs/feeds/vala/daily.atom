@@ -24,6 +24,13 @@
     <content type="text">A simple GTK based notification daemon for any Wayland compositor</content>
   </entry>
   <entry>
+    <id>https://github.com/cheesecakeufo/komorebi#1749340800</id>
+    <title>https://github.com/cheesecakeufo/komorebi</title>
+    <link href="https://github.com/cheesecakeufo/komorebi" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A beautiful and customizable wallpapers manager for Linux</content>
+  </entry>
+  <entry>
     <id>https://github.com/linuxmint/timeshift#1749340800</id>
     <title>https://github.com/linuxmint/timeshift</title>
     <link href="https://github.com/linuxmint/timeshift" />
@@ -36,5 +43,12 @@
     <link href="https://github.com/phw/peek" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Simple animated GIF screen recorder with an easy to use interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tkashkin/GameHub#1749340800</id>
+    <title>https://github.com/tkashkin/GameHub</title>
+    <link href="https://github.com/tkashkin/GameHub" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">All your games in one place</content>
   </entry>
 </feed>

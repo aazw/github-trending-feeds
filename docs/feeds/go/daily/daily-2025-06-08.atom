@@ -10,6 +10,34 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1749340800</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Jguer/yay#1749340800</id>
+    <title>https://github.com/Jguer/yay</title>
+    <link href="https://github.com/Jguer/yay" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Yet another Yogurt - An AUR Helper written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1749340800</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1749340800</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
     <id>https://github.com/anchore/syft#1749340800</id>
     <title>https://github.com/anchore/syft</title>
     <link href="https://github.com/anchore/syft" />
@@ -17,74 +45,39 @@
     <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
   </entry>
   <entry>
-    <id>https://github.com/aquasecurity/trivy#1749340800</id>
-    <title>https://github.com/aquasecurity/trivy</title>
-    <link href="https://github.com/aquasecurity/trivy" />
+    <id>https://github.com/authelia/authelia#1749340800</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™</content>
   </entry>
   <entry>
-    <id>https://github.com/argoproj/argo-cd#1749340800</id>
-    <title>https://github.com/argoproj/argo-cd</title>
-    <link href="https://github.com/argoproj/argo-cd" />
+    <id>https://github.com/charmbracelet/bubbletea#1749340800</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+    <content type="text">A powerful little TUI framework 🏗</content>
   </entry>
   <entry>
-    <id>https://github.com/argoproj/argo-rollouts#1749340800</id>
-    <title>https://github.com/argoproj/argo-rollouts</title>
-    <link href="https://github.com/argoproj/argo-rollouts" />
+    <id>https://github.com/fluxcd/flux2#1749340800</id>
+    <title>https://github.com/fluxcd/flux2</title>
+    <link href="https://github.com/fluxcd/flux2" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Progressive Delivery for Kubernetes</content>
+    <content type="text">Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.</content>
   </entry>
   <entry>
-    <id>https://github.com/ccfos/nightingale#1749340800</id>
-    <title>https://github.com/ccfos/nightingale</title>
-    <link href="https://github.com/ccfos/nightingale" />
+    <id>https://github.com/gocolly/colly#1749340800</id>
+    <title>https://github.com/gocolly/colly</title>
+    <link href="https://github.com/gocolly/colly" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Nightingale for monitoring and alerting, just as Grafana for visualization.</content>
+    <content type="text">Elegant Scraper and Crawler Framework for Golang</content>
   </entry>
   <entry>
-    <id>https://github.com/dagger/dagger#1749340800</id>
-    <title>https://github.com/dagger/dagger</title>
-    <link href="https://github.com/dagger/dagger" />
+    <id>https://github.com/gofr-dev/gofr#1749340800</id>
+    <title>https://github.com/gofr-dev/gofr</title>
+    <link href="https://github.com/gofr-dev/gofr" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/expr-lang/expr#1749340800</id>
-    <title>https://github.com/expr-lang/expr</title>
-    <link href="https://github.com/expr-lang/expr" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Expression language and expression evaluation for Go</content>
-  </entry>
-  <entry>
-    <id>https://github.com/external-secrets/external-secrets#1749340800</id>
-    <title>https://github.com/external-secrets/external-secrets</title>
-    <link href="https://github.com/external-secrets/external-secrets" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gotenberg/gotenberg#1749340800</id>
-    <title>https://github.com/gotenberg/gotenberg</title>
-    <link href="https://github.com/gotenberg/gotenberg" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A developer-friendly API for converting numerous document formats into PDF files, and more!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/istio/istio#1749340800</id>
-    <title>https://github.com/istio/istio</title>
-    <link href="https://github.com/istio/istio" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Connect, secure, control, and observe services.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kubernetes-sigs/external-dns#1749340800</id>
-    <title>https://github.com/kubernetes-sigs/external-dns</title>
-    <link href="https://github.com/kubernetes-sigs/external-dns" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Configure external DNS servers dynamically from Kubernetes resources</content>
+    <content type="text">An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.</content>
   </entry>
   <entry>
     <id>https://github.com/kubetail-org/kubetail#1749340800</id>
@@ -94,34 +87,6 @@
     <content type="text">Real-time logging dashboard for Kubernetes (browser/terminal)</content>
   </entry>
   <entry>
-    <id>https://github.com/mark3labs/mcp-go#1749340800</id>
-    <title>https://github.com/mark3labs/mcp-go</title>
-    <link href="https://github.com/mark3labs/mcp-go" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/milvus-io/milvus#1749340800</id>
-    <title>https://github.com/milvus-io/milvus</title>
-    <link href="https://github.com/milvus-io/milvus" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
-  </entry>
-  <entry>
-    <id>https://github.com/moby/buildkit#1749340800</id>
-    <title>https://github.com/moby/buildkit</title>
-    <link href="https://github.com/moby/buildkit" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mudler/LocalAI#1749340800</id>
-    <title>https://github.com/mudler/LocalAI</title>
-    <link href="https://github.com/mudler/LocalAI" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
-  </entry>
-  <entry>
     <id>https://github.com/netbirdio/netbird#1749340800</id>
     <title>https://github.com/netbirdio/netbird</title>
     <link href="https://github.com/netbirdio/netbird" />
@@ -129,31 +94,38 @@
     <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
   </entry>
   <entry>
-    <id>https://github.com/redis/go-redis#1749340800</id>
-    <title>https://github.com/redis/go-redis</title>
-    <link href="https://github.com/redis/go-redis" />
+    <id>https://github.com/putyy/res-downloader#1749340800</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Redis Go client</content>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
   </entry>
   <entry>
-    <id>https://github.com/shadow1ng/fscan#1749340800</id>
-    <title>https://github.com/shadow1ng/fscan</title>
-    <link href="https://github.com/shadow1ng/fscan" />
+    <id>https://github.com/restic/restic#1749340800</id>
+    <title>https://github.com/restic/restic</title>
+    <link href="https://github.com/restic/restic" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</content>
+    <content type="text">Fast, secure, efficient backup program</content>
   </entry>
   <entry>
-    <id>https://github.com/tmc/langchaingo#1749340800</id>
-    <title>https://github.com/tmc/langchaingo</title>
-    <link href="https://github.com/tmc/langchaingo" />
+    <id>https://github.com/steveiliop56/tinyauth#1749340800</id>
+    <title>https://github.com/steveiliop56/tinyauth</title>
+    <link href="https://github.com/steveiliop56/tinyauth" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">LangChain for Go, the easiest way to write LLM-based programs in Go</content>
+    <content type="text">The simplest way to protect your apps with a login screen.</content>
   </entry>
   <entry>
-    <id>https://github.com/vitessio/vitess#1749340800</id>
-    <title>https://github.com/vitessio/vitess</title>
-    <link href="https://github.com/vitessio/vitess" />
+    <id>https://github.com/tailscale/tailscale#1749340800</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Vitess is a database clustering system for horizontal scaling of MySQL.</content>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/assets#1749340800</id>
+    <title>https://github.com/trustwallet/assets</title>
+    <link href="https://github.com/trustwallet/assets" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</content>
   </entry>
 </feed>

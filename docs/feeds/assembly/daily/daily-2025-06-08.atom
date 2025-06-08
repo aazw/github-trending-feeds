@@ -17,18 +17,18 @@
     <content type="text">the official Rust and C implementations of the BLAKE3 cryptographic hash function</content>
   </entry>
   <entry>
-    <id>https://github.com/ROCm/MIOpen#1749340800</id>
-    <title>https://github.com/ROCm/MIOpen</title>
-    <link href="https://github.com/ROCm/MIOpen" />
+    <id>https://github.com/JSsixtyfour/smashremix#1749340800</id>
+    <title>https://github.com/JSsixtyfour/smashremix</title>
+    <link href="https://github.com/JSsixtyfour/smashremix" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AMD's Machine Intelligence Library</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/ROCm/hipBLASLt#1749340800</id>
-    <title>https://github.com/ROCm/hipBLASLt</title>
-    <link href="https://github.com/ROCm/hipBLASLt" />
+    <id>https://github.com/PRoX2011/x16-PRos#1749340800</id>
+    <title>https://github.com/PRoX2011/x16-PRos</title>
+    <link href="https://github.com/PRoX2011/x16-PRos" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
+    <content type="text">Simple 16bit operating system writen in NASM</content>
   </entry>
   <entry>
     <id>https://github.com/Rangi42/polishedcrystal#1749340800</id>
@@ -38,11 +38,18 @@
     <content type="text">An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.</content>
   </entry>
   <entry>
-    <id>https://github.com/apple/swift-crypto#1749340800</id>
-    <title>https://github.com/apple/swift-crypto</title>
-    <link href="https://github.com/apple/swift-crypto" />
+    <id>https://github.com/SheerSt/pokewilds#1749340800</id>
+    <title>https://github.com/SheerSt/pokewilds</title>
+    <link href="https://github.com/SheerSt/pokewilds" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
+    <content type="text">PokeWilds - A Gen 2 Game/Engine using libGDX</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpinalHDL/VexRiscv#1749340800</id>
+    <title>https://github.com/SpinalHDL/VexRiscv</title>
+    <link href="https://github.com/SpinalHDL/VexRiscv" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A FPGA friendly 32 bit RISC-V CPU implementation</content>
   </entry>
   <entry>
     <id>https://github.com/apple/swift-nio-ssl#1749340800</id>
@@ -52,18 +59,11 @@
     <content type="text">TLS Support for SwiftNIO, based on BoringSSL.</content>
   </entry>
   <entry>
-    <id>https://github.com/aws/aws-lc#1749340800</id>
-    <title>https://github.com/aws/aws-lc</title>
-    <link href="https://github.com/aws/aws-lc" />
+    <id>https://github.com/bitdump/BLHeli#1749340800</id>
+    <title>https://github.com/bitdump/BLHeli</title>
+    <link href="https://github.com/bitdump/BLHeli" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/below/HelloSilicon#1749340800</id>
-    <title>https://github.com/below/HelloSilicon</title>
-    <link href="https://github.com/below/HelloSilicon" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An introduction to ARM64 assembly on Apple Silicon Macs</content>
+    <content type="text">BLHeli for brushless ESC firmware</content>
   </entry>
   <entry>
     <id>https://github.com/boostorg/context#1749340800</id>
@@ -87,46 +87,11 @@
     <content type="text">Espressif deep-learning library for AIoT applications</content>
   </entry>
   <entry>
-    <id>https://github.com/lukechampine/blake3#1749340800</id>
-    <title>https://github.com/lukechampine/blake3</title>
-    <link href="https://github.com/lukechampine/blake3" />
+    <id>https://github.com/riscv-non-isa/riscv-arch-test#1749340800</id>
+    <title>https://github.com/riscv-non-isa/riscv-arch-test</title>
+    <link href="https://github.com/riscv-non-isa/riscv-arch-test" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function</content>
-  </entry>
-  <entry>
-    <id>https://github.com/memorysafety/rav1d#1749340800</id>
-    <title>https://github.com/memorysafety/rav1d</title>
-    <link href="https://github.com/memorysafety/rav1d" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An AV1 decoder in Rust.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openhwgroup/cva6#1749340800</id>
-    <title>https://github.com/openhwgroup/cva6</title>
-    <link href="https://github.com/openhwgroup/cva6" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pooler/cpuminer#1749340800</id>
-    <title>https://github.com/pooler/cpuminer</title>
-    <link href="https://github.com/pooler/cpuminer" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">CPU miner for Litecoin and Bitcoin</content>
-  </entry>
-  <entry>
-    <id>https://github.com/riscvarchive/riscv-v-spec#1749340800</id>
-    <title>https://github.com/riscvarchive/riscv-v-spec</title>
-    <link href="https://github.com/riscvarchive/riscv-v-spec" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Working draft of the proposed RISC-V V vector extension</content>
-  </entry>
-  <entry>
-    <id>https://github.com/supranational/blst#1749340800</id>
-    <title>https://github.com/supranational/blst</title>
-    <link href="https://github.com/supranational/blst" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Multilingual BLS12-381 signature library</content>
+    <content type="text" />
   </entry>
   <entry>
     <id>https://github.com/vxunderground/MalwareSourceCode#1749340800</id>
@@ -134,5 +99,12 @@
     <link href="https://github.com/vxunderground/MalwareSourceCode" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Collection of malware source code for a variety of platforms in an array of different programming languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zladx/LADX-Disassembly#1749340800</id>
+    <title>https://github.com/zladx/LADX-Disassembly</title>
+    <link href="https://github.com/zladx/LADX-Disassembly" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Disassembly of Legend of Zelda: Links Awakening DX</content>
   </entry>
 </feed>

@@ -17,11 +17,25 @@
     <content type="text">SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.</content>
   </entry>
   <entry>
+    <id>https://github.com/Open4Es/Open4Es-Shader-Android#1749340800</id>
+    <title>https://github.com/Open4Es/Open4Es-Shader-Android</title>
+    <link href="https://github.com/Open4Es/Open4Es-Shader-Android" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">This is a shader can running on Minecraft Java Edition For Phone project which uses GL4ES. This repository contains source code for Android platform.</content>
+  </entry>
+  <entry>
     <id>https://github.com/SaschaWillems/Vulkan#1749340800</id>
     <title>https://github.com/SaschaWillems/Vulkan</title>
     <link href="https://github.com/SaschaWillems/Vulkan" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">C++ examples for the Vulkan graphics API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/X0nk/Bliss-Shader#1749340800</id>
+    <title>https://github.com/X0nk/Bliss-Shader</title>
+    <link href="https://github.com/X0nk/Bliss-Shader" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A minecraft shader which is an edit of chocapic v9</content>
   </entry>
   <entry>
     <id>https://github.com/cizia64/CrossMix-OS#1749340800</id>
@@ -31,10 +45,31 @@
     <content type="text">Enhanced OS for the TrimUI Smart Pro</content>
   </entry>
   <entry>
-    <id>https://github.com/patriciogonzalezvivo/thebookofshaders#1749340800</id>
-    <title>https://github.com/patriciogonzalezvivo/thebookofshaders</title>
-    <link href="https://github.com/patriciogonzalezvivo/thebookofshaders" />
+    <id>https://github.com/javiergcim/MakeUpUltraFast#1749340800</id>
+    <title>https://github.com/javiergcim/MakeUpUltraFast</title>
+    <link href="https://github.com/javiergcim/MakeUpUltraFast" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Step-by-step guide through the abstract and complex universe of Fragment Shaders.</content>
+    <content type="text">High performance Minecraft shader (Java). For a graphical enhancement. Intended for low-spec computers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libretro/glsl-shaders#1749340800</id>
+    <title>https://github.com/libretro/glsl-shaders</title>
+    <link href="https://github.com/libretro/glsl-shaders" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patriciogonzalezvivo/lygia#1749340800</id>
+    <title>https://github.com/patriciogonzalezvivo/lygia</title>
+    <link href="https://github.com/patriciogonzalezvivo/lygia" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal, WGSL, WEGL and CUDA) shader library designed for performance and flexibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sixthsurge/photon#1749340800</id>
+    <title>https://github.com/sixthsurge/photon</title>
+    <link href="https://github.com/sixthsurge/photon" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A gameplay-focused shader pack for Minecraft</content>
   </entry>
 </feed>

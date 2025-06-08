@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/ansible-lockdown/RHEL8-CIS#1749340800</id>
+    <title>https://github.com/ansible-lockdown/RHEL8-CIS</title>
+    <link href="https://github.com/ansible-lockdown/RHEL8-CIS" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Automated CIS Benchmark Compliance Remediation for RHEL 8 with Ansible</content>
+  </entry>
+  <entry>
     <id>https://github.com/aquaproj/aqua-registry#1749340800</id>
     <title>https://github.com/aquaproj/aqua-registry</title>
     <link href="https://github.com/aquaproj/aqua-registry" />
@@ -22,6 +29,13 @@
     <link href="https://github.com/dell/omnia" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">An open-source toolkit for deploying and managing high performance clusters for HPC, AI, and data analytics workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hackclub/dns#1749340800</id>
+    <title>https://github.com/hackclub/dns</title>
+    <link href="https://github.com/hackclub/dns" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🕹 Manage Hack Club's DNS through a GitHub repository</content>
   </entry>
   <entry>
     <id>https://github.com/k3s-io/k3s-ansible#1749340800</id>
@@ -45,10 +59,10 @@
     <content type="text">The Mustache spec.</content>
   </entry>
   <entry>
-    <id>https://github.com/usnistgov/macos_security#1749340800</id>
-    <title>https://github.com/usnistgov/macos_security</title>
-    <link href="https://github.com/usnistgov/macos_security" />
+    <id>https://github.com/stashapp/CommunityScrapers#1749340800</id>
+    <title>https://github.com/stashapp/CommunityScrapers</title>
+    <link href="https://github.com/stashapp/CommunityScrapers" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">macOS Security Compliance Project</content>
+    <content type="text">This is a public repository containing scrapers created by the Stash Community.</content>
   </entry>
 </feed>

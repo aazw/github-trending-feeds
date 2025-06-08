@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/xmos/lib_i2s#1749340800</id>
+    <title>https://github.com/xmos/lib_i2s</title>
+    <link href="https://github.com/xmos/lib_i2s" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">I2S/TDM digital audio interface library</content>
+  </entry>
 </feed>

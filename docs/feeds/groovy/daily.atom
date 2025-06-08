@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/bregman-arie/devops-resources#1749340800</id>
-    <title>https://github.com/bregman-arie/devops-resources</title>
-    <link href="https://github.com/bregman-arie/devops-resources" />
+    <id>https://github.com/apache/bigtop#1749340800</id>
+    <title>https://github.com/apache/bigtop</title>
+    <link href="https://github.com/apache/bigtop" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP</content>
+    <content type="text">Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components.</content>
   </entry>
   <entry>
     <id>https://github.com/gradle/gradle#1749340800</id>
@@ -22,13 +22,6 @@
     <link href="https://github.com/gradle/gradle" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Adaptable, fast automation for all</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nextflow-io/nextflow#1749340800</id>
-    <title>https://github.com/nextflow-io/nextflow</title>
-    <link href="https://github.com/nextflow-io/nextflow" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A DSL for data-driven computational pipelines</content>
   </entry>
   <entry>
     <id>https://github.com/rundeck/rundeck#1749340800</id>

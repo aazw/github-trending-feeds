@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/terminusdb/terminusdb#1749340800</id>
+    <title>https://github.com/terminusdb/terminusdb</title>
+    <link href="https://github.com/terminusdb/terminusdb" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.</content>
+  </entry>
 </feed>

@@ -10,60 +10,74 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/airblade/vim-rooter#1749340800</id>
-    <title>https://github.com/airblade/vim-rooter</title>
-    <link href="https://github.com/airblade/vim-rooter" />
+    <id>https://github.com/APZelos/blamer.nvim#1749340800</id>
+    <title>https://github.com/APZelos/blamer.nvim</title>
+    <link href="https://github.com/APZelos/blamer.nvim" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Changes Vim working directory to project root.</content>
+    <content type="text">A git blame plugin for neovim inspired by VS Code's GitLens plugin</content>
   </entry>
   <entry>
-    <id>https://github.com/amix/vimrc#1749340800</id>
-    <title>https://github.com/amix/vimrc</title>
-    <link href="https://github.com/amix/vimrc" />
+    <id>https://github.com/VundleVim/Vundle.vim#1749340800</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The ultimate Vim configuration (vimrc)</content>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
   </entry>
   <entry>
-    <id>https://github.com/augmentcode/augment.vim#1749340800</id>
-    <title>https://github.com/augmentcode/augment.vim</title>
-    <link href="https://github.com/augmentcode/augment.vim" />
+    <id>https://github.com/christoomey/vim-tmux-navigator#1749340800</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AI-augmented development in Vim and Neovim</content>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
   </entry>
   <entry>
-    <id>https://github.com/dense-analysis/ale#1749340800</id>
-    <title>https://github.com/dense-analysis/ale</title>
-    <link href="https://github.com/dense-analysis/ale" />
+    <id>https://github.com/dhruvasagar/vim-table-mode#1749340800</id>
+    <title>https://github.com/dhruvasagar/vim-table-mode</title>
+    <link href="https://github.com/dhruvasagar/vim-table-mode" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+    <content type="text">VIM Table Mode for instant table creation.</content>
   </entry>
   <entry>
-    <id>https://github.com/easymotion/vim-easymotion#1749340800</id>
-    <title>https://github.com/easymotion/vim-easymotion</title>
-    <link href="https://github.com/easymotion/vim-easymotion" />
+    <id>https://github.com/jiangmiao/auto-pairs#1749340800</id>
+    <title>https://github.com/jiangmiao/auto-pairs</title>
+    <link href="https://github.com/jiangmiao/auto-pairs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Vim motions on speed!</content>
+    <content type="text">Vim plugin, insert or delete brackets, parens, quotes in pair</content>
   </entry>
   <entry>
-    <id>https://github.com/github/copilot.vim#1749340800</id>
-    <title>https://github.com/github/copilot.vim</title>
-    <link href="https://github.com/github/copilot.vim" />
+    <id>https://github.com/junegunn/limelight.vim#1749340800</id>
+    <title>https://github.com/junegunn/limelight.vim</title>
+    <link href="https://github.com/junegunn/limelight.vim" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Neovim plugin for GitHub Copilot</content>
+    <content type="text">🔦 All the world's indeed a stage and we are merely players</content>
   </entry>
   <entry>
-    <id>https://github.com/junegunn/goyo.vim#1749340800</id>
-    <title>https://github.com/junegunn/goyo.vim</title>
-    <link href="https://github.com/junegunn/goyo.vim" />
+    <id>https://github.com/junegunn/seoul256.vim#1749340800</id>
+    <title>https://github.com/junegunn/seoul256.vim</title>
+    <link href="https://github.com/junegunn/seoul256.vim" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🌷 Distraction-free writing in Vim</content>
+    <content type="text">🌳 Low-contrast Vim color scheme based on Seoul Colors</content>
   </entry>
   <entry>
-    <id>https://github.com/lambdalisue/vim-fern#1749340800</id>
-    <title>https://github.com/lambdalisue/vim-fern</title>
-    <link href="https://github.com/lambdalisue/vim-fern" />
+    <id>https://github.com/junegunn/vim-plug#1749340800</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🌿 General purpose asynchronous tree viewer written in Pure Vim script</content>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-suda#1749340800</id>
+    <title>https://github.com/lambdalisue/vim-suda</title>
+    <link href="https://github.com/lambdalisue/vim-suda" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leafgarland/typescript-vim#1749340800</id>
+    <title>https://github.com/leafgarland/typescript-vim</title>
+    <link href="https://github.com/leafgarland/typescript-vim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Typescript syntax files for Vim</content>
   </entry>
   <entry>
     <id>https://github.com/machakann/vim-highlightedyank#1749340800</id>
@@ -73,18 +87,25 @@
     <content type="text">Make the yanked region apparent!</content>
   </entry>
   <entry>
-    <id>https://github.com/mattn/emmet-vim#1749340800</id>
-    <title>https://github.com/mattn/emmet-vim</title>
-    <link href="https://github.com/mattn/emmet-vim" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">emmet for vim: http://emmet.io/</content>
-  </entry>
-  <entry>
     <id>https://github.com/mg979/vim-visual-multi#1749340800</id>
     <title>https://github.com/mg979/vim-visual-multi</title>
     <link href="https://github.com/mg979/vim-visual-multi" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-startify#1749340800</id>
+    <title>https://github.com/mhinz/vim-startify</title>
+    <link href="https://github.com/mhinz/vim-startify" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🔗 The fancy start screen for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1749340800</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
   </entry>
   <entry>
     <id>https://github.com/neovim/neovim#1749340800</id>
@@ -94,80 +115,31 @@
     <content type="text">Vim-fork focused on extensibility and usability</content>
   </entry>
   <entry>
-    <id>https://github.com/preservim/nerdtree#1749340800</id>
-    <title>https://github.com/preservim/nerdtree</title>
-    <link href="https://github.com/preservim/nerdtree" />
+    <id>https://github.com/tpope/vim-dadbod#1749340800</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A tree explorer plugin for vim.</content>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
   </entry>
   <entry>
-    <id>https://github.com/preservim/vim-indent-guides#1749340800</id>
-    <title>https://github.com/preservim/vim-indent-guides</title>
-    <link href="https://github.com/preservim/vim-indent-guides" />
+    <id>https://github.com/tpope/vim-repeat#1749340800</id>
+    <title>https://github.com/tpope/vim-repeat</title>
+    <link href="https://github.com/tpope/vim-repeat" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+    <content type="text">repeat.vim: enable repeating supported plugin maps with "."</content>
   </entry>
   <entry>
-    <id>https://github.com/rbong/vim-flog#1749340800</id>
-    <title>https://github.com/rbong/vim-flog</title>
-    <link href="https://github.com/rbong/vim-flog" />
+    <id>https://github.com/vim-jp/vimdoc-ja#1749340800</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.</content>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
   </entry>
   <entry>
-    <id>https://github.com/rust-lang/rust.vim#1749340800</id>
-    <title>https://github.com/rust-lang/rust.vim</title>
-    <link href="https://github.com/rust-lang/rust.vim" />
+    <id>https://github.com/voldikss/vim-floaterm#1749340800</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Vim configuration for Rust.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ryanoasis/vim-devicons#1749340800</id>
-    <title>https://github.com/ryanoasis/vim-devicons</title>
-    <link href="https://github.com/ryanoasis/vim-devicons" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sainnhe/gruvbox-material#1749340800</id>
-    <title>https://github.com/sainnhe/gruvbox-material</title>
-    <link href="https://github.com/sainnhe/gruvbox-material" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Gruvbox with Material Palette</content>
-  </entry>
-  <entry>
-    <id>https://github.com/skywind3000/asyncrun.vim#1749340800</id>
-    <title>https://github.com/skywind3000/asyncrun.vim</title>
-    <link href="https://github.com/skywind3000/asyncrun.vim" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🚀 Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vim-jp/vital.vim#1749340800</id>
-    <title>https://github.com/vim-jp/vital.vim</title>
-    <link href="https://github.com/vim-jp/vital.vim" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A comprehensive Vim utility functions for Vim plugins</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vim-ruby/vim-ruby#1749340800</id>
-    <title>https://github.com/vim-ruby/vim-ruby</title>
-    <link href="https://github.com/vim-ruby/vim-ruby" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Vim/Ruby Configuration Files</content>
-  </entry>
-  <entry>
-    <id>https://github.com/vimwiki/vimwiki#1749340800</id>
-    <title>https://github.com/vimwiki/vimwiki</title>
-    <link href="https://github.com/vimwiki/vimwiki" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Personal Wiki for Vim</content>
-  </entry>
-  <entry>
-    <id>https://github.com/wellle/targets.vim#1749340800</id>
-    <title>https://github.com/wellle/targets.vim</title>
-    <link href="https://github.com/wellle/targets.vim" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Vim plugin that provides additional text objects</content>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
   </entry>
 </feed>

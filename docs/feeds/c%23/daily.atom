@@ -10,11 +10,46 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/DevToys-app/DevToys#1749340800</id>
-    <title>https://github.com/DevToys-app/DevToys</title>
-    <link href="https://github.com/DevToys-app/DevToys" />
+    <id>https://github.com/Azure/azure-sdk-for-net#1749340800</id>
+    <title>https://github.com/Azure/azure-sdk-for-net</title>
+    <link href="https://github.com/Azure/azure-sdk-for-net" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Swiss Army knife for developers.</content>
+    <content type="text">This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BartoszCichecki/LenovoLegionToolkit#1749340800</id>
+    <title>https://github.com/BartoszCichecki/LenovoLegionToolkit</title>
+    <link href="https://github.com/BartoszCichecki/LenovoLegionToolkit" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BepInEx/BepInEx#1749340800</id>
+    <title>https://github.com/BepInEx/BepInEx</title>
+    <link href="https://github.com/BepInEx/BepInEx" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Unity / XNA game patcher and plugin framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Flow-Launcher/Flow.Launcher#1749340800</id>
+    <title>https://github.com/Flow-Launcher/Flow.Launcher</title>
+    <link href="https://github.com/Flow-Launcher/Flow.Launcher" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🔍 Quick file search &amp; app launcher for Windows with community-made plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IgorMundstein/WinMemoryCleaner#1749340800</id>
+    <title>https://github.com/IgorMundstein/WinMemoryCleaner</title>
+    <link href="https://github.com/IgorMundstein/WinMemoryCleaner" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lidarr/Lidarr#1749340800</id>
+    <title>https://github.com/Lidarr/Lidarr</title>
+    <link href="https://github.com/Lidarr/Lidarr" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Looks and smells like Sonarr but made for music.</content>
   </entry>
   <entry>
     <id>https://github.com/MudBlazor/MudBlazor#1749340800</id>
@@ -24,25 +59,18 @@
     <content type="text">Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility</content>
   </entry>
   <entry>
-    <id>https://github.com/QuantConnect/Lean#1749340800</id>
-    <title>https://github.com/QuantConnect/Lean</title>
-    <link href="https://github.com/QuantConnect/Lean" />
+    <id>https://github.com/Sonarr/Sonarr#1749340800</id>
+    <title>https://github.com/Sonarr/Sonarr</title>
+    <link href="https://github.com/Sonarr/Sonarr" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Lean Algorithmic Trading Engine by QuantConnect (Python, C#)</content>
+    <content type="text">Smart PVR for newsgroup and bittorrent users.</content>
   </entry>
   <entry>
-    <id>https://github.com/Scighost/Starward#1749340800</id>
-    <title>https://github.com/Scighost/Starward</title>
-    <link href="https://github.com/Scighost/Starward" />
+    <id>https://github.com/SubtitleEdit/subtitleedit#1749340800</id>
+    <title>https://github.com/SubtitleEdit/subtitleedit</title>
+    <link href="https://github.com/SubtitleEdit/subtitleedit" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Game Launcher for miHoYo - 米家游戏启动器</content>
-  </entry>
-  <entry>
-    <id>https://github.com/SteveDunn/Vogen#1749340800</id>
-    <title>https://github.com/SteveDunn/Vogen</title>
-    <link href="https://github.com/SteveDunn/Vogen" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects</content>
+    <content type="text">the subtitle editor :)</content>
   </entry>
   <entry>
     <id>https://github.com/UnderminersTeam/UndertaleModTool#1749340800</id>
@@ -59,27 +87,6 @@
     <content type="text">The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.</content>
   </entry>
   <entry>
-    <id>https://github.com/YSGStudyHards/DotNetGuide#1749340800</id>
-    <title>https://github.com/YSGStudyHards/DotNetGuide</title>
-    <link href="https://github.com/YSGStudyHards/DotNetGuide" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/abpframework/abp#1749340800</id>
-    <title>https://github.com/abpframework/abp</title>
-    <link href="https://github.com/abpframework/abp" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/actions/runner#1749340800</id>
-    <title>https://github.com/actions/runner</title>
-    <link href="https://github.com/actions/runner" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Runner for GitHub Actions 🚀</content>
-  </entry>
-  <entry>
     <id>https://github.com/builtbybel/Flyby11#1749340800</id>
     <title>https://github.com/builtbybel/Flyby11</title>
     <link href="https://github.com/builtbybel/Flyby11" />
@@ -94,20 +101,6 @@
     <content type="text">Documentation for ASP.NET Core</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/Open-XML-SDK#1749340800</id>
-    <title>https://github.com/dotnet/Open-XML-SDK</title>
-    <link href="https://github.com/dotnet/Open-XML-SDK" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Open XML SDK by Microsoft</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dotnet/aspnetcore#1749340800</id>
-    <title>https://github.com/dotnet/aspnetcore</title>
-    <link href="https://github.com/dotnet/aspnetcore" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</content>
-  </entry>
-  <entry>
     <id>https://github.com/dotnet/csharplang#1749340800</id>
     <title>https://github.com/dotnet/csharplang</title>
     <link href="https://github.com/dotnet/csharplang" />
@@ -115,59 +108,59 @@
     <content type="text">The official repo for the design of the C# programming language</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/eShop#1749340800</id>
-    <title>https://github.com/dotnet/eShop</title>
-    <link href="https://github.com/dotnet/eShop" />
+    <id>https://github.com/dotnet/efcore#1749340800</id>
+    <title>https://github.com/dotnet/efcore</title>
+    <link href="https://github.com/dotnet/efcore" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A reference .NET application implementing an eCommerce site</content>
+    <content type="text">EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</content>
   </entry>
   <entry>
-    <id>https://github.com/dotnet/maui#1749340800</id>
-    <title>https://github.com/dotnet/maui</title>
-    <link href="https://github.com/dotnet/maui" />
+    <id>https://github.com/dotnet/runtime#1749340800</id>
+    <title>https://github.com/dotnet/runtime</title>
+    <link href="https://github.com/dotnet/runtime" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</content>
+    <content type="text">.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.</content>
   </entry>
   <entry>
-    <id>https://github.com/jbogard/MediatR#1749340800</id>
-    <title>https://github.com/jbogard/MediatR</title>
-    <link href="https://github.com/jbogard/MediatR" />
+    <id>https://github.com/jellyfin/jellyfin#1749340800</id>
+    <title>https://github.com/jellyfin/jellyfin</title>
+    <link href="https://github.com/jellyfin/jellyfin" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Simple, unambitious mediator implementation in .NET</content>
+    <content type="text">The Free Software Media System - Server Backend &amp; API</content>
   </entry>
   <entry>
-    <id>https://github.com/kangyu-california/PersistentWindows#1749340800</id>
-    <title>https://github.com/kangyu-california/PersistentWindows</title>
-    <link href="https://github.com/kangyu-california/PersistentWindows" />
+    <id>https://github.com/jitwxs/163MusicLyrics#1749340800</id>
+    <title>https://github.com/jitwxs/163MusicLyrics</title>
+    <link href="https://github.com/jitwxs/163MusicLyrics" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update</content>
+    <content type="text">Windows 云音乐歌词获取【网易云、QQ音乐】</content>
   </entry>
   <entry>
-    <id>https://github.com/mcmonkeyprojects/SwarmUI#1749340800</id>
-    <title>https://github.com/mcmonkeyprojects/SwarmUI</title>
-    <link href="https://github.com/mcmonkeyprojects/SwarmUI" />
+    <id>https://github.com/nilaoda/N_m3u8DL-RE#1749340800</id>
+    <title>https://github.com/nilaoda/N_m3u8DL-RE</title>
+    <link href="https://github.com/nilaoda/N_m3u8DL-RE" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.</content>
+    <content type="text">Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/fluentui-blazor#1749340800</id>
-    <title>https://github.com/microsoft/fluentui-blazor</title>
-    <link href="https://github.com/microsoft/fluentui-blazor" />
+    <id>https://github.com/ppy/osu#1749340800</id>
+    <title>https://github.com/ppy/osu</title>
+    <link href="https://github.com/ppy/osu" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications</content>
+    <content type="text">rhythm is just a *click* away!</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/garnet#1749340800</id>
-    <title>https://github.com/microsoft/garnet</title>
-    <link href="https://github.com/microsoft/garnet" />
+    <id>https://github.com/rocksdanister/lively#1749340800</id>
+    <title>https://github.com/rocksdanister/lively</title>
+    <link href="https://github.com/rocksdanister/lively" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.</content>
+    <content type="text">Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.</content>
   </entry>
   <entry>
-    <id>https://github.com/peass-ng/PEASS-ng#1749340800</id>
-    <title>https://github.com/peass-ng/PEASS-ng</title>
-    <link href="https://github.com/peass-ng/PEASS-ng" />
+    <id>https://github.com/yaobiao131/downkyicore#1749340800</id>
+    <title>https://github.com/yaobiao131/downkyicore</title>
+    <link href="https://github.com/yaobiao131/downkyicore" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)</content>
+    <content type="text">哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。</content>
   </entry>
 </feed>

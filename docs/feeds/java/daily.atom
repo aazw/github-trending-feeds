@@ -10,18 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/CodePhiliaX/Chat2DB#1749340800</id>
-    <title>https://github.com/CodePhiliaX/Chat2DB</title>
-    <link href="https://github.com/CodePhiliaX/Chat2DB" />
+    <id>https://github.com/GeyserMC/Hydraulic#1749340800</id>
+    <title>https://github.com/GeyserMC/Hydraulic</title>
+    <link href="https://github.com/GeyserMC/Hydraulic" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</content>
+    <content type="text">A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers.</content>
   </entry>
   <entry>
-    <id>https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT#1749340800</id>
-    <title>https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT</title>
-    <link href="https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT" />
+    <id>https://github.com/LawnchairLauncher/lawnchair#1749340800</id>
+    <title>https://github.com/LawnchairLauncher/lawnchair</title>
+    <link href="https://github.com/LawnchairLauncher/lawnchair" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.</content>
+    <content type="text">No clever tagline needed.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MeteorDevelopment/meteor-client#1749340800</id>
+    <title>https://github.com/MeteorDevelopment/meteor-client</title>
+    <link href="https://github.com/MeteorDevelopment/meteor-client" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Based Minecraft utility mod.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaperMC/Folia#1749340800</id>
+    <title>https://github.com/PaperMC/Folia</title>
+    <link href="https://github.com/PaperMC/Folia" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Fork of Paper which adds regionised multithreading to the dedicated server.</content>
   </entry>
   <entry>
     <id>https://github.com/PaperMC/Paper#1749340800</id>
@@ -31,18 +45,18 @@
     <content type="text">The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</content>
   </entry>
   <entry>
+    <id>https://github.com/Snailclimb/JavaGuide#1749340800</id>
+    <title>https://github.com/Snailclimb/JavaGuide</title>
+    <link href="https://github.com/Snailclimb/JavaGuide" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！</content>
+  </entry>
+  <entry>
     <id>https://github.com/Stirling-Tools/Stirling-PDF#1749340800</id>
     <title>https://github.com/Stirling-Tools/Stirling-PDF</title>
     <link href="https://github.com/Stirling-Tools/Stirling-PDF" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">#1 Locally hosted web application that allows you to perform various operations on PDF files</content>
-  </entry>
-  <entry>
-    <id>https://github.com/TheAlgorithms/Java#1749340800</id>
-    <title>https://github.com/TheAlgorithms/Java</title>
-    <link href="https://github.com/TheAlgorithms/Java" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">All Algorithms implemented in Java</content>
   </entry>
   <entry>
     <id>https://github.com/YunaiV/ruoyi-vue-pro#1749340800</id>
@@ -52,67 +66,25 @@
     <content type="text">🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue &amp; Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/hadoop#1749340800</id>
-    <title>https://github.com/apache/hadoop</title>
-    <link href="https://github.com/apache/hadoop" />
+    <id>https://github.com/alibaba/nacos#1749340800</id>
+    <title>https://github.com/alibaba/nacos</title>
+    <link href="https://github.com/alibaba/nacos" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Apache Hadoop</content>
+    <content type="text">an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/kafka#1749340800</id>
-    <title>https://github.com/apache/kafka</title>
-    <link href="https://github.com/apache/kafka" />
+    <id>https://github.com/apache/doris#1749340800</id>
+    <title>https://github.com/apache/doris</title>
+    <link href="https://github.com/apache/doris" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Mirror of Apache Kafka</content>
+    <content type="text">Apache Doris is an easy-to-use, high performance and unified analytics database.</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/polaris#1749340800</id>
-    <title>https://github.com/apache/polaris</title>
-    <link href="https://github.com/apache/polaris" />
+    <id>https://github.com/google/guava#1749340800</id>
+    <title>https://github.com/google/guava</title>
+    <link href="https://github.com/google/guava" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Apache Polaris, the interoperable, open source catalog for Apache Iceberg</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/rocketmq#1749340800</id>
-    <title>https://github.com/apache/rocketmq</title>
-    <link href="https://github.com/apache/rocketmq" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/apache/seatunnel#1749340800</id>
-    <title>https://github.com/apache/seatunnel</title>
-    <link href="https://github.com/apache/seatunnel" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dataease/dataease#1749340800</id>
-    <title>https://github.com/dataease/dataease</title>
-    <link href="https://github.com/dataease/dataease" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/eugenp/tutorials#1749340800</id>
-    <title>https://github.com/eugenp/tutorials</title>
-    <link href="https://github.com/eugenp/tutorials" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Getting Started with Spring Boot 3:</content>
-  </entry>
-  <entry>
-    <id>https://github.com/halo-dev/halo#1749340800</id>
-    <title>https://github.com/halo-dev/halo</title>
-    <link href="https://github.com/halo-dev/halo" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">强大易用的开源建站工具。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kestra-io/kestra#1749340800</id>
-    <title>https://github.com/kestra-io/kestra</title>
-    <link href="https://github.com/kestra-io/kestra" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...</content>
+    <content type="text">Google core libraries for Java</content>
   </entry>
   <entry>
     <id>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java#1749340800</id>
@@ -122,13 +94,6 @@
     <content type="text">This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</content>
   </entry>
   <entry>
-    <id>https://github.com/langchain4j/langchain4j#1749340800</id>
-    <title>https://github.com/langchain4j/langchain4j</title>
-    <link href="https://github.com/langchain4j/langchain4j" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Java version of LangChain</content>
-  </entry>
-  <entry>
     <id>https://github.com/microsoft/typespec#1749340800</id>
     <title>https://github.com/microsoft/typespec</title>
     <link href="https://github.com/microsoft/typespec" />
@@ -136,45 +101,45 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/modelcontextprotocol/java-sdk#1749340800</id>
-    <title>https://github.com/modelcontextprotocol/java-sdk</title>
-    <link href="https://github.com/modelcontextprotocol/java-sdk" />
+    <id>https://github.com/openjdk/jdk#1749340800</id>
+    <title>https://github.com/openjdk/jdk</title>
+    <link href="https://github.com/openjdk/jdk" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</content>
+    <content type="text">JDK main-line development https://openjdk.org/projects/jdk</content>
   </entry>
   <entry>
-    <id>https://github.com/oracle/graal#1749340800</id>
-    <title>https://github.com/oracle/graal</title>
-    <link href="https://github.com/oracle/graal" />
+    <id>https://github.com/signalapp/Signal-Server#1749340800</id>
+    <title>https://github.com/signalapp/Signal-Server</title>
+    <link href="https://github.com/signalapp/Signal-Server" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀</content>
+    <content type="text">Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS</content>
   </entry>
   <entry>
-    <id>https://github.com/quarkusio/quarkus#1749340800</id>
-    <title>https://github.com/quarkusio/quarkus</title>
-    <link href="https://github.com/quarkusio/quarkus" />
+    <id>https://github.com/skylot/jadx#1749340800</id>
+    <title>https://github.com/skylot/jadx</title>
+    <link href="https://github.com/skylot/jadx" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Quarkus: Supersonic Subatomic Java.</content>
+    <content type="text">Dex to Java decompiler</content>
   </entry>
   <entry>
-    <id>https://github.com/redisson/redisson#1749340800</id>
-    <title>https://github.com/redisson/redisson</title>
-    <link href="https://github.com/redisson/redisson" />
+    <id>https://github.com/spring-projects/spring-framework#1749340800</id>
+    <title>https://github.com/spring-projects/spring-framework</title>
+    <link href="https://github.com/spring-projects/spring-framework" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Redisson - Valkey &amp; Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..</content>
+    <content type="text">Spring Framework</content>
   </entry>
   <entry>
-    <id>https://github.com/spring-projects/spring-boot#1749340800</id>
-    <title>https://github.com/spring-projects/spring-boot</title>
-    <link href="https://github.com/spring-projects/spring-boot" />
+    <id>https://github.com/traccar/traccar#1749340800</id>
+    <title>https://github.com/traccar/traccar</title>
+    <link href="https://github.com/traccar/traccar" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</content>
+    <content type="text">Traccar GPS Tracking System</content>
   </entry>
   <entry>
-    <id>https://github.com/tencentmusic/supersonic#1749340800</id>
-    <title>https://github.com/tencentmusic/supersonic</title>
-    <link href="https://github.com/tencentmusic/supersonic" />
+    <id>https://github.com/yuliskov/SmartTube#1749340800</id>
+    <title>https://github.com/yuliskov/SmartTube</title>
+    <link href="https://github.com/yuliskov/SmartTube" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.</content>
+    <content type="text">Advanced player for set-top boxes and tvs running Android OS</content>
   </entry>
 </feed>

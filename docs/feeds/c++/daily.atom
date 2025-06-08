@@ -10,164 +10,171 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/78/xiaozhi-esp32#1749340800</id>
-    <title>https://github.com/78/xiaozhi-esp32</title>
-    <link href="https://github.com/78/xiaozhi-esp32" />
+    <id>https://github.com/LizardByte/Sunshine#1749340800</id>
+    <title>https://github.com/LizardByte/Sunshine</title>
+    <link href="https://github.com/LizardByte/Sunshine" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An MCP-based chatbot | 一个基于MCP的聊天机器人</content>
+    <content type="text">Self-hosted game stream host for Moonlight.</content>
   </entry>
   <entry>
-    <id>https://github.com/BehaviorTree/BehaviorTree.CPP#1749340800</id>
-    <title>https://github.com/BehaviorTree/BehaviorTree.CPP</title>
-    <link href="https://github.com/BehaviorTree/BehaviorTree.CPP" />
+    <id>https://github.com/MAZHARMIK/Interview_DS_Algo#1749340800</id>
+    <title>https://github.com/MAZHARMIK/Interview_DS_Algo</title>
+    <link href="https://github.com/MAZHARMIK/Interview_DS_Algo" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Behavior Trees Library in C++. Batteries included.</content>
+    <content type="text">Super Repository for Coding Interview Preperation</content>
   </entry>
   <entry>
-    <id>https://github.com/ClickHouse/ClickHouse#1749340800</id>
-    <title>https://github.com/ClickHouse/ClickHouse</title>
-    <link href="https://github.com/ClickHouse/ClickHouse" />
+    <id>https://github.com/MaaAssistantArknights/MaaAssistantArknights#1749340800</id>
+    <title>https://github.com/MaaAssistantArknights/MaaAssistantArknights</title>
+    <link href="https://github.com/MaaAssistantArknights/MaaAssistantArknights" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">ClickHouse® is a real-time analytics database management system</content>
+    <content type="text">《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</content>
   </entry>
   <entry>
-    <id>https://github.com/TixiaoShan/LIO-SAM#1749340800</id>
-    <title>https://github.com/TixiaoShan/LIO-SAM</title>
-    <link href="https://github.com/TixiaoShan/LIO-SAM" />
+    <id>https://github.com/NVIDIA/cutlass#1749340800</id>
+    <title>https://github.com/NVIDIA/cutlass</title>
+    <link href="https://github.com/NVIDIA/cutlass" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping</content>
+    <content type="text">CUDA Templates for Linear Algebra Subroutines</content>
   </entry>
   <entry>
-    <id>https://github.com/YimMenu/YimMenuV2#1749340800</id>
-    <title>https://github.com/YimMenu/YimMenuV2</title>
-    <link href="https://github.com/YimMenu/YimMenuV2" />
+    <id>https://github.com/OpenRCT2/OpenRCT2#1749340800</id>
+    <title>https://github.com/OpenRCT2/OpenRCT2</title>
+    <link href="https://github.com/OpenRCT2/OpenRCT2" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Experimental menu for GTA 5: Enhanced</content>
+    <content type="text">An open source re-implementation of RollerCoaster Tycoon 2 🎢</content>
   </entry>
   <entry>
-    <id>https://github.com/ZLMediaKit/ZLMediaKit#1749340800</id>
-    <title>https://github.com/ZLMediaKit/ZLMediaKit</title>
-    <link href="https://github.com/ZLMediaKit/ZLMediaKit" />
+    <id>https://github.com/PCSX2/pcsx2#1749340800</id>
+    <title>https://github.com/PCSX2/pcsx2</title>
+    <link href="https://github.com/PCSX2/pcsx2" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11</content>
+    <content type="text">PCSX2 - The Playstation 2 Emulator</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/brpc#1749340800</id>
-    <title>https://github.com/apache/brpc</title>
-    <link href="https://github.com/apache/brpc" />
+    <id>https://github.com/PrismLauncher/PrismLauncher#1749340800</id>
+    <title>https://github.com/PrismLauncher/PrismLauncher</title>
+    <link href="https://github.com/PrismLauncher/PrismLauncher" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".</content>
+    <content type="text">A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)</content>
   </entry>
   <entry>
-    <id>https://github.com/barry-ran/QtScrcpy#1749340800</id>
-    <title>https://github.com/barry-ran/QtScrcpy</title>
-    <link href="https://github.com/barry-ran/QtScrcpy" />
+    <id>https://github.com/UE4SS-RE/RE-UE4SS#1749340800</id>
+    <title>https://github.com/UE4SS-RE/RE-UE4SS</title>
+    <link href="https://github.com/UE4SS-RE/RE-UE4SS" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Android real-time display control software</content>
+    <content type="text">Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games</content>
   </entry>
   <entry>
-    <id>https://github.com/borglab/gtsam#1749340800</id>
-    <title>https://github.com/borglab/gtsam</title>
-    <link href="https://github.com/borglab/gtsam" />
+    <id>https://github.com/WerWolv/ImHex#1749340800</id>
+    <title>https://github.com/WerWolv/ImHex</title>
+    <link href="https://github.com/WerWolv/ImHex" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.</content>
+    <content type="text">🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</content>
   </entry>
   <entry>
-    <id>https://github.com/cemu-project/Cemu#1749340800</id>
-    <title>https://github.com/cemu-project/Cemu</title>
-    <link href="https://github.com/cemu-project/Cemu" />
+    <id>https://github.com/ashishps1/awesome-low-level-design#1749340800</id>
+    <title>https://github.com/ashishps1/awesome-low-level-design</title>
+    <link href="https://github.com/ashishps1/awesome-low-level-design" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Cemu - Wii U emulator</content>
+    <content type="text">Learn Low Level Design (LLD) and prepare for interviews using free resources.</content>
   </entry>
   <entry>
-    <id>https://github.com/chriskohlhoff/asio#1749340800</id>
-    <title>https://github.com/chriskohlhoff/asio</title>
-    <link href="https://github.com/chriskohlhoff/asio" />
+    <id>https://github.com/bitcoin/bitcoin#1749340800</id>
+    <title>https://github.com/bitcoin/bitcoin</title>
+    <link href="https://github.com/bitcoin/bitcoin" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Asio C++ Library</content>
+    <content type="text">Bitcoin Core integration/staging tree</content>
   </entry>
   <entry>
-    <id>https://github.com/duckdb/duckdb#1749340800</id>
-    <title>https://github.com/duckdb/duckdb</title>
-    <link href="https://github.com/duckdb/duckdb" />
+    <id>https://github.com/cdozdil/OptiScaler#1749340800</id>
+    <title>https://github.com/cdozdil/OptiScaler</title>
+    <link href="https://github.com/cdozdil/OptiScaler" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">DuckDB is an analytical in-process SQL database management system</content>
+    <content type="text">OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</content>
   </entry>
   <entry>
-    <id>https://github.com/eProsima/Fast-DDS#1749340800</id>
-    <title>https://github.com/eProsima/Fast-DDS</title>
-    <link href="https://github.com/eProsima/Fast-DDS" />
+    <id>https://github.com/daijro/camoufox#1749340800</id>
+    <title>https://github.com/daijro/camoufox</title>
+    <link href="https://github.com/daijro/camoufox" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com</content>
+    <content type="text">🦊 Anti-detect browser</content>
   </entry>
   <entry>
-    <id>https://github.com/gabime/spdlog#1749340800</id>
-    <title>https://github.com/gabime/spdlog</title>
-    <link href="https://github.com/gabime/spdlog" />
+    <id>https://github.com/ggml-org/whisper.cpp#1749340800</id>
+    <title>https://github.com/ggml-org/whisper.cpp</title>
+    <link href="https://github.com/ggml-org/whisper.cpp" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Fast C++ logging library.</content>
+    <content type="text">Port of OpenAI's Whisper model in C/C++</content>
   </entry>
   <entry>
-    <id>https://github.com/google/googletest#1749340800</id>
-    <title>https://github.com/google/googletest</title>
-    <link href="https://github.com/google/googletest" />
+    <id>https://github.com/hrydgard/ppsspp#1749340800</id>
+    <title>https://github.com/hrydgard/ppsspp</title>
+    <link href="https://github.com/hrydgard/ppsspp" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">GoogleTest - Google Testing and Mocking Framework</content>
+    <content type="text">A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.</content>
   </entry>
   <entry>
-    <id>https://github.com/google/or-tools#1749340800</id>
-    <title>https://github.com/google/or-tools</title>
-    <link href="https://github.com/google/or-tools" />
+    <id>https://github.com/luau-lang/luau#1749340800</id>
+    <title>https://github.com/luau-lang/luau</title>
+    <link href="https://github.com/luau-lang/luau" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Google's Operations Research tools:</content>
+    <content type="text">A fast, small, safe, gradually typed embeddable scripting language derived from Lua</content>
   </entry>
   <entry>
-    <id>https://github.com/k2-fsa/sherpa-onnx#1749340800</id>
-    <title>https://github.com/k2-fsa/sherpa-onnx</title>
-    <link href="https://github.com/k2-fsa/sherpa-onnx" />
+    <id>https://github.com/meshtastic/firmware#1749340800</id>
+    <title>https://github.com/meshtastic/firmware</title>
+    <link href="https://github.com/meshtastic/firmware" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages</content>
+    <content type="text">This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.</content>
   </entry>
   <entry>
-    <id>https://github.com/mixxxdj/mixxx#1749340800</id>
-    <title>https://github.com/mixxxdj/mixxx</title>
-    <link href="https://github.com/mixxxdj/mixxx" />
+    <id>https://github.com/nomic-ai/gpt4all#1749340800</id>
+    <title>https://github.com/nomic-ai/gpt4all</title>
+    <link href="https://github.com/nomic-ai/gpt4all" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Mixxx is Free DJ software that gives you everything you need to perform live mixes.</content>
+    <content type="text">GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.</content>
   </entry>
   <entry>
-    <id>https://github.com/nlohmann/json#1749340800</id>
-    <title>https://github.com/nlohmann/json</title>
-    <link href="https://github.com/nlohmann/json" />
+    <id>https://github.com/skypjack/entt#1749340800</id>
+    <title>https://github.com/skypjack/entt</title>
+    <link href="https://github.com/skypjack/entt" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">JSON for Modern C++</content>
+    <content type="text">Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more</content>
   </entry>
   <entry>
-    <id>https://github.com/opencv/opencv#1749340800</id>
-    <title>https://github.com/opencv/opencv</title>
-    <link href="https://github.com/opencv/opencv" />
+    <id>https://github.com/tdlib/td#1749340800</id>
+    <title>https://github.com/tdlib/td</title>
+    <link href="https://github.com/tdlib/td" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Open Source Computer Vision Library</content>
+    <content type="text">Cross-platform library for building Telegram clients</content>
   </entry>
   <entry>
-    <id>https://github.com/protocolbuffers/protobuf#1749340800</id>
-    <title>https://github.com/protocolbuffers/protobuf</title>
-    <link href="https://github.com/protocolbuffers/protobuf" />
+    <id>https://github.com/transmission/transmission#1749340800</id>
+    <title>https://github.com/transmission/transmission</title>
+    <link href="https://github.com/transmission/transmission" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Protocol Buffers - Google's data interchange format</content>
+    <content type="text">Official Transmission BitTorrent client repository</content>
   </entry>
   <entry>
-    <id>https://github.com/prusa3d/PrusaSlicer#1749340800</id>
-    <title>https://github.com/prusa3d/PrusaSlicer</title>
-    <link href="https://github.com/prusa3d/PrusaSlicer" />
+    <id>https://github.com/wjakob/instant-meshes#1749340800</id>
+    <title>https://github.com/wjakob/instant-meshes</title>
+    <link href="https://github.com/wjakob/instant-meshes" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</content>
+    <content type="text">Interactive field-aligned mesh generator</content>
   </entry>
   <entry>
-    <id>https://github.com/pybind/pybind11#1749340800</id>
-    <title>https://github.com/pybind/pybind11</title>
-    <link href="https://github.com/pybind/pybind11" />
+    <id>https://github.com/wxWidgets/wxWidgets#1749340800</id>
+    <title>https://github.com/wxWidgets/wxWidgets</title>
+    <link href="https://github.com/wxWidgets/wxWidgets" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Seamless operability between C++11 and Python</content>
+    <content type="text">Cross-Platform C++ GUI Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yhirose/cpp-httplib#1749340800</id>
+    <title>https://github.com/yhirose/cpp-httplib</title>
+    <link href="https://github.com/yhirose/cpp-httplib" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A C++ header-only HTTP/HTTPS server and client library</content>
   </entry>
 </feed>

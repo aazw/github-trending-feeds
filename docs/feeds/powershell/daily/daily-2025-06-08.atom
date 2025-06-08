@@ -10,6 +10,27 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/Azure/PSRule.Rules.Azure#1749340800</id>
+    <title>https://github.com/Azure/PSRule.Rules.Azure</title>
+    <link href="https://github.com/Azure/PSRule.Rules.Azure" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-docs-json-samples#1749340800</id>
+    <title>https://github.com/Azure/azure-docs-json-samples</title>
+    <link href="https://github.com/Azure/azure-docs-json-samples" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Contains examples of JSON files that are included in Azure documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChrisTitusTech/powershell-profile#1749340800</id>
+    <title>https://github.com/ChrisTitusTech/powershell-profile</title>
+    <link href="https://github.com/ChrisTitusTech/powershell-profile" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Pretty PowerShell that looks good and functions almost as good as Linux terminal</content>
+  </entry>
+  <entry>
     <id>https://github.com/ChrisTitusTech/winutil#1749340800</id>
     <title>https://github.com/ChrisTitusTech/winutil</title>
     <link href="https://github.com/ChrisTitusTech/winutil" />
@@ -17,25 +38,11 @@
     <content type="text">Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</content>
   </entry>
   <entry>
-    <id>https://github.com/LeDragoX/Win-Debloat-Tools#1749340800</id>
-    <title>https://github.com/LeDragoX/Win-Debloat-Tools</title>
-    <link href="https://github.com/LeDragoX/Win-Debloat-Tools" />
+    <id>https://github.com/MicrosoftDocs/PowerShell-Docs#1749340800</id>
+    <title>https://github.com/MicrosoftDocs/PowerShell-Docs</title>
+    <link href="https://github.com/MicrosoftDocs/PowerShell-Docs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Micke-K/IntuneManagement#1749340800</id>
-    <title>https://github.com/Micke-K/IntuneManagement</title>
-    <link href="https://github.com/Micke-K/IntuneManagement" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Orange-Cyberdefense/GOAD#1749340800</id>
-    <title>https://github.com/Orange-Cyberdefense/GOAD</title>
-    <link href="https://github.com/Orange-Cyberdefense/GOAD" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">game of active directory</content>
+    <content type="text">The official PowerShell documentation sources</content>
   </entry>
   <entry>
     <id>https://github.com/Raphire/Win11Debloat#1749340800</id>
@@ -73,20 +80,6 @@
     <content type="text">GitHub Actions runner images</content>
   </entry>
   <entry>
-    <id>https://github.com/cisagov/ScubaGear#1749340800</id>
-    <title>https://github.com/cisagov/ScubaGear</title>
-    <link href="https://github.com/cisagov/ScubaGear" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Automation to assess the state of your M365 tenant against CISA's baselines</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dfinke/ImportExcel#1749340800</id>
-    <title>https://github.com/dfinke/ImportExcel</title>
-    <link href="https://github.com/dfinke/ImportExcel" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">PowerShell module to import/export Excel spreadsheets, without Excel</content>
-  </entry>
-  <entry>
     <id>https://github.com/dotnet/core#1749340800</id>
     <title>https://github.com/dotnet/core</title>
     <link href="https://github.com/dotnet/core" />
@@ -94,38 +87,31 @@
     <content type="text">.NET news, announcements, release notes, and more!</content>
   </entry>
   <entry>
-    <id>https://github.com/jamesstringerparsec/Easy-GPU-PV#1749340800</id>
-    <title>https://github.com/jamesstringerparsec/Easy-GPU-PV</title>
-    <link href="https://github.com/jamesstringerparsec/Easy-GPU-PV" />
+    <id>https://github.com/ionuttbara/windows-defender-remover#1749340800</id>
+    <title>https://github.com/ionuttbara/windows-defender-remover</title>
+    <link href="https://github.com/ionuttbara/windows-defender-remover" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Project dedicated to making GPU Partitioning on Windows easier!</content>
+    <content type="text">A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</content>
   </entry>
   <entry>
-    <id>https://github.com/jenkinsci/docker#1749340800</id>
-    <title>https://github.com/jenkinsci/docker</title>
-    <link href="https://github.com/jenkinsci/docker" />
+    <id>https://github.com/microsoft/undocked#1749340800</id>
+    <title>https://github.com/microsoft/undocked</title>
+    <link href="https://github.com/microsoft/undocked" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Docker official jenkins repo</content>
+    <content type="text">Simplifies the process of building internal, native Windows projects</content>
   </entry>
   <entry>
-    <id>https://github.com/jeppevinkel/jellyfin-tizen-builds#1749340800</id>
-    <title>https://github.com/jeppevinkel/jellyfin-tizen-builds</title>
-    <link href="https://github.com/jeppevinkel/jellyfin-tizen-builds" />
+    <id>https://github.com/microsoft/winget-pkgs#1749340800</id>
+    <title>https://github.com/microsoft/winget-pkgs</title>
+    <link href="https://github.com/microsoft/winget-pkgs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen.</content>
+    <content type="text">The Microsoft community Windows Package Manager manifest repository</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/ARI#1749340800</id>
-    <title>https://github.com/microsoft/ARI</title>
-    <link href="https://github.com/microsoft/ARI" />
+    <id>https://github.com/xiv3r/Burpsuite-Professional#1749340800</id>
+    <title>https://github.com/xiv3r/Burpsuite-Professional</title>
+    <link href="https://github.com/xiv3r/Burpsuite-Professional" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/finops-toolkit#1749340800</id>
-    <title>https://github.com/microsoft/finops-toolkit</title>
-    <link href="https://github.com/microsoft/finops-toolkit" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.</content>
+    <content type="text">Latest Burpsuite Professional Version 2025.*.*</content>
   </entry>
 </feed>

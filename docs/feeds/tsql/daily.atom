@@ -10,24 +10,10 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/cisagov/cset#1749340800</id>
-    <title>https://github.com/cisagov/cset</title>
-    <link href="https://github.com/cisagov/cset" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Cybersecurity Evaluation Tool</content>
-  </entry>
-  <entry>
     <id>https://github.com/microsoft/fhir-server#1749340800</id>
     <title>https://github.com/microsoft/fhir-server</title>
     <link href="https://github.com/microsoft/fhir-server" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">A service that implements the FHIR standard</content>
-  </entry>
-  <entry>
-    <id>https://github.com/umbraco/UmbracoDocs#1749340800</id>
-    <title>https://github.com/umbraco/UmbracoDocs</title>
-    <link href="https://github.com/umbraco/UmbracoDocs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The official Umbraco Documentation</content>
   </entry>
 </feed>

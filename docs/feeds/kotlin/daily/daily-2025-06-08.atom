@@ -10,18 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/JetBrains/kotlin#1749340800</id>
-    <title>https://github.com/JetBrains/kotlin</title>
-    <link href="https://github.com/JetBrains/kotlin" />
+    <id>https://github.com/Dr-TSNG/Hide-My-Applist#1749340800</id>
+    <title>https://github.com/Dr-TSNG/Hide-My-Applist</title>
+    <link href="https://github.com/Dr-TSNG/Hide-My-Applist" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Kotlin Programming Language.</content>
+    <content type="text">An Xposed module to intercept applist detections</content>
   </entry>
   <entry>
-    <id>https://github.com/Kotlin/kotlinx.coroutines#1749340800</id>
-    <title>https://github.com/Kotlin/kotlinx.coroutines</title>
-    <link href="https://github.com/Kotlin/kotlinx.coroutines" />
+    <id>https://github.com/HdShare/WAuxiliary_Public#1749340800</id>
+    <title>https://github.com/HdShare/WAuxiliary_Public</title>
+    <link href="https://github.com/HdShare/WAuxiliary_Public" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Library support for Kotlin coroutines</content>
+    <content type="text">WeChat Auxiliary Source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JunkFood02/Seal#1749340800</id>
+    <title>https://github.com/JunkFood02/Seal</title>
+    <link href="https://github.com/JunkFood02/Seal" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You</content>
   </entry>
   <entry>
     <id>https://github.com/MMRLApp/MMRL#1749340800</id>
@@ -38,6 +45,20 @@
     <content type="text">🧩 Patches for ReVanced</content>
   </entry>
   <entry>
+    <id>https://github.com/RikkaApps/Shizuku#1749340800</id>
+    <title>https://github.com/RikkaApps/Shizuku</title>
+    <link href="https://github.com/RikkaApps/Shizuku" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Swordfish90/Lemuroid#1749340800</id>
+    <title>https://github.com/Swordfish90/Lemuroid</title>
+    <link href="https://github.com/Swordfish90/Lemuroid" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">All in one emulator on Android!</content>
+  </entry>
+  <entry>
     <id>https://github.com/T8RIN/ImageToolbox#1749340800</id>
     <title>https://github.com/T8RIN/ImageToolbox</title>
     <link href="https://github.com/T8RIN/ImageToolbox" />
@@ -45,11 +66,32 @@
     <content type="text">🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options</content>
   </entry>
   <entry>
-    <id>https://github.com/aws/aws-toolkit-jetbrains#1749340800</id>
-    <title>https://github.com/aws/aws-toolkit-jetbrains</title>
-    <link href="https://github.com/aws/aws-toolkit-jetbrains" />
+    <id>https://github.com/YenalyLiew/Han1meViewer#1749340800</id>
+    <title>https://github.com/YenalyLiew/Han1meViewer</title>
+    <link href="https://github.com/YenalyLiew/Han1meViewer" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs</content>
+    <content type="text">[Deprecated]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/android/architecture-samples#1749340800</id>
+    <title>https://github.com/android/architecture-samples</title>
+    <link href="https://github.com/android/architecture-samples" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/android/nowinandroid#1749340800</id>
+    <title>https://github.com/android/nowinandroid</title>
+    <link href="https://github.com/android/nowinandroid" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A fully functional Android app built entirely with Kotlin and Jetpack Compose</content>
+  </entry>
+  <entry>
+    <id>https://github.com/breezy-weather/breezy-weather#1749340800</id>
+    <title>https://github.com/breezy-weather/breezy-weather</title>
+    <link href="https://github.com/breezy-weather/breezy-weather" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A Material Design Weather Application</content>
   </entry>
   <entry>
     <id>https://github.com/d4rken-org/sdmaid-se#1749340800</id>
@@ -59,53 +101,18 @@
     <content type="text">SD Maid 2/SE is Android's most thorough cleaning tool.</content>
   </entry>
   <entry>
-    <id>https://github.com/dead8309/Kizzy#1749340800</id>
-    <title>https://github.com/dead8309/Kizzy</title>
-    <link href="https://github.com/dead8309/Kizzy" />
+    <id>https://github.com/deniscerri/ytdlnis#1749340800</id>
+    <title>https://github.com/deniscerri/ytdlnis</title>
+    <link href="https://github.com/deniscerri/ytdlnis" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3</content>
+    <content type="text">Full Featured Video/Audio Downloader for Android using yt-dlp</content>
   </entry>
   <entry>
-    <id>https://github.com/duckduckgo/Android#1749340800</id>
-    <title>https://github.com/duckduckgo/Android</title>
-    <link href="https://github.com/duckduckgo/Android" />
+    <id>https://github.com/gedoor/legado#1749340800</id>
+    <title>https://github.com/gedoor/legado</title>
+    <link href="https://github.com/gedoor/legado" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">DuckDuckGo Android App</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gurecn/YuyanIme#1749340800</id>
-    <title>https://github.com/gurecn/YuyanIme</title>
-    <link href="https://github.com/gurecn/YuyanIme" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">语燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法</content>
-  </entry>
-  <entry>
-    <id>https://github.com/hectorqin/reader#1749340800</id>
-    <title>https://github.com/hectorqin/reader</title>
-    <link href="https://github.com/hectorqin/reader" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️</content>
-  </entry>
-  <entry>
-    <id>https://github.com/iamgio/quarkdown#1749340800</id>
-    <title>https://github.com/iamgio/quarkdown</title>
-    <link href="https://github.com/iamgio/quarkdown" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🪐 Markdown with superpowers — from ideas to presentations, articles and books.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jellyfin/jellyfin-androidtv#1749340800</id>
-    <title>https://github.com/jellyfin/jellyfin-androidtv</title>
-    <link href="https://github.com/jellyfin/jellyfin-androidtv" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Android TV Client for Jellyfin</content>
-  </entry>
-  <entry>
-    <id>https://github.com/lavalink-devs/Lavalink#1749340800</id>
-    <title>https://github.com/lavalink-devs/Lavalink</title>
-    <link href="https://github.com/lavalink-devs/Lavalink" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Standalone audio sending node based on Lavaplayer.</content>
+    <content type="text">Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</content>
   </entry>
   <entry>
     <id>https://github.com/maxrave-dev/SimpMusic#1749340800</id>
@@ -115,18 +122,11 @@
     <content type="text">A simple music app using YouTube Music for backend</content>
   </entry>
   <entry>
-    <id>https://github.com/meshtastic/Meshtastic-Android#1749340800</id>
-    <title>https://github.com/meshtastic/Meshtastic-Android</title>
-    <link href="https://github.com/meshtastic/Meshtastic-Android" />
+    <id>https://github.com/mostafaalagamy/Metrolist#1749340800</id>
+    <title>https://github.com/mostafaalagamy/Metrolist</title>
+    <link href="https://github.com/mostafaalagamy/Metrolist" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Android application for Meshtastic</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mobile-dev-inc/Maestro#1749340800</id>
-    <title>https://github.com/mobile-dev-inc/Maestro</title>
-    <link href="https://github.com/mobile-dev-inc/Maestro" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Painless E2E Automation for Mobile and Web</content>
+    <content type="text">YouTube Music client for Android</content>
   </entry>
   <entry>
     <id>https://github.com/open-ani/animeko#1749340800</id>
@@ -136,31 +136,31 @@
     <content type="text">集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform</content>
   </entry>
   <entry>
-    <id>https://github.com/openai/openai-java#1749340800</id>
-    <title>https://github.com/openai/openai-java</title>
-    <link href="https://github.com/openai/openai-java" />
+    <id>https://github.com/rumboalla/apkupdater#1749340800</id>
+    <title>https://github.com/rumboalla/apkupdater</title>
+    <link href="https://github.com/rumboalla/apkupdater" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The official Java library for the OpenAI API</content>
+    <content type="text">APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.</content>
   </entry>
   <entry>
-    <id>https://github.com/pppscn/SmsForwarder#1749340800</id>
-    <title>https://github.com/pppscn/SmsForwarder</title>
-    <link href="https://github.com/pppscn/SmsForwarder" />
+    <id>https://github.com/tiann/KernelSU#1749340800</id>
+    <title>https://github.com/tiann/KernelSU</title>
+    <link href="https://github.com/tiann/KernelSU" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正</content>
+    <content type="text">A Kernel based root solution for Android</content>
   </entry>
   <entry>
-    <id>https://github.com/signalapp/Signal-Android#1749340800</id>
-    <title>https://github.com/signalapp/Signal-Android</title>
-    <link href="https://github.com/signalapp/Signal-Android" />
+    <id>https://github.com/zacharee/InstallWithOptions#1749340800</id>
+    <title>https://github.com/zacharee/InstallWithOptions</title>
+    <link href="https://github.com/zacharee/InstallWithOptions" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A private messenger for Android.</content>
+    <content type="text">Simple-ish app using Shizuku to install APKs on-device with advanced options</content>
   </entry>
   <entry>
-    <id>https://github.com/tailscale/tailscale-android#1749340800</id>
-    <title>https://github.com/tailscale/tailscale-android</title>
-    <link href="https://github.com/tailscale/tailscale-android" />
+    <id>https://github.com/zhanghai/MaterialFiles#1749340800</id>
+    <title>https://github.com/zhanghai/MaterialFiles</title>
+    <link href="https://github.com/zhanghai/MaterialFiles" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Tailscale Android Client</content>
+    <content type="text">Material Design file manager for Android</content>
   </entry>
 </feed>

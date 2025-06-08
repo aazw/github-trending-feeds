@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/apex-enterprise-patterns/fflib-apex-common#1749340800</id>
+    <title>https://github.com/apex-enterprise-patterns/fflib-apex-common</title>
+    <link href="https://github.com/apex-enterprise-patterns/fflib-apex-common" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Common Apex Library supporting Apex Enterprise Patterns and much more!</content>
+  </entry>
 </feed>

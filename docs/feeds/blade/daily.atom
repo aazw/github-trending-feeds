@@ -10,6 +10,20 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/IonelPopJara/moogle#1749340800</id>
+    <title>https://github.com/IonelPopJara/moogle</title>
+    <link href="https://github.com/IonelPopJara/moogle" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">My very own search engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grocy/grocy#1749340800</id>
+    <title>https://github.com/grocy/grocy</title>
+    <link href="https://github.com/grocy/grocy" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home</content>
+  </entry>
+  <entry>
     <id>https://github.com/krayin/laravel-crm#1749340800</id>
     <title>https://github.com/krayin/laravel-crm</title>
     <link href="https://github.com/krayin/laravel-crm" />
@@ -24,11 +38,11 @@
     <content type="text">Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.</content>
   </entry>
   <entry>
-    <id>https://github.com/livewire/flux#1749340800</id>
-    <title>https://github.com/livewire/flux</title>
-    <link href="https://github.com/livewire/flux" />
+    <id>https://github.com/stancl/tenancy-docs#1749340800</id>
+    <title>https://github.com/stancl/tenancy-docs</title>
+    <link href="https://github.com/stancl/tenancy-docs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The official Livewire UI component library</content>
+    <content type="text">stancl/tenancy docs &amp; website</content>
   </entry>
   <entry>
     <id>https://github.com/theihasan/geezap#1749340800</id>

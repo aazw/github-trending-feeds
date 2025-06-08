@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/EttusResearch/uhd#1749340800</id>
-    <title>https://github.com/EttusResearch/uhd</title>
-    <link href="https://github.com/EttusResearch/uhd" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The USRP™ Hardware Driver Repository</content>
-  </entry>
-  <entry>
     <id>https://github.com/The-OpenROAD-Project/OpenROAD#1749340800</id>
     <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
     <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
@@ -29,34 +22,6 @@
     <link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</content>
-  </entry>
-  <entry>
-    <id>https://github.com/YosysHQ/picorv32#1749340800</id>
-    <title>https://github.com/YosysHQ/picorv32</title>
-    <link href="https://github.com/YosysHQ/picorv32" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">PicoRV32 - A Size-Optimized RISC-V CPU</content>
-  </entry>
-  <entry>
-    <id>https://github.com/alexforencich/verilog-ethernet#1749340800</id>
-    <title>https://github.com/alexforencich/verilog-ethernet</title>
-    <link href="https://github.com/alexforencich/verilog-ethernet" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Verilog Ethernet components for FPGA implementation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/alexforencich/verilog-pcie#1749340800</id>
-    <title>https://github.com/alexforencich/verilog-pcie</title>
-    <link href="https://github.com/alexforencich/verilog-pcie" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Verilog PCI express components</content>
-  </entry>
-  <entry>
-    <id>https://github.com/analogdevicesinc/hdl#1749340800</id>
-    <title>https://github.com/analogdevicesinc/hdl</title>
-    <link href="https://github.com/analogdevicesinc/hdl" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">HDL libraries and projects</content>
   </entry>
   <entry>
     <id>https://github.com/corundum/corundum#1749340800</id>

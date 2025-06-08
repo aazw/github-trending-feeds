@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/luarocks/luarocks-site#1749340800</id>
-    <title>https://github.com/luarocks/luarocks-site</title>
-    <link href="https://github.com/luarocks/luarocks-site" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">LuaRocks website and module host</content>
-  </entry>
 </feed>

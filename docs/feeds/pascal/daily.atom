@@ -17,11 +17,11 @@
     <content type="text">A GUI for ExifTool</content>
   </entry>
   <entry>
-    <id>https://github.com/HeidiSQL/HeidiSQL#1749340800</id>
-    <title>https://github.com/HeidiSQL/HeidiSQL</title>
-    <link href="https://github.com/HeidiSQL/HeidiSQL" />
+    <id>https://github.com/HashLoad/horse#1749340800</id>
+    <title>https://github.com/HashLoad/horse</title>
+    <link href="https://github.com/HashLoad/horse" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi</content>
+    <content type="text">Fast, opinionated, minimalist web framework for Delphi</content>
   </entry>
   <entry>
     <id>https://github.com/Runixe786/MD3-Windows#1749340800</id>
@@ -29,6 +29,41 @@
     <link href="https://github.com/Runixe786/MD3-Windows" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Material you widgets for your windows desktop, adaptable with wallpaper colors with both light &amp; dark modes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TES5Edit/TES5Edit#1749340800</id>
+    <title>https://github.com/TES5Edit/TES5Edit</title>
+    <link href="https://github.com/TES5Edit/TES5Edit" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/UltraStar-Deluxe/USDX#1749340800</id>
+    <title>https://github.com/UltraStar-Deluxe/USDX</title>
+    <link href="https://github.com/UltraStar-Deluxe/USDX" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benjamimgois/goverlay#1749340800</id>
+    <title>https://github.com/benjamimgois/goverlay</title>
+    <link href="https://github.com/benjamimgois/goverlay" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cheat-engine/cheat-engine#1749340800</id>
+    <title>https://github.com/cheat-engine/cheat-engine</title>
+    <link href="https://github.com/cheat-engine/cheat-engine" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Cheat Engine. A development environment focused on modding</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doublecmd/doublecmd#1749340800</id>
+    <title>https://github.com/doublecmd/doublecmd</title>
+    <link href="https://github.com/doublecmd/doublecmd" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Double Commander is a free cross platform open source file manager with two panels side by side.</content>
   </entry>
   <entry>
     <id>https://github.com/jrsoftware/issrc#1749340800</id>
@@ -45,6 +80,13 @@
     <content type="text">A firmware Flash tool for nodemcu</content>
   </entry>
   <entry>
+    <id>https://github.com/nofeletru/UsbAsp-flash#1749340800</id>
+    <title>https://github.com/nofeletru/UsbAsp-flash</title>
+    <link href="https://github.com/nofeletru/UsbAsp-flash" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.</content>
+  </entry>
+  <entry>
     <id>https://github.com/red-prig/fpPS4#1749340800</id>
     <title>https://github.com/red-prig/fpPS4</title>
     <link href="https://github.com/red-prig/fpPS4" />
@@ -52,10 +94,17 @@
     <content type="text">PS4 compatibility layer (emulator) on Free Pascal</content>
   </entry>
   <entry>
-    <id>https://github.com/stascorp/rdpwrap#1749340800</id>
-    <title>https://github.com/stascorp/rdpwrap</title>
-    <link href="https://github.com/stascorp/rdpwrap" />
+    <id>https://github.com/salvadordf/CEF4Delphi#1749340800</id>
+    <title>https://github.com/salvadordf/CEF4Delphi</title>
+    <link href="https://github.com/salvadordf/CEF4Delphi" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">RDP Wrapper Library</content>
+    <content type="text">CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/transmission-remote-gui/transgui#1749340800</id>
+    <title>https://github.com/transmission-remote-gui/transgui</title>
+    <link href="https://github.com/transmission-remote-gui/transgui" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.</content>
   </entry>
 </feed>

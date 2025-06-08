@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Azure/azure-policy#1749340800</id>
-    <title>https://github.com/Azure/azure-policy</title>
-    <link href="https://github.com/Azure/azure-policy" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Repository for Azure Resource Policy built-in definitions and samples</content>
-  </entry>
-  <entry>
     <id>https://github.com/Checkmarx/kics#1749340800</id>
     <title>https://github.com/Checkmarx/kics</title>
     <link href="https://github.com/Checkmarx/kics" />
@@ -29,6 +22,13 @@
     <link href="https://github.com/aquasecurity/trivy-checks" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/open-policy-agent/gatekeeper-library#1749340800</id>
+    <title>https://github.com/open-policy-agent/gatekeeper-library</title>
+    <link href="https://github.com/open-policy-agent/gatekeeper-library" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">📚 The OPA Gatekeeper policy library</content>
   </entry>
   <entry>
     <id>https://github.com/open-telemetry/semantic-conventions#1749340800</id>

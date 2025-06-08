@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/github/dmca#1749340800</id>
+    <title>https://github.com/github/dmca</title>
+    <link href="https://github.com/github/dmca" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at</content>
+  </entry>
 </feed>

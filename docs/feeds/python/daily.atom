@@ -10,11 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/RVC-Boss/GPT-SoVITS#1749340800</id>
-    <title>https://github.com/RVC-Boss/GPT-SoVITS</title>
-    <link href="https://github.com/RVC-Boss/GPT-SoVITS" />
+    <id>https://github.com/NanmiCoder/MediaCrawler#1749340800</id>
+    <title>https://github.com/NanmiCoder/MediaCrawler</title>
+    <link href="https://github.com/NanmiCoder/MediaCrawler" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</content>
+    <content type="text">小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenBB-finance/OpenBB#1749340800</id>
+    <title>https://github.com/OpenBB-finance/OpenBB</title>
+    <link href="https://github.com/OpenBB-finance/OpenBB" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Investment Research for Everyone, Everywhere.</content>
   </entry>
   <entry>
     <id>https://github.com/Shubhamsaboo/awesome-llm-apps#1749340800</id>
@@ -22,6 +29,20 @@
     <link href="https://github.com/Shubhamsaboo/awesome-llm-apps" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SylphAI-Inc/AdalFlow#1749340800</id>
+    <title>https://github.com/SylphAI-Inc/AdalFlow</title>
+    <link href="https://github.com/SylphAI-Inc/AdalFlow" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">AdalFlow: The library to build &amp; auto-optimize LLM applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bkerler/mtkclient#1749340800</id>
+    <title>https://github.com/bkerler/mtkclient</title>
+    <link href="https://github.com/bkerler/mtkclient" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">MTK reverse engineering and flash tool</content>
   </entry>
   <entry>
     <id>https://github.com/coleam00/Archon#1749340800</id>
@@ -38,34 +59,6 @@
     <content type="text">Building blocks for rapid development of GenAI applications</content>
   </entry>
   <entry>
-    <id>https://github.com/dreammis/social-auto-upload#1749340800</id>
-    <title>https://github.com/dreammis/social-auto-upload</title>
-    <link href="https://github.com/dreammis/social-auto-upload" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili</content>
-  </entry>
-  <entry>
-    <id>https://github.com/haris-musa/excel-mcp-server#1749340800</id>
-    <title>https://github.com/haris-musa/excel-mcp-server</title>
-    <link href="https://github.com/haris-musa/excel-mcp-server" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Model Context Protocol server for Excel file manipulation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/huggingface/lerobot#1749340800</id>
-    <title>https://github.com/huggingface/lerobot</title>
-    <link href="https://github.com/huggingface/lerobot" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</content>
-  </entry>
-  <entry>
-    <id>https://github.com/infiniflow/ragflow#1749340800</id>
-    <title>https://github.com/infiniflow/ragflow</title>
-    <link href="https://github.com/infiniflow/ragflow" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.</content>
-  </entry>
-  <entry>
     <id>https://github.com/jwohlwend/boltz#1749340800</id>
     <title>https://github.com/jwohlwend/boltz</title>
     <link href="https://github.com/jwohlwend/boltz" />
@@ -73,11 +66,11 @@
     <content type="text">Official repository for the Boltz biomolecular interaction models</content>
   </entry>
   <entry>
-    <id>https://github.com/karpathy/nanoGPT#1749340800</id>
-    <title>https://github.com/karpathy/nanoGPT</title>
-    <link href="https://github.com/karpathy/nanoGPT" />
+    <id>https://github.com/langchain-ai/langmem#1749340800</id>
+    <title>https://github.com/langchain-ai/langmem</title>
+    <link href="https://github.com/langchain-ai/langmem" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The simplest, fastest repository for training/finetuning medium-sized GPTs.</content>
+    <content type="text" />
   </entry>
   <entry>
     <id>https://github.com/lastmile-ai/mcp-agent#1749340800</id>
@@ -87,20 +80,6 @@
     <content type="text">Build effective agents using Model Context Protocol and simple workflow patterns</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/autogen#1749340800</id>
-    <title>https://github.com/microsoft/autogen</title>
-    <link href="https://github.com/microsoft/autogen" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour</content>
-  </entry>
-  <entry>
-    <id>https://github.com/onnx/onnx#1749340800</id>
-    <title>https://github.com/onnx/onnx</title>
-    <link href="https://github.com/onnx/onnx" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Open standard for machine learning interoperability</content>
-  </entry>
-  <entry>
     <id>https://github.com/public-apis/public-apis#1749340800</id>
     <title>https://github.com/public-apis/public-apis</title>
     <link href="https://github.com/public-apis/public-apis" />
@@ -108,11 +87,11 @@
     <content type="text">A collective list of free APIs</content>
   </entry>
   <entry>
-    <id>https://github.com/scrapy/scrapy#1749340800</id>
-    <title>https://github.com/scrapy/scrapy</title>
-    <link href="https://github.com/scrapy/scrapy" />
+    <id>https://github.com/r-three/common-pile#1749340800</id>
+    <title>https://github.com/r-three/common-pile</title>
+    <link href="https://github.com/r-three/common-pile" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Scrapy, a fast high-level web crawling &amp; scraping framework for Python.</content>
+    <content type="text">Code for collecting, processing, and preparing datasets for the Common Pile</content>
   </entry>
   <entry>
     <id>https://github.com/stanfordnlp/dspy#1749340800</id>
@@ -136,10 +115,10 @@
     <content type="text">An opinionated list of awesome Python frameworks, libraries, software and resources.</content>
   </entry>
   <entry>
-    <id>https://github.com/xming521/WeClone#1749340800</id>
-    <title>https://github.com/xming521/WeClone</title>
-    <link href="https://github.com/xming521/WeClone" />
+    <id>https://github.com/yt-dlp/yt-dlp#1749340800</id>
+    <title>https://github.com/yt-dlp/yt-dlp</title>
+    <link href="https://github.com/yt-dlp/yt-dlp" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案</content>
+    <content type="text">A feature-rich command-line audio/video downloader</content>
   </entry>
 </feed>

@@ -10,6 +10,27 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/AveYo/MediaCreationTool.bat#1749340800</id>
+    <title>https://github.com/AveYo/MediaCreationTool.bat</title>
+    <link href="https://github.com/AveYo/MediaCreationTool.bat" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-cosmos-db-emulator-docker#1749340800</id>
+    <title>https://github.com/Azure/azure-cosmos-db-emulator-docker</title>
+    <link href="https://github.com/Azure/azure-cosmos-db-emulator-docker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">This repo serves as hub for managing issues, gathering feedback, and having discussions regarding the Cosmos DB Emulator Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Coporton/IDM-Activation-Script#1749340800</id>
+    <title>https://github.com/Coporton/IDM-Activation-Script</title>
+    <link href="https://github.com/Coporton/IDM-Activation-Script" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">An open-source tool to activate and reset the trial of Internet Download Manager.</content>
+  </entry>
+  <entry>
     <id>https://github.com/Flowseal/zapret-discord-youtube#1749340800</id>
     <title>https://github.com/Flowseal/zapret-discord-youtube</title>
     <link href="https://github.com/Flowseal/zapret-discord-youtube" />
@@ -17,11 +38,11 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/GreatScottyMac/roo-code-memory-bank#1749340800</id>
-    <title>https://github.com/GreatScottyMac/roo-code-memory-bank</title>
-    <link href="https://github.com/GreatScottyMac/roo-code-memory-bank" />
+    <id>https://github.com/RetroBat-Official/retrobat-setup#1749340800</id>
+    <title>https://github.com/RetroBat-Official/retrobat-setup</title>
+    <link href="https://github.com/RetroBat-Official/retrobat-setup" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🧠 Roo Code Memory Bank: Seamless project context in Roo Code. No more repetition, just continuous development!</content>
+    <content type="text">Configure and build the RetroBat Setup</content>
   </entry>
   <entry>
     <id>https://github.com/RockBlack-VPN/ip-address#1749340800</id>
@@ -31,11 +52,11 @@
     <content type="text">ip address - Youtube, Instagtam, Twitter, Netflix</content>
   </entry>
   <entry>
-    <id>https://github.com/cakama3a/Polling#1749340800</id>
-    <title>https://github.com/cakama3a/Polling</title>
-    <link href="https://github.com/cakama3a/Polling" />
+    <id>https://github.com/VirtualHotBar/HotPEToolBox#1749340800</id>
+    <title>https://github.com/VirtualHotBar/HotPEToolBox</title>
+    <link href="https://github.com/VirtualHotBar/HotPEToolBox" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Gamepads latency and polling rate tester (XinputTest analog)</content>
+    <content type="text">一个纯净、强大、优雅的WinPE</content>
   </entry>
   <entry>
     <id>https://github.com/enhorse/java-interview#1749340800</id>
@@ -43,5 +64,19 @@
     <link href="https://github.com/enhorse/java-interview" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Вопросы и ответы к интервью Java разработчика</content>
+  </entry>
+  <entry>
+    <id>https://github.com/realpython/python-guide#1749340800</id>
+    <title>https://github.com/realpython/python-guide</title>
+    <link href="https://github.com/realpython/python-guide" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Python best practices guidebook, written for humans.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shorthorn-project/One-Core-API-Binaries#1749340800</id>
+    <title>https://github.com/shorthorn-project/One-Core-API-Binaries</title>
+    <link href="https://github.com/shorthorn-project/One-Core-API-Binaries" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
   </entry>
 </feed>

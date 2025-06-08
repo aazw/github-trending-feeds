@@ -10,6 +10,20 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/AdguardTeam/AdGuardSDNSFilter#1749340800</id>
+    <title>https://github.com/AdguardTeam/AdGuardSDNSFilter</title>
+    <link href="https://github.com/AdguardTeam/AdGuardSDNSFilter" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">AdGuard DNS filter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdguardFilters#1749340800</id>
+    <title>https://github.com/AdguardTeam/AdguardFilters</title>
+    <link href="https://github.com/AdguardTeam/AdguardFilters" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">AdGuard Content Blocking Filters</content>
+  </entry>
+  <entry>
     <id>https://github.com/AdguardTeam/FiltersRegistry#1749340800</id>
     <title>https://github.com/AdguardTeam/FiltersRegistry</title>
     <link href="https://github.com/AdguardTeam/FiltersRegistry" />

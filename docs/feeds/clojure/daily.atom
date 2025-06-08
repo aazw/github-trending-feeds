@@ -17,6 +17,13 @@
     <content type="text">A test runner for clojure.test</content>
   </entry>
   <entry>
+    <id>https://github.com/jepsen-io/jepsen#1749340800</id>
+    <title>https://github.com/jepsen-io/jepsen</title>
+    <link href="https://github.com/jepsen-io/jepsen" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A framework for distributed systems verification, with fault injection</content>
+  </entry>
+  <entry>
     <id>https://github.com/logseq/logseq#1749340800</id>
     <title>https://github.com/logseq/logseq</title>
     <link href="https://github.com/logseq/logseq" />
@@ -38,10 +45,24 @@
     <content type="text">Library for creating matcher combinator to compare nested data structures</content>
   </entry>
   <entry>
+    <id>https://github.com/nubank/state-flow#1749340800</id>
+    <title>https://github.com/nubank/state-flow</title>
+    <link href="https://github.com/nubank/state-flow" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Integration testing framework using a state monad in the backend for building and composing flows</content>
+  </entry>
+  <entry>
     <id>https://github.com/penpot/penpot#1749340800</id>
     <title>https://github.com/penpot/penpot</title>
     <link href="https://github.com/penpot/penpot" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tonsky/FiraCode#1749340800</id>
+    <title>https://github.com/tonsky/FiraCode</title>
+    <link href="https://github.com/tonsky/FiraCode" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Free monospaced font with programming ligatures</content>
   </entry>
 </feed>

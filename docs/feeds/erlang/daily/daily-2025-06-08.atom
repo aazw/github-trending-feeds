@@ -10,18 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/apache/couchdb#1749340800</id>
-    <title>https://github.com/apache/couchdb</title>
-    <link href="https://github.com/apache/couchdb" />
+    <id>https://github.com/benoitc/hackney#1749340800</id>
+    <title>https://github.com/benoitc/hackney</title>
+    <link href="https://github.com/benoitc/hackney" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+    <content type="text">simple HTTP client in Erlang</content>
   </entry>
   <entry>
-    <id>https://github.com/emqx/emqx#1749340800</id>
-    <title>https://github.com/emqx/emqx</title>
-    <link href="https://github.com/emqx/emqx" />
+    <id>https://github.com/blt/port_compiler#1749340800</id>
+    <title>https://github.com/blt/port_compiler</title>
+    <link href="https://github.com/blt/port_compiler" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</content>
+    <content type="text">A rebar3 port compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/couchbase/couchdb#1749340800</id>
+    <title>https://github.com/couchbase/couchdb</title>
+    <link href="https://github.com/couchbase/couchdb" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">CouchDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dgiot/dgiot#1749340800</id>
+    <title>https://github.com/dgiot/dgiot</title>
+    <link href="https://github.com/dgiot/dgiot" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935</content>
   </entry>
   <entry>
     <id>https://github.com/epgsql/epgsql#1749340800</id>
@@ -31,13 +45,6 @@
     <content type="text">Erlang PostgreSQL client library.</content>
   </entry>
   <entry>
-    <id>https://github.com/erlang-lager/lager#1749340800</id>
-    <title>https://github.com/erlang-lager/lager</title>
-    <link href="https://github.com/erlang-lager/lager" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A logging framework for Erlang/OTP</content>
-  </entry>
-  <entry>
     <id>https://github.com/erlang-ls/erlang_ls#1749340800</id>
     <title>https://github.com/erlang-ls/erlang_ls</title>
     <link href="https://github.com/erlang-ls/erlang_ls" />
@@ -45,39 +52,25 @@
     <content type="text">The Erlang Language Server</content>
   </entry>
   <entry>
-    <id>https://github.com/erlsci/iso8601#1749340800</id>
-    <title>https://github.com/erlsci/iso8601</title>
-    <link href="https://github.com/erlsci/iso8601" />
+    <id>https://github.com/erlang/otp#1749340800</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An ISO 8601 date formating and parsing library for Erlang</content>
+    <content type="text">Erlang/OTP</content>
   </entry>
   <entry>
-    <id>https://github.com/for-GET/jesse#1749340800</id>
-    <title>https://github.com/for-GET/jesse</title>
-    <link href="https://github.com/for-GET/jesse" />
+    <id>https://github.com/erlang/rebar3#1749340800</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
   </entry>
   <entry>
-    <id>https://github.com/inaka/cowboy_swagger#1749340800</id>
-    <title>https://github.com/inaka/cowboy_swagger</title>
-    <link href="https://github.com/inaka/cowboy_swagger" />
+    <id>https://github.com/erlydtl/erlydtl#1749340800</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Swagger integration for Cowboy (built on trails)</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jcomellas/getopt#1749340800</id>
-    <title>https://github.com/jcomellas/getopt</title>
-    <link href="https://github.com/jcomellas/getopt" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Erlang module to parse command line arguments using the GNU getopt syntax</content>
-  </entry>
-  <entry>
-    <id>https://github.com/josefs/Gradualizer#1749340800</id>
-    <title>https://github.com/josefs/Gradualizer</title>
-    <link href="https://github.com/josefs/Gradualizer" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Gradual type system for Erlang</content>
+    <content type="text">Django templates for Erlang</content>
   </entry>
   <entry>
     <id>https://github.com/mochi/mochiweb#1749340800</id>
@@ -87,11 +80,25 @@
     <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
   </entry>
   <entry>
-    <id>https://github.com/ninenines/gun#1749340800</id>
-    <title>https://github.com/ninenines/gun</title>
-    <link href="https://github.com/ninenines/gun" />
+    <id>https://github.com/ninenines/cowboy#1749340800</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1749340800</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1749340800</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
   </entry>
   <entry>
     <id>https://github.com/potatosalad/erlang-jose#1749340800</id>
@@ -101,11 +108,11 @@
     <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
   </entry>
   <entry>
-    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1749340800</id>
-    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
-    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <id>https://github.com/rustyio/sync#1749340800</id>
+    <title>https://github.com/rustyio/sync</title>
+    <link href="https://github.com/rustyio/sync" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Delayed Messaging for RabbitMQ</content>
+    <content type="text">On-the-fly recompiling and reloading in Erlang. Code without friction.</content>
   </entry>
   <entry>
     <id>https://github.com/seth/ej#1749340800</id>
@@ -113,5 +120,19 @@
     <link href="https://github.com/seth/ej" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Helper module for working with Erlang terms representing JSON</content>
+  </entry>
+  <entry>
+    <id>https://github.com/talentdeficit/jsx#1749340800</id>
+    <title>https://github.com/talentdeficit/jsx</title>
+    <link href="https://github.com/talentdeficit/jsx" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">an erlang application for consuming, producing and manipulating json. inspired by yajl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1749340800</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
   </entry>
 </feed>

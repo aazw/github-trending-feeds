@@ -17,53 +17,18 @@
     <content type="text">Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme</content>
   </entry>
   <entry>
-    <id>https://github.com/JustAdumbPrsn/Zen-Nebula#1749340800</id>
-    <title>https://github.com/JustAdumbPrsn/Zen-Nebula</title>
-    <link href="https://github.com/JustAdumbPrsn/Zen-Nebula" />
+    <id>https://github.com/Zproger/bspwm-dotfiles#1749340800</id>
+    <title>https://github.com/Zproger/bspwm-dotfiles</title>
+    <link href="https://github.com/Zproger/bspwm-dotfiles" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A minimalist Glassmorphism based theme to elevate the UI of Zen browser</content>
+    <content type="text">A minimalistic Arch Linux build that is designed to make your development easier and faster</content>
   </entry>
   <entry>
-    <id>https://github.com/LondheShubham153/tws-portfolio#1749340800</id>
-    <title>https://github.com/LondheShubham153/tws-portfolio</title>
-    <link href="https://github.com/LondheShubham153/tws-portfolio" />
+    <id>https://github.com/devicons/devicon#1749340800</id>
+    <title>https://github.com/devicons/devicon</title>
+    <link href="https://github.com/devicons/devicon" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/McShelby/hugo-theme-relearn#1749340800</id>
-    <title>https://github.com/McShelby/hugo-theme-relearn</title>
-    <link href="https://github.com/McShelby/hugo-theme-relearn" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A theme for Hugo designed for documentation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/PrismLauncher/prismlauncher.org#1749340800</id>
-    <title>https://github.com/PrismLauncher/prismlauncher.org</title>
-    <link href="https://github.com/PrismLauncher/prismlauncher.org" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Prism Launcher website.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/WebStackPage/WebStackPage.github.io#1749340800</id>
-    <title>https://github.com/WebStackPage/WebStackPage.github.io</title>
-    <link href="https://github.com/WebStackPage/WebStackPage.github.io" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">❤️静态响应式网址导航网站 - webstack.cc</content>
-  </entry>
-  <entry>
-    <id>https://github.com/bradtraversy/50projects50days#1749340800</id>
-    <title>https://github.com/bradtraversy/50projects50days</title>
-    <link href="https://github.com/bradtraversy/50projects50days" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">50+ mini web projects using HTML, CSS &amp; JS</content>
-  </entry>
-  <entry>
-    <id>https://github.com/isocpp/CppCoreGuidelines#1749340800</id>
-    <title>https://github.com/isocpp/CppCoreGuidelines</title>
-    <link href="https://github.com/isocpp/CppCoreGuidelines" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</content>
+    <content type="text">Set of icons representing programming languages, designing &amp; development tools</content>
   </entry>
   <entry>
     <id>https://github.com/jgthms/bulma#1749340800</id>
@@ -73,31 +38,52 @@
     <content type="text">Modern CSS framework based on Flexbox</content>
   </entry>
   <entry>
-    <id>https://github.com/jothepro/doxygen-awesome-css#1749340800</id>
-    <title>https://github.com/jothepro/doxygen-awesome-css</title>
-    <link href="https://github.com/jothepro/doxygen-awesome-css" />
+    <id>https://github.com/opera-gaming/gxmods#1749340800</id>
+    <title>https://github.com/opera-gaming/gxmods</title>
+    <link href="https://github.com/opera-gaming/gxmods" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Custom CSS theme for doxygen html-documentation with lots of customization parameters.</content>
+    <content type="text">Documentation for GX mods</content>
   </entry>
   <entry>
-    <id>https://github.com/sameerasw/my-internet#1749340800</id>
-    <title>https://github.com/sameerasw/my-internet</title>
-    <link href="https://github.com/sameerasw/my-internet" />
+    <id>https://github.com/primefaces/primereact#1749340800</id>
+    <title>https://github.com/primefaces/primereact</title>
+    <link href="https://github.com/primefaces/primereact" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on</content>
+    <content type="text">The Most Complete React UI Component Library</content>
   </entry>
   <entry>
-    <id>https://github.com/spring-projects/spring-petclinic#1749340800</id>
-    <title>https://github.com/spring-projects/spring-petclinic</title>
-    <link href="https://github.com/spring-projects/spring-petclinic" />
+    <id>https://github.com/refact0r/midnight-discord#1749340800</id>
+    <title>https://github.com/refact0r/midnight-discord</title>
+    <link href="https://github.com/refact0r/midnight-discord" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A sample Spring-based application</content>
+    <content type="text">a dark, customizable discord theme.</content>
   </entry>
   <entry>
-    <id>https://github.com/yakimka/python_interview_questions#1749340800</id>
-    <title>https://github.com/yakimka/python_interview_questions</title>
-    <link href="https://github.com/yakimka/python_interview_questions" />
+    <id>https://github.com/rime/home#1749340800</id>
+    <title>https://github.com/rime/home</title>
+    <link href="https://github.com/rime/home" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Вопросы для подготовки к интервью на позицию Python Developer</content>
+    <content type="text">Rime::Home is home to Rime users and developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spicetify/spicetify-themes#1749340800</id>
+    <title>https://github.com/spicetify/spicetify-themes</title>
+    <link href="https://github.com/spicetify/spicetify-themes" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thewhiteh4t/seeker#1749340800</id>
+    <title>https://github.com/thewhiteh4t/seeker</title>
+    <link href="https://github.com/thewhiteh4t/seeker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Accurately Locate Smartphones using Social Engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/udacity/course-collaboration-travel-plans#1749340800</id>
+    <title>https://github.com/udacity/course-collaboration-travel-plans</title>
+    <link href="https://github.com/udacity/course-collaboration-travel-plans" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
   </entry>
 </feed>

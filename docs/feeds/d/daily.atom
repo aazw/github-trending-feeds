@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Dadoum/anisette-v3-server#1749340800</id>
-    <title>https://github.com/Dadoum/anisette-v3-server</title>
-    <link href="https://github.com/Dadoum/anisette-v3-server" />
+    <id>https://github.com/Dadoum/Sideloader#1749340800</id>
+    <title>https://github.com/Dadoum/Sideloader</title>
+    <link href="https://github.com/Dadoum/Sideloader" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">sidestore's anisette-v3 compatible server</content>
+    <content type="text">Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…</content>
   </entry>
   <entry>
     <id>https://github.com/abraunegg/onedrive#1749340800</id>
@@ -29,6 +29,13 @@
     <link href="https://github.com/dlang/dmd" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">dmd D Programming Language compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dlang/phobos#1749340800</id>
+    <title>https://github.com/dlang/phobos</title>
+    <link href="https://github.com/dlang/phobos" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The standard library of the D programming language</content>
   </entry>
   <entry>
     <id>https://github.com/ldc-developers/ldc#1749340800</id>

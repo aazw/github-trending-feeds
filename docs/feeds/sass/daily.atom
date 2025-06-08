@@ -9,18 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/pradyunsg/furo#1749340800</id>
-    <title>https://github.com/pradyunsg/furo</title>
-    <link href="https://github.com/pradyunsg/furo" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A clean customizable documentation theme for Sphinx</content>
-  </entry>
-  <entry>
-    <id>https://github.com/qgis/QGIS-Website#1749340800</id>
-    <title>https://github.com/qgis/QGIS-Website</title>
-    <link href="https://github.com/qgis/QGIS-Website" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Official Website for QGIS.org</content>
-  </entry>
 </feed>

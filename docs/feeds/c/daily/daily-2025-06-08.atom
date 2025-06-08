@@ -10,39 +10,53 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/DPDK/dpdk#1749340800</id>
-    <title>https://github.com/DPDK/dpdk</title>
-    <link href="https://github.com/DPDK/dpdk" />
+    <id>https://github.com/FreeRTOS/FreeRTOS-Kernel#1749340800</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS-Kernel</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS-Kernel" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Data Plane Development Kit</content>
+    <content type="text">FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</content>
   </entry>
   <entry>
-    <id>https://github.com/Mbed-TLS/mbedtls#1749340800</id>
-    <title>https://github.com/Mbed-TLS/mbedtls</title>
-    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <id>https://github.com/HandBrake/HandBrake#1749340800</id>
+    <title>https://github.com/HandBrake/HandBrake</title>
+    <link href="https://github.com/HandBrake/HandBrake" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+    <content type="text">HandBrake's main development repository</content>
   </entry>
   <entry>
-    <id>https://github.com/Tencent/puerts#1749340800</id>
-    <title>https://github.com/Tencent/puerts</title>
-    <link href="https://github.com/Tencent/puerts" />
+    <id>https://github.com/Klipper3d/klipper#1749340800</id>
+    <title>https://github.com/Klipper3d/klipper</title>
+    <link href="https://github.com/Klipper3d/klipper" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.</content>
+    <content type="text">Klipper is a 3d-printer firmware</content>
   </entry>
   <entry>
-    <id>https://github.com/coturn/coturn#1749340800</id>
-    <title>https://github.com/coturn/coturn</title>
-    <link href="https://github.com/coturn/coturn" />
+    <id>https://github.com/TelegramMessenger/Telegram-iOS#1749340800</id>
+    <title>https://github.com/TelegramMessenger/Telegram-iOS</title>
+    <link href="https://github.com/TelegramMessenger/Telegram-iOS" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">coturn TURN server project</content>
+    <content type="text">Telegram-iOS</content>
   </entry>
   <entry>
-    <id>https://github.com/duixcom/Duix.Heygem#1749340800</id>
-    <title>https://github.com/duixcom/Duix.Heygem</title>
-    <link href="https://github.com/duixcom/Duix.Heygem" />
+    <id>https://github.com/UberGuidoZ/Flipper#1749340800</id>
+    <title>https://github.com/UberGuidoZ/Flipper</title>
+    <link href="https://github.com/UberGuidoZ/Flipper" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Playground (and dump) of stuff I make or modify for the Flipper Zero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brunodev85/winlator#1749340800</id>
+    <title>https://github.com/brunodev85/winlator</title>
+    <link href="https://github.com/brunodev85/winlator" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Android application for running Windows applications with Wine and Box86/Box64</content>
+  </entry>
+  <entry>
+    <id>https://github.com/da-luce/astroterm#1749340800</id>
+    <title>https://github.com/da-luce/astroterm</title>
+    <link href="https://github.com/da-luce/astroterm" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐</content>
   </entry>
   <entry>
     <id>https://github.com/espressif/esp-idf#1749340800</id>
@@ -52,81 +66,88 @@
     <content type="text">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</content>
   </entry>
   <entry>
-    <id>https://github.com/immortalwrt/immortalwrt#1749340800</id>
-    <title>https://github.com/immortalwrt/immortalwrt</title>
-    <link href="https://github.com/immortalwrt/immortalwrt" />
+    <id>https://github.com/flipperdevices/flipperzero-firmware#1749340800</id>
+    <title>https://github.com/flipperdevices/flipperzero-firmware</title>
+    <link href="https://github.com/flipperdevices/flipperzero-firmware" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An opensource OpenWrt variant for mainland China users.</content>
+    <content type="text">Flipper Zero firmware source code</content>
   </entry>
   <entry>
-    <id>https://github.com/iovisor/bcc#1749340800</id>
-    <title>https://github.com/iovisor/bcc</title>
-    <link href="https://github.com/iovisor/bcc" />
+    <id>https://github.com/ish-app/ish#1749340800</id>
+    <title>https://github.com/ish-app/ish</title>
+    <link href="https://github.com/ish-app/ish" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</content>
+    <content type="text">Linux shell for iOS</content>
   </entry>
   <entry>
-    <id>https://github.com/kingToolbox/WindTerm#1749340800</id>
-    <title>https://github.com/kingToolbox/WindTerm</title>
-    <link href="https://github.com/kingToolbox/WindTerm" />
+    <id>https://github.com/istoreos/istoreos#1749340800</id>
+    <title>https://github.com/istoreos/istoreos</title>
+    <link href="https://github.com/istoreos/istoreos" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</content>
+    <content type="text">提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）</content>
   </entry>
   <entry>
-    <id>https://github.com/littlefs-project/littlefs#1749340800</id>
-    <title>https://github.com/littlefs-project/littlefs</title>
-    <link href="https://github.com/littlefs-project/littlefs" />
+    <id>https://github.com/karlstav/cava#1749340800</id>
+    <title>https://github.com/karlstav/cava</title>
+    <link href="https://github.com/karlstav/cava" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A little fail-safe filesystem designed for microcontrollers</content>
+    <content type="text">Cross-platform Audio Visualizer</content>
   </entry>
   <entry>
-    <id>https://github.com/lvgl/lvgl#1749340800</id>
-    <title>https://github.com/lvgl/lvgl</title>
-    <link href="https://github.com/lvgl/lvgl" />
+    <id>https://github.com/libretro/RetroArch#1749340800</id>
+    <title>https://github.com/libretro/RetroArch</title>
+    <link href="https://github.com/libretro/RetroArch" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
+    <content type="text">Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</content>
   </entry>
   <entry>
-    <id>https://github.com/lwip-tcpip/lwip#1749340800</id>
-    <title>https://github.com/lwip-tcpip/lwip</title>
-    <link href="https://github.com/lwip-tcpip/lwip" />
+    <id>https://github.com/libsdl-org/SDL#1749340800</id>
+    <title>https://github.com/libsdl-org/SDL</title>
+    <link href="https://github.com/libsdl-org/SDL" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git</content>
+    <content type="text">Simple Directmedia Layer</content>
   </entry>
   <entry>
-    <id>https://github.com/openucx/ucx#1749340800</id>
-    <title>https://github.com/openucx/ucx</title>
-    <link href="https://github.com/openucx/ucx" />
+    <id>https://github.com/mpv-player/mpv#1749340800</id>
+    <title>https://github.com/mpv-player/mpv</title>
+    <link href="https://github.com/mpv-player/mpv" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)</content>
+    <content type="text">🎥 Command line media player</content>
   </entry>
   <entry>
-    <id>https://github.com/pgvector/pgvector#1749340800</id>
-    <title>https://github.com/pgvector/pgvector</title>
-    <link href="https://github.com/pgvector/pgvector" />
+    <id>https://github.com/nicbarker/clay#1749340800</id>
+    <title>https://github.com/nicbarker/clay</title>
+    <link href="https://github.com/nicbarker/clay" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Open-source vector similarity search for Postgres</content>
+    <content type="text">High performance UI layout library in C.</content>
   </entry>
   <entry>
-    <id>https://github.com/redis/redis#1749340800</id>
-    <title>https://github.com/redis/redis</title>
-    <link href="https://github.com/redis/redis" />
+    <id>https://github.com/obsproject/obs-studio#1749340800</id>
+    <title>https://github.com/obsproject/obs-studio</title>
+    <link href="https://github.com/obsproject/obs-studio" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.</content>
+    <content type="text">OBS Studio - Free and open source software for live streaming and screen recording</content>
   </entry>
   <entry>
-    <id>https://github.com/signalwire/freeswitch#1749340800</id>
-    <title>https://github.com/signalwire/freeswitch</title>
-    <link href="https://github.com/signalwire/freeswitch" />
+    <id>https://github.com/ptitSeb/box64#1749340800</id>
+    <title>https://github.com/ptitSeb/box64</title>
+    <link href="https://github.com/ptitSeb/box64" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.</content>
+    <content type="text">Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices</content>
   </entry>
   <entry>
-    <id>https://github.com/sonic-net/sonic-buildimage#1749340800</id>
-    <title>https://github.com/sonic-net/sonic-buildimage</title>
-    <link href="https://github.com/sonic-net/sonic-buildimage" />
+    <id>https://github.com/raspberrypi/pico-examples#1749340800</id>
+    <title>https://github.com/raspberrypi/pico-examples</title>
+    <link href="https://github.com/raspberrypi/pico-examples" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Scripts which perform an installable binary image build for SONiC</content>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/raysan5/raylib#1749340800</id>
+    <title>https://github.com/raysan5/raylib</title>
+    <link href="https://github.com/raysan5/raylib" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A simple and easy-to-use library to enjoy videogames programming</content>
   </entry>
   <entry>
     <id>https://github.com/taosdata/TDengine#1749340800</id>
@@ -136,38 +157,17 @@
     <content type="text">High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios</content>
   </entry>
   <entry>
-    <id>https://github.com/torvalds/linux#1749340800</id>
-    <title>https://github.com/torvalds/linux</title>
-    <link href="https://github.com/torvalds/linux" />
+    <id>https://github.com/u-boot/u-boot#1749340800</id>
+    <title>https://github.com/u-boot/u-boot</title>
+    <link href="https://github.com/u-boot/u-boot" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Linux kernel source tree</content>
+    <content type="text">"Das U-Boot" Source Tree</content>
   </entry>
   <entry>
-    <id>https://github.com/ufrisk/pcileech#1749340800</id>
-    <title>https://github.com/ufrisk/pcileech</title>
-    <link href="https://github.com/ufrisk/pcileech" />
+    <id>https://github.com/xmrig/xmrig#1749340800</id>
+    <title>https://github.com/xmrig/xmrig</title>
+    <link href="https://github.com/xmrig/xmrig" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Direct Memory Access (DMA) Attack Software</content>
-  </entry>
-  <entry>
-    <id>https://github.com/wazuh/wazuh#1749340800</id>
-    <title>https://github.com/wazuh/wazuh</title>
-    <link href="https://github.com/wazuh/wazuh" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/xiph/rnnoise#1749340800</id>
-    <title>https://github.com/xiph/rnnoise</title>
-    <link href="https://github.com/xiph/rnnoise" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Recurrent neural network for audio noise reduction</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zephyrproject-rtos/zephyr#1749340800</id>
-    <title>https://github.com/zephyrproject-rtos/zephyr</title>
-    <link href="https://github.com/zephyrproject-rtos/zephyr" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</content>
+    <content type="text">RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark</content>
   </entry>
 </feed>

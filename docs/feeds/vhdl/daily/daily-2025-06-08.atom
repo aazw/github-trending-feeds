@@ -10,31 +10,10 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Digital-EDA/Digital-IDE#1749340800</id>
-    <title>https://github.com/Digital-EDA/Digital-IDE</title>
-    <link href="https://github.com/Digital-EDA/Digital-IDE" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">All in one vscode plugin for HDL development</content>
-  </entry>
-  <entry>
     <id>https://github.com/OSVVM/OSVVM#1749340800</id>
     <title>https://github.com/OSVVM/OSVVM</title>
     <link href="https://github.com/OSVVM/OSVVM" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...</content>
-  </entry>
-  <entry>
-    <id>https://github.com/VUnit/vunit#1749340800</id>
-    <title>https://github.com/VUnit/vunit</title>
-    <link href="https://github.com/VUnit/vunit" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">VUnit is a unit testing framework for VHDL/SystemVerilog</content>
-  </entry>
-  <entry>
-    <id>https://github.com/ghdl/ghdl#1749340800</id>
-    <title>https://github.com/ghdl/ghdl</title>
-    <link href="https://github.com/ghdl/ghdl" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">VHDL 2008/93/87 simulator</content>
   </entry>
 </feed>

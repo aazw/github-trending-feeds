@@ -10,20 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/MinaProtocol/mina#1749340800</id>
-    <title>https://github.com/MinaProtocol/mina</title>
-    <link href="https://github.com/MinaProtocol/mina" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OCamlPro/owi#1749340800</id>
-    <title>https://github.com/OCamlPro/owi</title>
-    <link href="https://github.com/OCamlPro/owi" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Symbolic execution for Wasm, C, C++, Rust and Zig</content>
-  </entry>
-  <entry>
     <id>https://github.com/astrada/google-drive-ocamlfuse#1749340800</id>
     <title>https://github.com/astrada/google-drive-ocamlfuse</title>
     <link href="https://github.com/astrada/google-drive-ocamlfuse" />
@@ -31,11 +17,18 @@
     <content type="text">FUSE filesystem over Google Drive</content>
   </entry>
   <entry>
-    <id>https://github.com/facebook/flow#1749340800</id>
-    <title>https://github.com/facebook/flow</title>
-    <link href="https://github.com/facebook/flow" />
+    <id>https://github.com/awslabs/s2n-bignum#1749340800</id>
+    <title>https://github.com/awslabs/s2n-bignum</title>
+    <link href="https://github.com/awslabs/s2n-bignum" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Adds static typing to JavaScript to improve developer productivity and code quality.</content>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bcpierce00/unison#1749340800</id>
+    <title>https://github.com/bcpierce00/unison</title>
+    <link href="https://github.com/bcpierce00/unison" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Unison file synchronizer</content>
   </entry>
   <entry>
     <id>https://github.com/facebook/infer#1749340800</id>
@@ -50,13 +43,6 @@
     <link href="https://github.com/ocaml/ocaml" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">The core OCaml system: compilers, runtime system, base libraries</content>
-  </entry>
-  <entry>
-    <id>https://github.com/opengrep/opengrep#1749340800</id>
-    <title>https://github.com/opengrep/opengrep</title>
-    <link href="https://github.com/opengrep/opengrep" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🔎 Static code analysis engine to find security issues in code.</content>
   </entry>
   <entry>
     <id>https://github.com/rocq-prover/rocq#1749340800</id>
@@ -85,5 +71,12 @@
     <link href="https://github.com/semgrep/testo" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Test framework for OCaml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terrateamio/terrateam#1749340800</id>
+    <title>https://github.com/terrateamio/terrateam</title>
+    <link href="https://github.com/terrateamio/terrateam" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.</content>
   </entry>
 </feed>

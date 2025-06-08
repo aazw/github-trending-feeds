@@ -10,17 +10,10 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/scality/metalk8s#1749340800</id>
-    <title>https://github.com/scality/metalk8s</title>
-    <link href="https://github.com/scality/metalk8s" />
+    <id>https://github.com/cisco/ChezScheme#1749340800</id>
+    <title>https://github.com/cisco/ChezScheme</title>
+    <link href="https://github.com/cisco/ChezScheme" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An opinionated Kubernetes distribution with a focus on long-term on-prem deployments</content>
-  </entry>
-  <entry>
-    <id>https://github.com/totvs/tds-vscode#1749340800</id>
-    <title>https://github.com/totvs/tds-vscode</title>
-    <link href="https://github.com/totvs/tds-vscode" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Totvs Developer Studio for vscode</content>
+    <content type="text">Chez Scheme</content>
   </entry>
 </feed>

@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/Xilinx/mlir-aie#1749340800</id>
+    <title>https://github.com/Xilinx/mlir-aie</title>
+    <link href="https://github.com/Xilinx/mlir-aie" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">An MLIR-based toolchain for AMD AI Engine-enabled devices.</content>
+  </entry>
+  <entry>
     <id>https://github.com/facebookexperimental/triton#1749340800</id>
     <title>https://github.com/facebookexperimental/triton</title>
     <link href="https://github.com/facebookexperimental/triton" />
@@ -31,11 +38,11 @@
     <content type="text">Shared Middle-Layer for Triton Compilation</content>
   </entry>
   <entry>
-    <id>https://github.com/tenstorrent/tt-mlir#1749340800</id>
-    <title>https://github.com/tenstorrent/tt-mlir</title>
-    <link href="https://github.com/tenstorrent/tt-mlir" />
+    <id>https://github.com/openxla/stablehlo#1749340800</id>
+    <title>https://github.com/openxla/stablehlo</title>
+    <link href="https://github.com/openxla/stablehlo" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Tenstorrent MLIR compiler</content>
+    <content type="text">Backward compatible ML compute opset inspired by HLO/MHLO</content>
   </entry>
   <entry>
     <id>https://github.com/triton-lang/triton#1749340800</id>

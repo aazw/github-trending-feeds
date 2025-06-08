@@ -17,20 +17,6 @@
     <content type="text">Helm charts for Kong</content>
   </entry>
   <entry>
-    <id>https://github.com/amzn/selling-partner-api-models#1749340800</id>
-    <title>https://github.com/amzn/selling-partner-api-models</title>
-    <link href="https://github.com/amzn/selling-partner-api-models" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/argoproj/argo-helm#1749340800</id>
-    <title>https://github.com/argoproj/argo-helm</title>
-    <link href="https://github.com/argoproj/argo-helm" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">ArgoProj Helm Charts</content>
-  </entry>
-  <entry>
     <id>https://github.com/aws/eks-charts#1749340800</id>
     <title>https://github.com/aws/eks-charts</title>
     <link href="https://github.com/aws/eks-charts" />
@@ -38,67 +24,11 @@
     <content type="text">Amazon EKS Helm chart repository</content>
   </entry>
   <entry>
-    <id>https://github.com/codecentric/helm-charts#1749340800</id>
-    <title>https://github.com/codecentric/helm-charts</title>
-    <link href="https://github.com/codecentric/helm-charts" />
+    <id>https://github.com/jaegertracing/helm-charts#1749340800</id>
+    <title>https://github.com/jaegertracing/helm-charts</title>
+    <link href="https://github.com/jaegertracing/helm-charts" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A curated set of Helm charts brought to you by codecentric</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fluent/helm-charts#1749340800</id>
-    <title>https://github.com/fluent/helm-charts</title>
-    <link href="https://github.com/fluent/helm-charts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Helm Charts for Fluentd and Fluent Bit</content>
-  </entry>
-  <entry>
-    <id>https://github.com/gimlet-io/onechart#1749340800</id>
-    <title>https://github.com/gimlet-io/onechart</title>
-    <link href="https://github.com/gimlet-io/onechart" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A generic Helm chart for your application deployments</content>
-  </entry>
-  <entry>
-    <id>https://github.com/goharbor/harbor-helm#1749340800</id>
-    <title>https://github.com/goharbor/harbor-helm</title>
-    <link href="https://github.com/goharbor/harbor-helm" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The helm chart to deploy Harbor</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jenkinsci/helm-charts#1749340800</id>
-    <title>https://github.com/jenkinsci/helm-charts</title>
-    <link href="https://github.com/jenkinsci/helm-charts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Jenkins helm charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kedacore/charts#1749340800</id>
-    <title>https://github.com/kedacore/charts</title>
-    <link href="https://github.com/kedacore/charts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Helm charts for KEDA</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kubecost/cost-analyzer-helm-chart#1749340800</id>
-    <title>https://github.com/kubecost/cost-analyzer-helm-chart</title>
-    <link href="https://github.com/kubecost/cost-analyzer-helm-chart" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Kubecost helm chart</content>
-  </entry>
-  <entry>
-    <id>https://github.com/prometheus-community/helm-charts#1749340800</id>
-    <title>https://github.com/prometheus-community/helm-charts</title>
-    <link href="https://github.com/prometheus-community/helm-charts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Prometheus community Helm charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/swagger-api/swagger-codegen#1749340800</id>
-    <title>https://github.com/swagger-api/swagger-codegen</title>
-    <link href="https://github.com/swagger-api/swagger-codegen" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.</content>
+    <content type="text">Helm Charts for Jaeger backend</content>
   </entry>
   <entry>
     <id>https://github.com/temporalio/helm-charts#1749340800</id>
@@ -106,12 +36,5 @@
     <link href="https://github.com/temporalio/helm-charts" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Temporal Helm charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/twuni/docker-registry.helm#1749340800</id>
-    <title>https://github.com/twuni/docker-registry.helm</title>
-    <link href="https://github.com/twuni/docker-registry.helm" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Helm chart for a Docker registry. Successor to stable/docker-registry chart.</content>
   </entry>
 </feed>

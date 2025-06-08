@@ -10,11 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/KomiMoe/Arkari#1749340800</id>
-    <title>https://github.com/KomiMoe/Arkari</title>
-    <link href="https://github.com/KomiMoe/Arkari" />
+    <id>https://github.com/EnzymeAD/Enzyme#1749340800</id>
+    <title>https://github.com/EnzymeAD/Enzyme</title>
+    <link href="https://github.com/EnzymeAD/Enzyme" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Yet another llvm based obfuscator based on goron.</content>
+    <content type="text">High-performance automatic differentiation of LLVM and MLIR.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KhronosGroup/SPIRV-LLVM-Translator#1749340800</id>
+    <title>https://github.com/KhronosGroup/SPIRV-LLVM-Translator</title>
+    <link href="https://github.com/KhronosGroup/SPIRV-LLVM-Translator" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A tool and a library for bi-directional translation between SPIR-V and LLVM IR</content>
   </entry>
   <entry>
     <id>https://github.com/arm/arm-toolchain#1749340800</id>

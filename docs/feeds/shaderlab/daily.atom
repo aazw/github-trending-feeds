@@ -10,6 +10,20 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/lilxyzw/lilToon#1749340800</id>
+    <title>https://github.com/lilxyzw/lilToon</title>
+    <link href="https://github.com/lilxyzw/lilToon" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Feature-rich shaders for avatars</content>
+  </entry>
+  <entry>
+    <id>https://github.com/poiyomi/PoiyomiToonShader#1749340800</id>
+    <title>https://github.com/poiyomi/PoiyomiToonShader</title>
+    <link href="https://github.com/poiyomi/PoiyomiToonShader" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A feature rich toon shader for unity and VR Chat</content>
+  </entry>
+  <entry>
     <id>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project#1749340800</id>
     <title>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project</title>
     <link href="https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project" />

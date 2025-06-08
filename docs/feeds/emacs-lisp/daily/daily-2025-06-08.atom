@@ -10,25 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/MatthewZMD/aidermacs#1749340800</id>
-    <title>https://github.com/MatthewZMD/aidermacs</title>
-    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <id>https://github.com/Fuco1/dired-hacks#1749340800</id>
+    <title>https://github.com/Fuco1/dired-hacks</title>
+    <link href="https://github.com/Fuco1/dired-hacks" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AI Pair Programming in Emacs with Aider</content>
+    <content type="text">Collection of useful dired additions</content>
   </entry>
   <entry>
-    <id>https://github.com/bbatsov/prelude#1749340800</id>
-    <title>https://github.com/bbatsov/prelude</title>
-    <link href="https://github.com/bbatsov/prelude" />
+    <id>https://github.com/Wilfred/helpful#1749340800</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.</content>
+    <content type="text">A better Emacs *help* buffer</content>
   </entry>
   <entry>
-    <id>https://github.com/copilot-emacs/copilot.el#1749340800</id>
-    <title>https://github.com/copilot-emacs/copilot.el</title>
-    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <id>https://github.com/akermu/emacs-libvterm#1749340800</id>
+    <title>https://github.com/akermu/emacs-libvterm</title>
+    <link href="https://github.com/akermu/emacs-libvterm" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+    <content type="text">Emacs libvterm integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1749340800</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
   </entry>
   <entry>
     <id>https://github.com/doomemacs/doomemacs#1749340800</id>
@@ -38,18 +45,18 @@
     <content type="text">An Emacs framework for the stubborn martian hacker</content>
   </entry>
   <entry>
-    <id>https://github.com/doomemacs/themes#1749340800</id>
-    <title>https://github.com/doomemacs/themes</title>
-    <link href="https://github.com/doomemacs/themes" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A megapack of themes for GNU Emacs.</content>
-  </entry>
-  <entry>
     <id>https://github.com/emacs-dashboard/emacs-dashboard#1749340800</id>
     <title>https://github.com/emacs-dashboard/emacs-dashboard</title>
     <link href="https://github.com/emacs-dashboard/emacs-dashboard" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">An extensible emacs dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-treemacs#1749340800</id>
+    <title>https://github.com/emacs-lsp/lsp-treemacs</title>
+    <link href="https://github.com/emacs-lsp/lsp-treemacs" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">lsp-mode ❤️ treemacs</content>
   </entry>
   <entry>
     <id>https://github.com/emacs-mirror/emacs#1749340800</id>
@@ -59,6 +66,27 @@
     <content type="text">Mirror of GNU Emacs</content>
   </entry>
   <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1749340800</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1749340800</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justbur/emacs-which-key#1749340800</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
+  </entry>
+  <entry>
     <id>https://github.com/karthink/gptel#1749340800</id>
     <title>https://github.com/karthink/gptel</title>
     <link href="https://github.com/karthink/gptel" />
@@ -66,32 +94,39 @@
     <content type="text">A simple LLM client for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/lizqwerscott/mcp.el#1749340800</id>
-    <title>https://github.com/lizqwerscott/mcp.el</title>
-    <link href="https://github.com/lizqwerscott/mcp.el" />
+    <id>https://github.com/magit/forge#1749340800</id>
+    <title>https://github.com/magit/forge</title>
+    <link href="https://github.com/magit/forge" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An Mcp client inside Emacs</content>
+    <content type="text">Work with Git forges from the comfort of Magit</content>
   </entry>
   <entry>
-    <id>https://github.com/mmontone/emacs-inspector#1749340800</id>
-    <title>https://github.com/mmontone/emacs-inspector</title>
-    <link href="https://github.com/mmontone/emacs-inspector" />
+    <id>https://github.com/manateelazycat/lsp-bridge#1749340800</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
   </entry>
   <entry>
-    <id>https://github.com/polymode/polymode#1749340800</id>
-    <title>https://github.com/polymode/polymode</title>
-    <link href="https://github.com/polymode/polymode" />
+    <id>https://github.com/melpa/melpa#1749340800</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Framework for Multiple Major Modes in Emacs (core library)</content>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
   </entry>
   <entry>
-    <id>https://github.com/rust-lang/rust-mode#1749340800</id>
-    <title>https://github.com/rust-lang/rust-mode</title>
-    <link href="https://github.com/rust-lang/rust-mode" />
+    <id>https://github.com/org-roam/org-roam#1749340800</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Emacs configuration for Rust</content>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1749340800</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
   </entry>
   <entry>
     <id>https://github.com/syl20bnr/spacemacs#1749340800</id>
@@ -101,10 +136,24 @@
     <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
   </entry>
   <entry>
-    <id>https://github.com/tninja/aider.el#1749340800</id>
-    <title>https://github.com/tninja/aider.el</title>
-    <link href="https://github.com/tninja/aider.el" />
+    <id>https://github.com/volrath/treepy.el#1749340800</id>
+    <title>https://github.com/volrath/treepy.el</title>
+    <link href="https://github.com/volrath/treepy.el" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AI assisted programming in Emacs with Aider</content>
+    <content type="text">Generic tree traversing tools for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yoshiki/yaml-mode#1749340800</id>
+    <title>https://github.com/yoshiki/yaml-mode</title>
+    <link href="https://github.com/yoshiki/yaml-mode" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The emacs major mode for editing files in the YAML data serialization format.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zkry/yaml.el#1749340800</id>
+    <title>https://github.com/zkry/yaml.el</title>
+    <link href="https://github.com/zkry/yaml.el" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">YAML parser in Elisp</content>
   </entry>
 </feed>

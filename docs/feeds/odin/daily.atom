@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/DanielGavin/ols#1749340800</id>
+    <title>https://github.com/DanielGavin/ols</title>
+    <link href="https://github.com/DanielGavin/ols" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Language server for Odin</content>
+  </entry>
+  <entry>
     <id>https://github.com/odin-lang/Odin#1749340800</id>
     <title>https://github.com/odin-lang/Odin</title>
     <link href="https://github.com/odin-lang/Odin" />

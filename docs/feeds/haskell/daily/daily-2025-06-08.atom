@@ -10,11 +10,60 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/CardanoSolutions/ogmios#1749340800</id>
+    <title>https://github.com/CardanoSolutions/ogmios</title>
+    <link href="https://github.com/CardanoSolutions/ogmios" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">❇️ A WebSocket JSON/RPC bridge for Cardano</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GaloisInc/cryptol#1749340800</id>
+    <title>https://github.com/GaloisInc/cryptol</title>
+    <link href="https://github.com/GaloisInc/cryptol" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Cryptol: The Language of Cryptography</content>
+  </entry>
+  <entry>
     <id>https://github.com/IntersectMBO/cardano-node#1749340800</id>
     <title>https://github.com/IntersectMBO/cardano-node</title>
     <link href="https://github.com/IntersectMBO/cardano-node" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1749340800</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augustss/MicroHs#1749340800</id>
+    <title>https://github.com/augustss/MicroHs</title>
+    <link href="https://github.com/augustss/MicroHs" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Haskell implemented with combinators</content>
+  </entry>
+  <entry>
+    <id>https://github.com/b3nj5m1n/xdg-ninja#1749340800</id>
+    <title>https://github.com/b3nj5m1n/xdg-ninja</title>
+    <link href="https://github.com/b3nj5m1n/xdg-ninja" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A shell script which checks your $HOME for unwanted files and directories.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cardano-scaling/hydra#1749340800</id>
+    <title>https://github.com/cardano-scaling/hydra</title>
+    <link href="https://github.com/cardano-scaling/hydra" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Implementation of the Hydra Head protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/diku-dk/futhark#1749340800</id>
+    <title>https://github.com/diku-dk/futhark</title>
+    <link href="https://github.com/diku-dk/futhark" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">💥💻💥 A data-parallel functional programming language</content>
   </entry>
   <entry>
     <id>https://github.com/hadolint/hadolint#1749340800</id>
@@ -38,11 +87,25 @@
     <content type="text">Universal markup converter</content>
   </entry>
   <entry>
+    <id>https://github.com/kmonad/kmonad#1749340800</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
     <id>https://github.com/koalaman/shellcheck#1749340800</id>
     <title>https://github.com/koalaman/shellcheck</title>
     <link href="https://github.com/koalaman/shellcheck" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simonmichael/hledger#1749340800</id>
+    <title>https://github.com/simonmichael/hledger</title>
+    <link href="https://github.com/simonmichael/hledger" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</content>
   </entry>
   <entry>
     <id>https://github.com/tidalcycles/Tidal#1749340800</id>
@@ -64,5 +127,19 @@
     <link href="https://github.com/unisonweb/unison" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">A friendly programming language from the future</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/xmonad#1749340800</id>
+    <title>https://github.com/xmonad/xmonad</title>
+    <link href="https://github.com/xmonad/xmonad" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The core of xmonad, a small but functional ICCCM-compliant tiling window manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/xmonad-contrib#1749340800</id>
+    <title>https://github.com/xmonad/xmonad-contrib</title>
+    <link href="https://github.com/xmonad/xmonad-contrib" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Contributed modules for xmonad</content>
   </entry>
 </feed>

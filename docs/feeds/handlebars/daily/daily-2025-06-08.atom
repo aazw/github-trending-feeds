@@ -24,17 +24,10 @@
     <content type="text">🎊 Soothing pastel theme for mdBook</content>
   </entry>
   <entry>
-    <id>https://github.com/elastic/integrations#1749340800</id>
-    <title>https://github.com/elastic/integrations</title>
-    <link href="https://github.com/elastic/integrations" />
+    <id>https://github.com/huggingface/hub-docs#1749340800</id>
+    <title>https://github.com/huggingface/hub-docs</title>
+    <link href="https://github.com/huggingface/hub-docs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/rust-unofficial/patterns#1749340800</id>
-    <title>https://github.com/rust-unofficial/patterns</title>
-    <link href="https://github.com/rust-unofficial/patterns" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A catalogue of Rust design patterns, anti-patterns and idioms</content>
+    <content type="text">Docs of the Hugging Face Hub</content>
   </entry>
 </feed>

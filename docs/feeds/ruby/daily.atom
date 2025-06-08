@@ -10,67 +10,39 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Homebrew/brew#1749340800</id>
-    <title>https://github.com/Homebrew/brew</title>
-    <link href="https://github.com/Homebrew/brew" />
+    <id>https://github.com/DataDog/dd-trace-rb#1749340800</id>
+    <title>https://github.com/DataDog/dd-trace-rb</title>
+    <link href="https://github.com/DataDog/dd-trace-rb" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+    <content type="text">Datadog's client library for Ruby</content>
   </entry>
   <entry>
-    <id>https://github.com/ThrowTheSwitch/Ceedling#1749340800</id>
-    <title>https://github.com/ThrowTheSwitch/Ceedling</title>
-    <link href="https://github.com/ThrowTheSwitch/Ceedling" />
+    <id>https://github.com/Homebrew/homebrew-core#1749340800</id>
+    <title>https://github.com/Homebrew/homebrew-core</title>
+    <link href="https://github.com/Homebrew/homebrew-core" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Unit testing and build system for C projects</content>
+    <content type="text">🍻 Default formulae for the missing package manager for macOS (or Linux)</content>
   </entry>
   <entry>
-    <id>https://github.com/ViewComponent/view_component#1749340800</id>
-    <title>https://github.com/ViewComponent/view_component</title>
-    <link href="https://github.com/ViewComponent/view_component" />
+    <id>https://github.com/chatwoot/chatwoot#1749340800</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A framework for building reusable, testable &amp; encapsulated view components in Ruby on Rails.</content>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
   </entry>
   <entry>
-    <id>https://github.com/chef/chef#1749340800</id>
-    <title>https://github.com/chef/chef</title>
-    <link href="https://github.com/chef/chef" />
+    <id>https://github.com/collabnix/kubelabs#1749340800</id>
+    <title>https://github.com/collabnix/kubelabs</title>
+    <link href="https://github.com/collabnix/kubelabs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</content>
+    <content type="text">Get Started with Kubernetes</content>
   </entry>
   <entry>
-    <id>https://github.com/department-of-veterans-affairs/vets-api#1749340800</id>
-    <title>https://github.com/department-of-veterans-affairs/vets-api</title>
-    <link href="https://github.com/department-of-veterans-affairs/vets-api" />
+    <id>https://github.com/docusealco/docuseal#1749340800</id>
+    <title>https://github.com/docusealco/docuseal</title>
+    <link href="https://github.com/docusealco/docuseal" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">API powering VA.gov</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dependabot/demo#1749340800</id>
-    <title>https://github.com/dependabot/demo</title>
-    <link href="https://github.com/dependabot/demo" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🤖 Fork me to try out Dependabot</content>
-  </entry>
-  <entry>
-    <id>https://github.com/doorkeeper-gem/doorkeeper#1749340800</id>
-    <title>https://github.com/doorkeeper-gem/doorkeeper</title>
-    <link href="https://github.com/doorkeeper-gem/doorkeeper" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/fastlane/fastlane#1749340800</id>
-    <title>https://github.com/fastlane/fastlane</title>
-    <link href="https://github.com/fastlane/fastlane" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
-  </entry>
-  <entry>
-    <id>https://github.com/forem/forem#1749340800</id>
-    <title>https://github.com/forem/forem</title>
-    <link href="https://github.com/forem/forem" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">For empowering community 🌱</content>
+    <content type="text">Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</content>
   </entry>
   <entry>
     <id>https://github.com/freeCodeCamp/devdocs#1749340800</id>
@@ -80,11 +52,25 @@
     <content type="text">API Documentation Browser</content>
   </entry>
   <entry>
-    <id>https://github.com/heartcombo/devise#1749340800</id>
-    <title>https://github.com/heartcombo/devise</title>
-    <link href="https://github.com/heartcombo/devise" />
+    <id>https://github.com/huginn/huginn#1749340800</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instructure/canvas-lms#1749340800</id>
+    <title>https://github.com/instructure/canvas-lms</title>
+    <link href="https://github.com/instructure/canvas-lms" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The open LMS by Instructure, Inc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/jekyll#1749340800</id>
+    <title>https://github.com/jekyll/jekyll</title>
+    <link href="https://github.com/jekyll/jekyll" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🌐 Jekyll is a blog-aware static site generator in Ruby</content>
   </entry>
   <entry>
     <id>https://github.com/kilimchoi/engineering-blogs#1749340800</id>
@@ -94,27 +80,6 @@
     <content type="text">A curated list of engineering blogs</content>
   </entry>
   <entry>
-    <id>https://github.com/mastodon/mastodon#1749340800</id>
-    <title>https://github.com/mastodon/mastodon</title>
-    <link href="https://github.com/mastodon/mastodon" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
-  </entry>
-  <entry>
-    <id>https://github.com/maybe-finance/maybe#1749340800</id>
-    <title>https://github.com/maybe-finance/maybe</title>
-    <link href="https://github.com/maybe-finance/maybe" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The personal finance app for everyone</content>
-  </entry>
-  <entry>
-    <id>https://github.com/modelcontextprotocol/ruby-sdk#1749340800</id>
-    <title>https://github.com/modelcontextprotocol/ruby-sdk</title>
-    <link href="https://github.com/modelcontextprotocol/ruby-sdk" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.</content>
-  </entry>
-  <entry>
     <id>https://github.com/opf/openproject#1749340800</id>
     <title>https://github.com/opf/openproject</title>
     <link href="https://github.com/opf/openproject" />
@@ -122,11 +87,11 @@
     <content type="text">OpenProject is the leading open source project management software.</content>
   </entry>
   <entry>
-    <id>https://github.com/rails/rails#1749340800</id>
-    <title>https://github.com/rails/rails</title>
-    <link href="https://github.com/rails/rails" />
+    <id>https://github.com/otwcode/otwarchive#1749340800</id>
+    <title>https://github.com/otwcode/otwarchive</title>
+    <link href="https://github.com/otwcode/otwarchive" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Ruby on Rails</content>
+    <content type="text">The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project</content>
   </entry>
   <entry>
     <id>https://github.com/rapid7/metasploit-framework#1749340800</id>
@@ -136,18 +101,11 @@
     <content type="text">Metasploit Framework</content>
   </entry>
   <entry>
-    <id>https://github.com/rswag/rswag#1749340800</id>
-    <title>https://github.com/rswag/rswag</title>
-    <link href="https://github.com/rswag/rswag" />
+    <id>https://github.com/ruby/ruby#1749340800</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Seamlessly adds a Swagger to Rails-based API's</content>
-  </entry>
-  <entry>
-    <id>https://github.com/rubygems/rubygems.org#1749340800</id>
-    <title>https://github.com/rubygems/rubygems.org</title>
-    <link href="https://github.com/rubygems/rubygems.org" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Ruby community's gem hosting service.</content>
+    <content type="text">The Ruby Programming Language</content>
   </entry>
   <entry>
     <id>https://github.com/rubysec/ruby-advisory-db#1749340800</id>
@@ -157,17 +115,10 @@
     <content type="text">A database of vulnerable Ruby Gems</content>
   </entry>
   <entry>
-    <id>https://github.com/spree/spree#1749340800</id>
-    <title>https://github.com/spree/spree</title>
-    <link href="https://github.com/spree/spree" />
+    <id>https://github.com/wpscanteam/wpscan#1749340800</id>
+    <title>https://github.com/wpscanteam/wpscan</title>
+    <link href="https://github.com/wpscanteam/wpscan" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
-  </entry>
-  <entry>
-    <id>https://github.com/zammad/zammad#1749340800</id>
-    <title>https://github.com/zammad/zammad</title>
-    <link href="https://github.com/zammad/zammad" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Zammad is a web based open source helpdesk/customer support system</content>
+    <content type="text">WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com</content>
   </entry>
 </feed>

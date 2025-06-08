@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/SAP-samples/fiori-elements-feature-showcase#1749340800</id>
-    <title>https://github.com/SAP-samples/fiori-elements-feature-showcase</title>
-    <link href="https://github.com/SAP-samples/fiori-elements-feature-showcase" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Sample application that demonstrates and documents a broad variety of features of SAP Fiori elements for OData V4. Developers can play around with the new features and learn how to implement them.</content>
-  </entry>
 </feed>

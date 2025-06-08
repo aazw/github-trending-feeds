@@ -10,18 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/anoma/anoma#1749340800</id>
-    <title>https://github.com/anoma/anoma</title>
-    <link href="https://github.com/anoma/anoma" />
+    <id>https://github.com/BlakeWilliams/Elixir-Slack#1749340800</id>
+    <title>https://github.com/BlakeWilliams/Elixir-Slack</title>
+    <link href="https://github.com/BlakeWilliams/Elixir-Slack" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Reference implementation of Anoma</content>
+    <content type="text">Slack real time messaging and web API client in Elixir</content>
   </entry>
   <entry>
-    <id>https://github.com/ash-project/ash#1749340800</id>
-    <title>https://github.com/ash-project/ash</title>
-    <link href="https://github.com/ash-project/ash" />
+    <id>https://github.com/Phineas/lanyard#1749340800</id>
+    <title>https://github.com/Phineas/lanyard</title>
+    <link href="https://github.com/Phineas/lanyard" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+    <content type="text">🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds</content>
+  </entry>
+  <entry>
+    <id>https://github.com/algora-io/algora#1749340800</id>
+    <title>https://github.com/algora-io/algora</title>
+    <link href="https://github.com/algora-io/algora" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Hire the top 1% OSS engineers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_admin#1749340800</id>
+    <title>https://github.com/ash-project/ash_admin</title>
+    <link href="https://github.com/ash-project/ash_admin" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.</content>
   </entry>
   <entry>
     <id>https://github.com/bonfire-networks/bonfire-app#1749340800</id>
@@ -31,25 +45,11 @@
     <content type="text">Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.</content>
   </entry>
   <entry>
-    <id>https://github.com/duffelhq/paginator#1749340800</id>
-    <title>https://github.com/duffelhq/paginator</title>
-    <link href="https://github.com/duffelhq/paginator" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Cursor-based pagination for Elixir Ecto</content>
-  </entry>
-  <entry>
     <id>https://github.com/electric-sql/electric#1749340800</id>
     <title>https://github.com/electric-sql/electric</title>
     <link href="https://github.com/electric-sql/electric" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Real-time sync for Postgres.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/electric-sql/phoenix_sync#1749340800</id>
-    <title>https://github.com/electric-sql/phoenix_sync</title>
-    <link href="https://github.com/electric-sql/phoenix_sync" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Real-time sync for Postgres-backed Phoenix applications.</content>
   </entry>
   <entry>
     <id>https://github.com/elixir-ecto/ecto_sql#1749340800</id>
@@ -80,6 +80,13 @@
     <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
   </entry>
   <entry>
+    <id>https://github.com/germsvel/phoenix_test#1749340800</id>
+    <title>https://github.com/germsvel/phoenix_test</title>
+    <link href="https://github.com/germsvel/phoenix_test" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">PhoenixTest provides a unified way of writing feature tests -- regardless of whether you're testing LiveView pages or static (non-LiveView) pages.</content>
+  </entry>
+  <entry>
     <id>https://github.com/hexlet-codebattle/codebattle#1749340800</id>
     <title>https://github.com/hexlet-codebattle/codebattle</title>
     <link href="https://github.com/hexlet-codebattle/codebattle" />
@@ -92,13 +99,6 @@
     <link href="https://github.com/kieraneglin/pinchflat" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Your next YouTube media manager</content>
-  </entry>
-  <entry>
-    <id>https://github.com/livebook-dev/livebook#1749340800</id>
-    <title>https://github.com/livebook-dev/livebook</title>
-    <link href="https://github.com/livebook-dev/livebook" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
   </entry>
   <entry>
     <id>https://github.com/phoenixframework/phoenix#1749340800</id>
@@ -115,6 +115,13 @@
     <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
   </entry>
   <entry>
+    <id>https://github.com/pinterest/elixir-thrift#1749340800</id>
+    <title>https://github.com/pinterest/elixir-thrift</title>
+    <link href="https://github.com/pinterest/elixir-thrift" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A Pure Elixir Thrift Implementation</content>
+  </entry>
+  <entry>
     <id>https://github.com/plausible/analytics#1749340800</id>
     <title>https://github.com/plausible/analytics</title>
     <link href="https://github.com/plausible/analytics" />
@@ -127,5 +134,19 @@
     <link href="https://github.com/sequinstream/sequin" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1749340800</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1749340800</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</content>
   </entry>
 </feed>

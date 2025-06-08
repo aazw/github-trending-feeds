@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/AssemblyScript/assemblyscript#1749340800</id>
+    <title>https://github.com/AssemblyScript/assemblyscript</title>
+    <link href="https://github.com/AssemblyScript/assemblyscript" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A TypeScript-like language for WebAssembly.</content>
+  </entry>
+  <entry>
     <id>https://github.com/WebAssembly/binaryen#1749340800</id>
     <title>https://github.com/WebAssembly/binaryen</title>
     <link href="https://github.com/WebAssembly/binaryen" />
@@ -17,17 +24,17 @@
     <content type="text">Optimizer and compiler/toolchain library for WebAssembly</content>
   </entry>
   <entry>
+    <id>https://github.com/WebAssembly/spec#1749340800</id>
+    <title>https://github.com/WebAssembly/spec</title>
+    <link href="https://github.com/WebAssembly/spec" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">WebAssembly specification, reference interpreter, and test suite.</content>
+  </entry>
+  <entry>
     <id>https://github.com/WebAssembly/wasi-threads#1749340800</id>
     <title>https://github.com/WebAssembly/wasi-threads</title>
     <link href="https://github.com/WebAssembly/wasi-threads" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/makepad/makepad#1749340800</id>
-    <title>https://github.com/makepad/makepad</title>
-    <link href="https://github.com/makepad/makepad" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl</content>
   </entry>
 </feed>

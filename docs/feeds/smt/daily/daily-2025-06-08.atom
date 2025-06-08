@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/cvc5/cvc5#1749340800</id>
+    <title>https://github.com/cvc5/cvc5</title>
+    <link href="https://github.com/cvc5/cvc5" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.</content>
+  </entry>
 </feed>

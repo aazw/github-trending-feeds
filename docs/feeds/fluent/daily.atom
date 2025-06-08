@@ -37,11 +37,4 @@
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Mozilla Monitor arms you with tools to keep your personal information safe. Find out what hackers already know about you and learn how to stay a step ahead of them.</content>
   </entry>
-  <entry>
-    <id>https://github.com/stephanrauh/ngx-extended-pdf-viewer#1749340800</id>
-    <title>https://github.com/stephanrauh/ngx-extended-pdf-viewer</title>
-    <link href="https://github.com/stephanrauh/ngx-extended-pdf-viewer" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A full-blown PDF viewer for Angular 16, 17, and beyond</content>
-  </entry>
 </feed>

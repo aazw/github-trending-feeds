@@ -10,18 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Alamofire/Alamofire#1749340800</id>
-    <title>https://github.com/Alamofire/Alamofire</title>
-    <link href="https://github.com/Alamofire/Alamofire" />
+    <id>https://github.com/Aidoku/Aidoku#1749340800</id>
+    <title>https://github.com/Aidoku/Aidoku</title>
+    <link href="https://github.com/Aidoku/Aidoku" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Elegant HTTP Networking in Swift</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Carthage/Carthage#1749340800</id>
-    <title>https://github.com/Carthage/Carthage</title>
-    <link href="https://github.com/Carthage/Carthage" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A simple, decentralized dependency manager for Cocoa</content>
+    <content type="text">Free and open source manga reader for iOS and iPadOS</content>
   </entry>
   <entry>
     <id>https://github.com/CodeEditApp/CodeEdit#1749340800</id>
@@ -31,81 +24,67 @@
     <content type="text">📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</content>
   </entry>
   <entry>
-    <id>https://github.com/DataDog/dd-sdk-ios#1749340800</id>
-    <title>https://github.com/DataDog/dd-sdk-ios</title>
-    <link href="https://github.com/DataDog/dd-sdk-ios" />
+    <id>https://github.com/MacPaw/OpenAI#1749340800</id>
+    <title>https://github.com/MacPaw/OpenAI</title>
+    <link href="https://github.com/MacPaw/OpenAI" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Datadog SDK for iOS - Swift and Objective-C.</content>
+    <content type="text">Swift community driven package for OpenAI public API</content>
   </entry>
   <entry>
-    <id>https://github.com/RevenueCat/purchases-ios#1749340800</id>
-    <title>https://github.com/RevenueCat/purchases-ios</title>
-    <link href="https://github.com/RevenueCat/purchases-ios" />
+    <id>https://github.com/OpenEmu/OpenEmu#1749340800</id>
+    <title>https://github.com/OpenEmu/OpenEmu</title>
+    <link href="https://github.com/OpenEmu/OpenEmu" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.</content>
+    <content type="text">🕹 Retro video game emulation for macOS</content>
   </entry>
   <entry>
-    <id>https://github.com/airbnb/lottie-ios#1749340800</id>
-    <title>https://github.com/airbnb/lottie-ios</title>
-    <link href="https://github.com/airbnb/lottie-ios" />
+    <id>https://github.com/apple/swift-collections#1749340800</id>
+    <title>https://github.com/apple/swift-collections</title>
+    <link href="https://github.com/apple/swift-collections" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An iOS library to natively render After Effects vector animations</content>
+    <content type="text">Commonly used data structures for Swift</content>
   </entry>
   <entry>
-    <id>https://github.com/apple/swift-argument-parser#1749340800</id>
-    <title>https://github.com/apple/swift-argument-parser</title>
-    <link href="https://github.com/apple/swift-argument-parser" />
+    <id>https://github.com/apple/swift-nio#1749340800</id>
+    <title>https://github.com/apple/swift-nio</title>
+    <link href="https://github.com/apple/swift-nio" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Straightforward, type-safe argument parsing for Swift</content>
+    <content type="text">Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.</content>
   </entry>
   <entry>
-    <id>https://github.com/apple/swift-async-algorithms#1749340800</id>
-    <title>https://github.com/apple/swift-async-algorithms</title>
-    <link href="https://github.com/apple/swift-async-algorithms" />
+    <id>https://github.com/apple/swift-openapi-generator#1749340800</id>
+    <title>https://github.com/apple/swift-openapi-generator</title>
+    <link href="https://github.com/apple/swift-openapi-generator" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Async Algorithms for Swift</content>
+    <content type="text">Generate Swift client and server code from an OpenAPI document.</content>
   </entry>
   <entry>
-    <id>https://github.com/buresdv/Cork#1749340800</id>
-    <title>https://github.com/buresdv/Cork</title>
-    <link href="https://github.com/buresdv/Cork" />
+    <id>https://github.com/argmaxinc/WhisperKit#1749340800</id>
+    <title>https://github.com/argmaxinc/WhisperKit</title>
+    <link href="https://github.com/argmaxinc/WhisperKit" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A fast GUI for Homebrew written in SwiftUI</content>
+    <content type="text">On-device Speech Recognition for Apple Silicon</content>
   </entry>
   <entry>
-    <id>https://github.com/getsentry/sentry-cocoa#1749340800</id>
-    <title>https://github.com/getsentry/sentry-cocoa</title>
-    <link href="https://github.com/getsentry/sentry-cocoa" />
+    <id>https://github.com/grishka/NearDrop#1749340800</id>
+    <title>https://github.com/grishka/NearDrop</title>
+    <link href="https://github.com/grishka/NearDrop" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The official Sentry SDK for iOS, tvOS, macOS, watchOS.</content>
+    <content type="text">An unofficial Google Nearby Share/Quick Share app for macOS</content>
   </entry>
   <entry>
-    <id>https://github.com/gonzalezreal/swift-markdown-ui#1749340800</id>
-    <title>https://github.com/gonzalezreal/swift-markdown-ui</title>
-    <link href="https://github.com/gonzalezreal/swift-markdown-ui" />
+    <id>https://github.com/iina/iina#1749340800</id>
+    <title>https://github.com/iina/iina</title>
+    <link href="https://github.com/iina/iina" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Display and customize Markdown text in SwiftUI</content>
+    <content type="text">The modern video player for macOS.</content>
   </entry>
   <entry>
-    <id>https://github.com/grpc/grpc-swift#1749340800</id>
-    <title>https://github.com/grpc/grpc-swift</title>
-    <link href="https://github.com/grpc/grpc-swift" />
+    <id>https://github.com/macmade/Hot#1749340800</id>
+    <title>https://github.com/macmade/Hot</title>
+    <link href="https://github.com/macmade/Hot" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Swift language implementation of gRPC.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/keitaoouchi/MarkdownView#1749340800</id>
-    <title>https://github.com/keitaoouchi/MarkdownView</title>
-    <link href="https://github.com/keitaoouchi/MarkdownView" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Markdown View for iOS.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/lihaoyun6/QuickRecorder#1749340800</id>
-    <title>https://github.com/lihaoyun6/QuickRecorder</title>
-    <link href="https://github.com/lihaoyun6/QuickRecorder" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</content>
+    <content type="text">Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.</content>
   </entry>
   <entry>
     <id>https://github.com/ml-explore/mlx-swift-examples#1749340800</id>
@@ -115,32 +94,18 @@
     <content type="text">Examples using MLX Swift</content>
   </entry>
   <entry>
-    <id>https://github.com/mrousavy/react-native-vision-camera#1749340800</id>
-    <title>https://github.com/mrousavy/react-native-vision-camera</title>
-    <link href="https://github.com/mrousavy/react-native-vision-camera" />
+    <id>https://github.com/supabase/supabase-swift#1749340800</id>
+    <title>https://github.com/supabase/supabase-swift</title>
+    <link href="https://github.com/supabase/supabase-swift" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">📸 A powerful, high-performance React Native Camera library.</content>
+    <content type="text">A Swift client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.</content>
   </entry>
   <entry>
-    <id>https://github.com/pointfreeco/swift-snapshot-testing#1749340800</id>
-    <title>https://github.com/pointfreeco/swift-snapshot-testing</title>
-    <link href="https://github.com/pointfreeco/swift-snapshot-testing" />
+    <id>https://github.com/swiftlang/swift-format#1749340800</id>
+    <title>https://github.com/swiftlang/swift-format</title>
+    <link href="https://github.com/swiftlang/swift-format" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">📸 Delightful Swift snapshot testing.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/siteline/swiftui-introspect#1749340800</id>
-    <title>https://github.com/siteline/swiftui-introspect</title>
-    <link href="https://github.com/siteline/swiftui-introspect" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Introspect underlying UIKit/AppKit components from SwiftUI</content>
-  </entry>
-  <entry>
-    <id>https://github.com/tuist/tuist#1749340800</id>
-    <title>https://github.com/tuist/tuist</title>
-    <link href="https://github.com/tuist/tuist" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A virtual platform team for mobile devs who ship</content>
+    <content type="text">Formatting technology for Swift source code</content>
   </entry>
   <entry>
     <id>https://github.com/vapor/vapor#1749340800</id>
@@ -150,10 +115,10 @@
     <content type="text">💧 A server-side Swift HTTP web framework.</content>
   </entry>
   <entry>
-    <id>https://github.com/yonaskolb/XcodeGen#1749340800</id>
-    <title>https://github.com/yonaskolb/XcodeGen</title>
-    <link href="https://github.com/yonaskolb/XcodeGen" />
+    <id>https://github.com/whoeevee/EeveeSpotify#1749340800</id>
+    <title>https://github.com/whoeevee/EeveeSpotify</title>
+    <link href="https://github.com/whoeevee/EeveeSpotify" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Swift command line tool for generating your Xcode project</content>
+    <content type="text">A tweak to get Spotify Premium for free, just like Spotilife</content>
   </entry>
 </feed>

@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/govCMS/GovCMS#1749340800</id>
-    <title>https://github.com/govCMS/GovCMS</title>
-    <link href="https://github.com/govCMS/GovCMS" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Current Drupal release of the main GovCMS distribution, with releases mirrored at https://www.drupal.org/project/govcms</content>
-  </entry>
 </feed>

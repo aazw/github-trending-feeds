@@ -16,18 +16,4 @@
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Repository to host tool-specific module files for the Nextflow DSL2 community!</content>
   </entry>
-  <entry>
-    <id>https://github.com/nf-core/rnaseq#1749340800</id>
-    <title>https://github.com/nf-core/rnaseq</title>
-    <link href="https://github.com/nf-core/rnaseq" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/nf-core/sarek#1749340800</id>
-    <title>https://github.com/nf-core/sarek</title>
-    <link href="https://github.com/nf-core/sarek" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
-  </entry>
 </feed>

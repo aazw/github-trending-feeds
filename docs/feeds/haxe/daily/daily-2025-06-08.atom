@@ -17,10 +17,17 @@
     <content type="text">awesome fnf engine :D</content>
   </entry>
   <entry>
-    <id>https://github.com/deepnight/ldtk#1749340800</id>
-    <title>https://github.com/deepnight/ldtk</title>
-    <link href="https://github.com/deepnight/ldtk" />
+    <id>https://github.com/FunkinCrew/Funkin#1749340800</id>
+    <title>https://github.com/FunkinCrew/Funkin</title>
+    <link href="https://github.com/FunkinCrew/Funkin" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Modern, lightweight and efficient 2D level editor</content>
+    <content type="text">A rhythm game made with HaxeFlixel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HaxeFoundation/haxe#1749340800</id>
+    <title>https://github.com/HaxeFoundation/haxe</title>
+    <link href="https://github.com/HaxeFoundation/haxe" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Haxe - The Cross-Platform Toolkit</content>
   </entry>
 </feed>

@@ -10,11 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/crashappsec/chalk#1749340800</id>
+    <title>https://github.com/crashappsec/chalk</title>
+    <link href="https://github.com/crashappsec/chalk" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Chalk allows you to follow code from development, through builds and into production.</content>
+  </entry>
+  <entry>
     <id>https://github.com/nim-lang/Nim#1749340800</id>
     <title>https://github.com/nim-lang/Nim</title>
     <link href="https://github.com/nim-lang/Nim" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/waku-org/nwaku#1749340800</id>
+    <title>https://github.com/waku-org/nwaku</title>
+    <link href="https://github.com/waku-org/nwaku" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Waku node and protocol.</content>
   </entry>
   <entry>
     <id>https://github.com/zedeus/nitter#1749340800</id>

@@ -9,4 +9,18 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/dortania/Getting-Started-With-ACPI#1749340800</id>
+    <title>https://github.com/dortania/Getting-Started-With-ACPI</title>
+    <link href="https://github.com/dortania/Getting-Started-With-ACPI" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Repo for Getting Started With ACPI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/edk2-porting/edk2-msm#1749340800</id>
+    <title>https://github.com/edk2-porting/edk2-msm</title>
+    <link href="https://github.com/edk2-porting/edk2-msm" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Broken edk2 port for Qualcomm platforms xD</content>
+  </entry>
 </feed>

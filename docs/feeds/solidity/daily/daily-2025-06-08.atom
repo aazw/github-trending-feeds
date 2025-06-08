@@ -10,11 +10,25 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Layr-Labs/eigenlayer-contracts#1749340800</id>
-    <title>https://github.com/Layr-Labs/eigenlayer-contracts</title>
-    <link href="https://github.com/Layr-Labs/eigenlayer-contracts" />
+    <id>https://github.com/AmazingAng/WTF-Solidity#1749340800</id>
+    <title>https://github.com/AmazingAng/WTF-Solidity</title>
+    <link href="https://github.com/AmazingAng/WTF-Solidity" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Contracts of EigenLayer</content>
+    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Arachnid/solidity-stringutils#1749340800</id>
+    <title>https://github.com/Arachnid/solidity-stringutils</title>
+    <link href="https://github.com/Arachnid/solidity-stringutils" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Basic string utilities for Solidity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Cyfrin/foundry-defi-stablecoin-cu#1749340800</id>
+    <title>https://github.com/Cyfrin/foundry-defi-stablecoin-cu</title>
+    <link href="https://github.com/Cyfrin/foundry-defi-stablecoin-cu" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
   </entry>
   <entry>
     <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1749340800</id>
@@ -22,13 +36,6 @@
     <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades#1749340800</id>
-    <title>https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades</title>
-    <link href="https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Foundry library for deploying and managing upgradeable contracts</content>
   </entry>
   <entry>
     <id>https://github.com/PaulRBerg/prb-math#1749340800</id>
@@ -59,11 +66,11 @@
     <content type="text">🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</content>
   </entry>
   <entry>
-    <id>https://github.com/cowprotocol/contracts#1749340800</id>
-    <title>https://github.com/cowprotocol/contracts</title>
-    <link href="https://github.com/cowprotocol/contracts" />
+    <id>https://github.com/Uniswap/v4-periphery#1749340800</id>
+    <title>https://github.com/Uniswap/v4-periphery</title>
+    <link href="https://github.com/Uniswap/v4-periphery" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Smart contracts for the Gnosis Protocol v2</content>
+    <content type="text">🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</content>
   </entry>
   <entry>
     <id>https://github.com/dapphub/ds-test#1749340800</id>
@@ -73,18 +80,18 @@
     <content type="text">Assertions, equality checks and other test helpers</content>
   </entry>
   <entry>
-    <id>https://github.com/ethereum/ERCs#1749340800</id>
-    <title>https://github.com/ethereum/ERCs</title>
-    <link href="https://github.com/ethereum/ERCs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The Ethereum Request for Comment repository</content>
-  </entry>
-  <entry>
     <id>https://github.com/foundry-rs/forge-std#1749340800</id>
     <title>https://github.com/foundry-rs/forge-std</title>
     <link href="https://github.com/foundry-rs/forge-std" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matter-labs/era-contracts#1749340800</id>
+    <title>https://github.com/matter-labs/era-contracts</title>
+    <link href="https://github.com/matter-labs/era-contracts" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Smart Contract Submodule For zkSync Era</content>
   </entry>
   <entry>
     <id>https://github.com/matter-labs/v2-testnet-contracts#1749340800</id>
@@ -94,10 +101,10 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/smartcontractkit/Web3_tutorial_Chinese#1749340800</id>
-    <title>https://github.com/smartcontractkit/Web3_tutorial_Chinese</title>
-    <link href="https://github.com/smartcontractkit/Web3_tutorial_Chinese" />
+    <id>https://github.com/transmissions11/solmate#1749340800</id>
+    <title>https://github.com/transmissions11/solmate</title>
+    <link href="https://github.com/transmissions11/solmate" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Modern, opinionated, and gas optimized building blocks for smart contract development.</content>
   </entry>
 </feed>

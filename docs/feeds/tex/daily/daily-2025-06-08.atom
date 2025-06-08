@@ -10,11 +10,46 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/HarisIqbal88/PlotNeuralNet#1749340800</id>
-    <title>https://github.com/HarisIqbal88/PlotNeuralNet</title>
-    <link href="https://github.com/HarisIqbal88/PlotNeuralNet" />
+    <id>https://github.com/GaloisInc/cryptol-specs#1749340800</id>
+    <title>https://github.com/GaloisInc/cryptol-specs</title>
+    <link href="https://github.com/GaloisInc/cryptol-specs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Latex code for making neural networks diagrams</content>
+    <content type="text">Specifications of cryptographic algorithms in Cryptol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HugoBlox/theme-academic-cv#1749340800</id>
+    <title>https://github.com/HugoBlox/theme-academic-cv</title>
+    <link href="https://github.com/HugoBlox/theme-academic-cv" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JmlrOrg/jmlr-style-file#1749340800</id>
+    <title>https://github.com/JmlrOrg/jmlr-style-file</title>
+    <link href="https://github.com/JmlrOrg/jmlr-style-file" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">LaTeX style file for the Journal of Machine Learning Research</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#1749340800</id>
+    <title>https://github.com/OWASP/www-project-top-10-for-large-language-model-applications</title>
+    <link href="https://github.com/OWASP/www-project-top-10-for-large-language-model-applications" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">OWASP Foundation Web Respository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenHUTB/neuro#1749340800</id>
+    <title>https://github.com/OpenHUTB/neuro</title>
+    <link href="https://github.com/OpenHUTB/neuro" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">神经科学原理</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anishathalye/gemini#1749340800</id>
+    <title>https://github.com/anishathalye/gemini</title>
+    <link href="https://github.com/anishathalye/gemini" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Gemini is a modern LaTex beamerposter theme 🖼</content>
   </entry>
   <entry>
     <id>https://github.com/billryan/resume#1749340800</id>
@@ -24,18 +59,11 @@
     <content type="text">An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git</content>
   </entry>
   <entry>
-    <id>https://github.com/dart-lang/language#1749340800</id>
-    <title>https://github.com/dart-lang/language</title>
-    <link href="https://github.com/dart-lang/language" />
+    <id>https://github.com/dnl-blkv/mcdowell-cv#1749340800</id>
+    <title>https://github.com/dnl-blkv/mcdowell-cv</title>
+    <link href="https://github.com/dnl-blkv/mcdowell-cv" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Design of the Dart language</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dendibakh/perf-book#1749340800</id>
-    <title>https://github.com/dendibakh/perf-book</title>
-    <link href="https://github.com/dendibakh/perf-book" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The book "Performance Analysis and Tuning on Modern CPU"</content>
+    <content type="text">A Nice-looking CV template made into LaTeX</content>
   </entry>
   <entry>
     <id>https://github.com/exacity/deeplearningbook-chinese#1749340800</id>
@@ -45,25 +73,18 @@
     <content type="text">Deep Learning Book Chinese Translation</content>
   </entry>
   <entry>
-    <id>https://github.com/harvard-edge/cs249r_book#1749340800</id>
-    <title>https://github.com/harvard-edge/cs249r_book</title>
-    <link href="https://github.com/harvard-edge/cs249r_book" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Introduction to Machine Learning Systems</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kourgeorge/arxiv-style#1749340800</id>
-    <title>https://github.com/kourgeorge/arxiv-style</title>
-    <link href="https://github.com/kourgeorge/arxiv-style" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Latex style and template for paper preprints (based on NIPS style)</content>
-  </entry>
-  <entry>
     <id>https://github.com/lervag/vimtex#1749340800</id>
     <title>https://github.com/lervag/vimtex</title>
     <link href="https://github.com/lervag/vimtex" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openmlsys/openmlsys-zh#1749340800</id>
+    <title>https://github.com/openmlsys/openmlsys-zh</title>
+    <link href="https://github.com/openmlsys/openmlsys-zh" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">《Machine Learning Systems: Design and Implementation》- Chinese Version</content>
   </entry>
   <entry>
     <id>https://github.com/posquit0/Awesome-CV#1749340800</id>
@@ -80,18 +101,18 @@
     <content type="text">RISC-V Instruction Set Manual</content>
   </entry>
   <entry>
-    <id>https://github.com/rstudio/cheatsheets#1749340800</id>
-    <title>https://github.com/rstudio/cheatsheets</title>
-    <link href="https://github.com/rstudio/cheatsheets" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.</content>
-  </entry>
-  <entry>
     <id>https://github.com/sb2nov/resume#1749340800</id>
     <title>https://github.com/sb2nov/resume</title>
     <link href="https://github.com/sb2nov/resume" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Software developer resume in Latex</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysprog21/lkmpg#1749340800</id>
+    <title>https://github.com/sysprog21/lkmpg</title>
+    <link href="https://github.com/sysprog21/lkmpg" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)</content>
   </entry>
   <entry>
     <id>https://github.com/tuhdo/os01#1749340800</id>
@@ -101,10 +122,17 @@
     <content type="text">Bootstrap yourself to write an OS from scratch. A book for self-learner.</content>
   </entry>
   <entry>
-    <id>https://github.com/vdumoulin/conv_arithmetic#1749340800</id>
-    <title>https://github.com/vdumoulin/conv_arithmetic</title>
-    <link href="https://github.com/vdumoulin/conv_arithmetic" />
+    <id>https://github.com/tuna/thuthesis#1749340800</id>
+    <title>https://github.com/tuna/thuthesis</title>
+    <link href="https://github.com/tuna/thuthesis" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A technical report on convolution arithmetic in the context of deep learning</content>
+    <content type="text">LaTeX Thesis Template for Tsinghua University</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zhanwen/MathModel#1749340800</id>
+    <title>https://github.com/zhanwen/MathModel</title>
+    <link href="https://github.com/zhanwen/MathModel" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT</content>
   </entry>
 </feed>

@@ -10,6 +10,13 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/pop-os/cosmic-epoch#1749340800</id>
+    <title>https://github.com/pop-os/cosmic-epoch</title>
+    <link href="https://github.com/pop-os/cosmic-epoch" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Next generation Cosmic desktop environment</content>
+  </entry>
+  <entry>
     <id>https://github.com/ublue-os/image-template#1749340800</id>
     <title>https://github.com/ublue-os/image-template</title>
     <link href="https://github.com/ublue-os/image-template" />

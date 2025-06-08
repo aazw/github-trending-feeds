@@ -17,18 +17,25 @@
     <content type="text">Specifications for NHS Digital APIs provided on the API Management Platform</content>
   </entry>
   <entry>
-    <id>https://github.com/sdkman/sdkman-cli#1749340800</id>
-    <title>https://github.com/sdkman/sdkman-cli</title>
-    <link href="https://github.com/sdkman/sdkman-cli" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The SDKMAN! Command Line Interface</content>
-  </entry>
-  <entry>
     <id>https://github.com/wp-cli/core-command#1749340800</id>
     <title>https://github.com/wp-cli/core-command</title>
     <link href="https://github.com/wp-cli/core-command" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Downloads, installs, updates, and manages a WordPress installation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/dist-archive-command#1749340800</id>
+    <title>https://github.com/wp-cli/dist-archive-command</title>
+    <link href="https://github.com/wp-cli/dist-archive-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Create a distribution .zip or .tar.gz based on a plugin or theme's .distignore file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/doctor-command#1749340800</id>
+    <title>https://github.com/wp-cli/doctor-command</title>
+    <link href="https://github.com/wp-cli/doctor-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Diagnose problems within WordPress by running a series of checks for symptoms</content>
   </entry>
   <entry>
     <id>https://github.com/wp-cli/i18n-command#1749340800</id>
@@ -38,18 +45,11 @@
     <content type="text">Provides internationalization tools for WordPress projects.</content>
   </entry>
   <entry>
-    <id>https://github.com/wp-cli/media-command#1749340800</id>
-    <title>https://github.com/wp-cli/media-command</title>
-    <link href="https://github.com/wp-cli/media-command" />
+    <id>https://github.com/wp-cli/scaffold-package-command#1749340800</id>
+    <title>https://github.com/wp-cli/scaffold-package-command</title>
+    <link href="https://github.com/wp-cli/scaffold-package-command" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Imports files as attachments, regenerates thumbnails, or lists registered image sizes.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/wp-cli/scaffold-command#1749340800</id>
-    <title>https://github.com/wp-cli/scaffold-command</title>
-    <link href="https://github.com/wp-cli/scaffold-command" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Generates code for post types, taxonomies, blocks, plugins, child themes, etc.</content>
+    <content type="text">Scaffolds WP-CLI commands with functional tests, full README.md, and more.</content>
   </entry>
   <entry>
     <id>https://github.com/wp-cli/search-replace-command#1749340800</id>

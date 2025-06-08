@@ -17,11 +17,11 @@
     <content type="text">Example Apps to Demonstrate Argo CD</content>
   </entry>
   <entry>
-    <id>https://github.com/google/jsonnet#1749340800</id>
-    <title>https://github.com/google/jsonnet</title>
-    <link href="https://github.com/google/jsonnet" />
+    <id>https://github.com/grafana/jsonnet-libs#1749340800</id>
+    <title>https://github.com/grafana/jsonnet-libs</title>
+    <link href="https://github.com/grafana/jsonnet-libs" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Jsonnet - The data templating language</content>
+    <content type="text">Grafana Labs' Jsonnet libraries</content>
   </entry>
   <entry>
     <id>https://github.com/kubernetes-monitoring/kubernetes-mixin#1749340800</id>

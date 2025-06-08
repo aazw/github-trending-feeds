@@ -10,31 +10,10 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/atlas-engineer/nyxt#1749340800</id>
-    <title>https://github.com/atlas-engineer/nyxt</title>
-    <link href="https://github.com/atlas-engineer/nyxt" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Nyxt - the hacker's browser.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/dimitri/pgloader#1749340800</id>
-    <title>https://github.com/dimitri/pgloader</title>
-    <link href="https://github.com/dimitri/pgloader" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Migrate to PostgreSQL in a single command!</content>
-  </entry>
-  <entry>
     <id>https://github.com/open-goal/jak-project#1749340800</id>
     <title>https://github.com/open-goal/jak-project</title>
     <link href="https://github.com/open-goal/jak-project" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Reviving the language that brought us the Jak &amp; Daxter Series</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sbcl/sbcl#1749340800</id>
-    <title>https://github.com/sbcl/sbcl</title>
-    <link href="https://github.com/sbcl/sbcl" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Mirror of Steel Bank Common Lisp (SBCL)'s official repository</content>
   </entry>
 </feed>

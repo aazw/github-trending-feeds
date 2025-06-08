@@ -17,13 +17,6 @@
     <content type="text">A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜</content>
   </entry>
   <entry>
-    <id>https://github.com/JetBrains/intellij-sdk-docs#1749340800</id>
-    <title>https://github.com/JetBrains/intellij-sdk-docs</title>
-    <link href="https://github.com/JetBrains/intellij-sdk-docs" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">IntelliJ SDK Platform Documentation</content>
-  </entry>
-  <entry>
     <id>https://github.com/KaiserY/trpl-zh-cn#1749340800</id>
     <title>https://github.com/KaiserY/trpl-zh-cn</title>
     <link href="https://github.com/KaiserY/trpl-zh-cn" />
@@ -36,6 +29,13 @@
     <link href="https://github.com/Kotlin/KEEP" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Kotlin Evolution and Enhancement Process</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness#1749340800</id>
+    <title>https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness</title>
+    <link href="https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Skype for Business and Microsoft Teams documentation</content>
   </entry>
   <entry>
     <id>https://github.com/MicrosoftDocs/azure-docs#1749340800</id>
@@ -52,32 +52,11 @@
     <content type="text">The OpenAPI Specification Repository</content>
   </entry>
   <entry>
-    <id>https://github.com/SAP/styleguides#1749340800</id>
-    <title>https://github.com/SAP/styleguides</title>
-    <link href="https://github.com/SAP/styleguides" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">This repository provides SAP style guides for coding and coding-related topics.</content>
-  </entry>
-  <entry>
-    <id>https://github.com/Schweinepriester/github-profile-achievements#1749340800</id>
-    <title>https://github.com/Schweinepriester/github-profile-achievements</title>
-    <link href="https://github.com/Schweinepriester/github-profile-achievements" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A collection listing all Achievements available on the GitHub profile 🏆</content>
-  </entry>
-  <entry>
     <id>https://github.com/adambard/learnxinyminutes-docs#1749340800</id>
     <title>https://github.com/adambard/learnxinyminutes-docs</title>
     <link href="https://github.com/adambard/learnxinyminutes-docs" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Code documentation written as code! How novel and totally my idea!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/adr/madr#1749340800</id>
-    <title>https://github.com/adr/madr</title>
-    <link href="https://github.com/adr/madr" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Markdown Architectural Decision Records</content>
   </entry>
   <entry>
     <id>https://github.com/alexandresanlim/Badges4-README.md-Profile#1749340800</id>
@@ -115,13 +94,6 @@
     <content type="text">Ethereum.org is a primary online resource for the Ethereum community.</content>
   </entry>
   <entry>
-    <id>https://github.com/jaywcjlove/linux-command#1749340800</id>
-    <title>https://github.com/jaywcjlove/linux-command</title>
-    <link href="https://github.com/jaywcjlove/linux-command" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux</content>
-  </entry>
-  <entry>
     <id>https://github.com/mdn/content#1749340800</id>
     <title>https://github.com/mdn/content</title>
     <link href="https://github.com/mdn/content" />
@@ -129,11 +101,25 @@
     <content type="text">The content behind MDN Web Docs</content>
   </entry>
   <entry>
+    <id>https://github.com/mdn/translated-content#1749340800</id>
+    <title>https://github.com/mdn/translated-content</title>
+    <link href="https://github.com/mdn/translated-content" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The source repository of all translated content for MDN Web Docs</content>
+  </entry>
+  <entry>
     <id>https://github.com/microsoft/vscode-docs#1749340800</id>
     <title>https://github.com/microsoft/vscode-docs</title>
     <link href="https://github.com/microsoft/vscode-docs" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Public documentation for Visual Studio Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ppy/osu-wiki#1749340800</id>
+    <title>https://github.com/ppy/osu-wiki</title>
+    <link href="https://github.com/ppy/osu-wiki" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">home of the osu! wiki</content>
   </entry>
   <entry>
     <id>https://github.com/privacyguides/privacyguides.org#1749340800</id>
@@ -169,5 +155,12 @@
     <link href="https://github.com/tldr-pages/tldr" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">📚 Collaborative cheatsheets for console commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/walkccc/CLRS#1749340800</id>
+    <title>https://github.com/walkccc/CLRS</title>
+    <link href="https://github.com/walkccc/CLRS" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">📚 Solutions to Introduction to Algorithms Third Edition</content>
   </entry>
 </feed>

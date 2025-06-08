@@ -17,6 +17,13 @@
     <content type="text">A minimal GPU design in Verilog to learn how GPUs work from the ground up</content>
   </entry>
   <entry>
+    <id>https://github.com/bespoke-silicon-group/basejump_stl#1749340800</id>
+    <title>https://github.com/bespoke-silicon-group/basejump_stl</title>
+    <link href="https://github.com/bespoke-silicon-group/basejump_stl" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">BaseJump STL: A Standard Template Library for SystemVerilog</content>
+  </entry>
+  <entry>
     <id>https://github.com/lowRISC/ibex#1749340800</id>
     <title>https://github.com/lowRISC/ibex</title>
     <link href="https://github.com/lowRISC/ibex" />
@@ -38,11 +45,11 @@
     <content type="text">CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</content>
   </entry>
   <entry>
-    <id>https://github.com/pulp-platform/axi#1749340800</id>
-    <title>https://github.com/pulp-platform/axi</title>
-    <link href="https://github.com/pulp-platform/axi" />
+    <id>https://github.com/pulp-platform/axi_mem_if#1749340800</id>
+    <title>https://github.com/pulp-platform/axi_mem_if</title>
+    <link href="https://github.com/pulp-platform/axi_mem_if" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+    <content type="text">Simple single-port AXI memory interface</content>
   </entry>
   <entry>
     <id>https://github.com/pulp-platform/common_cells#1749340800</id>

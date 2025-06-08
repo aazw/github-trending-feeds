@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/Joxit/docker-registry-ui#1749340800</id>
-    <title>https://github.com/Joxit/docker-registry-ui</title>
-    <link href="https://github.com/Joxit/docker-registry-ui" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The simplest and most complete UI for your private docker registry v2 and v3</content>
-  </entry>
 </feed>

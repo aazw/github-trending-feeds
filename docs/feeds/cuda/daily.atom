@@ -38,6 +38,13 @@
     <content type="text">CUDA Library Samples</content>
   </entry>
   <entry>
+    <id>https://github.com/NVIDIA/cub#1749340800</id>
+    <title>https://github.com/NVIDIA/cub</title>
+    <link href="https://github.com/NVIDIA/cub" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl</content>
+  </entry>
+  <entry>
     <id>https://github.com/NVIDIA/nccl-tests#1749340800</id>
     <title>https://github.com/NVIDIA/nccl-tests</title>
     <link href="https://github.com/NVIDIA/nccl-tests" />
@@ -52,32 +59,18 @@
     <content type="text">CUDA Kernel Benchmarking Library</content>
   </entry>
   <entry>
-    <id>https://github.com/NVlabs/instant-ngp#1749340800</id>
-    <title>https://github.com/NVlabs/instant-ngp</title>
-    <link href="https://github.com/NVlabs/instant-ngp" />
+    <id>https://github.com/ashawkey/diff-gaussian-rasterization#1749340800</id>
+    <title>https://github.com/ashawkey/diff-gaussian-rasterization</title>
+    <link href="https://github.com/ashawkey/diff-gaussian-rasterization" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Instant neural graphics primitives: lightning fast NeRF and more</content>
+    <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/ROCm/rccl-tests#1749340800</id>
-    <title>https://github.com/ROCm/rccl-tests</title>
-    <link href="https://github.com/ROCm/rccl-tests" />
+    <id>https://github.com/camenduru/simple-knn#1749340800</id>
+    <title>https://github.com/camenduru/simple-knn</title>
+    <link href="https://github.com/camenduru/simple-knn" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">RCCL Performance Benchmark Tests</content>
-  </entry>
-  <entry>
-    <id>https://github.com/deepseek-ai/DeepEP#1749340800</id>
-    <title>https://github.com/deepseek-ai/DeepEP</title>
-    <link href="https://github.com/deepseek-ai/DeepEP" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">DeepEP: an efficient expert-parallel communication library</content>
-  </entry>
-  <entry>
-    <id>https://github.com/deepseek-ai/FlashMLA#1749340800</id>
-    <title>https://github.com/deepseek-ai/FlashMLA</title>
-    <link href="https://github.com/deepseek-ai/FlashMLA" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">FlashMLA: Efficient MLA decoding kernels</content>
+    <content type="text" />
   </entry>
   <entry>
     <id>https://github.com/drkennetz/cuda_examples#1749340800</id>
@@ -99,13 +92,6 @@
     <link href="https://github.com/karpathy/llm.c" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">LLM training in simple, raw C/CUDA</content>
-  </entry>
-  <entry>
-    <id>https://github.com/mit-han-lab/torchsparse#1749340800</id>
-    <title>https://github.com/mit-han-lab/torchsparse</title>
-    <link href="https://github.com/mit-han-lab/torchsparse" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">[MICRO'23, MLSys'22] TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.</content>
   </entry>
   <entry>
     <id>https://github.com/nerfstudio-project/gsplat#1749340800</id>

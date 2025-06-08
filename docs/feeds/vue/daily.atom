@@ -10,11 +10,11 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/Akryum/vue-virtual-scroller#1749340800</id>
-    <title>https://github.com/Akryum/vue-virtual-scroller</title>
-    <link href="https://github.com/Akryum/vue-virtual-scroller" />
+    <id>https://github.com/AutomaApp/automa#1749340800</id>
+    <title>https://github.com/AutomaApp/automa</title>
+    <link href="https://github.com/AutomaApp/automa" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">⚡️ Blazing fast scrolling for any amount of data</content>
+    <content type="text">A browser extension for automating your browser by connecting blocks</content>
   </entry>
   <entry>
     <id>https://github.com/CorentinTh/it-tools#1749340800</id>
@@ -31,11 +31,25 @@
     <content type="text">A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.</content>
   </entry>
   <entry>
-    <id>https://github.com/PanJiaChen/vue-element-admin#1749340800</id>
-    <title>https://github.com/PanJiaChen/vue-element-admin</title>
-    <link href="https://github.com/PanJiaChen/vue-element-admin" />
+    <id>https://github.com/Gzh0821/pvzg_site#1749340800</id>
+    <title>https://github.com/Gzh0821/pvzg_site</title>
+    <link href="https://github.com/Gzh0821/pvzg_site" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin</content>
+    <content type="text">PvZ2 Gardendless Official Website | PvZ2 Gardendless 官方网站</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lissy93/dashy#1749340800</id>
+    <title>https://github.com/Lissy93/dashy</title>
+    <link href="https://github.com/Lissy93/dashy" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VueTorrent/VueTorrent#1749340800</id>
+    <title>https://github.com/VueTorrent/VueTorrent</title>
+    <link href="https://github.com/VueTorrent/VueTorrent" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The sleekest looking WEBUI for qBittorrent made with Vuejs!</content>
   </entry>
   <entry>
     <id>https://github.com/algerkong/AlgerMusicPlayer#1749340800</id>
@@ -45,46 +59,25 @@
     <content type="text">一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制</content>
   </entry>
   <entry>
-    <id>https://github.com/ccbikai/Sink#1749340800</id>
-    <title>https://github.com/ccbikai/Sink</title>
-    <link href="https://github.com/ccbikai/Sink" />
+    <id>https://github.com/iAJue/MoeKoeMusic#1749340800</id>
+    <title>https://github.com/iAJue/MoeKoeMusic</title>
+    <link href="https://github.com/iAJue/MoeKoeMusic" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</content>
+    <content type="text">一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux</content>
   </entry>
   <entry>
-    <id>https://github.com/doocs/md#1749340800</id>
-    <title>https://github.com/doocs/md</title>
-    <link href="https://github.com/doocs/md" />
+    <id>https://github.com/imsyy/SPlayer#1749340800</id>
+    <title>https://github.com/imsyy/SPlayer</title>
+    <link href="https://github.com/imsyy/SPlayer" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性</content>
+    <content type="text">🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player</content>
   </entry>
   <entry>
-    <id>https://github.com/dreamhunter2333/cloudflare_temp_email#1749340800</id>
-    <title>https://github.com/dreamhunter2333/cloudflare_temp_email</title>
-    <link href="https://github.com/dreamhunter2333/cloudflare_temp_email" />
+    <id>https://github.com/laravel/vue-starter-kit#1749340800</id>
+    <title>https://github.com/laravel/vue-starter-kit</title>
+    <link href="https://github.com/laravel/vue-starter-kit" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot</content>
-  </entry>
-  <entry>
-    <id>https://github.com/frappe/crm#1749340800</id>
-    <title>https://github.com/frappe/crm</title>
-    <link href="https://github.com/frappe/crm" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Fully featured, open source CRM</content>
-  </entry>
-  <entry>
-    <id>https://github.com/jekip/naive-ui-admin#1749340800</id>
-    <title>https://github.com/jekip/naive-ui-admin</title>
-    <link href="https://github.com/jekip/naive-ui-admin" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求</content>
-  </entry>
-  <entry>
-    <id>https://github.com/kailong321200875/vue-element-plus-admin#1749340800</id>
-    <title>https://github.com/kailong321200875/vue-element-plus-admin</title>
-    <link href="https://github.com/kailong321200875/vue-element-plus-admin" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A backend management system based on vue3, typescript, element-plus, and vite</content>
+    <content type="text" />
   </entry>
   <entry>
     <id>https://github.com/nuxt/ui#1749340800</id>
@@ -101,6 +94,27 @@
     <content type="text">PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.</content>
   </entry>
   <entry>
+    <id>https://github.com/qier222/YesPlayMusic#1749340800</id>
+    <title>https://github.com/qier222/YesPlayMusic</title>
+    <link href="https://github.com/qier222/YesPlayMusic" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">高颜值的第三方网易云播放器，支持 Windows / macOS / Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scalar/scalar#1749340800</id>
+    <title>https://github.com/scalar/scalar</title>
+    <link href="https://github.com/scalar/scalar" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tranxuanthang/lrcget#1749340800</id>
+    <title>https://github.com/tranxuanthang/lrcget</title>
+    <link href="https://github.com/tranxuanthang/lrcget" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Utility for mass-downloading LRC synced lyrics for your offline music library.</content>
+  </entry>
+  <entry>
     <id>https://github.com/un-pany/v3-admin-vite#1749340800</id>
     <title>https://github.com/un-pany/v3-admin-vite</title>
     <link href="https://github.com/un-pany/v3-admin-vite" />
@@ -108,25 +122,11 @@
     <content type="text">☀️ A crafted admin template / vue admin, vue template, vue3 admin, vue3 template, vue 后台, vue 模板, vue3 后台, vue3 模板</content>
   </entry>
   <entry>
-    <id>https://github.com/vbenjs/vue-vben-admin#1749340800</id>
-    <title>https://github.com/vbenjs/vue-vben-admin</title>
-    <link href="https://github.com/vbenjs/vue-vben-admin" />
+    <id>https://github.com/unovue/reka-ui#1749340800</id>
+    <title>https://github.com/unovue/reka-ui</title>
+    <link href="https://github.com/unovue/reka-ui" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!</content>
-  </entry>
-  <entry>
-    <id>https://github.com/xerrors/Yuxi-Know#1749340800</id>
-    <title>https://github.com/xerrors/Yuxi-Know</title>
-    <link href="https://github.com/xerrors/Yuxi-Know" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。</content>
-  </entry>
-  <entry>
-    <id>https://github.com/yangzongzhuan/RuoYi-Vue3#1749340800</id>
-    <title>https://github.com/yangzongzhuan/RuoYi-Vue3</title>
-    <link href="https://github.com/yangzongzhuan/RuoYi-Vue3" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统</content>
+    <content type="text">An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue</content>
   </entry>
   <entry>
     <id>https://github.com/yudaocode/yudao-ui-admin-vue3#1749340800</id>

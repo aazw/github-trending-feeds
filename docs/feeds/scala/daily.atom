@@ -10,13 +10,6 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/NVIDIA/spark-rapids#1749340800</id>
-    <title>https://github.com/NVIDIA/spark-rapids</title>
-    <link href="https://github.com/NVIDIA/spark-rapids" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Spark RAPIDS plugin - accelerate Apache Spark with GPUs</content>
-  </entry>
-  <entry>
     <id>https://github.com/OpenXiangShan/XiangShan#1749340800</id>
     <title>https://github.com/OpenXiangShan/XiangShan</title>
     <link href="https://github.com/OpenXiangShan/XiangShan" />
@@ -24,11 +17,11 @@
     <content type="text">Open-source high-performance RISC-V processor</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/incubator-gluten#1749340800</id>
-    <title>https://github.com/apache/incubator-gluten</title>
-    <link href="https://github.com/apache/incubator-gluten" />
+    <id>https://github.com/TheHive-Project/TheHive#1749340800</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
   </entry>
   <entry>
     <id>https://github.com/apache/incubator-livy#1749340800</id>
@@ -38,11 +31,11 @@
     <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
   </entry>
   <entry>
-    <id>https://github.com/apache/kyuubi#1749340800</id>
-    <title>https://github.com/apache/kyuubi</title>
-    <link href="https://github.com/apache/kyuubi" />
+    <id>https://github.com/apache/openwhisk#1749340800</id>
+    <title>https://github.com/apache/openwhisk</title>
+    <link href="https://github.com/apache/openwhisk" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+    <content type="text">Apache OpenWhisk is an open source serverless cloud platform</content>
   </entry>
   <entry>
     <id>https://github.com/apache/spark#1749340800</id>
@@ -52,11 +45,11 @@
     <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
   </entry>
   <entry>
-    <id>https://github.com/awslabs/deequ#1749340800</id>
-    <title>https://github.com/awslabs/deequ</title>
-    <link href="https://github.com/awslabs/deequ" />
+    <id>https://github.com/chipsalliance/chisel#1749340800</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.</content>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
   </entry>
   <entry>
     <id>https://github.com/chipsalliance/rocket-chip#1749340800</id>
@@ -73,13 +66,6 @@
     <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
   </entry>
   <entry>
-    <id>https://github.com/delta-io/delta-sharing#1749340800</id>
-    <title>https://github.com/delta-io/delta-sharing</title>
-    <link href="https://github.com/delta-io/delta-sharing" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">An open protocol for secure data sharing</content>
-  </entry>
-  <entry>
     <id>https://github.com/digital-asset/daml#1749340800</id>
     <title>https://github.com/digital-asset/daml</title>
     <link href="https://github.com/digital-asset/daml" />
@@ -87,25 +73,18 @@
     <content type="text">The Daml smart contract language</content>
   </entry>
   <entry>
-    <id>https://github.com/gatling/gatling#1749340800</id>
-    <title>https://github.com/gatling/gatling</title>
-    <link href="https://github.com/gatling/gatling" />
+    <id>https://github.com/hyperledger-labs/splice#1749340800</id>
+    <title>https://github.com/hyperledger-labs/splice</title>
+    <link href="https://github.com/hyperledger-labs/splice" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Modern Load Testing as Code</content>
+    <content type="text">Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.</content>
   </entry>
   <entry>
-    <id>https://github.com/ge0rg/aprsdroid#1749340800</id>
-    <title>https://github.com/ge0rg/aprsdroid</title>
-    <link href="https://github.com/ge0rg/aprsdroid" />
+    <id>https://github.com/lichess-org/lila#1749340800</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">APRSdroid - Geo-Location for Radio Amateurs</content>
-  </entry>
-  <entry>
-    <id>https://github.com/microsoft/SynapseML#1749340800</id>
-    <title>https://github.com/microsoft/SynapseML</title>
-    <link href="https://github.com/microsoft/SynapseML" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Simple and Distributed Machine Learning</content>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
   </entry>
   <entry>
     <id>https://github.com/open-korean-text/open-korean-text#1749340800</id>
@@ -115,18 +94,18 @@
     <content type="text">Open Korean Text Processor - An Open-source Korean Text Processor</content>
   </entry>
   <entry>
-    <id>https://github.com/rtyley/bfg-repo-cleaner#1749340800</id>
-    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
-    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <id>https://github.com/playframework/playframework#1749340800</id>
+    <title>https://github.com/playframework/playframework</title>
+    <link href="https://github.com/playframework/playframework" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+    <content type="text">The Community Maintained High Velocity Web Framework For Java and Scala.</content>
   </entry>
   <entry>
-    <id>https://github.com/scala/scala#1749340800</id>
-    <title>https://github.com/scala/scala</title>
-    <link href="https://github.com/scala/scala" />
+    <id>https://github.com/riscv-boom/riscv-boom#1749340800</id>
+    <title>https://github.com/riscv-boom/riscv-boom</title>
+    <link href="https://github.com/riscv-boom/riscv-boom" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</content>
+    <content type="text">SonicBOOM: The Berkeley Out-of-Order Machine</content>
   </entry>
   <entry>
     <id>https://github.com/scala/scala3#1749340800</id>
@@ -136,11 +115,11 @@
     <content type="text">The Scala 3 compiler, also known as Dotty.</content>
   </entry>
   <entry>
-    <id>https://github.com/scalameta/metals#1749340800</id>
-    <title>https://github.com/scalameta/metals</title>
-    <link href="https://github.com/scalameta/metals" />
+    <id>https://github.com/twitter/the-algorithm#1749340800</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Scala language server with rich IDE features 🚀</content>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
   </entry>
   <entry>
     <id>https://github.com/typelevel/cats-effect#1749340800</id>
@@ -150,17 +129,17 @@
     <content type="text">The pure asynchronous runtime for Scala</content>
   </entry>
   <entry>
+    <id>https://github.com/ucb-bar/berkeley-hardfloat#1749340800</id>
+    <title>https://github.com/ucb-bar/berkeley-hardfloat</title>
+    <link href="https://github.com/ucb-bar/berkeley-hardfloat" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
     <id>https://github.com/ucb-bar/chipyard#1749340800</id>
     <title>https://github.com/ucb-bar/chipyard</title>
     <link href="https://github.com/ucb-bar/chipyard" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
-  </entry>
-  <entry>
-    <id>https://github.com/yahoo/CMAK#1749340800</id>
-    <title>https://github.com/yahoo/CMAK</title>
-    <link href="https://github.com/yahoo/CMAK" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">CMAK is a tool for managing Apache Kafka clusters</content>
   </entry>
 </feed>

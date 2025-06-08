@@ -9,11 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/Autodesk/maya-usd#1749340800</id>
-    <title>https://github.com/Autodesk/maya-usd</title>
-    <link href="https://github.com/Autodesk/maya-usd" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A common USD (Universal Scene Description) plugin for Autodesk Maya</content>
-  </entry>
 </feed>

@@ -10,31 +10,10 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/openmaptiles/openmaptiles#1749340800</id>
-    <title>https://github.com/openmaptiles/openmaptiles</title>
-    <link href="https://github.com/openmaptiles/openmaptiles" />
+    <id>https://github.com/darold/pgFormatter#1749340800</id>
+    <title>https://github.com/darold/pgFormatter</title>
+    <link href="https://github.com/darold/pgFormatter" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">OpenMapTiles Vector Tile Schema Implementation</content>
-  </entry>
-  <entry>
-    <id>https://github.com/pgpartman/pg_partman#1749340800</id>
-    <title>https://github.com/pgpartman/pg_partman</title>
-    <link href="https://github.com/pgpartman/pg_partman" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Partition management extension for PostgreSQL</content>
-  </entry>
-  <entry>
-    <id>https://github.com/supabase/splinter#1749340800</id>
-    <title>https://github.com/supabase/splinter</title>
-    <link href="https://github.com/supabase/splinter" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Supabase Postgres Linter: Performance and Security Advisors</content>
-  </entry>
-  <entry>
-    <id>https://github.com/timescale/pgai#1749340800</id>
-    <title>https://github.com/timescale/pgai</title>
-    <link href="https://github.com/timescale/pgai" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL</content>
+    <content type="text">A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/</content>
   </entry>
 </feed>

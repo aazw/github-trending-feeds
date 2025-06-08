@@ -10,10 +10,31 @@
     <name>aazw</name>
   </author>
   <entry>
+    <id>https://github.com/Digilent/vivado-boards#1749340800</id>
+    <title>https://github.com/Digilent/vivado-boards</title>
+    <link href="https://github.com/Digilent/vivado-boards" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/device-tree-xlnx#1749340800</id>
+    <title>https://github.com/Xilinx/device-tree-xlnx</title>
+    <link href="https://github.com/Xilinx/device-tree-xlnx" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Linux device tree generator for the Xilinx SDK (Vivado &gt; 2014.1)</content>
+  </entry>
+  <entry>
     <id>https://github.com/macports/macports-ports#1749340800</id>
     <title>https://github.com/macports/macports-ports</title>
     <link href="https://github.com/macports/macports-ports" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">The MacPorts ports tree</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdbende/Sun-Valley-ttk-theme#1749340800</id>
+    <title>https://github.com/rdbende/Sun-Valley-ttk-theme</title>
+    <link href="https://github.com/rdbende/Sun-Valley-ttk-theme" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨</content>
   </entry>
 </feed>

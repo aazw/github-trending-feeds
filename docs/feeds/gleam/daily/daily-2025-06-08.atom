@@ -9,4 +9,11 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/gleam-lang/awesome-gleam#1749340800</id>
+    <title>https://github.com/gleam-lang/awesome-gleam</title>
+    <link href="https://github.com/gleam-lang/awesome-gleam" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">💯 A collection of Gleam libraries, projects, and resources</content>
+  </entry>
 </feed>

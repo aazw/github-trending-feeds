@@ -17,18 +17,11 @@
     <content type="text">container image to single executable compiler</content>
   </entry>
   <entry>
-    <id>https://github.com/Not-Nik/raylib-zig#1749340800</id>
-    <title>https://github.com/Not-Nik/raylib-zig</title>
-    <link href="https://github.com/Not-Nik/raylib-zig" />
+    <id>https://github.com/ZigEmbeddedGroup/microzig#1749340800</id>
+    <title>https://github.com/ZigEmbeddedGroup/microzig</title>
+    <link href="https://github.com/ZigEmbeddedGroup/microzig" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib</content>
-  </entry>
-  <entry>
-    <id>https://github.com/capy-ui/capy#1749340800</id>
-    <title>https://github.com/capy-ui/capy</title>
-    <link href="https://github.com/capy-ui/capy" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">💻Build one codebase and get native UI on Windows, Linux and Web</content>
+    <content type="text">MicroZig is a toolbox for building embedded applications in Zig.</content>
   </entry>
   <entry>
     <id>https://github.com/ghostty-org/ghostty#1749340800</id>
@@ -38,11 +31,18 @@
     <content type="text">👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</content>
   </entry>
   <entry>
-    <id>https://github.com/hexops/mach#1749340800</id>
-    <title>https://github.com/hexops/mach</title>
-    <link href="https://github.com/hexops/mach" />
+    <id>https://github.com/lightpanda-io/browser#1749340800</id>
+    <title>https://github.com/lightpanda-io/browser</title>
+    <link href="https://github.com/lightpanda-io/browser" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">zig game engine &amp; graphics toolkit</content>
+    <content type="text">Lightpanda: the headless browser designed for AI and automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/marler8997/anyzig#1749340800</id>
+    <title>https://github.com/marler8997/anyzig</title>
+    <link href="https://github.com/marler8997/anyzig" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">One zig to rule them all.</content>
   </entry>
   <entry>
     <id>https://github.com/mitchellh/libxev#1749340800</id>
@@ -64,6 +64,20 @@
     <link href="https://github.com/pedropark99/zig-book" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">An open, technical and introductory book for the Zig programming language 📚📖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riverwm/river#1749340800</id>
+    <title>https://github.com/riverwm/river</title>
+    <link href="https://github.com/riverwm/river" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">[mirror] A dynamic tiling Wayland compositor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rockorager/libvaxis#1749340800</id>
+    <title>https://github.com/rockorager/libvaxis</title>
+    <link href="https://github.com/rockorager/libvaxis" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">a modern tui library written in zig</content>
   </entry>
   <entry>
     <id>https://github.com/tigerbeetle/tigerbeetle#1749340800</id>

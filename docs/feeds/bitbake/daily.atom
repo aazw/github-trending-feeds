@@ -38,6 +38,13 @@
     <content type="text">Collection of Yocto Project layers to enable AMD Xilinx products</content>
   </entry>
   <entry>
+    <id>https://github.com/Xilinx/meta-xilinx-tools#1749340800</id>
+    <title>https://github.com/Xilinx/meta-xilinx-tools</title>
+    <link href="https://github.com/Xilinx/meta-xilinx-tools" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Yocto Project layer enables AMD Xilinx tools related metadata for MicroBlaze, Zynq, ZynqMP and Versal devices.</content>
+  </entry>
+  <entry>
     <id>https://github.com/kraj/meta-clang#1749340800</id>
     <title>https://github.com/kraj/meta-clang</title>
     <link href="https://github.com/kraj/meta-clang" />
@@ -52,13 +59,6 @@
     <content type="text">OE/Yocto metadata layer for OpenWRT</content>
   </entry>
   <entry>
-    <id>https://github.com/meta-qt5/meta-qt5#1749340800</id>
-    <title>https://github.com/meta-qt5/meta-qt5</title>
-    <link href="https://github.com/meta-qt5/meta-qt5" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">QT5 layer for openembedded</content>
-  </entry>
-  <entry>
     <id>https://github.com/meta-rust/meta-rust#1749340800</id>
     <title>https://github.com/meta-rust/meta-rust</title>
     <link href="https://github.com/meta-rust/meta-rust" />
@@ -71,13 +71,6 @@
     <link href="https://github.com/nxp-imx/meta-imx" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">i.MX Yocto Project i.MX BSP Layer</content>
-  </entry>
-  <entry>
-    <id>https://github.com/openbmc/openbmc#1749340800</id>
-    <title>https://github.com/openbmc/openbmc</title>
-    <link href="https://github.com/openbmc/openbmc" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">OpenBMC Distribution</content>
   </entry>
   <entry>
     <id>https://github.com/openembedded/meta-openembedded#1749340800</id>
@@ -99,12 +92,5 @@
     <link href="https://github.com/rust-embedded/meta-rust-bin" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
-  </entry>
-  <entry>
-    <id>https://github.com/sbabic/meta-swupdate#1749340800</id>
-    <title>https://github.com/sbabic/meta-swupdate</title>
-    <link href="https://github.com/sbabic/meta-swupdate" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Yocto receipes to generate a swupdate rootfilesystem as initrd</content>
   </entry>
 </feed>

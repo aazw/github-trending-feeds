@@ -9,4 +9,18 @@
   <author>
     <name>aazw</name>
   </author>
+  <entry>
+    <id>https://github.com/Jollywatt/typst-fletcher#1749340800</id>
+    <title>https://github.com/Jollywatt/typst-fletcher</title>
+    <link href="https://github.com/Jollywatt/typst-fletcher" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Typst package for drawing diagrams with arrows, built on top of CeTZ.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cetz-package/cetz#1749340800</id>
+    <title>https://github.com/cetz-package/cetz</title>
+    <link href="https://github.com/cetz-package/cetz" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.</content>
+  </entry>
 </feed>

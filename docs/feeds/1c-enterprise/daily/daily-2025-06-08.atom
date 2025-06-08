@@ -9,18 +9,4 @@
   <author>
     <name>aazw</name>
   </author>
-  <entry>
-    <id>https://github.com/Pr-Mex/vanessa-automation#1749340800</id>
-    <title>https://github.com/Pr-Mex/vanessa-automation</title>
-    <link href="https://github.com/Pr-Mex/vanessa-automation" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">BDD в 1С</content>
-  </entry>
-  <entry>
-    <id>https://github.com/cpr1c/tools_ui_1c#1749340800</id>
-    <title>https://github.com/cpr1c/tools_ui_1c</title>
-    <link href="https://github.com/cpr1c/tools_ui_1c" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Универсальные инструменты 1С для управляемых форм</content>
-  </entry>
 </feed>

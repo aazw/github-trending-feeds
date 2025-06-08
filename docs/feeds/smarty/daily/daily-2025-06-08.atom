@@ -10,11 +10,18 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/CrowdStrike/falcon-helm#1749340800</id>
-    <title>https://github.com/CrowdStrike/falcon-helm</title>
-    <link href="https://github.com/CrowdStrike/falcon-helm" />
+    <id>https://github.com/8gears/n8n-helm-chart#1749340800</id>
+    <title>https://github.com/8gears/n8n-helm-chart</title>
+    <link href="https://github.com/8gears/n8n-helm-chart" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Helm Charts for running CrowdStrike Falcon with Kubernetes</content>
+    <content type="text">A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BorisPolonsky/dify-helm#1749340800</id>
+    <title>https://github.com/BorisPolonsky/dify-helm</title>
+    <link href="https://github.com/BorisPolonsky/dify-helm" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Deploy langgenious/dify, an LLM based app on kubernetes with helm chart.</content>
   </entry>
   <entry>
     <id>https://github.com/VictoriaMetrics/helm-charts#1749340800</id>
@@ -22,6 +29,13 @@
     <link href="https://github.com/VictoriaMetrics/helm-charts" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphagov/govuk-helm-charts#1749340800</id>
+    <title>https://github.com/alphagov/govuk-helm-charts</title>
+    <link href="https://github.com/alphagov/govuk-helm-charts" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Helm charts for the GOV.UK website and publishing platform (content management system). Cluster turnup automation is in https://github.com/alphagov/govuk-infrastructure.</content>
   </entry>
   <entry>
     <id>https://github.com/bitnami/charts#1749340800</id>
@@ -38,39 +52,11 @@
     <content type="text" />
   </entry>
   <entry>
-    <id>https://github.com/cloudnative-pg/charts#1749340800</id>
-    <title>https://github.com/cloudnative-pg/charts</title>
-    <link href="https://github.com/cloudnative-pg/charts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">CloudNativePG Helm Charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/grafana/helm-charts#1749340800</id>
-    <title>https://github.com/grafana/helm-charts</title>
-    <link href="https://github.com/grafana/helm-charts" />
+    <id>https://github.com/mongodb/helm-charts#1749340800</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/grafana/k8s-monitoring-helm#1749340800</id>
-    <title>https://github.com/grafana/k8s-monitoring-helm</title>
-    <link href="https://github.com/grafana/k8s-monitoring-helm" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/langfuse/langfuse-k8s#1749340800</id>
-    <title>https://github.com/langfuse/langfuse-k8s</title>
-    <link href="https://github.com/langfuse/langfuse-k8s" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Community-maintained Kubernetes config and Helm chart for Langfuse</content>
-  </entry>
-  <entry>
-    <id>https://github.com/livekit/livekit-helm#1749340800</id>
-    <title>https://github.com/livekit/livekit-helm</title>
-    <link href="https://github.com/livekit/livekit-helm" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">LiveKit Helm charts</content>
   </entry>
   <entry>
     <id>https://github.com/newrelic/helm-charts#1749340800</id>
@@ -80,25 +66,11 @@
     <content type="text">Helm charts for New Relic applications</content>
   </entry>
   <entry>
-    <id>https://github.com/open-telemetry/opentelemetry-helm-charts#1749340800</id>
-    <title>https://github.com/open-telemetry/opentelemetry-helm-charts</title>
-    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" />
+    <id>https://github.com/plexinc/pms-docker#1749340800</id>
+    <title>https://github.com/plexinc/pms-docker</title>
+    <link href="https://github.com/plexinc/pms-docker" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">OpenTelemetry Helm Charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/open-webui/helm-charts#1749340800</id>
-    <title>https://github.com/open-webui/helm-charts</title>
-    <link href="https://github.com/open-webui/helm-charts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
-  </entry>
-  <entry>
-    <id>https://github.com/sentry-kubernetes/charts#1749340800</id>
-    <title>https://github.com/sentry-kubernetes/charts</title>
-    <link href="https://github.com/sentry-kubernetes/charts" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Easily deploy Sentry on your Kubernetes Cluster</content>
+    <content type="text">Plex Media Server Docker repo, for all your PMS docker needs.</content>
   </entry>
   <entry>
     <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1749340800</id>
@@ -108,11 +80,11 @@
     <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
   </entry>
   <entry>
-    <id>https://github.com/spectrocloud/pack-central#1749340800</id>
-    <title>https://github.com/spectrocloud/pack-central</title>
-    <link href="https://github.com/spectrocloud/pack-central" />
+    <id>https://github.com/supabase-community/supabase-kubernetes#1749340800</id>
+    <title>https://github.com/supabase-community/supabase-kubernetes</title>
+    <link href="https://github.com/supabase-community/supabase-kubernetes" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text" />
+    <content type="text">Helm 3 charts to deploy a Supabase on Kubernetes</content>
   </entry>
   <entry>
     <id>https://github.com/sysdiglabs/charts#1749340800</id>
@@ -120,13 +92,6 @@
     <link href="https://github.com/sysdiglabs/charts" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">The official source for Sysdig’s Helm charts</content>
-  </entry>
-  <entry>
-    <id>https://github.com/traefik/traefik-helm-chart#1749340800</id>
-    <title>https://github.com/traefik/traefik-helm-chart</title>
-    <link href="https://github.com/traefik/traefik-helm-chart" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Traefik Proxy Helm Chart</content>
   </entry>
   <entry>
     <id>https://github.com/truecharts/public#1749340800</id>
@@ -139,6 +104,13 @@
     <id>https://github.com/wiz-sec/charts#1749340800</id>
     <title>https://github.com/wiz-sec/charts</title>
     <link href="https://github.com/wiz-sec/charts" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/zilliztech/milvus-helm#1749340800</id>
+    <title>https://github.com/zilliztech/milvus-helm</title>
+    <link href="https://github.com/zilliztech/milvus-helm" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text" />
   </entry>

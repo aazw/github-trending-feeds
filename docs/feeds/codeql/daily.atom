@@ -17,6 +17,13 @@
     <content type="text">CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</content>
   </entry>
   <entry>
+    <id>https://github.com/github/codeql-coding-standards#1749340800</id>
+    <title>https://github.com/github/codeql-coding-standards</title>
+    <link href="https://github.com/github/codeql-coding-standards" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">This repository contains CodeQL queries and libraries which support various Coding Standards.</content>
+  </entry>
+  <entry>
     <id>https://github.com/github/vscode-codeql-starter#1749340800</id>
     <title>https://github.com/github/vscode-codeql-starter</title>
     <link href="https://github.com/github/vscode-codeql-starter" />

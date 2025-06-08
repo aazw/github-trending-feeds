@@ -10,11 +10,32 @@
     <name>aazw</name>
   </author>
   <entry>
-    <id>https://github.com/browserbase/stagehand#1749340800</id>
-    <title>https://github.com/browserbase/stagehand</title>
-    <link href="https://github.com/browserbase/stagehand" />
+    <id>https://github.com/RealKai42/qwerty-learner#1749340800</id>
+    <title>https://github.com/RealKai42/qwerty-learner</title>
+    <link href="https://github.com/RealKai42/qwerty-learner" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">The AI Browser Automation Framework</content>
+    <content type="text">为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Vendicated/Vencord#1749340800</id>
+    <title>https://github.com/Vendicated/Vencord</title>
+    <link href="https://github.com/Vendicated/Vencord" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The cutest Discord client mod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexta69/metube#1749340800</id>
+    <title>https://github.com/alexta69/metube</title>
+    <link href="https://github.com/alexta69/metube" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/babel/babel#1749340800</id>
+    <title>https://github.com/babel/babel</title>
+    <link href="https://github.com/babel/babel" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🐠 Babel is a compiler for writing next generation JavaScript.</content>
   </entry>
   <entry>
     <id>https://github.com/caorushizi/mediago#1749340800</id>
@@ -24,11 +45,11 @@
     <content type="text">跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with desktop clients for Windows and Mac.</content>
   </entry>
   <entry>
-    <id>https://github.com/cline/cline#1749340800</id>
-    <title>https://github.com/cline/cline</title>
-    <link href="https://github.com/cline/cline" />
+    <id>https://github.com/clash-verge-rev/clash-verge-rev#1749340800</id>
+    <title>https://github.com/clash-verge-rev/clash-verge-rev</title>
+    <link href="https://github.com/clash-verge-rev/clash-verge-rev" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</content>
+    <content type="text">A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</content>
   </entry>
   <entry>
     <id>https://github.com/codexu/note-gen#1749340800</id>
@@ -38,11 +59,11 @@
     <content type="text">A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.</content>
   </entry>
   <entry>
-    <id>https://github.com/continuedev/continue#1749340800</id>
-    <title>https://github.com/continuedev/continue</title>
-    <link href="https://github.com/continuedev/continue" />
+    <id>https://github.com/discordjs/discord.js#1749340800</id>
+    <title>https://github.com/discordjs/discord.js</title>
+    <link href="https://github.com/discordjs/discord.js" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks</content>
+    <content type="text">A powerful JavaScript library for interacting with the Discord API</content>
   </entry>
   <entry>
     <id>https://github.com/docmost/docmost#1749340800</id>
@@ -52,18 +73,18 @@
     <content type="text">Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.</content>
   </entry>
   <entry>
-    <id>https://github.com/electric-sql/pglite#1749340800</id>
-    <title>https://github.com/electric-sql/pglite</title>
-    <link href="https://github.com/electric-sql/pglite" />
+    <id>https://github.com/excalidraw/excalidraw#1749340800</id>
+    <title>https://github.com/excalidraw/excalidraw</title>
+    <link href="https://github.com/excalidraw/excalidraw" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Embeddable Postgres with real-time, reactive bindings.</content>
+    <content type="text">Virtual whiteboard for sketching hand-drawn like diagrams</content>
   </entry>
   <entry>
-    <id>https://github.com/elizaOS/eliza#1749340800</id>
-    <title>https://github.com/elizaOS/eliza</title>
-    <link href="https://github.com/elizaOS/eliza" />
+    <id>https://github.com/freeCodeCamp/freeCodeCamp#1749340800</id>
+    <title>https://github.com/freeCodeCamp/freeCodeCamp</title>
+    <link href="https://github.com/freeCodeCamp/freeCodeCamp" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Autonomous agents for everyone</content>
+    <content type="text">freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.</content>
   </entry>
   <entry>
     <id>https://github.com/iib0011/omni-tools#1749340800</id>
@@ -73,18 +94,11 @@
     <content type="text">Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!</content>
   </entry>
   <entry>
-    <id>https://github.com/kubernetes-sigs/headlamp#1749340800</id>
-    <title>https://github.com/kubernetes-sigs/headlamp</title>
-    <link href="https://github.com/kubernetes-sigs/headlamp" />
+    <id>https://github.com/iptv-org/iptv#1749340800</id>
+    <title>https://github.com/iptv-org/iptv</title>
+    <link href="https://github.com/iptv-org/iptv" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">A Kubernetes web UI that is fully-featured, user-friendly and extensible</content>
-  </entry>
-  <entry>
-    <id>https://github.com/langfuse/langfuse#1749340800</id>
-    <title>https://github.com/langfuse/langfuse</title>
-    <link href="https://github.com/langfuse/langfuse" />
-    <updated>2025-06-08T00:00:00</updated>
-    <content type="text">🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23</content>
+    <content type="text">Collection of publicly available IPTV channels from all over the world</content>
   </entry>
   <entry>
     <id>https://github.com/langgenius/dify#1749340800</id>
@@ -94,11 +108,18 @@
     <content type="text">Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</content>
   </entry>
   <entry>
-    <id>https://github.com/microsoft/vscode-extension-samples#1749340800</id>
-    <title>https://github.com/microsoft/vscode-extension-samples</title>
-    <link href="https://github.com/microsoft/vscode-extension-samples" />
+    <id>https://github.com/lobehub/lobe-chat#1749340800</id>
+    <title>https://github.com/lobehub/lobe-chat</title>
+    <link href="https://github.com/lobehub/lobe-chat" />
     <updated>2025-06-08T00:00:00</updated>
-    <content type="text">Sample code illustrating the VS Code extension API.</content>
+    <content type="text">🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ourongxing/newsnow#1749340800</id>
+    <title>https://github.com/ourongxing/newsnow</title>
+    <link href="https://github.com/ourongxing/newsnow" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Elegant reading of real-time and hottest news</content>
   </entry>
   <entry>
     <id>https://github.com/plait-board/drawnix#1749340800</id>
@@ -120,5 +141,19 @@
     <link href="https://github.com/vercel/next-forge" />
     <updated>2025-06-08T00:00:00</updated>
     <content type="text">Production-grade Turborepo template for Next.js apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/vercel#1749340800</id>
+    <title>https://github.com/vercel/vercel</title>
+    <link href="https://github.com/vercel/vercel" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Develop. Preview. Ship.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zaidmukaddam/scira#1749340800</id>
+    <title>https://github.com/zaidmukaddam/scira</title>
+    <link href="https://github.com/zaidmukaddam/scira" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.</content>
   </entry>
 </feed>
