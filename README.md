@@ -28,9 +28,13 @@ GitHub Actionsで各言語のTrendingの最新情報を取得する.
 
 ## Use
 
+### 実行環境セットアップ
+
 ```bash
 uv sync --link-mode=copy
 ```
+
+### スクレイピング実行
 
 ```bash
 uv run apps/scrape.py 
@@ -38,6 +42,8 @@ uv run apps/scrape.py
       --period daily \
       --output     ./daily.atom
 ```
+
+helpコマンド実行例.
 
 ```bash
 $ uv run apps/scrape.py --help
@@ -55,17 +61,48 @@ Options:
 2024-12-26 14:20:01,056 - /workspaces/github-trending-feeds/apps/scrape.py:194 - INFO - app finished
 ```
 
+ATOMの日時を上書きすることもできる.
+
 ```bash
 $ uv run apps/scrape.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
 ```
+
+### 過去の全ATOMを走査し、過去登場したリポジトリのURL一覧をつくる
 
 ```bash
 $ uv run apps/unique_list.py --dir docs --output urls.txt
 ```
 
+* `--dir`
+  * 走査するディレクトリ
+  * サブディレクトリも含め、*.atomなファイルを走査する
+  * 通常は `docs`ディレクトリ
+* `--output`
+  * URL全一覧を出力する先
+
+### 指定のATOMにて、過去にないリポジトリがあればそれのURLの一覧を取得する
+
 ```bash
 $ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.tx
+
+$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom
+
+$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom
+
+$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom --output docs/new-arrivals/go/daily.atom
 ```
+
+* `--atom`
+  * チェックするATOM
+* `--urls`
+  * 過去のURL全一覧
+* `--format`
+  * `--format=plain`: URL一覧だけを出力する
+  * `--format=atom`: 新着URLだけのATOMを出力する
+* `--output`
+  * 出力先ファイルパス
+  * 指定した場合のみ、ファイルに出力する
+  * 指定しなかった場合、標準出力に出力する
 
 ## Return Code / Exit Status
 
