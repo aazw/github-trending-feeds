@@ -714,6 +714,7 @@ https://github.com/DelphiWorlds/Kastri
 https://github.com/DeltaV-Station/Delta-v
 https://github.com/Deltares/GEOLib
 https://github.com/Deltares/Ribasim
+https://github.com/Demizo/Daily_You
 https://github.com/DenverCoder1/github-readme-streak-stats
 https://github.com/DenverCoder1/readme-typing-svg
 https://github.com/DependencyTrack/dependency-track
@@ -1363,6 +1364,7 @@ https://github.com/JuliaTime/TimeZones.jl
 https://github.com/Julow/Unexpected-Keyboard
 https://github.com/JunkFood02/Seal
 https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+https://github.com/JustAdumbPrsn/Zen-Nebula
 https://github.com/JustArchiNET/ASF-ui
 https://github.com/JustArchiNET/ArchiSteamFarm
 https://github.com/JustGoodUI/dante-astro-theme
@@ -1832,6 +1834,7 @@ https://github.com/Netflix/atlas
 https://github.com/Netflix/chaosmonkey
 https://github.com/Netflix/dgs-framework
 https://github.com/NethermindEth/nethermind
+https://github.com/NethermindEth/starknet.go
 https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2
 https://github.com/NexaAI/nexa-sdk
 https://github.com/Next-Flip/Momentum-Firmware
@@ -2512,6 +2515,7 @@ https://github.com/Stengo/DeskPad
 https://github.com/Stephan-S/FS25_AutoDrive
 https://github.com/StephenMiracle/frankenwp
 https://github.com/Sterlingg/json-snatcher
+https://github.com/SteveDunn/Vogen
 https://github.com/SteveMacenski/slam_toolbox
 https://github.com/Stirling-Tools/Stirling-PDF
 https://github.com/StormSurgeLive/asgs
@@ -2605,6 +2609,7 @@ https://github.com/Tencent/HunyuanVideo
 https://github.com/Tencent/MMKV
 https://github.com/Tencent/cherry-markdown
 https://github.com/Tencent/ncnn
+https://github.com/Tencent/puerts
 https://github.com/Tencent/rapidjson
 https://github.com/Tencent/tdesign-common
 https://github.com/Tencent/tdesign-flutter
@@ -2741,6 +2746,7 @@ https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize
 https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
 https://github.com/Unity-Technologies/ml-agents
 https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+https://github.com/Universidade-Livre/ciencia-da-computacao
 https://github.com/Unleash/unleash
 https://github.com/UnofficialSF/LightningFlowComponents
 https://github.com/UnrealSharp/UnrealSharp
@@ -3046,6 +3052,7 @@ https://github.com/adambard/learnxinyminutes-docs
 https://github.com/adamtornhill/code-maat
 https://github.com/adap/flower
 https://github.com/adereth/dactyl-keyboard
+https://github.com/adi1090x/plymouth-themes
 https://github.com/adi1090x/polybar-themes
 https://github.com/adi1090x/rofi
 https://github.com/aditya-shri/VPN
@@ -3991,6 +3998,7 @@ https://github.com/boazbk/tcs
 https://github.com/bobbyiliev/introduction-to-bash-scripting
 https://github.com/bobthecow/psysh
 https://github.com/bol-van/zapret
+https://github.com/bonfire-networks/bonfire-app
 https://github.com/bookkojot/mp4fixer
 https://github.com/boostorg/boost
 https://github.com/boostorg/cmake
@@ -4058,6 +4066,7 @@ https://github.com/browserslist/browserslist
 https://github.com/brucefan1983/CUDA-Programming
 https://github.com/brucefan1983/GPUMD
 https://github.com/brucemiller/LaTeXML
+https://github.com/brufdev/many-notes
 https://github.com/brunodev85/winlator
 https://github.com/brunophilipe/Cakebrew
 https://github.com/bryanedds/Nu
@@ -4493,6 +4502,7 @@ https://github.com/cms-sw/cmssw
 https://github.com/cmss13-devs/cmss13
 https://github.com/cmss13-devs/cmss13-pve
 https://github.com/cmu-db/bustub
+https://github.com/cmudig/AutoProfiler
 https://github.com/cmullaparthi/ibrowse
 https://github.com/cncf/curriculum
 https://github.com/cncf/foundation
@@ -5546,6 +5556,7 @@ https://github.com/external-secrets/external-secrets
 https://github.com/extrawurst/gitui
 https://github.com/exyte/Chat
 https://github.com/exyte/PopupView
+https://github.com/eyaltoledano/claude-task-master
 https://github.com/eyelevelai/groundx-on-prem
 https://github.com/eythaann/Seelen-UI
 https://github.com/ezEngine/ezEngine
@@ -6361,6 +6372,7 @@ https://github.com/happycola233/tchMaterial-parser
 https://github.com/haproxy/haproxy
 https://github.com/hardkoded/puppeteer-sharp
 https://github.com/harfbuzz/harfbuzz
+https://github.com/haris-musa/excel-mcp-server
 https://github.com/harmonoid/harmonoid
 https://github.com/harry0703/MoneyPrinterTurbo
 https://github.com/hartator/wayback-machine-downloader
@@ -6926,6 +6938,7 @@ https://github.com/jeremylong/DependencyCheck
 https://github.com/jerhadf/linear-mcp-server
 https://github.com/jeroennoten/Laravel-AdminLTE
 https://github.com/jeroentrappers/flutter_jailbreak_detection
+https://github.com/jerosoler/Drawflow
 https://github.com/jerrykuku/luci-theme-argon
 https://github.com/jerryn70/GoodbyeAds
 https://github.com/jesse-ai/jesse
@@ -7166,6 +7179,7 @@ https://github.com/karpathy/llama2.c
 https://github.com/karpathy/llm.c
 https://github.com/karpathy/micrograd
 https://github.com/karpathy/minGPT
+https://github.com/karpathy/nanoGPT
 https://github.com/karpathy/ng-video-lecture
 https://github.com/karpathy/nn-zero-to-hero
 https://github.com/karthik/wesanderson
@@ -7196,6 +7210,7 @@ https://github.com/keep-starknet-strange/garaga
 https://github.com/keepassxreboot/keepassxc
 https://github.com/keephq/keep
 https://github.com/keikaavousi/fake-store-api
+https://github.com/keitaoouchi/MarkdownView
 https://github.com/keith/swift.vim
 https://github.com/keiyoushi/extensions-source
 https://github.com/kekingcn/kkFileView
@@ -7502,6 +7517,7 @@ https://github.com/leanprover-community/batteries
 https://github.com/leanprover-community/mathlib4
 https://github.com/leanprover-community/quote4
 https://github.com/leanprover-community/repl
+https://github.com/leanprover/fp-lean
 https://github.com/leanprover/lean4
 https://github.com/leanprover/verso
 https://github.com/learningequality/kolibri
@@ -7651,6 +7667,7 @@ https://github.com/livekit/agents
 https://github.com/livekit/client-sdk-flutter
 https://github.com/livekit/client-sdk-swift
 https://github.com/livekit/livekit
+https://github.com/livekit/livekit-helm
 https://github.com/livestorejs/livestore
 https://github.com/liveview-native/live_view_native
 https://github.com/livewire-filemanager/filemanager
@@ -7731,6 +7748,7 @@ https://github.com/lstprjct/IDM-Activation-Script
 https://github.com/ltaoo/wx_channels_download
 https://github.com/ltdrdata/ComfyUI-Manager
 https://github.com/luarocks/luarocks
+https://github.com/luarocks/luarocks-site
 https://github.com/luau-lang/luau
 https://github.com/lucasg/Dependencies
 https://github.com/lucaslorentz/caddy-docker-proxy
@@ -8753,6 +8771,7 @@ https://github.com/nicehash/NiceHashMiner
 https://github.com/nicejade/markdown-online-editor
 https://github.com/nickg/nvc
 https://github.com/nickhammond/ansible-logrotate
+https://github.com/nicklockwood/FXBlurView
 https://github.com/nicklockwood/FXPageControl
 https://github.com/nicklockwood/GZIP
 https://github.com/nicklockwood/SwiftFormat
@@ -9344,6 +9363,7 @@ https://github.com/pages-themes/architect
 https://github.com/pages-themes/cayman
 https://github.com/pages-themes/hacker
 https://github.com/pages-themes/leap-day
+https://github.com/pages-themes/merlot
 https://github.com/pages-themes/minimal
 https://github.com/pages-themes/modernist
 https://github.com/pages-themes/slate
@@ -9522,6 +9542,7 @@ https://github.com/pkryger/difftastic.el
 https://github.com/plabayo/rama
 https://github.com/plaid/plaid-link-ios
 https://github.com/plainblack/webgui
+https://github.com/plait-board/drawnix
 https://github.com/plandex-ai/plandex
 https://github.com/plankanban/planka
 https://github.com/plantuml-stdlib/C4-PlantUML
@@ -9831,6 +9852,7 @@ https://github.com/qdrant/landing_page
 https://github.com/qdrant/qdrant
 https://github.com/qeeqbox/social-analyzer
 https://github.com/qgis/QGIS
+https://github.com/qgis/QGIS-Website
 https://github.com/qhjqhj00/MemoRAG
 https://github.com/qidian55/bilibilitv1.6.6-repair
 https://github.com/qier222/YesPlayMusic
@@ -10238,6 +10260,7 @@ https://github.com/ruby/ruby
 https://github.com/ruby/setup-ruby
 https://github.com/rubycdp/cuprite
 https://github.com/rubygems/rubygems
+https://github.com/rubygems/rubygems.org
 https://github.com/rubysec/bundler-audit
 https://github.com/rubysec/ruby-advisory-db
 https://github.com/rudderlabs/rudderstack-helm
@@ -10648,6 +10671,7 @@ https://github.com/skypjack/entt
 https://github.com/skywind3000/asyncrun.vim
 https://github.com/skywind3000/kcp
 https://github.com/skywind3000/preserve-cd
+https://github.com/skyzh/mini-lsm
 https://github.com/slackapi/hubot-slack
 https://github.com/slackhq/nebula
 https://github.com/slaclab/surf
