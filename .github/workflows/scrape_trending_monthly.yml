@@ -24,18 +24,15 @@ jobs:
   scrape_github_trending:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Install uv
         uses: astral-sh/setup-uv@v6
-
-      - name: install packages
+      - name: Install packages
         run: uv sync --link-mode=copy
-
-      - name: scraping trending
+      - name: Scrape trending
         run: ./scripts/scrape_trending_monthly.sh
-
-      - name: copy atoms
+      - name: Copy atoms
         run: |
           d=$(date -I)
 
@@ -43,7 +40,6 @@ jobs:
             mkdir -p "$(dirname $atom)/monthly"
             cp "${atom}" "$(dirname $atom)/monthly/monthly-${d}.atom"
           done
-
       - name: Create new commit
         run: |
           git config user.name  github-actions
