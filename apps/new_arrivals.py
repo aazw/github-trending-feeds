@@ -108,7 +108,7 @@ def main(dirPath: Path, period: str, urlsPath: Path, format: str, outputPath: Pa
                     if id is not None and id.text is not None:
                         content = entry.find("a:content", NS)
                         if content is not None:
-                            content.text = f"[{language}] " + content.text
+                            content.text = f"[{language}] " + (content.text or "")
                     newEntries[href] = entry
 
     appLogger.info(f"{len(newUrls)} urls is new")
