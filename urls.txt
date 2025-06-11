@@ -87,6 +87,7 @@ https://github.com/AI4Finance-Foundation/FinRobot
 https://github.com/AOMediaCodec/libavif
 https://github.com/AOSC-Dev/aosc-os-abbs
 https://github.com/APTRS/APTRS
+https://github.com/APZelos/blamer.nvim
 https://github.com/ASHWIN990/ADB-Toolkit
 https://github.com/AUK9527/Are-u-ok
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
@@ -143,6 +144,7 @@ https://github.com/AlexxIT/go2rtc
 https://github.com/Alfresco/acs-deployment
 https://github.com/AlgebraicJulia/Decapodes.jl
 https://github.com/AliSoftware/OHHTTPStubs
+https://github.com/Alibaba-NLP/WebAgent
 https://github.com/Aliucord/Aliucord
 https://github.com/Alkaar/resy-booking-bot
 https://github.com/All-Hands-AI/OpenHands
@@ -162,6 +164,7 @@ https://github.com/AndreRH/hangover
 https://github.com/AndreaCrotti/yasnippet-snippets
 https://github.com/AndrewGuenther/fck-nat
 https://github.com/AndrewRadev/splitjoin.vim
+https://github.com/Andrey0189/nixos-config-reborn
 https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template
 https://github.com/AndroidIDEOfficial/AndroidIDE
 https://github.com/AndronixApp/AndronixOrigin
@@ -347,6 +350,7 @@ https://github.com/AzureAD/microsoft-authentication-library-for-js
 https://github.com/AzureAD/microsoft-authentication-library-for-objc
 https://github.com/AzureAD/microsoft-identity-web
 https://github.com/B-Lang-org/bsc
+https://github.com/B00merang-Project/Windows-XP
 https://github.com/BEEmod/BEE2-items
 https://github.com/BHOSC/BUAAthesis
 https://github.com/BIMK/PlatEMO
@@ -487,6 +491,7 @@ https://github.com/Capsize-Games/airunner
 https://github.com/CarGuo/GSYVideoPlayer
 https://github.com/CarGuo/gsy_github_app_flutter
 https://github.com/Card-Forge/forge
+https://github.com/CardanoSolutions/ogmios
 https://github.com/CareyWang/sub-web
 https://github.com/Carthage/Carthage
 https://github.com/CatalaLang/catala
@@ -583,6 +588,7 @@ https://github.com/Col-E/Recaf
 https://github.com/CollaboraOnline/online
 https://github.com/CollegesChat/university-information
 https://github.com/ColorlibHQ/AdminLTE
+https://github.com/Comfy-Org/ComfyUI-Manager
 https://github.com/Comfy-Org/ComfyUI_frontend
 https://github.com/Comfy-Org/desktop
 https://github.com/Comfy-Org/docs
@@ -602,6 +608,7 @@ https://github.com/CoolKit-Technologies/ha-addon
 https://github.com/Copilot-Language/copilot
 https://github.com/CopilotC-Nvim/CopilotChat.nvim
 https://github.com/CopilotKit/CopilotKit
+https://github.com/Coporton/IDM-Activation-Script
 https://github.com/CorentinTh/it-tools
 https://github.com/CoreyMSchafer/code_snippets
 https://github.com/Countly/countly-sdk-ios
@@ -621,6 +628,8 @@ https://github.com/CubeCoders/AMPTemplates
 https://github.com/Cute-Dress/Dress
 https://github.com/CyC2018/CS-Notes
 https://github.com/Cyan4973/xxHash
+https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator
+https://github.com/Cyfrin/foundry-defi-stablecoin-cu
 https://github.com/Cyfrin/foundry-full-course-cu
 https://github.com/Cyfrin/security-and-auditing-full-course-s23
 https://github.com/CymChad/BaseRecyclerViewAdapterHelper
@@ -875,6 +884,7 @@ https://github.com/FahimAnzamDip/triangle-pos
 https://github.com/FairwindsOps/charts
 https://github.com/Fanael/edit-indirect
 https://github.com/Fanael/rainbow-delimiters
+https://github.com/FareedKhan-dev/all-rag-techniques
 https://github.com/FastEndpoints/FastEndpoints
 https://github.com/FastLED/FastLED
 https://github.com/Fate-Grand-Automata/FGA
@@ -996,6 +1006,7 @@ https://github.com/GetStream/stream-chat-android
 https://github.com/GetStream/stream-chat-react
 https://github.com/GetStream/stream-chat-react-native
 https://github.com/GeyserMC/Geyser
+https://github.com/GeyserMC/Hydraulic
 https://github.com/GhostPack/Certify
 https://github.com/GhostPack/Rubeus
 https://github.com/GhostPack/Seatbelt
@@ -1036,6 +1047,7 @@ https://github.com/GoogleCloudPlatform/java-docs-samples
 https://github.com/GoogleCloudPlatform/kubectl-ai
 https://github.com/GoogleCloudPlatform/microservices-demo
 https://github.com/GoogleCloudPlatform/python-docs-samples
+https://github.com/GoogleCloudPlatform/terraform-genai-doc-summarization
 https://github.com/GoogleCloudPlatform/terraform-google-alloy-db
 https://github.com/GoogleCloudPlatform/terraform-google-cloud-run
 https://github.com/GoogleCloudPlatform/terraform-google-secret-manager
@@ -1177,6 +1189,7 @@ https://github.com/IEAWindSystems/IEA-15-240-RWT
 https://github.com/IITH-Compilers/IR2Vec
 https://github.com/IQEngine/WebFFT
 https://github.com/ITV/scala-pact
+https://github.com/ITensor/ITensorMPS.jl
 https://github.com/ITensor/ITensors.jl
 https://github.com/IUCompilerCourse/Essentials-of-Compilation
 https://github.com/IacobIonut01/Gallery
@@ -1237,6 +1250,7 @@ https://github.com/ItzCrazyKns/Perplexica
 https://github.com/ItzLevvie/MicrosoftTeams-msinternal
 https://github.com/Ivy-Apps/ivy-wallet
 https://github.com/IzzelAliz/Arclight
+https://github.com/JCSDA/crtm
 https://github.com/JCluzet/42_EXAM
 https://github.com/JHubi1/ollama-app
 https://github.com/JLLeitschuh/ktlint-gradle
@@ -1364,7 +1378,6 @@ https://github.com/JuliaTime/TimeZones.jl
 https://github.com/Julow/Unexpected-Keyboard
 https://github.com/JunkFood02/Seal
 https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
-https://github.com/JustAdumbPrsn/Zen-Nebula
 https://github.com/JustArchiNET/ASF-ui
 https://github.com/JustArchiNET/ArchiSteamFarm
 https://github.com/JustGoodUI/dante-astro-theme
@@ -1394,6 +1407,7 @@ https://github.com/KhronosGroup/SPIRV-Cross
 https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 https://github.com/KhronosGroup/Vulkan-Samples
 https://github.com/KhronosGroup/Vulkan-ValidationLayers
+https://github.com/KhronosGroup/glTF-Sample-Assets
 https://github.com/KiCad/kicad-footprints
 https://github.com/KiCad/kicad-symbols
 https://github.com/KiKaraage/ArcWTF
@@ -1675,6 +1689,7 @@ https://github.com/MicrosoftDocs/semantic-kernel-docs
 https://github.com/MicrosoftDocs/windows-dev-docs
 https://github.com/MicrosoftDocs/windows-driver-docs
 https://github.com/MicrosoftDocs/windows-powershell-docs
+https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure
 https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies
 https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst
 https://github.com/MicrosoftLearning/mslearn-ai-services
@@ -1724,6 +1739,7 @@ https://github.com/MrNeRF/awesome-3D-gaussian-splatting
 https://github.com/MrOtherGuy/firefox-csshacks
 https://github.com/MuShibo/Micro-Wheeled_leg-Robot
 https://github.com/MudBlazor/MudBlazor
+https://github.com/MudkipWorld/PNGTuber-Remix
 https://github.com/MuhammedKalkan/OpenLens
 https://github.com/MunGell/awesome-for-beginners
 https://github.com/MunifTanjim/nui.nvim
@@ -1813,6 +1829,7 @@ https://github.com/Naezr/ShyFox
 https://github.com/NaiboWang/EasySpider
 https://github.com/Nain57/Smart-AutoClicker
 https://github.com/NanmiCoder/MediaCrawler
+https://github.com/NaoTu/DesktopNaotu
 https://github.com/NapNeko/NapCatQQ
 https://github.com/NationalSecurityAgency/ghidra
 https://github.com/NationalSecurityAgency/skills-service
@@ -2271,6 +2288,7 @@ https://github.com/RevenueCat/purchases-flutter
 https://github.com/RevenueCat/purchases-ios
 https://github.com/Revolutionary-Games/Thrive
 https://github.com/RexanWONG/text-behind-image
+https://github.com/Rexcrazy804/Zaphkiel
 https://github.com/RfidResearchGroup/ChameleonUltra
 https://github.com/RfidResearchGroup/proxmark3
 https://github.com/Richasy/Bili.Copilot
@@ -2515,7 +2533,6 @@ https://github.com/Stengo/DeskPad
 https://github.com/Stephan-S/FS25_AutoDrive
 https://github.com/StephenMiracle/frankenwp
 https://github.com/Sterlingg/json-snatcher
-https://github.com/SteveDunn/Vogen
 https://github.com/SteveMacenski/slam_toolbox
 https://github.com/Stirling-Tools/Stirling-PDF
 https://github.com/StormSurgeLive/asgs
@@ -2550,6 +2567,7 @@ https://github.com/Swordfish90/cool-retro-term
 https://github.com/Sycnex/Windows10Debloater
 https://github.com/Sylius/Sylius
 https://github.com/Syllo/nvtop
+https://github.com/SylphAI-Inc/AdalFlow
 https://github.com/Syndica/sig
 https://github.com/SystemCrafters/guix-installer
 https://github.com/Systems-Modeling/SysML-v2-Release
@@ -2609,7 +2627,6 @@ https://github.com/Tencent/HunyuanVideo
 https://github.com/Tencent/MMKV
 https://github.com/Tencent/cherry-markdown
 https://github.com/Tencent/ncnn
-https://github.com/Tencent/puerts
 https://github.com/Tencent/rapidjson
 https://github.com/Tencent/tdesign-common
 https://github.com/Tencent/tdesign-flutter
@@ -2682,6 +2699,7 @@ https://github.com/Tikam02/DevOps-Guide
 https://github.com/TimOliver/TOCropViewController
 https://github.com/TimesysGit/meta-timesys
 https://github.com/TixiaoShan/LIO-SAM
+https://github.com/TokenySolutions/T-REX
 https://github.com/TokisanGames/Sky3D
 https://github.com/TokisanGames/Terrain3D
 https://github.com/TomBursch/kitchenowl
@@ -2746,7 +2764,6 @@ https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize
 https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
 https://github.com/Unity-Technologies/ml-agents
 https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
-https://github.com/Universidade-Livre/ciencia-da-computacao
 https://github.com/Unleash/unleash
 https://github.com/UnofficialSF/LightningFlowComponents
 https://github.com/UnrealSharp/UnrealSharp
@@ -2978,6 +2995,7 @@ https://github.com/aaronik/treewalker.nvim
 https://github.com/aaronshaf/dynamodb-admin
 https://github.com/aaronwangy/Data-Science-Cheatsheet
 https://github.com/aave-dao/aave-v3-origin
+https://github.com/aave/gho-core
 https://github.com/abap2xlsx/abap2xlsx
 https://github.com/abapGit/abapGit
 https://github.com/abarichello/godot-ci
@@ -3052,7 +3070,6 @@ https://github.com/adambard/learnxinyminutes-docs
 https://github.com/adamtornhill/code-maat
 https://github.com/adap/flower
 https://github.com/adereth/dactyl-keyboard
-https://github.com/adi1090x/plymouth-themes
 https://github.com/adi1090x/polybar-themes
 https://github.com/adi1090x/rofi
 https://github.com/aditya-shri/VPN
@@ -3070,6 +3087,7 @@ https://github.com/adorsys/keycloak-config-cli
 https://github.com/adr/madr
 https://github.com/adrianhajdin/aora
 https://github.com/adrianhajdin/project_3D_developer_portfolio
+https://github.com/adrianhajdin/react-movies
 https://github.com/adriankarlen/textfox
 https://github.com/adrielcafe/voyager
 https://github.com/adrienverge/openfortivpn
@@ -3161,6 +3179,7 @@ https://github.com/akkadotnet/akka.net
 https://github.com/aklt/plantuml-syntax
 https://github.com/akuity/kargo
 https://github.com/akullpp/awesome-java
+https://github.com/akvorado/akvorado
 https://github.com/al1abb/invoify
 https://github.com/alacritty/alacritty
 https://github.com/alainm23/planify
@@ -3207,6 +3226,7 @@ https://github.com/alibaba/MNN
 https://github.com/alibaba/Sentinel
 https://github.com/alibaba/arthas
 https://github.com/alibaba/canal
+https://github.com/alibaba/druid
 https://github.com/alibaba/easyexcel
 https://github.com/alibaba/fastjson2
 https://github.com/alibaba/flutter-go
@@ -3237,6 +3257,7 @@ https://github.com/allwefantasy/auto-coder
 https://github.com/almond-sh/almond
 https://github.com/aloisdeniel/flutter_device_preview
 https://github.com/alphacep/vosk-api
+https://github.com/alphagov/govuk-helm-charts
 https://github.com/alphagov/govuk-infrastructure
 https://github.com/alphapapa/org-ql
 https://github.com/alphapapa/plz.el
@@ -3564,6 +3585,7 @@ https://github.com/aserowy/tmux.nvim
 https://github.com/asg017/sqlite-vec
 https://github.com/ash-project/ash
 https://github.com/ash-project/ash_admin
+https://github.com/ash-project/ash_ai
 https://github.com/ash-project/ash_graphql
 https://github.com/ash-project/ash_hq
 https://github.com/ash-project/ash_json_api
@@ -3719,6 +3741,7 @@ https://github.com/axboe/fio
 https://github.com/axboe/liburing
 https://github.com/axelarnetwork/axelar-docs
 https://github.com/axios/axios
+https://github.com/axolotl-ai-cloud/axolotl
 https://github.com/axzilla/templui
 https://github.com/ayamir/nvimdots
 https://github.com/ayusharma/birthday
@@ -4024,8 +4047,10 @@ https://github.com/bpftrace/bpftrace
 https://github.com/bpmn-io/bpmn-js
 https://github.com/bradtraversy/50projects50days
 https://github.com/brahmGAN/ganchain-v2
+https://github.com/brahmkshatriya/echo
 https://github.com/brainlid/langchain
 https://github.com/braintree/braintree-ios-drop-in
+https://github.com/brave/adblock-rust
 https://github.com/brave/brave-browser
 https://github.com/brave/brave-core
 https://github.com/braze-inc/braze-swift-sdk
@@ -4066,7 +4091,6 @@ https://github.com/browserslist/browserslist
 https://github.com/brucefan1983/CUDA-Programming
 https://github.com/brucefan1983/GPUMD
 https://github.com/brucemiller/LaTeXML
-https://github.com/brufdev/many-notes
 https://github.com/brunodev85/winlator
 https://github.com/brunophilipe/Cakebrew
 https://github.com/bryanedds/Nu
@@ -4147,6 +4171,7 @@ https://github.com/camunda/feel-scala
 https://github.com/candycat1992/Unity_Shaders_Book
 https://github.com/canonical/packer-maas
 https://github.com/canonical/ubuntu.com
+https://github.com/canopyai/Orpheus-TTS
 https://github.com/canove/whaticket-community
 https://github.com/canxin121/app_rhyme
 https://github.com/caorushizi/mediago
@@ -4297,6 +4322,7 @@ https://github.com/chenshuo/muduo
 https://github.com/chentoast/marks.nvim
 https://github.com/chenxiaolong/BCR
 https://github.com/chenzomi12/AISystem
+https://github.com/chenzomi12/aisystem
 https://github.com/chep/copilot-chat.el
 https://github.com/cherriesandmochi/gdmaim
 https://github.com/chevdor/subwasm
@@ -4502,6 +4528,7 @@ https://github.com/cms-sw/cmssw
 https://github.com/cmss13-devs/cmss13
 https://github.com/cmss13-devs/cmss13-pve
 https://github.com/cmu-db/bustub
+https://github.com/cmu-pasta/fray
 https://github.com/cmudig/AutoProfiler
 https://github.com/cmullaparthi/ibrowse
 https://github.com/cncf/curriculum
@@ -4551,6 +4578,7 @@ https://github.com/coleam00/local-ai-packaged
 https://github.com/coleam00/ottomator-agents
 https://github.com/colinhacks/zod
 https://github.com/collabnix/dockerlabs
+https://github.com/collabnix/kubelabs
 https://github.com/colmap/colmap
 https://github.com/com-lihaoyi/mill
 https://github.com/com-lihaoyi/scalasql
@@ -4585,6 +4613,7 @@ https://github.com/conda-forge/miniforge-images
 https://github.com/conda/conda
 https://github.com/conductor-oss/conductor
 https://github.com/confident-ai/deepeval
+https://github.com/confident-ai/deepteam
 https://github.com/confluentinc/confluent-kafka-go
 https://github.com/confluentinc/confluent-kubernetes-examples
 https://github.com/confluentinc/cp-helm-charts
@@ -4996,6 +5025,7 @@ https://github.com/diesel-rs/diesel
 https://github.com/diff-usion/Awesome-Diffusion-Models
 https://github.com/different-ai/hyprsqrl
 https://github.com/diffplug/spotless
+https://github.com/diffusionstudio/core
 https://github.com/digininja/CeWL
 https://github.com/digininja/DVWA
 https://github.com/digint/btrbk
@@ -5188,6 +5218,7 @@ https://github.com/drush-ops/drush
 https://github.com/dstark5/Openlib
 https://github.com/dstotijn/hetty
 https://github.com/dtinth/vxchrome
+https://github.com/dtolnay/cxx
 https://github.com/dtonon/nstart
 https://github.com/dubinc/docs
 https://github.com/dubinc/dub
@@ -5251,6 +5282,7 @@ https://github.com/eclipse/openvsx
 https://github.com/ecmwf/ecbuild
 https://github.com/ecmwf/fckit
 https://github.com/ed-donner/llm_engineering
+https://github.com/eddiesigner/liebling
 https://github.com/edelvarden/material-fox-updated
 https://github.com/editorconfig/editorconfig-core-test
 https://github.com/editorconfig/editorconfig-emacs
@@ -5645,6 +5677,7 @@ https://github.com/feature-sliced/documentation
 https://github.com/febobo/web-interview
 https://github.com/feder-cr/Jobs_Applier_AI_Agent
 https://github.com/federico-busato/Modern-CPP-Programming
+https://github.com/fedorovvl/tso_client
 https://github.com/feel-co/hjem
 https://github.com/feenkcom/gtoolkit
 https://github.com/feenkcom/lepiter
@@ -5693,6 +5726,7 @@ https://github.com/fish-shell/fish-shell
 https://github.com/fishaudio/fish-speech
 https://github.com/fivethirtyeight/data
 https://github.com/fixie-ai/ultravox
+https://github.com/fjordllc/bootcamp
 https://github.com/fla-org/flash-linear-attention
 https://github.com/flame-engine/flame
 https://github.com/flameshot-org/flameshot
@@ -5844,6 +5878,7 @@ https://github.com/fubark/cyber
 https://github.com/fudan-generative-vision/OpenHumanVid
 https://github.com/fufexan/dotfiles
 https://github.com/fufexan/nix-gaming
+https://github.com/ful1e5/apple_cursor
 https://github.com/fullcalendar/fullcalendar
 https://github.com/fullstackhero/dotnet-starter-kit
 https://github.com/fullstorydev/grpcurl
@@ -5874,6 +5909,7 @@ https://github.com/gabe565/ascii-movie
 https://github.com/gabime/spdlog
 https://github.com/gaboolic/rime-frost
 https://github.com/gabrielecirulli/2048
+https://github.com/gabrielsoule/resonarium
 https://github.com/gagliardetto/solana-go
 https://github.com/gambit/gambit
 https://github.com/gantFDT/icraft
@@ -5894,10 +5930,12 @@ https://github.com/gcc-mirror/gcc
 https://github.com/gchq/CyberChef
 https://github.com/gdquest-demos/godot-2d-space-game
 https://github.com/gdquest-demos/godot-4-3d-third-person-controller
+https://github.com/gdquest-demos/godot-open-rpg
 https://github.com/gdquest-demos/godot-shaders
 https://github.com/ge0rg/aprsdroid
 https://github.com/gecche/laravel-multidomain
 https://github.com/gedoor/legado
+https://github.com/geek-fun/dockit
 https://github.com/geekan/HowToLiveLonger
 https://github.com/geekan/MetaGPT
 https://github.com/geekcomputers/Python
@@ -6127,6 +6165,7 @@ https://github.com/google-research/google-research
 https://github.com/google-research/tuning_playbook
 https://github.com/google-research/vision_transformer
 https://github.com/google/CFU-Playground
+https://github.com/google/EarlGrey
 https://github.com/google/ExoPlayer
 https://github.com/google/GoogleDataTransport
 https://github.com/google/GoogleSignIn-iOS
@@ -6170,6 +6209,7 @@ https://github.com/google/leveldb
 https://github.com/google/libphonenumber
 https://github.com/google/material-design-icons
 https://github.com/google/meridian
+https://github.com/google/nsjail
 https://github.com/google/or-tools
 https://github.com/google/oss-fuzz
 https://github.com/google/osv-scalibr
@@ -6355,6 +6395,7 @@ https://github.com/hajimehoshi/ebiten
 https://github.com/hak5/bashbunny-payloads
 https://github.com/hak5/usbrubberducky-payloads
 https://github.com/hakimel/reveal.js
+https://github.com/hakonharnes/img-clip.nvim
 https://github.com/halo-dev/halo
 https://github.com/halpz/re3
 https://github.com/hanatsumi/rakuyomi
@@ -6372,7 +6413,6 @@ https://github.com/happycola233/tchMaterial-parser
 https://github.com/haproxy/haproxy
 https://github.com/hardkoded/puppeteer-sharp
 https://github.com/harfbuzz/harfbuzz
-https://github.com/haris-musa/excel-mcp-server
 https://github.com/harmonoid/harmonoid
 https://github.com/harry0703/MoneyPrinterTurbo
 https://github.com/hartator/wayback-machine-downloader
@@ -6535,6 +6575,7 @@ https://github.com/hrkfdn/ncspot
 https://github.com/hrsh7th/cmp-cmdline
 https://github.com/hrsh7th/nvim-cmp
 https://github.com/hrsh7th/vim-vsnip
+https://github.com/hrsh7th/vim-vsnip-integ
 https://github.com/hrshadhin/school-management-system
 https://github.com/hrydgard/ppsspp
 https://github.com/hslatman/awesome-threat-intelligence
@@ -6938,7 +6979,7 @@ https://github.com/jeremylong/DependencyCheck
 https://github.com/jerhadf/linear-mcp-server
 https://github.com/jeroennoten/Laravel-AdminLTE
 https://github.com/jeroentrappers/flutter_jailbreak_detection
-https://github.com/jerosoler/Drawflow
+https://github.com/jerryc127/hexo-theme-butterfly
 https://github.com/jerrykuku/luci-theme-argon
 https://github.com/jerryn70/GoodbyeAds
 https://github.com/jesse-ai/jesse
@@ -6979,6 +7020,8 @@ https://github.com/jistr/vim-nerdtree-tabs
 https://github.com/jito-foundation/jito-solana
 https://github.com/jitsi/docker-jitsi-meet
 https://github.com/jitsi/jitsi-meet
+https://github.com/jitwxs/163MusicLyrics
+https://github.com/jivoi/awesome-osint
 https://github.com/jixiaozhong/Sonic
 https://github.com/jj-vcs/jj
 https://github.com/jjleng/copilot-more
@@ -7179,7 +7222,6 @@ https://github.com/karpathy/llama2.c
 https://github.com/karpathy/llm.c
 https://github.com/karpathy/micrograd
 https://github.com/karpathy/minGPT
-https://github.com/karpathy/nanoGPT
 https://github.com/karpathy/ng-video-lecture
 https://github.com/karpathy/nn-zero-to-hero
 https://github.com/karthik/wesanderson
@@ -7195,6 +7237,7 @@ https://github.com/kassane/zig-esp-idf-sample
 https://github.com/kata-containers/kata-containers
 https://github.com/katanemo/archgw
 https://github.com/kavishdevar/aln
+https://github.com/kavishdevar/librepods
 https://github.com/kawre/leetcode.nvim
 https://github.com/kazuho/p5-Server-Starter
 https://github.com/kchmck/vim-coffee-script
@@ -7210,7 +7253,6 @@ https://github.com/keep-starknet-strange/garaga
 https://github.com/keepassxreboot/keepassxc
 https://github.com/keephq/keep
 https://github.com/keikaavousi/fake-store-api
-https://github.com/keitaoouchi/MarkdownView
 https://github.com/keith/swift.vim
 https://github.com/keiyoushi/extensions-source
 https://github.com/kekingcn/kkFileView
@@ -7443,6 +7485,7 @@ https://github.com/langchain-ai/langchain-nextjs-template
 https://github.com/langchain-ai/langchainjs
 https://github.com/langchain-ai/langgraph
 https://github.com/langchain-ai/langgraph-studio
+https://github.com/langchain-ai/langmem
 https://github.com/langchain-ai/langsmith-docs
 https://github.com/langchain-ai/local-deep-researcher
 https://github.com/langchain-ai/ollama-deep-researcher
@@ -7549,6 +7592,7 @@ https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
 https://github.com/lepoco/wpfui
 https://github.com/leptos-rs/book
 https://github.com/leptos-rs/leptos
+https://github.com/lerocha/chinook-database
 https://github.com/lervag/vimtex
 https://github.com/lessonly/scim_rails
 https://github.com/letmaik/rawpy
@@ -7567,6 +7611,7 @@ https://github.com/liam-hq/liam
 https://github.com/liantze/AltaCV
 https://github.com/lib-pku/libpku
 https://github.com/lib/pq
+https://github.com/libarchive/libarchive
 https://github.com/libbpf/libbpf
 https://github.com/libbpf/libbpf-bootstrap
 https://github.com/libccy/noname
@@ -7605,6 +7650,7 @@ https://github.com/lich0821/WeChatFerry
 https://github.com/lichess-org/lila
 https://github.com/lichess-org/lila-ws
 https://github.com/lichess-org/mobile
+https://github.com/lichess-org/scalachess
 https://github.com/lifeparticle/Markdown-Cheatsheet
 https://github.com/liferay/liferay-portal
 https://github.com/lifinance/contracts
@@ -7630,6 +7676,7 @@ https://github.com/linera-io/linera-protocol
 https://github.com/linexjlin/GPTs
 https://github.com/lingodotdev/lingo.dev
 https://github.com/linkease/istore
+https://github.com/linkfrg/dotfiles
 https://github.com/linkwarden/linkwarden
 https://github.com/linode/apl-core
 https://github.com/linshenkx/prompt-optimizer
@@ -7739,8 +7786,10 @@ https://github.com/lovelaze/nebula-sync
 https://github.com/lovell/sharp
 https://github.com/lowRISC/ibex
 https://github.com/lowRISC/opentitan
+https://github.com/lowcoder-org/lowcoder
 https://github.com/lox-space/lox
 https://github.com/lpiccinelli-eth/UniDepth
+https://github.com/lptstr/winfetch
 https://github.com/ls1intum/thesis-template-typst
 https://github.com/lscambo13/ElegantFin
 https://github.com/lsky-org/lsky-pro
@@ -7748,7 +7797,6 @@ https://github.com/lstprjct/IDM-Activation-Script
 https://github.com/ltaoo/wx_channels_download
 https://github.com/ltdrdata/ComfyUI-Manager
 https://github.com/luarocks/luarocks
-https://github.com/luarocks/luarocks-site
 https://github.com/luau-lang/luau
 https://github.com/lucasg/Dependencies
 https://github.com/lucaslorentz/caddy-docker-proxy
@@ -7770,6 +7818,7 @@ https://github.com/lukevella/rallly
 https://github.com/lumina-ai-inc/chunkr
 https://github.com/lunarphp/lunar
 https://github.com/luochen1990/rainbow
+https://github.com/luong-komorebi/Awesome-Linux-Software
 https://github.com/lusingander/stu
 https://github.com/lustre-labs/lustre
 https://github.com/luukvbaal/statuscol.nvim
@@ -7909,6 +7958,7 @@ https://github.com/marmelroy/PhoneNumberKit
 https://github.com/marticliment/UniGetUI
 https://github.com/martinothamar/Mediator
 https://github.com/martinpitt/umockdev
+https://github.com/martinthomson/i-d-template
 https://github.com/mas-cli/mas
 https://github.com/masmovil/masorange_rules_helm
 https://github.com/mason-org/mason-lspconfig.nvim
@@ -7957,6 +8007,7 @@ https://github.com/matthewjberger/scoop-nerd-fonts
 https://github.com/mattjbray/ocaml-decoders
 https://github.com/mattn/emmet-vim
 https://github.com/mattn/go-sqlite3
+https://github.com/mattn/vim-gist
 https://github.com/mattn/vim-lsp-settings
 https://github.com/mattvh/jekyllthemes
 https://github.com/matuzo/HTMHell
@@ -8031,6 +8082,7 @@ https://github.com/mendableai/firecrawl-mcp-server
 https://github.com/mendersoftware/meta-mender
 https://github.com/mendersoftware/meta-mender-community
 https://github.com/mendix/docs
+https://github.com/mengps/DelegateUI
 https://github.com/menloresearch/jan
 https://github.com/mentebinaria/retoolkit
 https://github.com/meow-edit/meow
@@ -8359,6 +8411,7 @@ https://github.com/miurla/morphic
 https://github.com/mixmark-io/turndown
 https://github.com/mixpanel/mixpanel-iphone
 https://github.com/mixxxdj/mixxx
+https://github.com/mizhexiaoxiao/vue-fastapi-admin
 https://github.com/mjansen4857/pathplanner
 https://github.com/mjl-/mox
 https://github.com/mk6i/retro-aim-server
@@ -8429,6 +8482,7 @@ https://github.com/moesoha/debian-media-box
 https://github.com/moeyua/astro-theme-typography
 https://github.com/mofeng-git/One-KVM
 https://github.com/moffatman/chan
+https://github.com/mogenson/PaperWM.spoon
 https://github.com/moghtech/komodo
 https://github.com/mohkale/consult-eglot
 https://github.com/mohsenph69/Godot-MTerrain-plugin
@@ -8638,6 +8692,7 @@ https://github.com/naymspace/backpex
 https://github.com/nayuki/QR-Code-generator
 https://github.com/ncruces/go-sqlite3
 https://github.com/ndmitchell/hoogle
+https://github.com/ndom91/rose-pine-hyprcursor
 https://github.com/near/docs
 https://github.com/near/nearcore
 https://github.com/necolas/normalize.css
@@ -8885,6 +8940,7 @@ https://github.com/nodesource/distributions
 https://github.com/nofeletru/UsbAsp-flash
 https://github.com/noir-lang/noir
 https://github.com/noir-lang/noir-bignum
+https://github.com/nolanw/HTMLReader
 https://github.com/nolimits4web/swiper
 https://github.com/nolimits4web/swiper-website
 https://github.com/nomad-xyz/ExcessivelySafeCall
@@ -9021,6 +9077,7 @@ https://github.com/ocaml/flexdll
 https://github.com/ocaml/merlin
 https://github.com/ocaml/ocaml
 https://github.com/ocaml/ocaml-lsp
+https://github.com/ocaml/ocaml.org
 https://github.com/ocaml/opam
 https://github.com/ocaml/tuareg
 https://github.com/oceanbase/miniob
@@ -9363,7 +9420,6 @@ https://github.com/pages-themes/architect
 https://github.com/pages-themes/cayman
 https://github.com/pages-themes/hacker
 https://github.com/pages-themes/leap-day
-https://github.com/pages-themes/merlot
 https://github.com/pages-themes/minimal
 https://github.com/pages-themes/modernist
 https://github.com/pages-themes/slate
@@ -9493,6 +9549,7 @@ https://github.com/photoprism/photoprism
 https://github.com/php-amqplib/php-amqplib
 https://github.com/php-webdriver/php-webdriver
 https://github.com/php/doc-en
+https://github.com/php/frankenphp
 https://github.com/php/php-src
 https://github.com/phpbrew/phpbrew
 https://github.com/phpmyadmin/phpmyadmin
@@ -9524,6 +9581,7 @@ https://github.com/pinojs/pino
 https://github.com/pinpoint-apm/pinpoint
 https://github.com/pinterest/PINCache
 https://github.com/pinterest/PINRemoteImage
+https://github.com/pinterest/elixir-thrift
 https://github.com/pinterest/ktlint
 https://github.com/pion/webrtc
 https://github.com/piotrostr/listen
@@ -9568,6 +9626,7 @@ https://github.com/pluja/whishper
 https://github.com/plumatic/schema
 https://github.com/pmd/pmd
 https://github.com/pmizio/typescript-tools.nvim
+https://github.com/pmlmodelling/ersem
 https://github.com/pmmp/PocketMine-MP
 https://github.com/pmndrs/zustand
 https://github.com/pmusolino/Wormholy
@@ -9602,6 +9661,7 @@ https://github.com/pop-os/cosmic-comp
 https://github.com/pop-os/cosmic-epoch
 https://github.com/popcar2/GodotOS
 https://github.com/popcorn-official/popcorn-desktop
+https://github.com/portabilis/i-educar
 https://github.com/portainer/portainer
 https://github.com/portainer/templates
 https://github.com/portapack-mayhem/mayhem-firmware
@@ -9790,6 +9850,7 @@ https://github.com/purcell/page-break-lines
 https://github.com/pure-admin/vue-pure-admin
 https://github.com/puremourning/vimspector
 https://github.com/purescript-contrib/purescript-aff
+https://github.com/purescript-halogen/purescript-halogen
 https://github.com/purescript/purescript
 https://github.com/purescript/purescript-arrays
 https://github.com/purescript/purescript-catenable-lists
@@ -9805,9 +9866,11 @@ https://github.com/purescript/purescript-record
 https://github.com/purescript/purescript-strings
 https://github.com/purescript/purescript-transformers
 https://github.com/purescript/purescript-typelevel-prelude
+https://github.com/purescript/registry-dev
 https://github.com/putyy/res-downloader
 https://github.com/pvarki/docker-atak-server
 https://github.com/pwntester/octo.nvim
+https://github.com/pwntester/ysoserial.net
 https://github.com/py-why/EconML
 https://github.com/pyannote/pyannote-audio
 https://github.com/pybind/pybind11
@@ -9895,6 +9958,7 @@ https://github.com/r-lib/remotes
 https://github.com/r-lib/tree-sitter-r
 https://github.com/r-lidar/lidR
 https://github.com/r-spatial/sf
+https://github.com/r-three/common-pile
 https://github.com/r0oth3x49/ghauri
 https://github.com/r9y9/pyopenjtalk
 https://github.com/rabbibotton/clog
@@ -10169,6 +10233,7 @@ https://github.com/robertmuth/Cwerg
 https://github.com/robertpiosik/gemini-coder
 https://github.com/robfig/cron
 https://github.com/robfiras/loco-mujoco
+https://github.com/robiningelbrecht/statistics-for-strava
 https://github.com/roboflow/maestro
 https://github.com/roboflow/notebooks
 https://github.com/roboflow/supervision
@@ -10260,7 +10325,6 @@ https://github.com/ruby/ruby
 https://github.com/ruby/setup-ruby
 https://github.com/rubycdp/cuprite
 https://github.com/rubygems/rubygems
-https://github.com/rubygems/rubygems.org
 https://github.com/rubysec/bundler-audit
 https://github.com/rubysec/ruby-advisory-db
 https://github.com/rudderlabs/rudderstack-helm
@@ -10299,6 +10363,7 @@ https://github.com/rust-lang/nomicon
 https://github.com/rust-lang/rfcs
 https://github.com/rust-lang/rust
 https://github.com/rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-bindgen
 https://github.com/rust-lang/rust-by-example
 https://github.com/rust-lang/rust-clippy
 https://github.com/rust-lang/rust-mode
@@ -10437,6 +10502,7 @@ https://github.com/scalameta/scalafmt
 https://github.com/scalameta/scalameta
 https://github.com/scalapb/ScalaPB
 https://github.com/scalar/scalar
+https://github.com/scalatest/scalatest
 https://github.com/scaleway/docs-content
 https://github.com/scality/Zenko
 https://github.com/scality/metalk8s
@@ -10768,6 +10834,7 @@ https://github.com/sourcegit-scm/sourcegit
 https://github.com/sourcegraph/cody
 https://github.com/sourcegraph/conc
 https://github.com/sous-chefs/ark
+https://github.com/sous-chefs/nodejs
 https://github.com/souzatharsis/podcastfy
 https://github.com/soxoj/maigret
 https://github.com/sozercan/kubectl-ai
@@ -10934,6 +11001,7 @@ https://github.com/stevearc/oil.nvim
 https://github.com/stevearc/overseer.nvim
 https://github.com/stevearc/quicker.nvim
 https://github.com/steveicarus/iverilog
+https://github.com/steveiliop56/tinyauth
 https://github.com/steven2358/awesome-generative-ai
 https://github.com/steveseguin/social_stream
 https://github.com/stipub/stixfonts
@@ -11007,6 +11075,8 @@ https://github.com/super-linter/super-linter
 https://github.com/supercollider/supercollider
 https://github.com/supercorp-ai/supergateway
 https://github.com/supermaven-inc/supermaven-nvim
+https://github.com/supermemoryai/apple-mcp
+https://github.com/supermemoryai/supermemory
 https://github.com/superseriousbusiness/gotosocial
 https://github.com/supershadoe/delta
 https://github.com/supertokens/supertokens-core
@@ -11509,6 +11579,7 @@ https://github.com/ttroy50/cmake-examples
 https://github.com/ttu-ttu/ebook-reader
 https://github.com/tuananh/hyper-mcp
 https://github.com/tuhdo/os01
+https://github.com/tuist/Noora
 https://github.com/tuist/XcodeProj
 https://github.com/tuist/tuist
 https://github.com/tukaani-project/xz
@@ -12016,10 +12087,12 @@ https://github.com/wixtoolset/wix
 https://github.com/wiz-sec/charts
 https://github.com/wizarrrr/wizarr
 https://github.com/wizwizdev/wizwizxui-timebot
+https://github.com/wjakob/instant-meshes
 https://github.com/wkhtmltopdf/wkhtmltopdf
 https://github.com/wmariuss/awesome-devops
 https://github.com/wmjordan/PDFPatcher
 https://github.com/wobsoriano/svelte-sonner
+https://github.com/wodby/docker4wordpress
 https://github.com/wojciech-kulik/xcodebuild.nvim
 https://github.com/wojtekmach/req
 https://github.com/wolfSSL/meta-wolfssl
@@ -12106,6 +12179,7 @@ https://github.com/xiph/rnnoise
 https://github.com/xiv3r/Burpsuite-Professional
 https://github.com/xjh22222228/nav
 https://github.com/xlang-ai/Spider2
+https://github.com/xlsynth/bedrock-rtl
 https://github.com/xmake-io/xmake
 https://github.com/xmake-io/xmake-repo
 https://github.com/xmartlabs/XLPagerTabStrip
@@ -12218,6 +12292,7 @@ https://github.com/yunanwg/brilliant-CV
 https://github.com/yuruotong1/autoMate
 https://github.com/yusing/go-proxy
 https://github.com/yutiansut/QUANTAXIS
+https://github.com/yuzono/aniyomi-extensions
 https://github.com/z-huang/InnerTune
 https://github.com/z00m128/sjasmplus
 https://github.com/z88dk/z88dk
