@@ -80,6 +80,8 @@ FROM tamasfe/taplo:${DOCKER_TAPLO_VERSION} AS taplo-builder
 # python
 # https://hub.docker.com/_/python
 FROM python:${DOCKER_PYTHON_VERSION}
+ENV DEBIAN_FRONTEND=noninteractive
+ENV DEBCONF_NOWARNINGS=yes
 
 # add distribution packages
 RUN apt-get -y update
@@ -118,6 +120,10 @@ COPY --from=jq-builder /jq /usr/local/bin/
 # yq
 # refs above
 COPY --from=yq-builder /usr/bin/yq /usr/local/bin/
+
+# taplo
+# refs above
+COPY --from=taplo-builder /taplo /usr/local/bin/
 
 # prettier
 # https://prettier.io/docs/install

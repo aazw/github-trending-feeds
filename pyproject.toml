@@ -5,8 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "beautifulsoup4==4.13.4",
-    "click==8.2.1",
-    "dateparser==1.2.1",
-    "requests==2.32.3",
+  "beautifulsoup4==4.13.4",
+  "click==8.2.1",
+  "dateparser==1.2.1",
+  "requests==2.32.3",
 ]
