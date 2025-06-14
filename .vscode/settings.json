@@ -44,12 +44,19 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true
   },
-  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
-  "python.analysis.extraPaths": [
-    "/venv/lib/python3.11/site-packages/",
-    "/workspaces/github-trending-feeds/.venv/lib/python3.13/site-packages/",
-    "/workspaces/github-trending-feeds/.venv/lib64/python3.13/site-packages/"
-  ],
   // Back Formatter
-  "black-formatter.args": ["--line-length=200"]
+  "black-formatter.args": ["--line-length=200"],
+  // VSCodeを軽くする
+  "files.watcherExclude": {
+    "**/.git/**": true,
+    "**/.venv/**": true,
+    "**/docs/feeds/**": true,
+    "**/docs/new-arrivals/**": true
+  },
+  "search.exclude": {
+    "**/.git/**": true,
+    "**/.venv/**": true,
+    "**/docs/feeds/**": true,
+    "**/docs/new-arrivals/**": true
+  }
 }
