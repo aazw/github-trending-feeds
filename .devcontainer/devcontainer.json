@@ -32,7 +32,8 @@
   "remoteUser": "vscode",
   "remoteEnv": {
     "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}",
-    "TZ": "Asia/Tokyo"
+    "TZ": "Asia/Tokyo",
+    "UV_PROJECT_ENVIRONMENT": "/home/vscode/.venv"
   },
   "runArgs": [
     "--name",
