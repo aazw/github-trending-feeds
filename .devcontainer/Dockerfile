@@ -6,11 +6,12 @@
 # 14 (Forky)
 
 # for main image
-ARG DOCKER_PYTHON_VERSION=3.13.4-bookworm
+ARG DOCKER_DEBIAN_VERSION=12.11
 
 # for builder images
 ARG DOCKER_GO_VERSION=1.24.4-bookworm
 ARG DOCKER_NODE_VERSION=22.16.0-bookworm
+ARG DOCKER_PYTHON_VERSION=3.13.4-bookworm
 ARG DOCKER_JQ_VERSION=1.8.0
 ARG DOCKER_YQ_VERSION=4.45.4
 ARG DOCKER_TAPLO_VERSION=0.10.0
@@ -57,6 +58,15 @@ RUN go install github.com/go-task/task/v3/cmd/task@${GO_GO_TASK_VERSION}
 # https://note.milldea.com/posts/two-ways-to-install-nodejs-with-fixed-version-in-dockerfile
 FROM node:${DOCKER_NODE_VERSION} AS node-builder
 
+# python
+# https://hub.docker.com/_/python
+FROM python:${DOCKER_PYTHON_VERSION} AS python-builder
+RUN mkdir -p /python-install \
+    && cp -r /usr/local/bin /python-install/ \
+    && cp -r /usr/local/lib /python-install/ \
+    && cp -r /usr/local/include /python-install/ \
+    && rm -rf /python-install/lib/pkgconfig
+
 # jq
 # https://github.com/mikefarah/yq
 # https://github.com/jqlang/jq
@@ -77,9 +87,9 @@ FROM tamasfe/taplo:${DOCKER_TAPLO_VERSION} AS taplo-builder
 # main image
 # ##########################################################################################
 
-# python
-# https://hub.docker.com/_/python
-FROM python:${DOCKER_PYTHON_VERSION}
+# debian
+# https://hub.docker.com/_/debian/
+FROM debian:${DOCKER_DEBIAN_VERSION}
 ENV DEBIAN_FRONTEND=noninteractive
 ENV DEBCONF_NOWARNINGS=yes
 
@@ -113,6 +123,13 @@ RUN ln -s /usr/local/bin/node /usr/local/bin/nodejs \
     && ln -s /usr/local/lib/node_modules/npm/bin/npm-cli.js /usr/local/bin/npx
 RUN npm install -g yarn
 
+# python
+# refs above
+RUN apt-get update -y && apt-get install -y expat
+COPY --from=python-builder /python-install/bin/ /usr/local/bin/
+COPY --from=python-builder /python-install/lib/ /usr/local/lib/
+COPY --from=python-builder /python-install/include/ /usr/local/include/
+
 # jq
 # refs above
 COPY --from=jq-builder /jq /usr/local/bin/
@@ -136,6 +153,37 @@ RUN yarn global add prettier@${NPM_PRETTIER_VERSION}
 ARG NPM_RENOVATE_VERSION
 RUN yarn global add renovate@${NPM_RENOVATE_VERSION}
 
+# claude-code
+# https://github.com/anthropics/claude-code
+# https://github.com/anthropics/claude-code/blob/main/.devcontainer/devcontainer.json
+# https://github.com/anthropics/claude-code/blob/main/.devcontainer/Dockerfile
+# https://github.com/anthropics/claude-code/blob/main/.devcontainer/init-firewall.sh
+RUN apt-get update -y && apt-get install -y \
+    less \
+    git \
+    procps \
+    sudo \
+    fzf \
+    zsh \
+    man-db \
+    unzip \
+    gnupg2 \
+    gh \
+    iptables \
+    ipset \
+    iproute2 \
+    dnsutils \
+    aggregate
+ARG NPM_CLAUDE_CODE_VERSION
+RUN npm install -g @anthropic-ai/claude-code@${NPM_CLAUDE_CODE_VERSION}
+ENV DEVCONTAINER=true
+
+## ccusage
+# https://github.com/ryoppippi/ccusage
+# https://www.npmjs.com/package/ccusage
+ARG NPM_CCUSAGE_VERSION
+RUN npm install -g ccusage@${NPM_CCUSAGE_VERSION}
+
 # add vscode user
 # https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user#_creating-a-nonroot-user
 ARG USERNAME=vscode
@@ -149,11 +197,6 @@ RUN groupadd --gid $USER_GID $USERNAME \
     && echo $USERNAME ALL=\(root\) NOPASSWD:ALL >/etc/sudoers.d/$USERNAME \
     && chmod 0440 /etc/sudoers.d/$USERNAME
 USER $USERNAME
-
-# python
-# > WARNING: The scripts pip, pip3 and pip3.13 are installed in '/home/vscode/.local/bin' which is not on PATH.
-# > Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
-ENV PATH=/home/vscode/.local/bin:$PATH
 
 # pip
 # https://pypi.org/project/pip/
