@@ -13,6 +13,7 @@ cd ${SCRIPT_DIR}/..
 while read language; do
 	# languages.txtで各行冒頭『#』でコメントアウトできるようにした
 	if [[ ! $language =~ ^# ]]; then
+		mkdir -p "./docs/feeds/${language}/"
 
 		# 一時的なエラーなどで取得が失敗すると、後続の取得まで全部できなくなるので、ここだけset -eを解除
 		set +e
