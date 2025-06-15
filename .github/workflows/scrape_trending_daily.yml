@@ -32,15 +32,26 @@ jobs:
       ( github.event_name == 'workflow_dispatch' && !fromJson(github.event.inputs.skip_scrape || 'false') )
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
       - name: Install uv
         uses: astral-sh/setup-uv@v6
+      - name: Checkout github-trending-feeds
+        uses: actions/checkout@v4
+        with:
+          path: github-trending-feeds
+      - name: Checkout github-trending-feeds-data
+        uses: actions/checkout@v4
+        with:
+          repository: aazw/github-trending-feeds-data
+          token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }} 
+          path: github-trending-feeds-data
       - name: Install packages
+        working-directory: github-trending-feeds
         run: uv sync --link-mode=copy
       - name: Scrape trending
+        working-directory: github-trending-feeds
         run: ./scripts/scrape_trending_daily.sh
-      - name: Copy atoms
+      - name: Copy atoms with date
+        working-directory: github-trending-feeds
         run: |
           d=$(date -I)
 
@@ -48,11 +59,13 @@ jobs:
             mkdir -p "$(dirname $atom)/daily"
             cp "${atom}" "$(dirname $atom)/daily/daily-${d}.atom"
           done
+      - name: Copy to data repo
+        run: cp -r github-trending-feeds/docs/feeds/* github-trending-feeds-data/docs/feeds/
       - name: Create new commit
+        working-directory: github-trending-feeds-data
         run: |
           git config user.name  github-actions
           git config user.email github-actions@github.com
-          git pull
           git add ./docs/feeds/
           git commit -m "add/update the file about daily trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
           git push
