@@ -42,7 +42,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: aazw/github-trending-feeds-data
-          token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }} 
+          token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
           path: github-trending-feeds-data
       - name: Install packages
         working-directory: github-trending-feeds
