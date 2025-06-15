@@ -33,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install uv
+        working-directory: github-trending-feeds
         uses: astral-sh/setup-uv@v6
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
@@ -79,21 +80,34 @@ jobs:
       needs.scrape_github_trending.result != 'failure' &&
       needs.scrape_github_trending.result != 'cancelled'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
       - name: Install uv
+        working-directory: github-trending-feeds
         uses: astral-sh/setup-uv@v6
+      - name: Checkout github-trending-feeds
+        uses: actions/checkout@v4
+        with:
+          path: github-trending-feeds
+      - name: Checkout github-trending-feeds-data
+        uses: actions/checkout@v4
+        with:
+          repository: aazw/github-trending-feeds-data
+          token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
+          path: github-trending-feeds-data
       - name: Install packages
+        working-directory: github-trending-feeds
         run: uv sync --link-mode=copy
       - name: Unique links
-        run: uv run apps/new_arrivals.py --dir docs --period daily --urls urls.txt --format atom --output docs/new-arrivals/daily.atom
-      - name: Copy atom
+        working-directory: github-trending-feeds
+        run: uv run apps/new_arrivals.py --dir ../github-trending-feeds-data/docs/feeds --period daily --urls ../github-trending-feeds-data/urls.txt --format atom --output ../github-trending-feeds-data/docs/new-arrivals/daily.atom
+      - name: Copy atom with date
+        working-directory: github-trending-feeds-data
         run: |
           d=$(date -I)
 
           mkdir -p "docs/new-arrivals/daily"
           cp docs/new-arrivals/daily.atom docs/new-arrivals/daily/daily-${d}.atom
       - name: Create new commit
+        working-directory: github-trending-feeds-data
         run: |
           git config user.name  github-actions
           git config user.email github-actions@github.com
@@ -116,15 +130,27 @@ jobs:
       needs.new_arrivals.result != 'failure' &&
       needs.new_arrivals.result != 'cancelled'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
       - name: Install uv
+        working-directory: github-trending-feeds
         uses: astral-sh/setup-uv@v6
+      - name: Checkout github-trending-feeds
+        uses: actions/checkout@v4
+        with:
+          path: github-trending-feeds
+      - name: Checkout github-trending-feeds-data
+        uses: actions/checkout@v4
+        with:
+          repository: aazw/github-trending-feeds-data
+          token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
+          path: github-trending-feeds-data
       - name: Install packages
+        working-directory: github-trending-feeds
         run: uv sync --link-mode=copy
       - name: Update unique links
-        run: uv run apps/unique_list.py --dir docs --output urls.txt --force
+        working-directory: github-trending-feeds
+        run: uv run apps/unique_list.py --dir ../github-trending-feeds-data/docs/feeds --output ../github-trending-feeds-data/urls.txt --force
       - name: Create new commit
+        working-directory: github-trending-feeds-data
         run: |
           git config user.name  github-actions
           git config user.email github-actions@github.com
