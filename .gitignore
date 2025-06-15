@@ -406,3 +406,7 @@ $RECYCLE.BIN/
 # Claude Code data (keep settings.json, ignore session data)
 .claude/*
 !.claude/settings.json
+
+# Scraping 
+docs/*
+!docs/.gitkeep
