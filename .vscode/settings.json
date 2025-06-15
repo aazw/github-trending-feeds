@@ -44,6 +44,9 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true
   },
+  "python.analysis.extraPaths": [
+    "/home/vscode/.venv/lib/python3.13/site-packages"
+  ],
   // Back Formatter
   "black-formatter.args": ["--line-length=200"],
   // VSCodeを軽くする
