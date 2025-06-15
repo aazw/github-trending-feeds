@@ -33,7 +33,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install uv
-        working-directory: github-trending-feeds
         uses: astral-sh/setup-uv@v6
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
@@ -81,7 +80,6 @@ jobs:
       needs.scrape_github_trending.result != 'cancelled'
     steps:
       - name: Install uv
-        working-directory: github-trending-feeds
         uses: astral-sh/setup-uv@v6
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
@@ -131,7 +129,6 @@ jobs:
       needs.new_arrivals.result != 'cancelled'
     steps:
       - name: Install uv
-        working-directory: github-trending-feeds
         uses: astral-sh/setup-uv@v6
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
