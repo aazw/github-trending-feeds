@@ -53,12 +53,14 @@
   "files.watcherExclude": {
     "**/.git/**": true,
     "**/.venv/**": true,
+    "**/__pycache__/**": true,
     "**/docs/feeds/**": true,
     "**/docs/new-arrivals/**": true
   },
   "search.exclude": {
     "**/.git/**": true,
     "**/.venv/**": true,
+    "**/__pycache__/**": true,
     "**/docs/feeds/**": true,
     "**/docs/new-arrivals/**": true
   }
