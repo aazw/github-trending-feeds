@@ -28,8 +28,12 @@ NS = {"a": "http://www.w3.org/2005/Atom"}
 
 
 def iter_atom_paths(root: Path) -> Iterator[Path]:
-    # *.atom を symlink ディレクトリを除いて再帰列挙
-    yield from root.rglob("*.atom", recurse_symlinks=False)
+    """Iterate over .atom files recursively, excluding symlinked directories."""
+    try:
+        yield from root.rglob("*.atom", recurse_symlinks=False)
+    except Exception as e:
+        appLogger.error(f"Error iterating atom paths in {root}: {e}")
+        return
 
 
 @click.command()
@@ -44,6 +48,11 @@ def main(dirPath: Path, outputPath: Path, force: bool) -> None:
     if outputPath.exists() and not force:
         appLogger.error("output file already exists: %s (use --force to overwrite)", outputPath)
         sys.exit(1)
+    
+    # Validate input directory
+    if not dirPath.is_dir():
+        appLogger.error(f"Directory does not exist or is not a directory: {dirPath}")
+        sys.exit(1)
 
     appLogger.info(f"atom file searching in {dirPath}")
     urls: set[str] = set()
@@ -51,24 +60,45 @@ def main(dirPath: Path, outputPath: Path, force: bool) -> None:
     for atom_path in iter_atom_paths(dirPath):
         appLogger.debug(f"reading {atom_path}")
         try:
-            root = ET.parse(atom_path).getroot()
+            # Parse XML with security settings
+            parser = ET.XMLParser()
+            parser.parser.DefaultHandler = lambda _: None  # Disable DTD processing
+            
+            root = ET.parse(atom_path, parser).getroot()
         except ET.ParseError as e:
-            appLogger.warning(f"XML parse error in {p}: {e}")
+            appLogger.warning(f"XML parse error in {atom_path}: {e}")
+            continue
+        except Exception as e:
+            appLogger.error(f"Unexpected error reading {atom_path}: {e}")
             continue
 
-        for link in root.findall(".//a:link", NS):
-            href = link.get("href")
-            if href:
-                if link.get("rel") == "self" or link.get("rel") == "alternate":
-                    continue
-                urls.add(href)
+        try:
+            for link in root.findall(".//a:link", NS):
+                href = link.get("href")
+                if href:
+                    rel = link.get("rel")
+                    if rel in ("self", "alternate"):
+                        continue
+                    urls.add(href)
+        except Exception as e:
+            appLogger.warning(f"Error processing links in {atom_path}: {e}")
+            continue
 
     try:
+        # Ensure parent directory exists
+        outputPath.parent.mkdir(parents=True, exist_ok=True)
+        
         with outputPath.open("w", encoding="utf-8") as f:
             for url in sorted(urls):
                 f.write(url + "\n")
+    except PermissionError as e:
+        appLogger.error(f"Permission denied writing to {outputPath}: {e}")
+        sys.exit(1)
     except OSError as e:
-        appLogger.error(f"cannot write to {outputPath}: {e}")
+        appLogger.error(f"OS error writing to {outputPath}: {e}")
+        sys.exit(1)
+    except Exception as e:
+        appLogger.error(f"Unexpected error writing to {outputPath}: {e}")
         sys.exit(1)
 
     appLogger.info(f"wrote {len(urls)} unique URLs to {outputPath}")

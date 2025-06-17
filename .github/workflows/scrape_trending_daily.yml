@@ -94,6 +94,12 @@ jobs:
       - name: Install packages
         working-directory: github-trending-feeds
         run: uv sync --link-mode=copy
+      - name: Create urls.txt if not exists
+        working-directory: github-trending-feeds-data
+        run: |
+          if [ ! -f urls.txt ]; then
+            touch urls.txt
+          fi
       - name: Unique links
         working-directory: github-trending-feeds
         run: uv run apps/new_arrivals.py --dir ../github-trending-feeds-data/docs/feeds --period daily --urls ../github-trending-feeds-data/urls.txt --format atom --output ../github-trending-feeds-data/docs/new-arrivals/daily.atom

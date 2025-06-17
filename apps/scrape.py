@@ -25,17 +25,26 @@ from requests.exceptions import (  # https://requests.readthedocs.io/en/latest/_
 from bs4 import BeautifulSoup
 
 
-# Making Python loggers output all messages to stdout in addition to log file
-# https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log-file
-formatter = logging.Formatter("%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s")
+def setup_logging(level: int = logging.INFO) -> logging.Logger:
+    """Setup logging with proper handler management."""
+    logger = logging.getLogger(__name__)
+    
+    # Avoid duplicate handlers
+    if logger.handlers:
+        return logger
+    
+    formatter = logging.Formatter("%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s")
+    
+    handler = logging.StreamHandler(sys.stdout)
+    handler.setLevel(level)
+    handler.setFormatter(formatter)
+    
+    logger.addHandler(handler)
+    logger.setLevel(level)
+    
+    return logger
 
-handler = logging.StreamHandler(sys.stdout)
-handler.setLevel(logging.DEBUG)
-handler.setFormatter(formatter)
-
-appLogger = logging.getLogger(__name__)
-appLogger.setLevel(logging.INFO)
-appLogger.addHandler(handler)
+appLogger = setup_logging()
 
 
 class ReturnCode(Enum):
@@ -109,7 +118,14 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
     # updated (drop milliseconds)
     updated = datetime.datetime.now(datetime.timezone.utc)
     if atom_updated_date:
-        updated = dateparser.parse(atom_updated_date)
+        try:
+            parsed_date = dateparser.parse(atom_updated_date)
+            if parsed_date is None:
+                appLogger.warning(f"Failed to parse atom_updated_date: {atom_updated_date}, using current time")
+            else:
+                updated = parsed_date
+        except Exception as e:
+            appLogger.warning(f"Error parsing atom_updated_date: {atom_updated_date}, using current time: {e}")
 
     appLogger.info(f"generated: updated = {updated}")
 
@@ -135,16 +151,16 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
 
         appLogger.error("app failed")
         if status_code >= 400 and status_code < 500:
-            sys.exit(ReturnCode.HTTP_400_ERROR)
-        if status_code >= 500 and status_code < 600:
-            sys.exit(ReturnCode.HTTP_500_ERROR)
+            sys.exit(ReturnCode.HTTP_400_ERROR.value)
+        elif status_code >= 500 and status_code < 600:
+            sys.exit(ReturnCode.HTTP_500_ERROR.value)
         else:
-            sys.exit(ReturnCode.HTTP_ERROR)
+            sys.exit(ReturnCode.HTTP_ERROR.value)
 
     except TooManyRedirects as e:  # リダイレクトが多すぎる場合に発生
         appLogger.error(f"requests too many redirects error {e}")
         appLogger.error("app failed")
-        sys.exit(ReturnCode.TOO_MANY_REDIRECTS_ERROR)
+        sys.exit(ReturnCode.TOO_MANY_REDIRECTS_ERROR.value)
 
     except (Timeout, ConnectTimeout, ReadTimeout) as e:
         # ConnectTimeout: 接続確立中のタイムアウト
@@ -152,60 +168,74 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
         # Timeout: ConnectTimeout または ReadTimeout の親クラス
         appLogger.error(f"requests timeout error {e}")
         appLogger.error("app failed")
-        sys.exit(ReturnCode.TIMEOUT_ERROR)
+        sys.exit(ReturnCode.TIMEOUT_ERROR.value)
 
     except ConnectionError as e:  # サーバーへの接続に失敗した場合に発生
         appLogger.error(f"requests connection error: {e}")
         appLogger.error("app failed")
-        sys.exit(ReturnCode.CONNECTION_ERROR)
+        sys.exit(ReturnCode.CONNECTION_ERROR.value)
 
     except InvalidURL as e:  # URLが無効または不適切な形式の場合に発生
         appLogger.error(f"requests invalid url error {e}")
         appLogger.error("app failed")
-        sys.exit(ReturnCode.INVALID_URL_ERROR)
+        sys.exit(ReturnCode.INVALID_URL_ERROR.value)
 
     except RequestException as e:  # requestsの例外の基底クラス
         appLogger.error(f"request error: {e}")
         appLogger.error("app failed")
-        sys.exit(ReturnCode.REQUESTS_ERROR)
+        sys.exit(ReturnCode.REQUESTS_ERROR.value)
 
     except Exception as e:  # Unknown Error
         appLogger.error(f"requests unknown error: {e}")
-
-        # PythonのException発生時のTracebackを綺麗に見る
-        # https://vaaaaaanquish.hatenablog.com/entry/2017/12/14/183225
-        t, v, tb = sys.exc_info()
-        appLogger.error(traceback.format_exception(t, v, tb))
-        appLogger.error(traceback.format_tb(e.__traceback__))
-
+        appLogger.error(f"Traceback: {''.join(traceback.format_tb(e.__traceback__))}")
         appLogger.error("app failed")
-        sys.exit(ReturnCode.UNKNOWN_ERROR)
+        sys.exit(ReturnCode.UNKNOWN_ERROR.value)
 
-    # parse DOM
-    soup = BeautifulSoup(res.text, "html.parser")
-    items = soup.select("article.Box-row")
+    # parse DOM with error handling
+    try:
+        soup = BeautifulSoup(res.text, "html.parser")
+        items = soup.select("article.Box-row")
+        if not items:
+            appLogger.warning("No trending repositories found on the page")
+    except Exception as e:
+        appLogger.error(f"Error parsing HTML: {e}")
+        appLogger.error("app failed")
+        sys.exit(ReturnCode.UNKNOWN_ERROR.value)
 
-    feeds: list = []
+    feeds: list[dict[str, str | None]] = []
     for item in reversed(items):
-        # get repository path
-        repository_path = item.select_one("h2 a").get("href")
-        repository_url = f"https://github.com{repository_path}"
+        try:
+            # get repository path with error handling
+            h2_link = item.select_one("h2 a")
+            if h2_link is None:
+                appLogger.warning("Repository link not found in item, skipping")
+                continue
+            
+            repository_path = h2_link.get("href")
+            if repository_path is None:
+                appLogger.warning("Repository href not found in link, skipping")
+                continue
+            
+            repository_url = f"https://github.com{repository_path}"
 
-        # get description
-        repository_description = None
-        p = item.select_one("p")
-        if p:
-            repository_description = p.get_text()
-            if repository_description:
-                repository_description = repository_description.strip()
+            # get description with error handling
+            repository_description = None
+            p = item.select_one("p")
+            if p:
+                repository_description = p.get_text()
+                if repository_description:
+                    repository_description = repository_description.strip()
 
-        feeds.append(
-            {
-                "repository_path": repository_path,
-                "repository_url": repository_url,
-                "repository_description": repository_description,
-            }
-        )
+            feeds.append(
+                {
+                    "repository_path": repository_path,
+                    "repository_url": repository_url,
+                    "repository_description": repository_description,
+                }
+            )
+        except Exception as e:
+            appLogger.warning(f"Error processing repository item: {e}")
+            continue
 
     feeds = sorted(feeds, key=lambda x: x["repository_url"])
 
@@ -318,7 +348,8 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
         ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(timespec="seconds")
 
         # content
-        content = ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}content", attrib={"type": "text"}).text = repository_description
+        content = ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}content", attrib={"type": "text"})
+        content.text = repository_description
 
     # pretty print
     ET.indent(feed)
@@ -348,26 +379,26 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
             # 指定されたファイルやディレクトリが見つからない場合
             appLogger.error(f"file not found error: {e}")
             appLogger.error("app failed")
-            sys.exit(ReturnCode.FILE_NOT_FOUND_ERROR)
+            sys.exit(ReturnCode.FILE_NOT_FOUND_ERROR.value)
         except IsADirectoryError as e:
             # 指定されたパスがディレクトリの場合
             appLogger.error(f"is a directory error: {e}")
             appLogger.error("app failed")
-            sys.exit(ReturnCode.IS_DIRECTORY_ERROR)
+            sys.exit(ReturnCode.IS_DIRECTORY_ERROR.value)
         except PermissionError as e:
             # アクセス権限がない場合
             appLogger.error(f"permission error: {e}")
             appLogger.error("app failed")
-            sys.exit(ReturnCode.PERMISSION_ERROR)
+            sys.exit(ReturnCode.PERMISSION_ERROR.value)
         except OSError as e:
             # その他のOS関連のエラー (例: I/Oエラー、デバイスエラーなど)
             appLogger.error(f"os error: {e}")
             appLogger.error("app failed")
-            sys.exit(ReturnCode.OS_ERROR)
+            sys.exit(ReturnCode.OS_ERROR.value)
         except Exception as e:
             appLogger.error(f"unknown error: {e}")
             appLogger.error("app failed")
-            sys.exit(ReturnCode.UNKNOWN_ERROR)
+            sys.exit(ReturnCode.UNKNOWN_ERROR.value)
 
     appLogger.info("app finished")
 
