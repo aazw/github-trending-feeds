@@ -24,6 +24,8 @@ ARG GO_GO_TASK_VERSION=v3.44.0
 # for npm tools
 ARG NPM_PRETTIER_VERSION=3.5.3
 ARG NPM_RENOVATE_VERSION=40.56.3
+ARG NPM_CLAUDE_CODE_VERSION=1.0.24
+ARG NPM_CCUSAGE_VERSION=0.8.0
 
 # for pip tools
 ARG PIP_PIP_VERSION=25.1.1
@@ -184,6 +186,17 @@ ENV DEVCONTAINER=true
 ARG NPM_CCUSAGE_VERSION
 RUN npm install -g ccusage@${NPM_CCUSAGE_VERSION}
 
+# pip
+# https://pypi.org/project/pip/
+ARG PIP_PIP_VERSION
+RUN pip install --upgrade pip==${PIP_PIP_VERSION}
+
+# uv
+# https://github.com/astral-sh/uv
+# https://pypi.org/project/uv/
+ARG PIP_UV_VERSION
+RUN pip install uv==${PIP_UV_VERSION}
+
 # add vscode user
 # https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user#_creating-a-nonroot-user
 ARG USERNAME=vscode
@@ -197,14 +210,3 @@ RUN groupadd --gid $USER_GID $USERNAME \
     && echo $USERNAME ALL=\(root\) NOPASSWD:ALL >/etc/sudoers.d/$USERNAME \
     && chmod 0440 /etc/sudoers.d/$USERNAME
 USER $USERNAME
-
-# pip
-# https://pypi.org/project/pip/
-ARG PIP_PIP_VERSION
-RUN pip install --upgrade pip==${PIP_PIP_VERSION}
-
-# uv
-# https://github.com/astral-sh/uv
-# https://pypi.org/project/uv/
-ARG PIP_UV_VERSION
-RUN pip install uv==${PIP_UV_VERSION}
