@@ -91,9 +91,7 @@ $ uv run apps/unique_list.py --dir docs/feeds --output urls.txt
 ### 指定のATOMにて、過去にないリポジトリがあればそれのURLの一覧を取得する
 
 ```bash
-$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.tx
-
-$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom
+$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt
 
 $ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom
 
