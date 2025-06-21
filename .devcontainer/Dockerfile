@@ -12,9 +12,6 @@ ARG DOCKER_DEBIAN_VERSION=12.11
 ARG DOCKER_GO_VERSION=1.24.4-bookworm
 ARG DOCKER_NODE_VERSION=22.16.0-bookworm
 ARG DOCKER_PYTHON_VERSION=3.13.5-bookworm
-ARG DOCKER_JQ_VERSION=1.8.0
-ARG DOCKER_YQ_VERSION=4.45.4
-ARG DOCKER_TAPLO_VERSION=0.10.0
 
 # for go install
 ARG GO_DOCKERFMT_VERSION=v0.3.7
@@ -22,6 +19,7 @@ ARG GO_SHFMT_VERSION=v3.11.0
 ARG GO_GO_TASK_VERSION=v3.44.0
 
 # for npm tools
+ARG NPM_NPM_VERSION=11.4.2
 ARG NPM_PRETTIER_VERSION=3.5.3
 ARG NPM_RENOVATE_VERSION=40.56.3
 ARG NPM_CLAUDE_CODE_VERSION=1.0.24
@@ -29,7 +27,15 @@ ARG NPM_CCUSAGE_VERSION=0.8.0
 
 # for pip tools
 ARG PIP_PIP_VERSION=25.1.1
+ARG PIP_PIPX_VERSION=1.7.1
 ARG PIP_UV_VERSION=0.7.13
+ARG PIP_RUFF_VERSION=0.12.0
+
+# for other tools (github-tags)
+ARG OTHER_JQ_VERSION=1.8.0
+ARG OTHER_YQ_VERSION=4.45.4
+ARG OTHER_TAPLO_VERSION=0.10.0
+ARG OTHER_SHELLCHECK_VERSION=v0.10.0
 
 # ##########################################################################################
 # builder images
@@ -69,22 +75,6 @@ RUN mkdir -p /python-install \
     && cp -r /usr/local/include /python-install/ \
     && rm -rf /python-install/lib/pkgconfig
 
-# jq
-# https://github.com/mikefarah/yq
-# https://github.com/jqlang/jq
-FROM ghcr.io/jqlang/jq:${DOCKER_JQ_VERSION} AS jq-builder
-
-# yq
-# https://github.com/mikefarah/yq
-# https://hub.docker.com/r/mikefarah/yq
-FROM mikefarah/yq:${DOCKER_YQ_VERSION} AS yq-builder
-
-# taplo
-# https://github.com/tamasfe/taplo
-# https://taplo.tamasfe.dev/
-# https://hub.docker.com/r/tamasfe/taplo
-FROM tamasfe/taplo:${DOCKER_TAPLO_VERSION} AS taplo-builder
-
 # ##########################################################################################
 # main image
 # ##########################################################################################
@@ -96,13 +86,18 @@ ENV DEBIAN_FRONTEND=noninteractive
 ENV DEBCONF_NOWARNINGS=yes
 
 # add distribution packages
-RUN apt-get -y update
-RUN apt-get -y install \
+RUN apt-get update -y && apt-get install -y --no-install-recommends \
     ca-certificates \
     curl \
+    wget \
     git \
     nano \
-    less
+    less \
+    gzip \
+    tar \
+    unzip \
+    xz-utils \
+    locales-all
 
 # dockerfmt
 # refs above
@@ -123,7 +118,6 @@ COPY --from=node-builder /usr/local/lib/node_modules /usr/local/lib/node_modules
 RUN ln -s /usr/local/bin/node /usr/local/bin/nodejs \
     && ln -s /usr/local/lib/node_modules/npm/bin/npm-cli.js /usr/local/bin/npm \
     && ln -s /usr/local/lib/node_modules/npm/bin/npm-cli.js /usr/local/bin/npx
-RUN npm install -g yarn
 
 # python
 # refs above
@@ -131,29 +125,24 @@ RUN apt-get update -y && apt-get install -y expat
 COPY --from=python-builder /python-install/bin/ /usr/local/bin/
 COPY --from=python-builder /python-install/lib/ /usr/local/lib/
 COPY --from=python-builder /python-install/include/ /usr/local/include/
+ENV PIP_ROOT_USER_ACTION=ignore
 
-# jq
-# refs above
-COPY --from=jq-builder /jq /usr/local/bin/
-
-# yq
-# refs above
-COPY --from=yq-builder /usr/bin/yq /usr/local/bin/
-
-# taplo
-# refs above
-COPY --from=taplo-builder /taplo /usr/local/bin/
+# npm
+# https://github.com/npm/cli
+# https://www.npmjs.com/package/npm
+ARG NPM_NPM_VERSION
+RUN npm install -g npm@${NPM_NPM_VERSION}
 
 # prettier
 # https://prettier.io/docs/install
 ARG NPM_PRETTIER_VERSION
-RUN yarn global add prettier@${NPM_PRETTIER_VERSION}
+RUN npm install -g prettier@${NPM_PRETTIER_VERSION}
 
 # renovate
 # https://github.com/renovatebot/renovate
 # https://www.npmjs.com/package/renovate
 ARG NPM_RENOVATE_VERSION
-RUN yarn global add renovate@${NPM_RENOVATE_VERSION}
+RUN npm install -g renovate@${NPM_RENOVATE_VERSION}
 
 # claude-code
 # https://github.com/anthropics/claude-code
@@ -191,11 +180,61 @@ RUN npm install -g ccusage@${NPM_CCUSAGE_VERSION}
 ARG PIP_PIP_VERSION
 RUN pip install --upgrade pip==${PIP_PIP_VERSION}
 
+# pipx
+# https://github.com/pypa/pipx
+ARG PIP_PIPX_VERSION
+RUN pip install pipx==${PIP_PIPX_VERSION}
+
 # uv
 # https://github.com/astral-sh/uv
 # https://pypi.org/project/uv/
 ARG PIP_UV_VERSION
 RUN pip install uv==${PIP_UV_VERSION}
+
+# ruff
+# https://github.com/astral-sh/ruff
+ARG PIP_RUFF_VERSION
+RUN pip install ruff==${PIP_RUFF_VERSION}
+
+# jq
+# https://github.com/jqlang/jq
+ARG OTHER_JQ_VERSION
+RUN curl -fsSL -o /jq https://github.com/jqlang/jq/releases/download/jq-${OTHER_JQ_VERSION}/jq-linux-$(uname -m | sed 's/aarch64/arm64/' | sed 's/x86_64/amd64/') \
+    && chmod +x /jq \
+    && mv /jq /usr/local/bin/ \
+    && jq --version
+
+# yq
+# https://github.com/mikefarah/yq
+# https://hub.docker.com/r/mikefarah/yq
+ARG OTHER_YQ_VERSION
+RUN curl -fsSL -o /yq https://github.com/mikefarah/yq/releases/download/v${OTHER_YQ_VERSION}/yq_linux_$(uname -m | sed 's/aarch64/arm64/' | sed 's/x86_64/amd64/') \
+    && chmod +x /yq \
+    && mv /yq /usr/local/bin/ \
+    && yq --version
+
+# taplo
+# https://github.com/tamasfe/taplo
+# https://taplo.tamasfe.dev/
+# https://hub.docker.com/r/tamasfe/taplo
+ARG OTHER_TAPLO_VERSION
+RUN curl -fsSL -o /taplo.gz https://github.com/tamasfe/taplo/releases/download/${OTHER_TAPLO_VERSION}/taplo-linux-$(uname -m | sed 's/arm64/aarch64/' | sed 's/amd64/x86_64/').gz \
+    && gzip -d /taplo.gz \
+    && chmod +x /taplo \
+    && mv /taplo /usr/local/bin/ \
+    && taplo --version
+
+# shellcheck
+# https://github.com/koalaman/shellcheck
+# https://hub.docker.com/r/koalaman/shellcheck
+ARG OTHER_SHELLCHECK_VERSION
+RUN curl -fsSL -o /shellcheck.tar.xz https://github.com/koalaman/shellcheck/releases/download/${OTHER_SHELLCHECK_VERSION}/shellcheck-${OTHER_SHELLCHECK_VERSION}.linux.$(uname -m | sed 's/arm64/aarch64/' | sed 's/amd64/x86_64/').tar.xz \
+    && tar -xvf /shellcheck.tar.xz -C / \
+    && chmod +x /shellcheck-${OTHER_SHELLCHECK_VERSION}/shellcheck \
+    && mv /shellcheck-${OTHER_SHELLCHECK_VERSION}/shellcheck /usr/local/bin/ \
+    && rm /shellcheck.tar.xz \
+    && rm -rf /shellcheck-${OTHER_SHELLCHECK_VERSION} \
+    && shellcheck --version
 
 # add vscode user
 # https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user#_creating-a-nonroot-user

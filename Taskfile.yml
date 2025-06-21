@@ -20,5 +20,5 @@ tasks:
   uv_sync:
     dir: "{{ .TASKFILE_DIR }}"
     cmds:
-      - uv sync --link-mode=copy
+      - uv sync --link-mode=copy --frozen
     silent: true

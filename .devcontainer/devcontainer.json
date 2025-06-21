@@ -15,7 +15,8 @@
         "ms-python.python",
         "ms-python.black-formatter",
         "ms-python.isort",
-        "tamasfe.even-better-toml"
+        "tamasfe.even-better-toml",
+        "charliermarsh.ruff"
       ],
       "settings": {
         "terminal.integrated.defaultProfile.linux": "bash"
@@ -33,7 +34,7 @@
   "remoteEnv": {
     "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}",
     "TZ": "Asia/Tokyo",
-    "UV_PROJECT_ENVIRONMENT": "/home/vscode/.venv"
+    "UV_PROJECT_ENVIRONMENT": "${containerWorkspaceFolder}/.venv"
   },
   "runArgs": [
     "--name",
@@ -41,5 +42,5 @@
     "--add-host",
     "host.docker.internal:host-gateway"
   ],
-  "postCreateCommand": "uv sync --link-mode=copy"
+  "postCreateCommand": "task uv_sync"
 }
