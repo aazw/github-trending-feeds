@@ -66,9 +66,9 @@ brighterscript
 brightscript
 browserslist
 c
-c-objdump
 c%23
 c++
+c-objdump
 c2hs-haskell
 cabal-config
 caddyfile
@@ -76,8 +76,8 @@ cadence
 cairo
 cairo-zero
 cameligo
-cap-cds
 cap'n-proto
+cap-cds
 carbon
 cartocss
 ceylon
