@@ -188,7 +188,7 @@ eq
 erlang
 euphoria
 f%23
-f%2A
+f*
 factor
 fancy
 fantom
