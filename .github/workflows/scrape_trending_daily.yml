@@ -90,7 +90,7 @@ jobs:
           fi
       - name: Unique links
         working-directory: github-trending-feeds
-        run: uv run apps/new_arrivals.py --dir ../github-trending-feeds-data/docs/feeds --period daily --urls ../github-trending-feeds-data/urls.txt --format atom --output ../github-trending-feeds-data/docs/new-arrivals/daily.atom
+        run: uv run src/new_arrivals.py --dir ../github-trending-feeds-data/docs/feeds --period daily --urls ../github-trending-feeds-data/urls.txt --format atom --output ../github-trending-feeds-data/docs/new-arrivals/daily.atom
       - name: Copy atom with date
         working-directory: github-trending-feeds-data
         run: |
@@ -139,7 +139,7 @@ jobs:
         run: uv sync --link-mode=copy --frozen
       - name: Update unique links
         working-directory: github-trending-feeds
-        run: uv run apps/unique_list.py --dir ../github-trending-feeds-data/docs/feeds --output ../github-trending-feeds-data/urls.txt --force
+        run: uv run src/unique_list.py --dir ../github-trending-feeds-data/docs/feeds --output ../github-trending-feeds-data/urls.txt --force
       - name: Create new commit
         working-directory: github-trending-feeds-data
         run: |

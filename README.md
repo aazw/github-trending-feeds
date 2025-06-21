@@ -45,7 +45,7 @@ uv sync --link-mode=copy
 ### スクレイピング実行
 
 ```bash
-uv run apps/scrape.py 
+uv run src/scrape.py 
       --language   go \
       --period daily \
       --output     ./daily.atom
@@ -54,8 +54,8 @@ uv run apps/scrape.py
 helpコマンド実行例.
 
 ```bash
-$ uv run apps/scrape.py --help
-2024-12-26 14:20:01,055 - /workspaces/github-trending-feeds/apps/scrape.py:176 - INFO - start app
+$ uv run src/scrape.py --help
+2024-12-26 14:20:01,055 - /workspaces/github-trending-feeds/src/scrape.py:176 - INFO - start app
 Usage: scrape.py [OPTIONS]
 
 Options:
@@ -66,19 +66,19 @@ Options:
   --atom_updated_date TEXT
   --verbose
   --help                          Show this message and exit.
-2024-12-26 14:20:01,056 - /workspaces/github-trending-feeds/apps/scrape.py:194 - INFO - app finished
+2024-12-26 14:20:01,056 - /workspaces/github-trending-feeds/src/scrape.py:194 - INFO - app finished
 ```
 
 ATOMの日時を上書きすることもできる.
 
 ```bash
-$ uv run apps/scrape.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
+$ uv run src/scrape.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
 ```
 
 ### 過去の全ATOMを走査し、過去登場したリポジトリのURL一覧をつくる
 
 ```bash
-$ uv run apps/unique_list.py --dir docs/feeds --output urls.txt
+$ uv run src/unique_list.py --dir docs/feeds --output urls.txt
 ```
 
 * `--dir`
@@ -91,11 +91,11 @@ $ uv run apps/unique_list.py --dir docs/feeds --output urls.txt
 ### 指定のATOMにて、過去にないリポジトリがあればそれのURLの一覧を取得する
 
 ```bash
-$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt
+$ uv run src/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt
 
-$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom
+$ uv run src/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom
 
-$ uv run apps/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom --output docs/new-arrivals/go/daily.atom
+$ uv run src/new_arrivals.py --atom docs/feeds/go/daily.atom --urls urls.txt --format atom --output docs/new-arrivals/go/daily.atom
 ```
 
 * `--atom`
