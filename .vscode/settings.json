@@ -39,29 +39,19 @@
       }
     ]
   },
-  // Python
   "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.formatOnSave": true
   },
-  "python.analysis.extraPaths": [
-    "/home/vscode/.venv/lib/python3.13/site-packages"
-  ],
-  // Back Formatter
-  "black-formatter.args": ["--line-length=200"],
-  // VSCodeを軽くする
+  "python.analysis.typeCheckingMode": "strict",
   "files.watcherExclude": {
     "**/.git/**": true,
     "**/.venv/**": true,
-    "**/__pycache__/**": true,
-    "**/docs/feeds/**": true,
-    "**/docs/new-arrivals/**": true
+    "**/__pycache__/**": true
   },
   "search.exclude": {
     "**/.git/**": true,
     "**/.venv/**": true,
-    "**/__pycache__/**": true,
-    "**/docs/feeds/**": true,
-    "**/docs/new-arrivals/**": true
+    "**/__pycache__/**": true
   }
 }
