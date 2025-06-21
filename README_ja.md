@@ -23,6 +23,7 @@ GitHub Pages: https://aazw.github.io/github-trending-feeds-data/
 ### https://github.com/aazw/github-trending-feeds-data 
 
 - 上記リポジトリにてGitHub Actionsで生成したATOMを管理する
+- Github Pages
 
 ## GitHub Actions
 
