@@ -1,4 +1,4 @@
-name: scrape_trending_monthly
+name: Scrape trending (Monthly)
 on:
   # Cron job
   schedule:
@@ -20,8 +20,6 @@ jobs:
       ( github.event_name == 'workflow_dispatch' && !fromJson(github.event.inputs.skip_scrape || 'false') )
     runs-on: ubuntu-latest
     steps:
-      - name: Install uv
-        uses: astral-sh/setup-uv@v6
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
         with:
@@ -32,6 +30,10 @@ jobs:
           repository: aazw/github-trending-feeds-data
           token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
           path: github-trending-feeds-data
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          working-directory: github-trending-feeds
       - name: Install packages
         working-directory: github-trending-feeds
         run: uv sync --link-mode=copy --frozen

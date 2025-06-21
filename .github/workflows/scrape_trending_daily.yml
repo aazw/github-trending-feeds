@@ -1,4 +1,4 @@
-name: scrape_trending_daily
+name: Scrape trending (Daily)
 on:
   # Cron job
   schedule:
@@ -69,8 +69,6 @@ jobs:
       needs.scrape_github_trending.result != 'failure' &&
       needs.scrape_github_trending.result != 'cancelled'
     steps:
-      - name: Install uv
-        uses: astral-sh/setup-uv@v6
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
         with:
@@ -81,6 +79,10 @@ jobs:
           repository: aazw/github-trending-feeds-data
           token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
           path: github-trending-feeds-data
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          working-directory: github-trending-feeds
       - name: Install packages
         working-directory: github-trending-feeds
         run: uv sync --link-mode=copy --frozen
@@ -124,8 +126,6 @@ jobs:
       needs.new_arrivals.result != 'failure' &&
       needs.new_arrivals.result != 'cancelled'
     steps:
-      - name: Install uv
-        uses: astral-sh/setup-uv@v6
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
         with:
@@ -136,6 +136,10 @@ jobs:
           repository: aazw/github-trending-feeds-data
           token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
           path: github-trending-feeds-data
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          working-directory: github-trending-feeds
       - name: Install packages
         working-directory: github-trending-feeds
         run: uv sync --link-mode=copy --frozen
