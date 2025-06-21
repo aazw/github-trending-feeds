@@ -11,18 +11,6 @@ from bs4.element import PageElement
 
 URL: str = "https://github.com/trending"
 
-URL_SAFE_REPLACEMENTS = {
-    "#": "%23",
-    "*": "%2A",
-}
-
-
-def make_url_safe(text: str) -> str:
-    """Replace special characters with URL-safe equivalents."""
-    for char, replacement in URL_SAFE_REPLACEMENTS.items():
-        text = text.replace(char, replacement)
-    return text
-
 
 logging.basicConfig(
     level=logging.INFO,
@@ -40,7 +28,9 @@ logging.basicConfig(
     required=False,
     help="Output file path for the language list",
 )
-@click.option("--incremental", is_flag=True, help="Only add new languages to existing output file")
+@click.option(
+    "--incremental", is_flag=True, help="Only add new languages to existing output file"
+)
 def scrape_languages(sort: bool, output: Optional[Path], incremental: bool) -> None:
     """Scrape GitHub trending languages and output them as a list."""
 
@@ -86,20 +76,22 @@ def scrape_languages(sort: bool, output: Optional[Path], incremental: bool) -> N
             with open(output, "r") as f:
                 for line in f:
                     existing_languages.add(line.strip())
-            
+
             # Add new languages to existing ones
-            new_languages: List[str] = [make_url_safe(lang) for lang in languages]
-            all_languages: List[str] = list(existing_languages) + [lang for lang in new_languages if lang not in existing_languages]
-            
+            new_languages: List[str] = [lang for lang in languages]
+            all_languages: List[str] = list(existing_languages) + [
+                lang for lang in new_languages if lang not in existing_languages
+            ]
+
             # Sort if requested
             if sort:
                 all_languages.sort()
-            
+
             final_languages: List[str] = all_languages
         else:
             # Normal mode - just use scraped languages
-            final_languages = [make_url_safe(lang) for lang in languages]
-            
+            final_languages = [lang for lang in languages]
+
             # Sort if requested
             if sort:
                 final_languages.sort()
