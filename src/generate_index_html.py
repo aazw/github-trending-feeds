@@ -2,7 +2,7 @@
 
 import click
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import unquote
 
 
 def read_languages(languages_file: Path) -> list[str]:
@@ -146,6 +146,10 @@ def generate_html(languages: list[str]) -> str:
         <a href="https://github.com/trending">https://github.com/trending</a>
       </div>
       <div>
+        <strong>Repository:</strong>
+        <a href="https://github.com/aazw/github-trending-feeds-data">https://github.com/aazw/github-trending-feeds-data</a>
+      </div>
+      <div>
         <strong>New arrivals:</strong>
         <a href="./new-arrivals/daily.atom" class="feed-link">Daily</a>
       </div>
@@ -169,7 +173,7 @@ def generate_html(languages: list[str]) -> str:
     table_rows: list[str] = []
     for lang in languages:
         row: str = f"""        <tr>
-          <td><a href="https://github.com/trending/{quote(lang)}">{lang}</a></td>
+          <td><a href="https://github.com/trending/{lang}">{unquote(lang)}</a></td>
           <td><a href="./feeds/{lang}/daily.atom" class="feed-link">Daily</a></td>
           <td><a href="./feeds/{lang}/weekly.atom" class="feed-link">Weekly</a></td>
           <td><a href="./feeds/{lang}/monthly.atom" class="feed-link">Monthly</a></td>
