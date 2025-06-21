@@ -8,12 +8,19 @@ set -e
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 cd ${SCRIPT_DIR}/..
 
+url_decode() {
+	local encoded="$1"
+	printf '%b' "${encoded//%/\\x}"
+}
+
 # Looping through the content of a file in Bash
 # https://stackoverflow.com/questions/1521462/looping-through-the-content-of-a-file-in-bash
 while read language; do
 	# languages.txtで各行冒頭『#』でコメントアウトできるようにした
 	if [[ ! $language =~ ^# ]]; then
-		mkdir -p "./docs/feeds/${language}/"
+		language_decoded=$(url_decode "$language")
+
+		mkdir -p "./docs/feeds/${language_decoded}/"
 
 		# 一時的なエラーなどで取得が失敗すると、後続の取得まで全部できなくなるので、ここだけset -eを解除
 		set +e
@@ -21,7 +28,7 @@ while read language; do
 			--language "${language}" \
 			--period "monthly" \
 			--atom-updated-date "$(date -I)T00:00:00" \
-			--output "./docs/feeds/${language}/monthly.atom"
+			--output "./docs/feeds/${language_decoded}/monthly.atom"
 		set -e
 
 		sleep 1 # 1s
