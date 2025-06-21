@@ -406,3 +406,6 @@ $RECYCLE.BIN/
 # Claude Code data (keep settings.json, ignore session data)
 .claude/*
 !.claude/settings.json
+
+# Builds by src/generate_index_html.py
+*.html
