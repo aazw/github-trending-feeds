@@ -2,20 +2,8 @@ name: scrape_trending_daily
 on:
   # Cron job
   schedule:
-    # every day
-    # - cron: "0 11 * * *" # UTC 11:00 = JST 20:00
-    # - cron: "0 12 * * *" # UTC 12:00 = JST 21:00
-    # - cron: "0 13 * * *" # UTC 13:00 = JST 22:00
-    # - cron: "0 14 * * *" # UTC 14:00 = JST 23:00
-    - cron: "0 15 * * *" # UTC 15:00 = JST 24:00 (00:00)
-    # - cron: "0 16 * * *" # UTC 16:00 = JST 25:00 (01:00)
-    # - cron: "0 17 * * *" # UTC 17:00 = JST 26:00 (02:00)
-    # - cron: "0 18 * * *" # UTC 18:00 = JST 27:00 (03:00)
-    # - cron: "0 19 * * *" # UTC 19:00 = JST 28:00 (04:00)
-    # - cron: "0 20 * * *" # UTC 20:00 = JST 29:00 (05:00)
-    # - cron: "0 21 * * *" # UTC 21:00 = JST 30:00 (06:00)
-    # - cron: "0 22 * * *" # UTC 22:00 = JST 31:00 (07:00)
-    # - cron: "0 23 * * *" # UTC 23:00 = JST 32:00 (08:00)
+    # 毎日15:00 UTC (日本時間24:00) に実行
+    - cron: "0 15 * * *" # UTC
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -46,7 +34,7 @@ jobs:
           path: github-trending-feeds-data
       - name: Install packages
         working-directory: github-trending-feeds
-        run: uv sync --link-mode=copy
+        run: uv sync --link-mode=copy --frozen
       - name: Scrape trending
         working-directory: github-trending-feeds
         run: ./scripts/scrape_trending_daily.sh
@@ -93,7 +81,7 @@ jobs:
           path: github-trending-feeds-data
       - name: Install packages
         working-directory: github-trending-feeds
-        run: uv sync --link-mode=copy
+        run: uv sync --link-mode=copy --frozen
       - name: Create urls.txt if not exists
         working-directory: github-trending-feeds-data
         run: |
@@ -148,7 +136,7 @@ jobs:
           path: github-trending-feeds-data
       - name: Install packages
         working-directory: github-trending-feeds
-        run: uv sync --link-mode=copy
+        run: uv sync --link-mode=copy --frozen
       - name: Update unique links
         working-directory: github-trending-feeds
         run: uv run apps/unique_list.py --dir ../github-trending-feeds-data/docs/feeds --output ../github-trending-feeds-data/urls.txt --force
