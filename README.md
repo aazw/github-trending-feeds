@@ -45,7 +45,7 @@ uv sync --link-mode=copy
 ### スクレイピング実行
 
 ```bash
-uv run src/scrape.py 
+uv run src/scrape_trending.py 
       --language   go \
       --period daily \
       --output     ./daily.atom
@@ -54,9 +54,9 @@ uv run src/scrape.py
 helpコマンド実行例.
 
 ```bash
-$ uv run src/scrape.py --help
-2024-12-26 14:20:01,055 - /workspaces/github-trending-feeds/src/scrape.py:176 - INFO - start app
-Usage: scrape.py [OPTIONS]
+$ uv run src/scrape_trending.py --help
+2024-12-26 14:20:01,055 - /workspaces/github-trending-feeds/src/scrape_trending.py:176 - INFO - start app
+Usage: scrape_trending.py [OPTIONS]
 
 Options:
   --language TEXT                 [required]
@@ -66,13 +66,13 @@ Options:
   --atom_updated_date TEXT
   --verbose
   --help                          Show this message and exit.
-2024-12-26 14:20:01,056 - /workspaces/github-trending-feeds/src/scrape.py:194 - INFO - app finished
+2024-12-26 14:20:01,056 - /workspaces/github-trending-feeds/src/scrape_trending.py:194 - INFO - app finished
 ```
 
 ATOMの日時を上書きすることもできる.
 
 ```bash
-$ uv run src/scrape.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
+$ uv run src/scrape_trending.py --language go --period "daily" --atom-updated-date "$(date -I)T00:00:00" --output test.atom
 ```
 
 ### 過去の全ATOMを走査し、過去登場したリポジトリのURL一覧をつくる
