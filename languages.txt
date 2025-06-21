@@ -11,12 +11,14 @@ adobe-font-metrics
 agda
 ags-script
 aidl
+aiken
 al
 alloy
 alpine-abuild
 altium-designer
 ampl
 angelscript
+answer-set-programming
 ant-build-system
 antlers
 antlr
@@ -49,6 +51,7 @@ beef
 befunge
 berry
 bibtex
+bibtex-style
 bicep
 bikeshed
 bison
@@ -65,6 +68,7 @@ brainfuck
 brighterscript
 brightscript
 browserslist
+buildstream
 c
 c%23
 c++
@@ -97,6 +101,7 @@ clips
 clojure
 closure-templates
 cloud-firestore-security-rules
+clue
 cmake
 cobol
 codeowners
@@ -137,6 +142,7 @@ d2
 dafny
 darcs-patch
 dart
+daslang
 dataweave
 debian-package-control-file
 denizenscript
@@ -211,6 +217,7 @@ gap
 gcc-machine-description
 gdb
 gdscript
+gdshader
 gedcom
 gemfile.lock
 gemini
@@ -260,6 +267,7 @@ hare
 haskell
 haxe
 hcl
+hip
 hiveql
 hlsl
 hocon
@@ -292,7 +300,9 @@ ioke
 irc-log
 isabelle
 isabelle-root
+ispc
 j
+jai
 janet
 jar-manifest
 jasmin
@@ -323,12 +333,14 @@ jupyter-notebook
 just
 kaitai-struct
 kakounescript
+kdl
 kerboscript
 kicad-layout
 kicad-legacy-layout
 kicad-schematic
 kickstart
 kit
+koka
 kotlin
 krl
 kusto
@@ -339,12 +351,14 @@ lasso
 latte
 lean
 lean-4
+leo
 less
 lex
 lfe
 ligolang
 lilypond
 limbo
+linear-programming
 linker-script
 linux-kernel-module
 liquid
@@ -364,6 +378,7 @@ ltspice-symbol
 lua
 luau
 m
+m3u
 m4
 m4sugar
 macaulay2
@@ -378,6 +393,7 @@ maven-pom
 max
 maxscript
 mcfunction
+mdsvex
 mdx
 mercury
 mermaid
@@ -387,6 +403,8 @@ microsoft-developer-studio-project
 microsoft-visual-studio-solution
 minid
 miniyaml
+minizinc
+minizinc-data
 mint
 mirah
 mirc-script
@@ -454,6 +472,8 @@ objectscript
 ocaml
 odin
 omgrofl
+omnet++-msg
+omnet++-ned
 omnetpp-msg
 omnetpp-ned
 ooc
@@ -471,6 +491,7 @@ openstep-property-list
 opentype-feature-file
 option-list
 org
+overpassql
 ox
 oxygene
 oz
@@ -568,6 +589,7 @@ rmarkdown
 robotframework
 robots.txt
 roc
+rocq-prover
 roff
 roff-manpage
 ron
@@ -580,6 +602,7 @@ ruby
 runoff
 rust
 sage
+sail
 saltstack
 sas
 sass
@@ -600,6 +623,7 @@ shen
 sieve
 simple-file-verification
 singularity
+slang
 slash
 slice
 slim
@@ -634,6 +658,7 @@ stylus
 subrip-text
 sugarss
 supercollider
+survex-data
 svelte
 svg
 sway
@@ -661,6 +686,8 @@ tl-verilog
 tla
 toit
 toml
+tor-config
+tree-sitter-query
 tsplib-data
 tsql
 tsv
@@ -679,6 +706,7 @@ unix-assembly
 unknown
 uno
 unrealscript
+untyped-plutus-core
 urweb
 v
 vala
@@ -688,6 +716,7 @@ vbscript
 vcard
 vcl
 velocity-template-language
+vento
 verilog
 vhdl
 vim-help-file
@@ -724,6 +753,7 @@ x10
 xbase
 xc
 xcompose
+xmake
 xml
 xml-property-list
 xojo
@@ -747,3 +777,4 @@ zephir
 zig
 zil
 zimpl
+zmodel
