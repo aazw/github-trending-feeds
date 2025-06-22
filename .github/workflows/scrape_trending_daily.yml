@@ -155,7 +155,7 @@ jobs:
           uv run src/export_unique_urls.py \
             --dir ../github-trending-feeds-data/docs/feeds \
             --output ../github-trending-feeds-data/urls-daily.txt \
-            --pattern "daily-*.atom" \
+            --pattern "daily.atom" \
             --incremental
       - name: Create new commit
         working-directory: github-trending-feeds-data
