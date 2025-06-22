@@ -59,11 +59,15 @@ def iter_atom_paths(root: Path, pattern: str) -> Iterator[Path]:
     default="*.atom",
     help="検索するファイルパターン",
 )
-def main(dirPath: Path, outputPath: Path, pattern: str) -> None:
+@click.option(
+    "--incremental", is_flag=True, help="Only add new urls to existing output file"
+)
+def main(dirPath: Path, outputPath: Path, pattern: str, incremental: bool) -> None:
     appLogger.info("start app")
     appLogger.info(f"command-line argument: --dir = {dirPath}")
     appLogger.info(f"command-line argument: --output = {outputPath}")
     appLogger.info(f"command-line argument: --pattern = {pattern}")
+    appLogger.info(f"command-line argument: --incremental = {incremental}")
 
     # Validate input directory
     if not dirPath.is_dir():
@@ -73,6 +77,17 @@ def main(dirPath: Path, outputPath: Path, pattern: str) -> None:
     appLogger.info(f"file searching in {dirPath} with pattern {pattern}")
     urls: set[str] = set()
 
+    # Load existing URLs if incremental mode is enabled
+    if incremental and outputPath.exists():
+        try:
+            with outputPath.open("r", encoding="utf-8") as f:
+                existing_urls = {line.strip() for line in f if line.strip()}
+                urls.update(existing_urls)
+                appLogger.info(f"loaded {len(existing_urls)} existing URLs from {outputPath}")
+        except Exception as e:
+            appLogger.error(f"Error reading existing URLs from {outputPath}: {e}")
+            sys.exit(1)
+
     for atom_path in iter_atom_paths(dirPath, pattern):
         appLogger.debug(f"reading {atom_path}")
         try:
@@ -81,7 +96,7 @@ def main(dirPath: Path, outputPath: Path, pattern: str) -> None:
                 dtd_validation=False,
                 load_dtd=False,
                 no_network=True,
-                resolve_entities=False
+                resolve_entities=False,
             )
 
             root = etree.parse(str(atom_path), parser)
