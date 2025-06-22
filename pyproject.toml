@@ -10,4 +10,5 @@ dependencies = [
   "dateparser==1.2.1",
   "lxml>=5.4.0",
   "requests==2.32.4",
+  "types-lxml>=2025.3.30",
 ]
