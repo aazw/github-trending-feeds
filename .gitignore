@@ -409,3 +409,6 @@ $RECYCLE.BIN/
 
 # Builds by src/generate_index_html.py
 *.html
+
+# ignore urls
+url*.txt

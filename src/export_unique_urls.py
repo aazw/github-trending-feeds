@@ -1,16 +1,18 @@
 import sys
 import logging
 from pathlib import Path
-import xml.etree.ElementTree as ET
 from typing import Iterator
 
 import click
+from lxml import etree
 
 
 def setup_logging(level: int = logging.INFO) -> logging.Logger:
     # Making Python loggers output all messages to stdout in addition to log file
     # https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log-file
-    formatter = logging.Formatter("%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s")
+    formatter = logging.Formatter(
+        "%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s"
+    )
 
     handler = logging.StreamHandler(sys.stdout)
     handler.setFormatter(formatter)
@@ -27,45 +29,63 @@ appLogger = setup_logging()
 NS = {"a": "http://www.w3.org/2005/Atom"}
 
 
-def iter_atom_paths(root: Path) -> Iterator[Path]:
-    """Iterate over .atom files recursively, excluding symlinked directories."""
+def iter_atom_paths(root: Path, pattern: str) -> Iterator[Path]:
+    """Iterate over files matching pattern recursively, excluding symlinked directories."""
     try:
-        yield from root.rglob("*.atom", recurse_symlinks=False)
+        yield from root.rglob(pattern, recurse_symlinks=False)
     except Exception as e:
-        appLogger.error(f"Error iterating atom paths in {root}: {e}")
-        return
+        appLogger.error(f"Error iterating paths in {root} with pattern {pattern}: {e}")
+        sys.exit(1)
 
 
 @click.command()
-@click.option("--dir", "dirPath", type=click.Path(exists=True, file_okay=False, path_type=Path), required=True, help="Atomファイルを再帰探索するディレクトリ")
-@click.option("--output", "outputPath", type=click.Path(dir_okay=False, writable=True, path_type=Path), required=True, help="URL一覧を書き出すテキストファイル")
-@click.option("--force", is_flag=True, help="出力ファイルを上書きする")
-def main(dirPath: Path, outputPath: Path, force: bool) -> None:
+@click.option(
+    "--dir",
+    "dirPath",
+    type=click.Path(exists=True, file_okay=False, path_type=Path),
+    required=True,
+    help="ファイルを再帰探索するディレクトリ",
+)
+@click.option(
+    "--output",
+    "outputPath",
+    type=click.Path(dir_okay=False, writable=True, path_type=Path),
+    required=True,
+    help="URL一覧を書き出すテキストファイル",
+)
+@click.option(
+    "--pattern",
+    type=str,
+    default="*.atom",
+    help="検索するファイルパターン",
+)
+def main(dirPath: Path, outputPath: Path, pattern: str) -> None:
     appLogger.info("start app")
     appLogger.info(f"command-line argument: --dir = {dirPath}")
     appLogger.info(f"command-line argument: --output = {outputPath}")
+    appLogger.info(f"command-line argument: --pattern = {pattern}")
 
-    if outputPath.exists() and not force:
-        appLogger.error("output file already exists: %s (use --force to overwrite)", outputPath)
-        sys.exit(1)
-    
     # Validate input directory
     if not dirPath.is_dir():
         appLogger.error(f"Directory does not exist or is not a directory: {dirPath}")
         sys.exit(1)
 
-    appLogger.info(f"atom file searching in {dirPath}")
+    appLogger.info(f"file searching in {dirPath} with pattern {pattern}")
     urls: set[str] = set()
 
-    for atom_path in iter_atom_paths(dirPath):
+    for atom_path in iter_atom_paths(dirPath, pattern):
         appLogger.debug(f"reading {atom_path}")
         try:
             # Parse XML with security settings
-            parser = ET.XMLParser()
-            parser.parser.DefaultHandler = lambda _: None  # Disable DTD processing
-            
-            root = ET.parse(atom_path, parser).getroot()
-        except ET.ParseError as e:
+            parser = etree.XMLParser(
+                dtd_validation=False,
+                load_dtd=False,
+                no_network=True,
+                resolve_entities=False
+            )
+
+            root = etree.parse(str(atom_path), parser)
+        except etree.XMLSyntaxError as e:
             appLogger.warning(f"XML parse error in {atom_path}: {e}")
             continue
         except Exception as e:
@@ -73,7 +93,7 @@ def main(dirPath: Path, outputPath: Path, force: bool) -> None:
             continue
 
         try:
-            for link in root.findall(".//a:link", NS):
+            for link in root.xpath(".//a:link", namespaces=NS):
                 href = link.get("href")
                 if href:
                     rel = link.get("rel")
@@ -87,7 +107,7 @@ def main(dirPath: Path, outputPath: Path, force: bool) -> None:
     try:
         # Ensure parent directory exists
         outputPath.parent.mkdir(parents=True, exist_ok=True)
-        
+
         with outputPath.open("w", encoding="utf-8") as f:
             for url in sorted(urls):
                 f.write(url + "\n")

@@ -13,7 +13,9 @@ import click
 def setup_logging(level: int = logging.INFO) -> logging.Logger:
     # Making Python loggers output all messages to stdout in addition to log file
     # https://stackoverflow.com/questions/14058453/making-python-loggers-output-all-messages-to-stdout-in-addition-to-log-file
-    formatter = logging.Formatter("%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s")
+    formatter = logging.Formatter(
+        "%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s"
+    )
 
     handler = logging.StreamHandler(sys.stdout)
     handler.setFormatter(formatter)
@@ -40,13 +42,57 @@ def iter_atom_paths(root: Path, atomName: str) -> Iterator[Path]:
 
 
 @click.command()
-@click.option("--dir", "dirPath", type=click.Path(exists=True, file_okay=False, path_type=Path), required=False, help="Atomファイルを再帰探索するディレクトリ")
-@click.option("--atom", "atomPath", type=click.Path(exists=True, dir_okay=False, path_type=Path), required=False, help="単一のAtomファイルを処理")
-@click.option("--period", type=click.Choice(["daily", "weekly", "monthly"], case_sensitive=True), required=False, default="daily", help="")
-@click.option("--urls", "urlsPath", type=click.Path(exists=True, dir_okay=False, path_type=Path), required=True, help="URL一覧を読み込むテキストファイル")
-@click.option("--format", "format", type=click.Choice(["plain", "atom"], case_sensitive=False), required=False, default="plain", help="書き出しフォーマット")
-@click.option("--output", "outputPath", type=click.Path(dir_okay=False, writable=True, path_type=Path), required=False, help="新着一覧を書き出すファイル")
-def main(dirPath: Path, atomPath: Path, period: str, urlsPath: Path, format: str, outputPath: Path) -> None:
+@click.option(
+    "--dir",
+    "dirPath",
+    type=click.Path(exists=True, file_okay=False, path_type=Path),
+    required=False,
+    help="Atomファイルを再帰探索するディレクトリ",
+)
+@click.option(
+    "--atom",
+    "atomPath",
+    type=click.Path(exists=True, dir_okay=False, path_type=Path),
+    required=False,
+    help="単一のAtomファイルを処理",
+)
+@click.option(
+    "--period",
+    type=click.Choice(["daily", "weekly", "monthly"], case_sensitive=True),
+    required=False,
+    default="daily",
+    help="",
+)
+@click.option(
+    "--urls",
+    "urlsPath",
+    type=click.Path(exists=True, dir_okay=False, path_type=Path),
+    required=True,
+    help="URL一覧を読み込むテキストファイル",
+)
+@click.option(
+    "--format",
+    "format",
+    type=click.Choice(["plain", "atom"], case_sensitive=False),
+    required=False,
+    default="plain",
+    help="書き出しフォーマット",
+)
+@click.option(
+    "--output",
+    "outputPath",
+    type=click.Path(dir_okay=False, writable=True, path_type=Path),
+    required=False,
+    help="新着一覧を書き出すファイル",
+)
+def main(
+    dirPath: Path,
+    atomPath: Path,
+    period: str,
+    urlsPath: Path,
+    format: str,
+    outputPath: Path,
+) -> None:
     appLogger.info("start app")
 
     # 引数検証: --dir または --atom のいずれかが必要
@@ -107,7 +153,7 @@ def main(dirPath: Path, atomPath: Path, period: str, urlsPath: Path, format: str
             # Parse XML with security settings
             parser = ET.XMLParser()
             parser.parser.DefaultHandler = lambda _: None  # Disable DTD processing
-            
+
             root = ET.parse(atom_path, parser).getroot()
         except ET.ParseError as e:
             appLogger.warning(f"XML parse error in {atom_path}: {e}")
@@ -146,10 +192,16 @@ def main(dirPath: Path, atomPath: Path, period: str, urlsPath: Path, format: str
                     if href not in existingURLs:
                         newUrls.add(href)
 
-                        if id_element is not None and id_element.text is not None and language is not None:
+                        if (
+                            id_element is not None
+                            and id_element.text is not None
+                            and language is not None
+                        ):
                             content = entry.find("a:content", NS)
                             if content is not None:
-                                content.text = f"[{unquote(language)}] " + (content.text or "")
+                                content.text = f"[{unquote(language)}] " + (
+                                    content.text or ""
+                                )
                         newEntries[href] = entry
         except Exception as e:
             appLogger.warning(f"Error processing entries in {atom_path}: {e}")
@@ -162,7 +214,7 @@ def main(dirPath: Path, atomPath: Path, period: str, urlsPath: Path, format: str
             try:
                 # Ensure parent directory exists
                 outputPath.parent.mkdir(parents=True, exist_ok=True)
-                
+
                 with outputPath.open("w", encoding="utf-8") as f:
                     for url in sorted(newUrls):
                         f.write(url + "\n")
@@ -179,8 +231,10 @@ def main(dirPath: Path, atomPath: Path, period: str, urlsPath: Path, format: str
             for url in sorted(newUrls):
                 print(url)
     elif format.lower() == "atom":
-        atom_advertise_url = f"https://aazw.github.io/github-trending-feeds/new-arrivals/{period}.atom"
-        atom_advertise_alt_url = f"https://aazw.github.io/github-trending-feeds/"
+        atom_advertise_url = (
+            f"https://aazw.github.io/github-trending-feeds/new-arrivals/{period}.atom"
+        )
+        atom_advertise_alt_url = "https://aazw.github.io/github-trending-feeds/"
         atom_title = f"GitHub New Arrivals ({period})"
         atom_author = "aazw"
         updated = datetime.datetime.now(datetime.timezone.utc)
@@ -196,16 +250,28 @@ def main(dirPath: Path, atomPath: Path, period: str, urlsPath: Path, format: str
         ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}title").text = atom_title
 
         # link (self)
-        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": atom_advertise_url, "rel": "self"})
+        ET.SubElement(
+            root,
+            f"{{{ATOM_NAMESPACE}}}link",
+            attrib={"href": atom_advertise_url, "rel": "self"},
+        )
 
         # link (alternate)
-        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": atom_advertise_alt_url, "rel": "alternate"})
+        ET.SubElement(
+            root,
+            f"{{{ATOM_NAMESPACE}}}link",
+            attrib={"href": atom_advertise_alt_url, "rel": "alternate"},
+        )
 
         # icon
-        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}icon").text = "https://github.githubassets.com/favicons/favicon.svg"
+        ET.SubElement(
+            root, f"{{{ATOM_NAMESPACE}}}icon"
+        ).text = "https://github.githubassets.com/favicons/favicon.svg"
 
         # updated
-        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(timespec="seconds")
+        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(
+            timespec="seconds"
+        )
 
         # author
         author = ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}author")
@@ -219,13 +285,15 @@ def main(dirPath: Path, atomPath: Path, period: str, urlsPath: Path, format: str
         ET.indent(root)
 
         # get xml
-        feed_xml = ET.tostring(root, encoding="utf-8", xml_declaration=True).decode("utf-8")
+        feed_xml = ET.tostring(root, encoding="utf-8", xml_declaration=True).decode(
+            "utf-8"
+        )
 
         if outputPath:
             try:
                 # Ensure parent directory exists
                 outputPath.parent.mkdir(parents=True, exist_ok=True)
-                
+
                 with outputPath.open("w", encoding="utf-8") as f:
                     f.write(feed_xml)
             except PermissionError as e:

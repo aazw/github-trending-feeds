@@ -8,5 +8,6 @@ dependencies = [
   "beautifulsoup4==4.13.4",
   "click==8.2.1",
   "dateparser==1.2.1",
+  "lxml>=5.4.0",
   "requests==2.32.4",
 ]

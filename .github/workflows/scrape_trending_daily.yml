@@ -60,7 +60,7 @@ jobs:
           git commit -m "add/update the file about daily trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
           git push
 
-  new_arrivals:
+  filter_new_arrivals:
     runs-on: ubuntu-latest
     needs:
       - scrape_github_trending
@@ -86,15 +86,21 @@ jobs:
       - name: Install packages
         working-directory: github-trending-feeds
         run: uv sync --link-mode=copy --frozen
-      - name: Create urls.txt if not exists
+      - name: Create urls-daily.txt if not exists
         working-directory: github-trending-feeds-data
         run: |
-          if [ ! -f urls.txt ]; then
-            touch urls.txt
+          if [ ! -f urls-daily.txt ]; then
+            touch urls-daily.txt
           fi
       - name: Unique links
         working-directory: github-trending-feeds
-        run: uv run src/new_arrivals.py --dir ../github-trending-feeds-data/docs/feeds --period daily --urls ../github-trending-feeds-data/urls.txt --format atom --output ../github-trending-feeds-data/docs/new-arrivals/daily.atom
+        run: |
+          uv run src/filter_new_arrivals.py \
+            --dir ../github-trending-feeds-data/docs/feeds \
+            --period daily \
+            --urls ../github-trending-feeds-data/urls-daily.txt \
+            --format atom \
+            --output ../github-trending-feeds-data/docs/new-arrivals/daily.atom
       - name: Copy atom with date
         working-directory: github-trending-feeds-data
         run: |
@@ -117,7 +123,7 @@ jobs:
             git push
           fi
 
-  unique_links:
+  export_unique_urls:
     runs-on: ubuntu-latest
     needs:
       - new_arrivals
@@ -145,7 +151,7 @@ jobs:
         run: uv sync --link-mode=copy --frozen
       - name: Update unique links
         working-directory: github-trending-feeds
-        run: uv run src/unique_list.py --dir ../github-trending-feeds-data/docs/feeds --output ../github-trending-feeds-data/urls.txt --force
+        run: uv run src/export_unique_urls.py --dir ../github-trending-feeds-data/docs/feeds --output ../github-trending-feeds-data/urls-daily.txt --pattern "daily-*.atom"
       - name: Create new commit
         working-directory: github-trending-feeds-data
         run: |
@@ -154,8 +160,8 @@ jobs:
           git pull
 
           # 変更があるときだけ add/commit/push
-          if ! git diff --quiet -- urls.txt ; then
-            git add urls.txt
+          if ! git diff --quiet -- urls-daily.txt ; then
+            git add urls-daily.txt
             git commit -m "add/update the file about daily trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
             git push
           fi
