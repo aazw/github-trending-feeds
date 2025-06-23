@@ -92,7 +92,7 @@ jobs:
           if [ ! -f urls-weekly.txt ]; then
             touch urls-weekly.txt
           fi
-      - name: Unique links
+      - name: Extract new arrivals
         working-directory: github-trending-feeds
         run: |
           uv run src/filter_new_arrivals.py \
@@ -109,18 +109,23 @@ jobs:
           mkdir -p "docs/new-arrivals/weekly"
           cp docs/new-arrivals/weekly.atom docs/new-arrivals/weekly/weekly-${d}.atom
       - name: Create new commit
+        id: commit
         working-directory: github-trending-feeds-data
         run: |
           git config user.name  github-actions
           git config user.email github-actions@github.com
           git pull
 
+          git add docs/new-arrivals/weekly.atom
+          git add docs/new-arrivals/weekly/
+
           # 変更があるときだけ add/commit/push
-          if ! git diff --quiet -- docs/new-arrivals/weekly.atom ; then
-            git add docs/new-arrivals/weekly.atom
-            git add docs/new-arrivals/weekly/
+          if ! git diff --quiet --cached ; then
             git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
             git push
+            echo "committed=true" >> $GITHUB_OUTPUT
+          else
+            echo "committed=false" >> $GITHUB_OUTPUT
           fi
 
   export_unique_urls:
@@ -130,7 +135,8 @@ jobs:
     if: |
       always() &&
       needs.filter_new_arrivals.result != 'failure' &&
-      needs.filter_new_arrivals.result != 'cancelled'
+      needs.filter_new_arrivals.result != 'cancelled' &&
+      needs.filter_new_arrivals.outputs.committed == 'true'
     steps:
       - name: Checkout github-trending-feeds
         uses: actions/checkout@v4
@@ -164,9 +170,10 @@ jobs:
           git config user.email github-actions@github.com
           git pull
 
+          git add urls-weekly.txt
+
           # 変更があるときだけ add/commit/push
-          if ! git diff --quiet -- urls-weekly.txt ; then
-            git add urls-weekly.txt
+          if ! git diff --quiet --cached ; then
             git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
             git push
           fi

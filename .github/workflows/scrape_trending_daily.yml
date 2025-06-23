@@ -92,7 +92,7 @@ jobs:
           if [ ! -f urls-daily.txt ]; then
             touch urls-daily.txt
           fi
-      - name: Unique links
+      - name: Extract new arrivals
         working-directory: github-trending-feeds
         run: |
           uv run src/filter_new_arrivals.py \
