@@ -59,3 +59,114 @@ jobs:
           git add ./docs/feeds/
           git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
           git push
+
+  filter_new_arrivals:
+    runs-on: ubuntu-latest
+    needs:
+      - scrape_github_trending
+    if: |
+      always() &&
+      needs.scrape_github_trending.result != 'failure' &&
+      needs.scrape_github_trending.result != 'cancelled'
+    steps:
+      - name: Checkout github-trending-feeds
+        uses: actions/checkout@v4
+        with:
+          path: github-trending-feeds
+      - name: Checkout github-trending-feeds-data
+        uses: actions/checkout@v4
+        with:
+          repository: aazw/github-trending-feeds-data
+          token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
+          path: github-trending-feeds-data
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          working-directory: github-trending-feeds
+      - name: Install packages
+        working-directory: github-trending-feeds
+        run: uv sync --link-mode=copy --frozen
+      - name: Create urls-weekly.txt if not exists
+        working-directory: github-trending-feeds-data
+        run: |
+          if [ ! -f urls-weekly.txt ]; then
+            touch urls-weekly.txt
+          fi
+      - name: Unique links
+        working-directory: github-trending-feeds
+        run: |
+          uv run src/filter_new_arrivals.py \
+            --dir ../github-trending-feeds-data/docs/feeds \
+            --period weekly \
+            --urls ../github-trending-feeds-data/urls-weekly.txt \
+            --format atom \
+            --output ../github-trending-feeds-data/docs/new-arrivals/weekly.atom
+      - name: Copy atom with date
+        working-directory: github-trending-feeds-data
+        run: |
+          d=$(date -I)
+
+          mkdir -p "docs/new-arrivals/weekly"
+          cp docs/new-arrivals/weekly.atom docs/new-arrivals/weekly/weekly-${d}.atom
+      - name: Create new commit
+        working-directory: github-trending-feeds-data
+        run: |
+          git config user.name  github-actions
+          git config user.email github-actions@github.com
+          git pull
+
+          # 変更があるときだけ add/commit/push
+          if ! git diff --quiet -- docs/new-arrivals/weekly.atom ; then
+            git add docs/new-arrivals/weekly.atom
+            git add docs/new-arrivals/weekly/
+            git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
+            git push
+          fi
+
+  export_unique_urls:
+    runs-on: ubuntu-latest
+    needs:
+      - filter_new_arrivals
+    if: |
+      always() &&
+      needs.filter_new_arrivals.result != 'failure' &&
+      needs.filter_new_arrivals.result != 'cancelled'
+    steps:
+      - name: Checkout github-trending-feeds
+        uses: actions/checkout@v4
+        with:
+          path: github-trending-feeds
+      - name: Checkout github-trending-feeds-data
+        uses: actions/checkout@v4
+        with:
+          repository: aazw/github-trending-feeds-data
+          token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
+          path: github-trending-feeds-data
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          working-directory: github-trending-feeds
+      - name: Install packages
+        working-directory: github-trending-feeds
+        run: uv sync --link-mode=copy --frozen
+      - name: Update unique links
+        working-directory: github-trending-feeds
+        run: |
+          uv run src/export_unique_urls.py \
+            --dir ../github-trending-feeds-data/docs/feeds \
+            --output ../github-trending-feeds-data/urls-weekly.txt \
+            --pattern "weekly.atom" \
+            --incremental
+      - name: Create new commit
+        working-directory: github-trending-feeds-data
+        run: |
+          git config user.name  github-actions
+          git config user.email github-actions@github.com
+          git pull
+
+          # 変更があるときだけ add/commit/push
+          if ! git diff --quiet -- urls-weekly.txt ; then
+            git add urls-weekly.txt
+            git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
+            git push
+          fi
