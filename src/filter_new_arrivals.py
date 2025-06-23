@@ -1,13 +1,13 @@
 import sys
 import logging
-from pathlib import Path
-import xml.etree.ElementTree as ET
-from typing import Iterator
 import datetime
 import re
+from pathlib import Path
+from typing import Iterator
 from urllib.parse import unquote
 
 import click
+from lxml import etree
 
 
 def setup_logging(level: int = logging.INFO) -> logging.Logger:
@@ -38,7 +38,8 @@ def iter_atom_paths(root: Path, atomName: str) -> Iterator[Path]:
         yield from root.rglob(atomName, recurse_symlinks=False)
     except Exception as e:
         appLogger.error(f"Error iterating atom paths in {root}: {e}")
-        return
+        appLogger.error("app failed")
+        sys.exit(1)
 
 
 @click.command()
@@ -98,10 +99,12 @@ def main(
     # 引数検証: --dir または --atom のいずれかが必要
     if not dirPath and not atomPath:
         appLogger.error("Either --dir or --atom must be specified")
+        appLogger.error("app failed")
         sys.exit(1)
 
     if dirPath and atomPath:
         appLogger.error("Cannot specify both --dir and --atom options")
+        appLogger.error("app failed")
         sys.exit(1)
 
     appLogger.info(f"command-line argument: --dir = {dirPath}")
@@ -121,21 +124,22 @@ def main(
                 if not url:
                     continue
                 existingURLs.add(url)
-    except FileNotFoundError:
-        appLogger.warning(f"URLs file not found: {urlsPath}, treating as empty")
     except PermissionError as e:
         appLogger.error(f"Permission denied reading {urlsPath}: {e}")
+        appLogger.error("app failed")
         sys.exit(1)
     except OSError as e:
         appLogger.error(f"OS error reading {urlsPath}: {e}")
+        appLogger.error("app failed")
         sys.exit(1)
     except Exception as e:
         appLogger.error(f"Unexpected error reading {urlsPath}: {e}")
+        appLogger.error("app failed")
         sys.exit(1)
 
     # atomファイルの処理
     newUrls: set[str] = set()
-    newEntries: dict[str, ET.Element] = {}
+    newEntries: dict[str, etree._Element] = {}
 
     atom_paths: list[Path] = []
     if dirPath:
@@ -148,19 +152,20 @@ def main(
     for atom_path in atom_paths:
         appLogger.debug(f"reading {atom_path}")
 
-        root: ET.Element | None = None
+        root: etree._Element | None = None
         try:
             # Parse XML with security settings
-            parser = ET.XMLParser()
-            parser.parser.DefaultHandler = lambda _: None  # Disable DTD processing
+            parser = etree.XMLParser()
 
-            root = ET.parse(atom_path, parser).getroot()
-        except ET.ParseError as e:
+            root = etree.parse(atom_path, parser).getroot()
+        except etree.XMLSyntaxError as e:
             appLogger.warning(f"XML parse error in {atom_path}: {e}")
-            continue
+            appLogger.error("app failed")
+            sys.exit(1)
         except Exception as e:
             appLogger.error(f"Unexpected error reading {atom_path}: {e}")
-            continue
+            appLogger.error("app failed")
+            sys.exit(1)
 
         # 言語情報抽出
         id_element = root.find("a:id", NS)
@@ -204,8 +209,9 @@ def main(
                                 )
                         newEntries[href] = entry
         except Exception as e:
-            appLogger.warning(f"Error processing entries in {atom_path}: {e}")
-            continue
+            appLogger.error(f"Error processing entries in {atom_path}: {e}")
+            appLogger.error("app failed")
+            sys.exit(1)
 
     appLogger.info(f"{len(newUrls)} urls is new")
 
@@ -220,12 +226,15 @@ def main(
                         f.write(url + "\n")
             except PermissionError as e:
                 appLogger.error(f"Permission denied writing to {outputPath}: {e}")
+                appLogger.error("app failed")
                 sys.exit(1)
             except OSError as e:
                 appLogger.error(f"OS error writing to {outputPath}: {e}")
+                appLogger.error("app failed")
                 sys.exit(1)
             except Exception as e:
                 appLogger.error(f"Unexpected error writing to {outputPath}: {e}")
+                appLogger.error("app failed")
                 sys.exit(1)
         else:
             for url in sorted(newUrls):
@@ -240,52 +249,52 @@ def main(
         updated = datetime.datetime.now(datetime.timezone.utc)
 
         ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
-        ET.register_namespace("", ATOM_NAMESPACE)
-        root = ET.Element(f"{{{ATOM_NAMESPACE}}}feed", attrib={"xml:lang": "en"})
+        etree.register_namespace("", ATOM_NAMESPACE)
+        root = etree.Element(f"{{{ATOM_NAMESPACE}}}feed", attrib={"xml:lang": "en"})
 
         # id
-        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}id").text = atom_advertise_url
+        etree.SubElement(root, f"{{{ATOM_NAMESPACE}}}id").text = atom_advertise_url
 
         # title
-        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}title").text = atom_title
+        etree.SubElement(root, f"{{{ATOM_NAMESPACE}}}title").text = atom_title
 
         # link (self)
-        ET.SubElement(
+        etree.SubElement(
             root,
             f"{{{ATOM_NAMESPACE}}}link",
             attrib={"href": atom_advertise_url, "rel": "self"},
         )
 
         # link (alternate)
-        ET.SubElement(
+        etree.SubElement(
             root,
             f"{{{ATOM_NAMESPACE}}}link",
             attrib={"href": atom_advertise_alt_url, "rel": "alternate"},
         )
 
         # icon
-        ET.SubElement(
+        etree.SubElement(
             root, f"{{{ATOM_NAMESPACE}}}icon"
         ).text = "https://github.githubassets.com/favicons/favicon.svg"
 
         # updated
-        ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(
+        etree.SubElement(root, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(
             timespec="seconds"
         )
 
         # author
-        author = ET.SubElement(root, f"{{{ATOM_NAMESPACE}}}author")
-        ET.SubElement(author, f"{{{ATOM_NAMESPACE}}}name").text = atom_author
+        author = etree.SubElement(root, f"{{{ATOM_NAMESPACE}}}author")
+        etree.SubElement(author, f"{{{ATOM_NAMESPACE}}}name").text = atom_author
 
         # entries
         for entry in newEntries.values():
             root.append(entry)
 
         # pretty print
-        ET.indent(root)
+        etree.indent(root)
 
         # get xml
-        feed_xml = ET.tostring(root, encoding="utf-8", xml_declaration=True).decode(
+        feed_xml = etree.tostring(root, encoding="utf-8", xml_declaration=True).decode(
             "utf-8"
         )
 
@@ -298,12 +307,15 @@ def main(
                     f.write(feed_xml)
             except PermissionError as e:
                 appLogger.error(f"Permission denied writing to {outputPath}: {e}")
+                appLogger.error("app failed")
                 sys.exit(1)
             except OSError as e:
                 appLogger.error(f"OS error writing to {outputPath}: {e}")
+                appLogger.error("app failed")
                 sys.exit(1)
             except Exception as e:
                 appLogger.error(f"Unexpected error writing to {outputPath}: {e}")
+                appLogger.error("app failed")
                 sys.exit(1)
         else:
             print(feed_xml)

@@ -2,15 +2,15 @@ import sys
 import traceback
 import logging
 import datetime
-import xml.etree.ElementTree as ET
+import warnings
 from pathlib import Path
 from urllib3.util.retry import Retry
-import warnings
 from enum import Enum
 
 import click
 import dateparser
 import requests
+from lxml import etree
 from requests.adapters import HTTPAdapter
 from requests.exceptions import (  # https://requests.readthedocs.io/en/latest/_modules/requests/exceptions/
     RequestException,
@@ -28,21 +28,24 @@ from bs4 import BeautifulSoup
 def setup_logging(level: int = logging.INFO) -> logging.Logger:
     """Setup logging with proper handler management."""
     logger = logging.getLogger(__name__)
-    
+
     # Avoid duplicate handlers
     if logger.handlers:
         return logger
-    
-    formatter = logging.Formatter("%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s")
-    
+
+    formatter = logging.Formatter(
+        "%(asctime)s - %(pathname)s:%(lineno)d - %(levelname)s - %(message)s"
+    )
+
     handler = logging.StreamHandler(sys.stdout)
     handler.setLevel(level)
     handler.setFormatter(formatter)
-    
+
     logger.addHandler(handler)
     logger.setLevel(level)
-    
+
     return logger
+
 
 appLogger = setup_logging()
 
@@ -58,6 +61,7 @@ class ReturnCode(Enum):
     HTTP_500_ERROR = 16
     HTTP_ERROR = 17
     REQUESTS_ERROR = 18
+    DATE_PARSE_ERROR = 21
     FILE_NOT_FOUND_ERROR = 31
     IS_DIRECTORY_ERROR = 32
     PERMISSION_ERROR = 33
@@ -66,12 +70,24 @@ class ReturnCode(Enum):
 
 @click.command()
 @click.option("--language", type=str, required=True, help="")
-@click.option("--period", type=click.Choice(["daily", "weekly", "monthly"], case_sensitive=True), required=True, help="")
+@click.option(
+    "--period",
+    type=click.Choice(["daily", "weekly", "monthly"], case_sensitive=True),
+    required=True,
+    help="",
+)
 @click.option("--output", type=str, required=False, help="")
 @click.option("--atom-updated-date", type=str, required=False, help="")
 @click.option("--verbose", is_flag=True, default=False, show_default=True, help="")
 @click.option("--timeout", type=int, default=10, hidden=True, help="")
-def main(language: str, period: str, output: str, atom_updated_date: str, verbose: bool, timeout: int):
+def main(
+    language: str,
+    period: str,
+    output: str,
+    atom_updated_date: str,
+    verbose: bool,
+    timeout: int,
+):
     appLogger.info("start app")
     appLogger.info(f"command-line argument: --language = {language}")
     appLogger.info(f"command-line argument: --period = {period}")
@@ -108,7 +124,9 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
     appLogger.info(f"generated: atom_author = {atom_author}")
 
     # atom_advertise_url
-    atom_advertise_url = f"https://aazw.github.io/github-trending-feeds/feeds/{language}/{period}.atom"
+    atom_advertise_url = (
+        f"https://aazw.github.io/github-trending-feeds/feeds/{language}/{period}.atom"
+    )
     appLogger.info(f"generated: atom_advertise_url = {atom_advertise_url}")
 
     # atom_advertise_alt_url
@@ -121,11 +139,17 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
         try:
             parsed_date = dateparser.parse(atom_updated_date)
             if parsed_date is None:
-                appLogger.warning(f"Failed to parse atom_updated_date: {atom_updated_date}, using current time")
+                appLogger.warning(
+                    f"Failed to parse atom_updated_date: {atom_updated_date}, using current time"
+                )
             else:
                 updated = parsed_date
         except Exception as e:
-            appLogger.warning(f"Error parsing atom_updated_date: {atom_updated_date}, using current time: {e}")
+            appLogger.error(
+                f"Error parsing atom_updated_date: {atom_updated_date}: {e}"
+            )
+            appLogger.error("app failed")
+            sys.exit(ReturnCode.DATE_PARSE_ERROR.value)
 
     appLogger.info(f"generated: updated = {updated}")
 
@@ -134,7 +158,9 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
     res = None
     try:
         # https://qiita.com/toshitanian/items/c28a65fe2f32884e067c
-        retries = Retry(total=5, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
+        retries = Retry(
+            total=5, backoff_factor=1, status_forcelist=[500, 502, 503, 504]
+        )
         s = requests.Session()
         s.mount("https://", HTTPAdapter(max_retries=retries))
         s.mount("http://", HTTPAdapter(max_retries=retries))
@@ -202,7 +228,7 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
         appLogger.error("app failed")
         sys.exit(ReturnCode.UNKNOWN_ERROR.value)
 
-    feeds: list[dict[str, str | None]] = []
+    feeds: list[dict[str, str]] = []
     for item in reversed(items):
         try:
             # get repository path with error handling
@@ -210,21 +236,24 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
             if h2_link is None:
                 appLogger.warning("Repository link not found in item, skipping")
                 continue
-            
-            repository_path = h2_link.get("href")
-            if repository_path is None:
+
+            repository_path_attr = h2_link.get("href")
+            if repository_path_attr is None or not isinstance(
+                repository_path_attr, str
+            ):
                 appLogger.warning("Repository href not found in link, skipping")
                 continue
-            
+            repository_path = repository_path_attr
+
             repository_url = f"https://github.com{repository_path}"
 
             # get description with error handling
-            repository_description = None
+            repository_description = ""
             p = item.select_one("p")
             if p:
-                repository_description = p.get_text()
-                if repository_description:
-                    repository_description = repository_description.strip()
+                desc_text = p.get_text()
+                if desc_text:
+                    repository_description = desc_text.strip()
 
             feeds.append(
                 {
@@ -234,8 +263,9 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
                 }
             )
         except Exception as e:
-            appLogger.warning(f"Error processing repository item: {e}")
-            continue
+            appLogger.error(f"Error processing repository item: {e}")
+            appLogger.error("app failed")
+            sys.exit(ReturnCode.UNKNOWN_ERROR.value)
 
     feeds = sorted(feeds, key=lambda x: x["repository_url"])
 
@@ -301,30 +331,39 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
 
     # new feed
     ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
-    ET.register_namespace("", ATOM_NAMESPACE)
-    feed = ET.Element(f"{{{ATOM_NAMESPACE}}}feed", attrib={"xml:lang": "en"})
+    etree.register_namespace("", ATOM_NAMESPACE)
+    feed = etree.Element(f"{{{ATOM_NAMESPACE}}}feed")
+    feed.set("{http://www.w3.org/XML/1998/namespace}lang", "en")
 
     # id
-    ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}id").text = atom_advertise_url
+    etree.SubElement(feed, f"{{{ATOM_NAMESPACE}}}id").text = atom_advertise_url
 
     # title
-    ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}title").text = atom_title
+    etree.SubElement(feed, f"{{{ATOM_NAMESPACE}}}title").text = atom_title
 
     # link (self)
-    ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": atom_advertise_url, "rel": "self"})
+    etree.SubElement(
+        feed, f"{{{ATOM_NAMESPACE}}}link", href=atom_advertise_url, rel="self"
+    )
 
     # link (alternate)
-    ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": atom_advertise_alt_url, "rel": "alternate"})
+    etree.SubElement(
+        feed, f"{{{ATOM_NAMESPACE}}}link", href=atom_advertise_alt_url, rel="alternate"
+    )
 
     # icon
-    ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}icon").text = "https://github.githubassets.com/favicons/favicon.svg"
+    etree.SubElement(
+        feed, f"{{{ATOM_NAMESPACE}}}icon"
+    ).text = "https://github.githubassets.com/favicons/favicon.svg"
 
     # updated
-    ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(timespec="seconds")
+    etree.SubElement(feed, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(
+        timespec="seconds"
+    )
 
     # author
-    author = ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}author")
-    ET.SubElement(author, f"{{{ATOM_NAMESPACE}}}name").text = atom_author
+    author = etree.SubElement(feed, f"{{{ATOM_NAMESPACE}}}author")
+    etree.SubElement(author, f"{{{ATOM_NAMESPACE}}}name").text = atom_author
 
     # entries
     for item in feeds:
@@ -333,29 +372,35 @@ def main(language: str, period: str, output: str, atom_updated_date: str, verbos
         repository_description = item["repository_description"]
 
         # new entry
-        entry = ET.SubElement(feed, f"{{{ATOM_NAMESPACE}}}entry")
+        entry = etree.SubElement(feed, f"{{{ATOM_NAMESPACE}}}entry")
 
         # id
-        ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}id").text = f"{repository_url}#{int(updated.timestamp())}"
+        etree.SubElement(
+            entry, f"{{{ATOM_NAMESPACE}}}id"
+        ).text = f"{repository_url}#{int(updated.timestamp())}"
 
         # title
-        ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}title").text = repository_url
+        etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}title").text = repository_url
 
         # link
-        ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}link", attrib={"href": repository_url})
+        etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}link", href=repository_url)
 
         # updated
-        ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}updated").text = updated.isoformat(timespec="seconds")
+        etree.SubElement(
+            entry, f"{{{ATOM_NAMESPACE}}}updated"
+        ).text = updated.isoformat(timespec="seconds")
 
         # content
-        content = ET.SubElement(entry, f"{{{ATOM_NAMESPACE}}}content", attrib={"type": "text"})
+        content = etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}content", type="text")
         content.text = repository_description
 
     # pretty print
-    ET.indent(feed)
+    etree.indent(feed)
 
     # get xml
-    feed_xml = ET.tostring(feed, encoding="utf-8", xml_declaration=True).decode("utf-8")
+    feed_xml = etree.tostring(feed, encoding="utf-8", xml_declaration=True).decode(
+        "utf-8"
+    )
 
     # write to stdout
     if verbose:

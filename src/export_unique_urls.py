@@ -35,6 +35,7 @@ def iter_atom_paths(root: Path, pattern: str) -> Iterator[Path]:
         yield from root.rglob(pattern, recurse_symlinks=False)
     except Exception as e:
         appLogger.error(f"Error iterating paths in {root} with pattern {pattern}: {e}")
+        appLogger.error("app failed")
         sys.exit(1)
 
 
@@ -83,7 +84,9 @@ def main(dirPath: Path, outputPath: Path, pattern: str, incremental: bool) -> No
             with outputPath.open("r", encoding="utf-8") as f:
                 existing_urls = {line.strip() for line in f if line.strip()}
                 urls.update(existing_urls)
-                appLogger.info(f"loaded {len(existing_urls)} existing URLs from {outputPath}")
+                appLogger.info(
+                    f"loaded {len(existing_urls)} existing URLs from {outputPath}"
+                )
         except Exception as e:
             appLogger.error(f"Error reading existing URLs from {outputPath}: {e}")
             sys.exit(1)
@@ -102,10 +105,12 @@ def main(dirPath: Path, outputPath: Path, pattern: str, incremental: bool) -> No
             root = etree.parse(str(atom_path), parser)
         except etree.XMLSyntaxError as e:
             appLogger.warning(f"XML parse error in {atom_path}: {e}")
-            continue
+            appLogger.error("app failed")
+            sys.exit(1)
         except Exception as e:
             appLogger.error(f"Unexpected error reading {atom_path}: {e}")
-            continue
+            appLogger.error("app failed")
+            sys.exit(1)
 
         try:
             for link in root.xpath(".//a:link", namespaces=NS):
@@ -117,7 +122,8 @@ def main(dirPath: Path, outputPath: Path, pattern: str, incremental: bool) -> No
                     urls.add(href)
         except Exception as e:
             appLogger.warning(f"Error processing links in {atom_path}: {e}")
-            continue
+            appLogger.error("app failed")
+            sys.exit(1)
 
     try:
         # Ensure parent directory exists

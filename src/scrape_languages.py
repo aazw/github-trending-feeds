@@ -1,3 +1,4 @@
+import sys
 import re
 import logging
 from typing import List, Match, Optional, Pattern, Union, cast
@@ -47,7 +48,8 @@ def scrape_languages(sort: bool, output: Optional[Path], incremental: bool) -> N
 
         if not filter_list_div or not hasattr(filter_list_div, "find_all"):
             logging.error("Could not find data-filter-list div")
-            raise SystemExit(1)
+            logging.error("app failed")
+            sys.exit(1)
 
         # Find all a tags with href starting with "/trending/"
         href_pattern: Pattern[str] = re.compile(r"^/trending/")
@@ -107,8 +109,12 @@ def scrape_languages(sort: bool, output: Optional[Path], incremental: bool) -> N
 
     except requests.RequestException as e:
         logging.error(f"Error fetching URL: {e}")
+        logging.error("app failed")
+        sys.exit(1)
     except Exception as e:
         logging.error(f"Error parsing content: {e}")
+        logging.error("app failed")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

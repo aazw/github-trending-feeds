@@ -1,8 +1,7 @@
-#!/usr/bin/env python3
-
-import click
 from pathlib import Path
 from urllib.parse import unquote
+
+import click
 
 
 def read_languages(languages_file: Path) -> list[str]:
