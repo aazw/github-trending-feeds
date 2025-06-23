@@ -331,7 +331,6 @@ def main(
 
     # new feed
     ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
-    etree.register_namespace("", ATOM_NAMESPACE)
     feed = etree.Element(f"{{{ATOM_NAMESPACE}}}feed")
     feed.set("{http://www.w3.org/XML/1998/namespace}lang", "en")
 

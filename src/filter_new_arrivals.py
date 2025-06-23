@@ -249,8 +249,8 @@ def main(
         updated = datetime.datetime.now(datetime.timezone.utc)
 
         ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
-        etree.register_namespace("", ATOM_NAMESPACE)
-        root = etree.Element(f"{{{ATOM_NAMESPACE}}}feed", attrib={"xml:lang": "en"})
+        root = etree.Element(f"{{{ATOM_NAMESPACE}}}feed")
+        root.set("{http://www.w3.org/XML/1998/namespace}lang", "en")
 
         # id
         etree.SubElement(root, f"{{{ATOM_NAMESPACE}}}id").text = atom_advertise_url
