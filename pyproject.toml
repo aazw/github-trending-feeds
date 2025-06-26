@@ -7,7 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
   "beautifulsoup4==4.13.4",
   "click==8.2.1",
-  "dateparser==1.2.1",
+  "dateparser==1.2.2",
   "lxml>=5.4.0",
   "requests==2.32.4",
   "types-lxml>=2025.3.30",
