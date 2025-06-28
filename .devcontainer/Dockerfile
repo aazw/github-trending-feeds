@@ -37,6 +37,7 @@ ARG OTHER_YQ_VERSION=4.45.4
 ARG OTHER_XQ_VERSION=1.3.0
 ARG OTHER_TAPLO_VERSION=0.10.0
 ARG OTHER_SHELLCHECK_VERSION=v0.10.0
+ARG OTHER_RIPGREP_VERSION=14.1.1
 
 # ##########################################################################################
 # builder images
@@ -248,6 +249,17 @@ RUN curl -fsSL -o /shellcheck.tar.xz https://github.com/koalaman/shellcheck/rele
     && rm /shellcheck.tar.xz \
     && rm -rf /shellcheck-${OTHER_SHELLCHECK_VERSION} \
     && shellcheck --version
+
+# ripgrep
+# https://github.com/BurntSushi/ripgrep
+ARG OTHER_RIPGREP_VERSION
+RUN mkdir -p /ripgrep \
+    && curl -fsSL -o /ripgrep/ripgrep.tar.gz -L https://github.com/BurntSushi/ripgrep/releases/download/${OTHER_RIPGREP_VERSION}/ripgrep-${OTHER_RIPGREP_VERSION}-$(uname -m)-unknown-linux-gnu.tar.gz \
+    && cd /ripgrep \
+    && tar -xvzf ripgrep.tar.gz \
+    && mv ripgrep-${OTHER_RIPGREP_VERSION}-$(uname -m)-unknown-linux-gnu/rg /usr/local/bin/ \
+    && chmod +x /usr/local/bin/rg \
+    && rm -rf /ripgrep
 
 # add vscode user
 # https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user#_creating-a-nonroot-user
