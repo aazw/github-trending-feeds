@@ -202,6 +202,13 @@ def main(
                             and id_element.text is not None
                             and language is not None
                         ):
+                            # タイトルに "[Go] " のようなprefixをつける
+                            title = entry.find("a:title", NS)
+                            if title is not None:
+                                title.text = f"[{unquote(language)}] " + (
+                                    title.text or ""
+                                )
+
                             content = entry.find("a:content", NS)
                             if content is not None:
                                 content.text = f"[{unquote(language)}] " + (

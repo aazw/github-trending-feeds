@@ -376,10 +376,10 @@ def main(
         # id
         etree.SubElement(
             entry, f"{{{ATOM_NAMESPACE}}}id"
-        ).text = f"{repository_url}#{int(updated.timestamp())}"
+        ).text = f"urn:github:{repository_url.replace('https://github.com/', '').replace('/', ':')}:{int(updated.timestamp())}"
 
         # title
-        etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}title").text = repository_url
+        etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}title").text = repository_url.replace("https://github.com/", "")
 
         # link
         etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}link", href=repository_url)
@@ -390,8 +390,14 @@ def main(
         ).text = updated.isoformat(timespec="seconds")
 
         # content
-        content = etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}content", type="text")
-        content.text = repository_description
+        content = etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}content", type="html")
+        content_html = f"""<div>
+<div><strong>URL:</strong> <a href="{repository_url}">{repository_url}</a></div>
+<div><strong>Language:</strong> {language}</div>
+<hr>
+<div>{repository_description}</div>
+</div>"""
+        content.text = content_html
 
     # pretty print
     etree.indent(feed)

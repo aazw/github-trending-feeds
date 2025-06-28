@@ -141,7 +141,7 @@ def generate_html(languages: list[str]) -> str:
     <h2>GitHub Trending Feeds</h2>
     <div class="info-section">
       <div>
-        <strong>Source:</strong>
+        <strong>Datasource:</strong>
         <a href="https://github.com/trending">https://github.com/trending</a>
       </div>
       <div>
@@ -151,6 +151,10 @@ def generate_html(languages: list[str]) -> str:
       <div>
         <strong>New arrivals:</strong>
         <a href="./new-arrivals/daily.atom" class="feed-link">Daily</a>
+        &nbsp;
+        <a href="./new-arrivals/weekly.atom" class="feed-link">Weekly</a>
+        &nbsp;
+        <a href="./new-arrivals/monthly.atom" class="feed-link">Monthly</a>
       </div>
     </div>
     <table>
