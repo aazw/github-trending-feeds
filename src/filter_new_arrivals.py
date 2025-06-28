@@ -208,12 +208,6 @@ def main(
                                 title.text = f"[{unquote(language)}] " + (
                                     title.text or ""
                                 )
-
-                            content = entry.find("a:content", NS)
-                            if content is not None:
-                                content.text = f"[{unquote(language)}] " + (
-                                    content.text or ""
-                                )
                         newEntries[href] = entry
         except Exception as e:
             appLogger.error(f"Error processing entries in {atom_path}: {e}")
