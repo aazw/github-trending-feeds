@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
           path: github-trending-feeds-data
       - name: Install uv
-        uses: astral-sh/setup-uv@v6
+        uses: astral-sh/setup-uv@v7
         with:
           working-directory: github-trending-feeds
       - name: Install packages
