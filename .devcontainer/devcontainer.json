@@ -38,6 +38,7 @@
   "remoteEnv": {
     "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}",
     "TZ": "Asia/Tokyo",
+    "TASK_X_ENV_PRECEDENCE": "1",
     "UV_PROJECT_ENVIRONMENT": "${containerWorkspaceFolder}/.venv"
   },
   "runArgs": [
