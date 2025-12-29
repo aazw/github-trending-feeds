@@ -3,9 +3,10 @@
     "emeraldwalk.runonsave",
     "ms-azuretools.vscode-containers",
     "ms-azuretools.vscode-docker",
+    "tamasfe.even-better-toml",
     "ms-python.python",
     "ms-python.black-formatter",
     "ms-python.isort",
-    "tamasfe.even-better-toml"
+    "charliermarsh.ruff"
   ]
 }

@@ -12,3 +12,6 @@ dependencies = [
   "requests==2.32.4",
   "types-lxml>=2025.3.30",
 ]
+
+[dependency-groups]
+dev = ["ruff>=0.14.10"]
