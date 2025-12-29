@@ -21,11 +21,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout github-trending-feeds
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: github-trending-feeds
       - name: Checkout github-trending-feeds-data
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: aazw/github-trending-feeds-data
           token: ${{ secrets.TOKEN_TO_PUSH_TO_GITHUB_TRENDING_FEEDS_DATA }}
