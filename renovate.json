@@ -17,8 +17,12 @@
       "groupName": "githubactions"
     },
     {
-      "matchFileNames": ["pyproject.toml", ".python-version", "uv.lock"],
+      "matchFileNames": ["pyproject.toml", "uv.lock"],
       "groupName": "python"
+    },
+    {
+      "matchFileNames": [".python-version"],
+      "groupName": "python-runtime"
     }
   ]
 }
