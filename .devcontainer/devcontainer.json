@@ -1,6 +1,6 @@
 {
   "name": "vsc-github-trending-feeds",
-  "image": "aazw/devcontainers-devbox-python:2",
+  "image": "aazw/devcontainers-devbox-python:5",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
       "version": "latest",
