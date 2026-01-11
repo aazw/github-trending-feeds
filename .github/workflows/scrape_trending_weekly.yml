@@ -65,7 +65,7 @@ jobs:
           git config user.name  github-actions
           git config user.email github-actions@github.com
           git add ./docs/feeds/
-          git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
+          git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')"
           git push
 
   filter_new_arrivals:
@@ -132,7 +132,7 @@ jobs:
 
           # 変更があるときだけ add/commit/push
           if ! git diff --quiet --cached ; then
-            git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
+            git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')"
             git push
           fi
 
@@ -176,7 +176,7 @@ jobs:
             --incremental
       - name: Create new commit
         working-directory: github-trending-feeds-data
-        run: |
+        run: |-
           git config user.name  github-actions
           git config user.email github-actions@github.com
           git pull
@@ -185,6 +185,6 @@ jobs:
 
           # 変更があるときだけ add/commit/push
           if ! git diff --quiet --cached ; then
-            git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')" 
+            git commit -m "add/update the file about weekly trending of github at $(date '+%Y-%m-%dT%H:%M:%S%z')"
             git push
           fi

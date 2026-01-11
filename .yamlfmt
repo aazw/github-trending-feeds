@@ -1,3 +1,4 @@
+# https://github.com/google/yamlfmt/blob/main/docs/config-file.md
 formatter:
   # 空行を1行に圧縮 (この定義が無いと空行自体圧縮削除される)
   retain_line_breaks_single: true
@@ -5,3 +6,10 @@ formatter:
   # <<: などアンカー・エイリアス利用時、 !!merge みたいなタグを付与しないようにする設定
   drop_merge_tag: true
 
+  # hoge: |
+  #   echo "a"
+  #   echo "b"
+  # みたいなものを1行にしようとするのを防ぐ
+  # https://github.com/google/yamlfmt/issues/185#issuecomment-2255900102
+  trim_trailing_whitespace: true
+  scan_folded_as_literal: true
