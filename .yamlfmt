@@ -13,3 +13,4 @@ formatter:
   # https://github.com/google/yamlfmt/issues/185#issuecomment-2255900102
   trim_trailing_whitespace: true
   scan_folded_as_literal: true
+
