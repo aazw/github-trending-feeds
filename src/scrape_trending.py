@@ -379,7 +379,9 @@ def main(
         ).text = f"urn:github:{repository_url.replace('https://github.com/', '').replace('/', ':')}:{int(updated.timestamp())}"
 
         # title
-        etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}title").text = repository_url.replace("https://github.com/", "")
+        etree.SubElement(
+            entry, f"{{{ATOM_NAMESPACE}}}title"
+        ).text = repository_url.replace("https://github.com/", "")
 
         # link
         etree.SubElement(entry, f"{{{ATOM_NAMESPACE}}}link", href=repository_url)

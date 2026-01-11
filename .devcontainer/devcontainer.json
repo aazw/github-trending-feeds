@@ -1,6 +1,6 @@
 {
-  "name": "vsc-github-trending-feeds",
-  "image": "aazw/devcontainers-devbox-python:1",
+  "name": "vsc-github-trending-feeds-${localWorkspaceFolderBasename}-${devcontainerId}",
+  "image": "aazw/devcontainers-devbox-python:5",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
       "version": "latest",
@@ -27,9 +27,11 @@
       }
     }
   },
+  // "workspaceMount": "source=${localWorkspaceFolder}/..,target=/workspaces,type=bind,consistency=cached",
+  // "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
   "mounts": [
     {
-      "source": "${localWorkspaceFolder}/.claude",
+      "source": "${localWorkspaceFolder}/.claude-home-cache",
       "target": "/home/vscode/.claude",
       "type": "bind"
     }
@@ -44,9 +46,9 @@
   },
   "runArgs": [
     "--name",
-    "vsc-github-trending-feeds",
+    "vsc-github-trending-feeds-${localWorkspaceFolderBasename}-${devcontainerId}",
     "--add-host",
     "host.docker.internal:host-gateway"
   ],
-  "postCreateCommand": "task uv_sync"
+  "postCreateCommand": "task init"
 }
