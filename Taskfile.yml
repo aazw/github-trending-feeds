@@ -32,7 +32,7 @@ tasks:
   fmt:
     dir: "{{ .TASKFILE_DIR }}"
     cmds:
-      - treefmt
+      - treefmt -vv
     silent: false
 
   uv_sync:
