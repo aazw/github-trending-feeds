@@ -9,27 +9,33 @@
   "customManagers": [],
   "ignorePaths": ["docs/**"],
   "packageRules": [
-    // Dockerfile のベースイメージ更新は最低経過時間を無効化
     {
+      // Dockerfile のベースイメージ更新は最低経過時間を無効化
       "matchManagers": ["dockerfile", "devcontainer"],
       "matchPackageNames": ["*"],
       "minimumReleaseAge": null
     },
     {
+      // devcontainer関連をまとめる
       "matchFileNames": [".devcontainer/**"],
       "groupName": "devcontainer"
     },
     {
+      // github actions関連をまとめる
       "matchFileNames": [".github/workflows/*.yaml"],
       "groupName": "githubactions"
     },
     {
+      // python/uv関連をまとめる
       "matchFileNames": ["pyproject.toml", "uv.lock"],
       "groupName": "python"
     },
     {
-      "matchFileNames": [".python-version"],
-      "groupName": "python-runtime"
+      // pythonそのものに関するものを1つにまとめる
+      "matchDepNames": ["python"],
+      "groupName": "python-runtime",
+      // major と non-major を同一PRに入れる
+      "separateMajorMinor": false
     }
   ]
 }
