@@ -1,7 +1,7 @@
 {
   // ${localWorkspaceFolderBasename} はgit worktreeを同階層同列運用する場合に操作中の対象の識別ができない問題に対応するためのもの
   "name": "vsc-github-trending-feeds-${localWorkspaceFolderBasename}-${devcontainerId}",
-  "image": "aazw/devcontainers-devbox-python:6",
+  "image": "aazw/devcontainers-devbox-python:7",
   "initializeCommand": "bash -lc 'mkdir -p \"${localWorkspaceFolder}/.devcontainer/.state/claude\" \"${localWorkspaceFolder}/.devcontainer/.state/codex\"'",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
